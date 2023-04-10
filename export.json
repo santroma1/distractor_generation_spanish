@@ -1,0 +1,456 @@
+{
+  "data": [
+    {
+      "context": "Sin embargo, durante este período, las principales figuras y artistas en la escena comenzaron a alejarse de la estética underground. En la prensa musical, la cada vez más esotérica escritura de publicaciones post-punk pronto comenzó a alienar sus lectores; Se estima que en varios años, NME sufrió la pérdida de la mitad de su circulación. Escritores como Paul Morley comenzaron a abogar por el \"brillo excesivo\" en lugar de las sensibilidades experimentales promovidas en los primeros años. La propia colaboración musical de Morley con el ingeniero Gary Langan y el programador J. J. Jeczalik, Art of Noise, intentaría llevar sonidos sampleados y electrónicos a la corriente pop. Una variedad de grupos más orientados al pop, incluyendo ABC, The Associates, Adam and the Ants y Bow Wow Wow Wow (estos dos últimos dirigidos por el ex manager de Sex Pistols Malcolm McLaren) surgieron en conjunto con el desarrollo del New Romantic. Enfatizando el glamour, la moda y el escapismo en distinción a la seriedad experimental de los primeros grupos post-punk, la escena orientada al club atrajo algunas sospechas de los habitantes del movimiento.",
+      "annotations": [
+        {
+          "question": "¿Qué enfatizó la escena orientada al club en lugar de la seriedad experimental de los primeros grupos post-punk?",
+          "choices": [
+            {
+              "text": "el glamour, la moda y el escapismo",
+              "start": 944,
+              "end": 978,
+              "type": "correct answer"
+            },
+            {
+              "text": "sonidos sampleados y electrónicos",
+              "start": 627,
+              "end": 660,
+              "type": "distractor"
+            },
+            {
+              "text": "la estética underground",
+              "start": 108,
+              "end": 131,
+              "type": "distractor"
+            },
+            {
+              "text": "as sensibilidades experimentales",
+              "start": 426,
+              "end": 458,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las plantas CSP comerciales se desarrollaron por primera vez en la década de 1980. Desde 1985 la instalación SEGS CSP de 354 MW, en el desierto de Mojave de California, es la planta de energía solar más grande del mundo. Otras grandes centrales CSP incluyen la central solar Solnova de 150 MW y la central solar Andasol de 100 MW, ambas en España. El Proyecto Solar Agua Caliente de 250 MW, en los Estados Unidos, y el Parque Solar Charanka de 221 MW en la India, son las plantas fotovoltaicas más grandes del mundo. Se están desarrollando proyectos solares superiores a 1 GW, pero la mayoría de los fotovoltaicos desplegados se encuentran en pequeños paneles de techo de menos de 5 kW, que están conectados en red utilizando medición neta y / o una tarifa de alimentación. En 2013, la energía solar generó menos del 1% de la electricidad total de la red.",
+      "annotations": [
+        {
+          "question": "¿Cuál es la capacidad de la planta de energía solar más grande del mundo?",
+          "choices": [
+            {
+              "text": "354 MW",
+              "start": 121,
+              "end": 127,
+              "type": "correct answer"
+            },
+            {
+              "text": "250 MW",
+              "start": 383,
+              "end": 389,
+              "type": "distractor"
+            },
+            {
+              "text": "1 GW",
+              "start": 571,
+              "end": 575,
+              "type": "distractor"
+            },
+            {
+              "text": "221 MW",
+              "start": 444,
+              "end": 450,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Clinton regresó en 1780 con 14.000 soldados. El general estadounidense Benjamin Lincoln fue atrapado y entregó toda su fuerza de 5.400 hombres después de una larga lucha, y el asedio de Charles Towne fue la mayor derrota estadounidense de la guerra. Varios estadounidenses que escaparon de la carnicería se unieron a otras milicias, incluidas las de Francis Marion, el \"Zorro del Pantano\"; Y Andrew Pickens. Los británicos mantuvieron el control de la ciudad hasta diciembre de 1782. Después de la partida de los británicos, el nombre de la ciudad fue cambiado oficialmente a Charleston en 1783.",
+      "annotations": [
+        {
+          "question": "¿Quién era el líder de las fuerzas estadounidenses que atacaban a Charles Towne?",
+          "choices": [
+            {
+              "text": "Benjamin Lincoln",
+              "start": 71,
+              "end": 87,
+              "type": "correct answer"
+            },
+            {
+              "text": "Francis Marion",
+              "start": 350,
+              "end": 364,
+              "type": "distractor"
+            },
+            {
+              "text": "Andrew Pickens",
+              "start": 392,
+              "end": 406,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En la primera mitad del siglo XX, los Juegos Olímpicos de Invierno se celebraron tres veces en lugares alpinos: Los Juegos Olímpicos de Invierno de 1924 en Chamonix, Francia; Los Juegos Olímpicos de Sankt Moritz 1928; Y los Juegos Olímpicos de Invierno de 1936 en Garmisch-Partenkirchen, Alemania. Durante la Segunda Guerra Mundial los juegos de invierno fueron cancelados pero después de ese tiempo los Juegos de Invierno se han celebrado en St. Moritz (1948), Cortina d 'Ampezzo (1956), Innsbruck (1964 y 1976) En 1930, el Lauberhorn Rennen (Carrera Lauberhorn), fue ejecutado por primera vez en el Lauberhorn por encima de Wengen; El igualmente exigente Hahnenkamm se realizó por primera vez en el mismo año en Kitzbühl, Austria. Ambas carreras continúan celebrándose cada enero en fines de semana sucesivos. El Lauberhorn es la carrera cuesta abajo más agotadora a 4,5 km (2,8 millas) y representa un peligro para los corredores que llegan a 130 km / h (81 mph) en cuestión de segundos de salir de la puerta de salida.",
+      "annotations": [
+        {
+          "question": "¿Dónde se celebraron los Juegos Olímpicos de Invierno en 1936?",
+          "choices": [
+            {
+              "text": "Kitzbühl, Austria",
+              "start": 714,
+              "end": 731,
+              "type": "distractor"
+            },
+            {
+              "text": "Garmisch-Partenkirchen, Alemania",
+              "start": 264,
+              "end": 296,
+              "type": "correct answer"
+            },
+            {
+              "text": "Chamonix, Francia",
+              "start": 156,
+              "end": 173,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Alta Edad Media fue un período de grandes movimientos religiosos. Además de las Cruzadas y las reformas monásticas, la gente trató de participar en nuevas formas de vida religiosa. Se fundaron nuevas órdenes monásticas, incluidos los cartujos y los cistercienses. Este último se expandió especialmente rápidamente en sus primeros años bajo la dirección de Bernardo de Claraval (m. 1153). Estas nuevas órdenes se formaron en respuesta a la sensación de laicidad que el monasticismo benedictino ya no cumplía con las necesidades de los laicos, que junto con aquellos que deseaban entrar en la vida religiosa querían un retorno al monacato más simple. También se alentó a las peregrinaciones religiosas. Antiguos lugares de peregrinación como Roma, Jerusalén y Compostela recibieron un número creciente de visitantes, y nuevos sitios como Monte Gargano y Bari saltó a la fama.",
+      "annotations": [
+        {
+          "question": "¿A qué orden monástica pertenecía Bernardo de Claraval?",
+          "choices": [
+            {
+              "text": "cistercienses",
+              "start": 252,
+              "end": 265,
+              "type": "correct answer"
+            },
+            {
+              "text": "cartujos",
+              "start": 237,
+              "end": 245,
+              "type": "distractor"
+            },
+            {
+              "text": "benedictino",
+              "start": 484,
+              "end": 495,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El cubismo comenzó entre 1907 y 1911. La pintura Les Demoiselles d 'Avignon de Pablo Picasso de 1907 ha sido a menudo considerada una obra proto-cubista. Las Casas de 1908 de Georges Braque en L 'Estaque (y obras relacionadas) llevaron al crítico Louis Vauxcelles a referirse a las bizarrerías cubiques (singularidades cúbicas). Gertrude Stein se refirió a los paisajes realizados por Picasso en 1909, como Reservoir at Horta de Ebro, como las primeras pinturas cubistas. La primera exposición colectiva organizada por los cubistas tuvo lugar en el Salon des Indépendants en París durante la primavera de 1911 en una habitación llamada 'Salle 41'; Incluía obras de Jean Metzinger, Albert Gleizes, Fernand Léger, Robert Delaunay y Henri Le Fauconnier, pero no se exhibieron obras de Picasso o Braque.",
+      "annotations": [
+        {
+          "question": "¿En la primavera de qué año apareció la primera exposición organizada por los cubistas?",
+          "choices": [
+            {
+              "text": "1911",
+              "start": 605,
+              "end": 609,
+              "type": "correct answer"
+            },
+            {
+              "text": "1908 ",
+              "start": 167,
+              "end": 172,
+              "type": "distractor"
+            },
+            {
+              "text": "1909",
+              "start": 396,
+              "end": 400,
+              "type": "distractor"
+            },
+            {
+              "text": "1907",
+              "start": 25,
+              "end": 29,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los nombramientos de la Orden del Imperio Británico se interrumpieron en los reinos de la Mancomunidad que establecieron un sistema nacional de honores y premios como la Orden de Australia, la Orden de Canadá y la Orden del Mérito de Nueva Zelanda. En muchos de estos sistemas, los diferentes niveles de premio y honor reflejan el sistema imperial que reemplazaron. Canadá, Australia y Nueva Zelanda tienen (en aumento de nivel de precedencia) Miembros, Oficiales y Compañeros a (en lugar de Comandantes de) sus respectivas órdenes, con ambos Australia y Nueva Zelanda teniendo Caballeros y Damas.",
+      "annotations": [
+        {
+          "question": "¿Quién fue suspendido en los reinos de la Commonwealth?",
+          "choices": [
+            {
+              "text": "la Orden del Imperio Británico",
+              "start": 21,
+              "end": 51,
+              "type": "correct answer"
+            },
+            {
+              "text": "la Orden de Australia",
+              "start": 167,
+              "end": 188,
+              "type": "distractor"
+            },
+            {
+              "text": "la Orden de Canadá",
+              "start": 190,
+              "end": 208,
+              "type": "distractor"
+            },
+            {
+              "text": "la Orden del Mérito de Nueva Zelanda",
+              "start": 211,
+              "end": 247,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Cuando el mantenimiento se realiza en pavimentos de asfalto, como moler para eliminar una superficie desgastada o dañada, el material eliminado se puede devolver a una instalación para procesarla en nuevas mezclas de pavimento. El asfalto / bitumen en el material eliminado se puede reactivar y volver a usar en nuevas mezclas de pavimento. Con alrededor del 95% de las carreteras pavimentadas que se están construyendo o surgiendo con asfalto, una cantidad sustancial de pavimento de asfalto se recupera cada año. Según encuestas de la industria realizadas anualmente por la Administración Federal de Carreteras y la Asociación Nacional de Paviones de Asphalt, más del 99% del asfalto se retira cada año de la superficie de la carretera durante la ampliación.",
+      "annotations": [
+        {
+          "question": "¿Durante qué acción es el asfalto a menudo recuperado?",
+          "choices": [
+            {
+              "text": "mantenimiento",
+              "start": 10,
+              "end": 23,
+              "type": "correct answer"
+            },
+            {
+              "text": "instalación",
+              "start": 168,
+              "end": 179,
+              "type": "distractor"
+            },
+            {
+              "text": "ampliación",
+              "start": 749,
+              "end": 759,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Antes de la llegada de los europeos, el área de Filadelfia era el hogar de los indios Lenape (Delaware) en el pueblo de Shackamaxon. Los Lenape son una tribu amerindia y un gobierno de bandas de las Primeras Naciones. También se les llama indios de Delaware y su territorio histórico estaba a lo largo de la cuenca del río Delaware, el oeste de Long Island y el valle del Bajo Hudson. La mayoría de los lenape fueron expulsados de su patria de Delaware durante el siglo XVIII por la expansión de las colonias europeas, exacerbadas por las pérdidas de los conflictos intertribales. Las comunidades lenape se vieron debilitadas por las enfermedades recién introducidas, principalmente la viruela y los conflictos violentos con los europeos. Los iroqueses ocasionalmente luchaban contra los lenape. Lenape superviviente se trasladó al oeste en la cuenca superior del río Ohio. La guerra revolucionaria americana y la independencia de los Estados Unidos los empujaron más al oeste. En la década de 1860, el gobierno de los Estados Unidos envió a la mayoría de los lenape restantes en el este de Estados Unidos al Territorio Indio (actual Oklahoma y el territorio circundante) bajo la política de eliminación de la India. En el siglo XXI, la mayoría de los Lenape ahora residen en el estado de Oklahoma, con algunas comunidades que viven también en Wisconsin, Ontario (Canadá) y en sus tierras de origen tradicionales.",
+      "annotations": [
+        {
+          "question": "¿Qué empujó a los Lenape más al oeste?",
+          "choices": [
+            {
+              "text": "La guerra revolucionaria americana y la independencia de los Estados Unidos",
+              "start": 874,
+              "end": 949,
+              "type": "correct answer"
+            },
+            {
+              "text": "las enfermedades recién introducidas, principalmente la viruela",
+              "start": 630,
+              "end": 693,
+              "type": "distractor"
+            },
+            {
+              "text": "la expansión de las colonias europeas",
+              "start": 480,
+              "end": 517,
+              "type": "distractor"
+            },
+            {
+              "text": "los conflictos violentos con los europeos",
+              "start": 696,
+              "end": 737,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Valles y llanuras se encuentran a lo largo de la costa y ríos. El norte de la provincia se encuentra justo al sur del delta del Yangtze, y consiste en llanuras alrededor de las ciudades de Hangzhou, Jiaxing y Huzhou, donde el Gran Canal de China entra desde la frontera norte para terminar en Hangzhou. Otra área relativamente plana se encuentra a lo largo del río Qu alrededor de las ciudades de Quzhou y Jinhua. Los principales ríos son el Qiangtang y el Ou. La mayoría de los ríos tallan valles en las tierras altas, con abundancia de rápidos y otras características asociadas con tal topografía. Los lagos más conocidos incluyen el Lago del Oeste de Hangzhou y el Lago del Sur de Jiaxing.",
+      "annotations": [
+        {
+          "question": "¿Dónde termina el Gran Canal de China?",
+          "choices": [
+            {
+              "text": "Hangzhou",
+              "start": 293,
+              "end": 301,
+              "type": "correct answer"
+            },
+            {
+              "text": "Qiangtang",
+              "start": 442,
+              "end": 451,
+              "type": "distractor"
+            },
+            {
+              "text": "Jiaxing",
+              "start": 684,
+              "end": 691,
+              "type": "distractor"
+            },
+            {
+              "text": "Yangtze",
+              "start": 128,
+              "end": 135,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La variante de identidad de Weinreich incluye de manera similar las categorías de difusión de identidad, ejecución hipotecaria y crisis, pero con un énfasis algo diferente. Aquí, con respecto a la difusión de identidad, por ejemplo, un nivel óptimo se interpreta como la norma, ya que no es realista esperar que un individuo resuelva todas sus identificaciones conflictivas con otros; Por lo tanto, deberíamos estar alerta a las personas con niveles mucho más altos o más bajos que la norma - los individuos altamente difundidos se clasifican como difundidos, y aquellos con niveles bajos como hipotecados o defensivos. (Weinreich & Saunderson, 2003, pp 65-67). 105-106). Weinreich aplica la variante identidad en un marco que también permite la transición de uno a otro por medio de experiencias biográficas y la resolución de identificaciones conflictivas situadas en varios contextos. Por lo tanto, aunque hay continuidad, también hay desarrollo y cambio. (Weinreich & Saunderson, 2003, pp 22-23).",
+      "annotations": [
+        {
+          "question": "¿Aquellos con altos niveles de difusión de identidad se clasifican como qué?",
+          "choices": [
+            {
+              "text": "difundidos",
+              "start": 548,
+              "end": 558,
+              "type": "correct answer"
+            },
+            {
+              "text": "hipotecados",
+              "start": 594,
+              "end": 605,
+              "type": "distractor"
+            },
+            {
+              "text": "defensivos",
+              "start": 608,
+              "end": 618,
+              "type": "distractor"
+            },
+            {
+              "text": "identificaciones",
+              "start": 344,
+              "end": 360,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La disposición de placas y dieléctricos tiene muchas variaciones dependiendo de las calificaciones deseadas del condensador. Para valores pequeños de capacitancia (microfaradas y menos), los discos de cerámica utilizan recubrimientos metálicos, con cables enlazados al recubrimiento. Los valores más grandes pueden ser hechos por múltiples pilas de placas y discos. Los condensadores de mayor valor por lo general utilizan una lámina de metal o una capa de película metálica depositada en la superficie de una película dieléctrica para hacer las placas, y una película dieléctrica de papel o plástico impregnado. Para reducir la resistencia de la serie y la inductancia de placas largas, las placas y los dieléctricos están escalonados de modo que la conexión se hace en el borde común de las placas enrolladas, no en los extremos de la película.",
+      "annotations": [
+        {
+          "question": "¿De qué están hechos los condensadores de mayor valor?",
+          "choices": [
+            {
+              "text": "múltiples pilas de placas y discos",
+              "start": 330,
+              "end": 364,
+              "type": "correct answer"
+            },
+            {
+              "text": "recubrimientos metálicos, con cables enlazados al recubrimiento",
+              "start": 219,
+              "end": 282,
+              "type": "distractor"
+            },
+            {
+              "text": "una película dieléctrica de papel o plástico impregnado",
+              "start": 556,
+              "end": 611,
+              "type": "distractor"
+            },
+            {
+              "text": "una lámina de metal o una capa de película metálica",
+              "start": 423,
+              "end": 474,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Malasia: El evento se celebró en la ciudad capital, Kuala Lumpur, el 21 de abril. El recorrido de 16,5 km comenzó desde la histórica Plaza de la Independencia, pasó frente a varios monumentos de la ciudad antes de llegar a su fin en las emblemáticas Torres Gemelas Petronas. Entre los puntos de referencia que la llama olímpica pasó junto a la Casa del Parlamento, la Mezquita Nacional, la Torre KL y el Estadio Merdeka. Un equipo de 1000 personas del Escuadrón de Acción Especial de la policía de Malasia protegió el evento y escoltó a los portadores de antorchas. La última vez que se celebró una antorcha olímpica en Malasia fue la edición de Tokio de 1964.",
+      "annotations": [
+        {
+          "question": "¿Cuál es la ubicación del inicio del relevo en Malasia?",
+          "choices": [
+            {
+              "text": "Plaza de la Independencia",
+              "start": 133,
+              "end": 158,
+              "type": "correct answer"
+            },
+            {
+              "text": "Torres Gemelas Petronas",
+              "start": 250,
+              "end": 273,
+              "type": "distractor"
+            },
+            {
+              "text": "Casa del Parlamento",
+              "start": 344,
+              "end": 363,
+              "type": "distractor"
+            },
+            {
+              "text": "Estadio Merdeka",
+              "start": 404,
+              "end": 419,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los generales y oficiales chinos como Zuo Zongtang encabezaron la represión de las rebeliones y se mantuvieron detrás de los manchúes. Cuando el emperador Tongzhi llegó al trono a la edad de cinco años en 1861, estos funcionarios se reunieron alrededor de él en lo que se llamó la Restauración Tongzhi. Su objetivo era adoptar la tecnología militar occidental para preservar los valores confucianos. Zeng Guofan, en alianza con el príncipe Gong, patrocinó el ascenso de funcionarios más jóvenes como Li Hongzhang, que puso a la dinastía en pie financieramente e instituyó el Movimiento de autofortalecimiento. Los reformistas procedieron entonces con reformas institucionales, incluido el primer ministerio unificado de asuntos exteriores de China, el Zongli Yamen; Permitir a los diplomáticos extranjeros residir en la capital; Establecimiento del Servicio de Aduanas Marítimas Imperiales; La formación de ejércitos modernizados, como el Ejército de Beiyang, así como una armada; Y la compra a los europeos de fábricas de armamento.",
+      "annotations": [
+        {
+          "question": "¿Qué usarían los chinos para continuar con los valores confucianos?",
+          "choices": [
+            {
+              "text": "tecnología militar occidental",
+              "start": 330,
+              "end": 359,
+              "type": "correct answer"
+            },
+            {
+              "text": "formación de ejércitos modernizados",
+              "start": 894,
+              "end": 929,
+              "type": "distractor"
+            },
+            {
+              "text": "fábricas de armamento",
+              "start": 1011,
+              "end": 1032,
+              "type": "distractor"
+            },
+            {
+              "text": "ascenso de funcionarios más jóvenes",
+              "start": 459,
+              "end": 494,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
