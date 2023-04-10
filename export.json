@@ -451,6 +451,568 @@
           ]
         }
       ]
+    },
+    {
+      "context": "Aunque el avance en el Arakan había sido detenido para liberar tropas y aviones para la batalla de Imphal, los estadounidenses y chinos habían seguido avanzando en el norte de Birmania, ayudados por los Chindits que operaban contra las líneas de comunicación japonesas. A mediados de 1944, la Fuerza Expedicionaria China invadió el norte de Birmania desde la provincia de Yunnan. Capturaron una posición fortificada en el Monte Song. Para cuando la campaña cesó durante las lluvias del monzón, la NCAC había asegurado un aeródromo vital en Myitkyina (agosto de 1944), que alivió los problemas del reabastecimiento de aire de la India a China.",
+      "annotations": [
+        {
+          "question": "¿Qué aeródromo fue tomado por la NCAC en agosto de 1944?",
+          "choices": [
+            {
+              "text": "Myitkyina",
+              "start": 540,
+              "end": 549,
+              "type": "correct answer"
+            },
+            {
+              "text": "Yunnan",
+              "start": 372,
+              "end": 378,
+              "type": "distractor"
+            },
+            {
+              "text": "Arakan",
+              "start": 23,
+              "end": 29,
+              "type": "distractor"
+            },
+            {
+              "text": "Imphal",
+              "start": 99,
+              "end": 105,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Sin embargo, Makdisi ha afirmado que la universidad europea tomó prestadas muchas de sus características de la madrasa islámica, incluyendo los conceptos de grado y doctorado. Makhi y Hugh Goddard también han resaltado otros términos y conceptos usados en universidades modernas que probablemente tienen orígenes islámicos, incluyendo \"el hecho de que todavía hablamos de profesores que mantienen la 'Cátedra' de su tema\". Makdisi ha enumerado dieciocho paralelos de este tipo en terminología que se remontan a sus raíces en la educación islámica. Algunas de las prácticas ahora comunes en las universidades modernas que Makdisi y Goddard remontan a una raíz islámica incluyen prácticas como la entrega de conferencias inaugurales, el uso de túnicas académicas, la obtención de doctorados mediante la defensa de una tesis. El sistema académico islámico de fatwá y ijmā., que significa opinión y consenso respectivamente, formó la base del \"sistema académico que Occidente ha practicado en la erudición universitaria desde la Edad Media hasta nuestros días\". Según Makdisi y Goddard, \"la idea de la libertad académica\" en las universidades también estaba \"modelada en la costumbre islámica\" como se practicaba en el sistema medieval Madrasa del siglo IX. La influencia islámica fue \"ciertamente discernible en la fundación de la primera universidad deliberadamente planeada\" en Europa, la Universidad de Nápoles Federico II fundada por Federico II, emperador del Sacro Imperio Romano Germánico en 1224.",
+      "annotations": [
+        {
+          "question": "¿Cual de las siguientes prácticas universitarias modernas no se consideran adaptadas de la madrasa islámica??",
+          "choices": [
+            {
+              "text": "la entrega de conferencias inaugurales",
+              "start": 692,
+              "end": 730,
+              "type": "distractor"
+            },
+            {
+              "text": "el uso de túnicas académicas",
+              "start": 732,
+              "end": 760,
+              "type": "distractor"
+            },
+            {
+              "text": "la idea de la libertad académica",
+              "start": 1084,
+              "end": 1116,
+              "type": "distractor"
+            },
+            {
+              "text": "la obtención de doctorados mediante la defensa de una tesis",
+              "start": 762,
+              "end": 821,
+              "type": "distractor"
+            },
+            {
+              "text": "la erudición universitaria",
+              "start": 989,
+              "end": 1015,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 2011, la Agencia Internacional de la Energía dijo que \"el desarrollo de tecnologías de energía solar asequibles, inagotables y limpias tendrá enormes beneficios a largo plazo. Aumentará la seguridad energética de los países a través de la dependencia de un recurso indígena, inagotable y en su mayoría importa-independiente, mejorará la sostenibilidad, reducirá la contaminación, reducirá los costos de mitigar el calentamiento global. Estas ventajas son globales. Por lo tanto, los costos adicionales de los incentivos para el despliegue temprano deben considerarse inversiones de aprendizaje; Deben ser gastados sabiamente y deben ser ampliamente compartidos \".",
+      "annotations": [
+        {
+          "question": "¿Cómo debería considerarse el costo de los incentivos para producir energía solar?",
+          "choices": [
+            {
+              "text": "aprendizaje",
+              "start": 585,
+              "end": 596,
+              "type": "correct answer"
+            },
+            {
+              "text": "contaminación",
+              "start": 368,
+              "end": 381,
+              "type": "distractor"
+            },
+            {
+              "text": "sostenibilidad",
+              "start": 340,
+              "end": 354,
+              "type": "distractor"
+            },
+            {
+              "text": "dependencia",
+              "start": 242,
+              "end": 253,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La mayor conductividad del cobre frente a otros metales mejora la eficiencia energética eléctrica de los motores. Esto es importante porque los motores y los sistemas impulsados por motores representan el 43% -46% de todo el consumo mundial de electricidad y el 69% de toda la electricidad utilizada por la industria. Aumentar la masa y la sección transversal del cobre en una bobina aumenta la eficiencia energética eléctrica del motor. Los rotores de motor de cobre, una nueva tecnología diseñada para aplicaciones motoras donde los ahorros de energía son objetivos de diseño primario, permiten a los motores de inducción de propósito general cumplir y superar los estándares de eficiencia premium de la Asociación Nacional de Fabricantes Eléctricos.",
+      "annotations": [
+        {
+          "question": "¿Qué propiedad del cobre aumenta la eficiencia de los motores eléctricos?",
+          "choices": [
+            {
+              "text": "conductividad",
+              "start": 9,
+              "end": 22,
+              "type": "correct answer"
+            },
+            {
+              "text": "inducción",
+              "start": 614,
+              "end": 623,
+              "type": "distractor"
+            },
+            {
+              "text": "aplicaciones motoras",
+              "start": 504,
+              "end": 524,
+              "type": "distractor"
+            },
+            {
+              "text": "ahorros de energía",
+              "start": 535,
+              "end": 553,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La evidencia clara más antigua de pelo o pelo se encuentra en fósiles de Castorocauda, hace 164 millones de años en el Jurásico Medio. En la década de 1950, se sugirió que los forámenes (pasajes) en el maxilar y el premaxilar (huesos en la parte frontal de la mandíbula superior) de los cinodontos eran canales que suministraban vasos sanguíneos y nervios. Sin embargo, pronto se señaló que los forámenes no muestran necesariamente que un animal tuviera vibrisas, ya que el lagarto moderno Tupinambis tiene forámenes que son casi idénticos a los encontrados en el no mamífero. Las fuentes populares, sin embargo, siguen atribuyendo bigotes a Thrinaxodon.",
+      "annotations": [
+        {
+          "question": "¿Qué tipo de fósiles mostraron las primeras evidencias de cinodontes?",
+          "choices": [
+            {
+              "text": "Castorocauda",
+              "start": 73,
+              "end": 85,
+              "type": "correct answer"
+            },
+            {
+              "text": "Tupinambis",
+              "start": 490,
+              "end": 500,
+              "type": "distractor"
+            },
+            {
+              "text": "Thrinaxodon",
+              "start": 642,
+              "end": 653,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El territorio que ahora se encuentra dentro del condado de Bronx fue originalmente parte del condado de Westchester, uno de los 12 condados originales de la provincia inglesa de Nueva York. El actual condado del Bronx se encuentra en la ciudad de Westchester y partes de las ciudades de Yonkers, Eastchester y Pelham. En 1846, una nueva ciudad, West Farms, fue creada por división de Westchester; A su vez, en 1855, la ciudad de Morrisania fue creada a partir de West Farms. En 1873, el pueblo de Kingsbridge (que corresponde aproximadamente a los modernos barrios del Bronx de Kingsbridge, Riverdale y Woodlawn) se estableció dentro de las antiguas fronteras de Yonkers.",
+      "annotations": [
+        {
+          "question": "¿Cómo se llama la ciudad en donde está en su mayor parte el condado del Bronx?",
+          "choices": [
+            {
+              "text": "Westchester",
+              "start": 247,
+              "end": 258,
+              "type": "correct answer"
+            },
+            {
+              "text": "West Farms",
+              "start": 345,
+              "end": 355,
+              "type": "distractor"
+            },
+            {
+              "text": "Kingsbridge",
+              "start": 578,
+              "end": 589,
+              "type": "distractor"
+            },
+            {
+              "text": "Yonkers",
+              "start": 663,
+              "end": 670,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En las últimas décadas de esta era muchos plebeyos se empobrecieron. Las largas campañas militares obligaron a los ciudadanos a abandonar sus granjas para luchar, mientras que sus granjas cayeron en mal estado. La aristocracia terrateniente comenzó a comprar granjas arruinadas a precios descontados. A medida que los precios de las materias primas cayeron, muchos agricultores ya no podían operar sus granjas con un beneficio. El resultado fue la bancarrota definitiva de innumerables agricultores. Las masas de plebeyos desempleados pronto comenzaron a inundarse en Roma, y por lo tanto en las filas de las asambleas legislativas. Su pobreza generalmente los llevó a votar por el candidato que más les ofreció. Estaba surgiendo una nueva cultura de dependencia, en la que los ciudadanos buscarían ayuda a cualquier líder populista.",
+      "annotations": [
+        {
+          "question": "¿Qué había hecho que los ciudadanos abandonaran sus granjas?",
+          "choices": [
+            {
+              "text": "las largas campañas militares",
+              "start": 69,
+              "end": 98,
+              "type": "correct answer"
+            },
+            {
+              "text": "la aristocracia terrateniente",
+              "start": 211,
+              "end": 240,
+              "type": "distractor"
+            },
+            {
+              "text": "los precios de las materias primas",
+              "start": 314,
+              "end": 348,
+              "type": "distractor"
+            },
+            {
+              "text": "la bancarrota definitiva de innumerables agricultores",
+              "start": 445,
+              "end": 498,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El hidrógeno es altamente soluble en muchas tierras raras y metales de transición y es soluble en metales tanto nanocristalinos como amorfos. La solubilidad del hidrógeno en metales está influenciada por distorsiones locales o impurezas en la red cristalina. Estas propiedades pueden ser útiles cuando el hidrógeno es purificado por el paso a través de discos de paladio caliente, pero la alta solubilidad del gas es un problema metalúrgico, contribuyendo a la destrucción de muchos metales, complicando el almacenamiento.",
+      "annotations": [
+        {
+          "question": "¿Dónde es altamente soluble el hidrógeno?",
+          "choices": [
+            {
+              "text": "en muchas tierras raras y metales de transición",
+              "start": 34,
+              "end": 81,
+              "type": "correct answer"
+            },
+            {
+              "text": "en metales tanto nanocristalinos como amorfos",
+              "start": 95,
+              "end": 140,
+              "type": "distractor"
+            },
+            {
+              "text": "en la red cristalina",
+              "start": 237,
+              "end": 257,
+              "type": "distractor"
+            },
+            {
+              "text": "en discos de paladio caliente",
+              "start": 353,
+              "end": 379,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La transcripción produce una molécula de ARN monocatenario conocida como ARN mensajero, cuya secuencia de nucleótidos es complementaria al ADN del que fue transcrito. : 6.1 El ARNm actúa como un intermedio entre el gen de ADN y su producto final de proteína. El ADN del gen se utiliza como plantilla para generar un ARNm complementario. El ARNm coincide con la secuencia de la cadena codificante de ADN del gen porque se sintetiza como complemento de la cadena de plantillas. La transcripción es realizada por una enzima llamada ARN polimerasa, que lee la cadena de plantilla en la dirección 3 'a 5' y sintetiza el ARN de 5 'a 3'. Para iniciar la transcripción, la polimerasa primero reconoce y une una región promotora del gen. Por lo tanto, un mecanismo importante de regulación génica es el bloqueo o secuestro de la región promotora, ya sea por la unión estricta de moléculas represoras que bloquean físicamente la polimerasa, o mediante la organización del ADN. :",
+      "annotations": [
+        {
+          "question": "¿Cuál es la enzima que realiza la transcripción?",
+          "choices": [
+            {
+              "text": "ARN polimerasa",
+              "start": 529,
+              "end": 543,
+              "type": "correct answer"
+            },
+            {
+              "text": "ARNm complementario",
+              "start": 316,
+              "end": 335,
+              "type": "distractor"
+            },
+            {
+              "text": "ARN monocatenario",
+              "start": 41,
+              "end": 58,
+              "type": "distractor"
+            },
+            {
+              "text": "ARN mensajero",
+              "start": 73,
+              "end": 86,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En el siglo XIII, las órdenes mendicantes - los franciscanos y los dominicos - que juraron votos de pobreza y se ganaban la vida pidiendo, fueron aprobadas por el papado. Grupos religiosos como los valdenses y los humiliati también intentaron regresar a la vida del cristianismo primitivo a mediados del siglo XII y principios del XIII, pero fueron condenados como heréticos por el papado. Otros se unieron a los cátaros, otro movimiento herético condenado por el papado. En 1209, una cruzada fue predicada contra los cátaros, la cruzada albigense, que en combinación con la Inquisición medieval, los eliminó.",
+      "annotations": [
+        {
+          "question": "¿En contra de qué grupo fue predicada la cruzada albigense?",
+          "choices": [
+            {
+              "text": "los franciscanos",
+              "start": 44,
+              "end": 60,
+              "type": "distractor"
+            },
+            {
+              "text": "los valdenses",
+              "start": 194,
+              "end": 207,
+              "type": "distractor"
+            },
+            {
+              "text": "los humiliati",
+              "start": 210,
+              "end": 223,
+              "type": "distractor"
+            },
+            {
+              "text": "los dominicos",
+              "start": 63,
+              "end": 76,
+              "type": "distractor"
+            },
+            {
+              "text": "los cátaros",
+              "start": 514,
+              "end": 525,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Un sistema formal temprano de lógica temporal fue estudiado por Avicena. Aunque no desarrolló una teoría real de las proposiciones temporales, sí estudió la relación entre temporalis y la implicación. El trabajo de Avicena fue desarrollado por Najm al-Dīn al-Qazwīnī al-Kātibī y se convirtió en el sistema dominante de la lógica islámica hasta los tiempos modernos. La lógica aveniana también influyó en varios de los primeros lógicos europeos como Alberto Magno y Guillermo de Ockham. Avicena apoyó la ley de no contradicción propuesta por Aristóteles, que un hecho no podía ser verdadero y falso al mismo tiempo y en el mismo sentido de la terminología utilizada. Declaró: \"Cualquiera que niegue la ley de la no contradicción debe ser golpeado y quemado hasta que admite que ser golpeado no es lo mismo que no ser golpeado, y ser quemado no es lo mismo que no ser quemado\".",
+      "annotations": [
+        {
+          "question": "¿Qué tema estudió Avicena, pero no desarrolló una teoría?",
+          "choices": [
+            {
+              "text": "la lógica temporal",
+              "start": 30,
+              "end": 45,
+              "type": "correct answer"
+            },
+            {
+              "text": "la ley de no contradicción",
+              "start": 500,
+              "end": 526,
+              "type": "distractor"
+            },
+            {
+              "text": "la lógica islámica",
+              "start": 319,
+              "end": 337,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Sólo el vestido de servicio es adecuado para los miembros de la CAF para usar en cualquier ocasión, salvo \"trabajo sucio\" o combate. Con guantes, espadas y medallas (No. 1 o 1A), es adecuado para ocasiones ceremoniales y \"vestido hacia abajo\" (No. 3 o inferior), es adecuado para el desgaste diario. Generalmente, después de la eliminación del vestido base (aunque todavía definido para el uniforme de la Fuerza Aérea), el vestido operativo es ahora el uniforme diario usado por la mayoría de los miembros de la CF. Los parkas aprobados están autorizados para usar en invierno en climas fríos y una chaqueta casual ligera también está autorizada para días más fríos. La marina, la mayoría del ejército y algunas otras unidades tienen, en ocasiones muy específicas, un vestido completo ceremonial / regimental, como el uniforme blanco \"de alto cuello\" naval, kilted Highland, Scottish, and Irish leges.",
+      "annotations": [
+        {
+          "question": "¿Qué se puede usar para los miembros de la CAF en cualquier ocasión?",
+          "choices": [
+            {
+              "text": "el vestido de servicio",
+              "start": 5,
+              "end": 27,
+              "type": "correct answer"
+            },
+            {
+              "text": "el uniforme blanco",
+              "start": 815,
+              "end": 833,
+              "type": "distractor"
+            },
+            {
+              "text": "un vestido completo",
+              "start": 765,
+              "end": 784,
+              "type": "distractor"
+            },
+            {
+              "text": "el vestido operativo",
+              "start": 420,
+              "end": 440,
+              "type": "distractor"
+            },
+            {
+              "text": "una chaqueta casual",
+              "start": 595,
+              "end": 614,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Papa Pablo VI conocía bien la Curia Romana, habiendo trabajado allí durante una generación desde 1922 hasta 1954. Implementó sus reformas por etapas, en lugar de caer de un solo golpe. El 1 de marzo de 1968, emitió un reglamento, un proceso iniciado por Pío XII y continuado por Juan XXIII. El 28 de marzo, con Pontificalis Domus, y en varias Constituciones apostólicas adicionales en los años siguientes, renovó toda la Curia, que incluía reducción de la burocracia, racionalizando las curiaciones existentes y una representación más amplia de italianos.",
+      "annotations": [
+        {
+          "question": "¿Quién trabajó para la Curia Romana de 1922 a 1954?",
+          "choices": [
+            {
+              "text": "Pablo VI",
+              "start": 8,
+              "end": 16,
+              "type": "correct answer"
+            },
+            {
+              "text": "Pío XII",
+              "start": 257,
+              "end": 264,
+              "type": "distractor"
+            },
+            {
+              "text": "Juan XXIII",
+              "start": 282,
+              "end": 292,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Incluso en latitudes altas, la formación de glaciares no es inevitable. Las áreas del Ártico, como la isla Banks y los valles secos de McMurdo en la Antártida se consideran desiertos polares donde los glaciares no se pueden formar porque reciben poca nieve a pesar del frío amargo. El aire frío, a diferencia del aire caliente, es incapaz de transportar mucho vapor de agua. Incluso durante los períodos glaciales del Cuaternario, Manchuria, las tierras bajas de Siberia y el centro y norte de Alaska, aunque extraordinariamente frías, tenían una nieve tan ligera que los glaciares no podían formarse.",
+      "annotations": [
+        {
+          "question": "¿Qué hace falta que impide la formación de glaciares en desiertos polares?",
+          "choices": [
+            {
+              "text": "nieve",
+              "start": 251,
+              "end": 256,
+              "type": "correct answer"
+            },
+            {
+              "text": "vapor de agua",
+              "start": 360,
+              "end": 373,
+              "type": "distractor"
+            },
+            {
+              "text": "aire frío",
+              "start": 285,
+              "end": 294,
+              "type": "distractor"
+            },
+            {
+              "text": "aire caliente",
+              "start": 313,
+              "end": 326,
+              "type": "distractor"
+            },
+            {
+              "text": "frío",
+              "start": 269,
+              "end": 273,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Arsenal nombró a Herbert Chapman como entrenador en 1925. Después de haber ganado la liga dos veces con el Huddersfield Town en 1923-24 y 1924-25 (ver Estaciones en el fútbol inglés), Chapman trajo al Arsenal su primer período de gran éxito. Sus tácticas revolucionarias y entrenamiento, junto con las firmas de jugadores estrellas como Alex James y Cliff Bastin, sentaron las bases de la dominación del club del fútbol inglés en la década de 1930. Bajo su dirección el Arsenal ganó sus primeros trofeos importantes - la victoria en la final de la FA Cup de 1930 precedió a dos campeonatos de la Liga, en 1930-31 y 1932-33. Además, Chapman estaba detrás del cambio de nombre de 1932 de la estación local del metro de Londres de \"Gillespie Road\" a \"Arsenal\", por lo que es la única estación de metro que se llama específicamente después de un club de fútbol.",
+      "annotations": [
+        {
+          "question": "¿Cuál fue el primer año de Herbert Chapman como entrenador del Arsenal?",
+          "choices": [
+            {
+              "text": "1925",
+              "start": 52,
+              "end": 56,
+              "type": "correct answer"
+            },
+            {
+              "text": "1923",
+              "start": 128,
+              "end": 132,
+              "type": "distractor"
+            },
+            {
+              "text": "1930",
+              "start": 443,
+              "end": 447,
+              "type": "distractor"
+            },
+            {
+              "text": "1932",
+              "start": 678,
+              "end": 682,
+              "type": "distractor"
+            },
+            {
+              "text": "1924",
+              "start": 138,
+              "end": 142,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Según el censo de 2011, el 81,0% de la población portuguesa es católica. El país tiene pequeñas comunidades protestantes, mormonas, musulmanas, hindúes, sij, ortodoxas orientales, testigos de Jehová, baha 'i, budistas, judías y espiritistas. Las influencias de la religión tradicional africana y la religión tradicional china también se sienten entre muchas personas, particularmente en los campos relacionados con la medicina tradicional china y los médicos brujos africanos. Alrededor del 6,8% de la población se declaró no religiosa, y el 8,3% no dio ninguna respuesta sobre su religión.",
+      "annotations": [
+        {
+          "question": "¿Qué afiliación religiosa tiene la mayoría de la población portuguesa?",
+          "choices": [
+            {
+              "text": "católica",
+              "start": 63,
+              "end": 71,
+              "type": "correct answer"
+            },
+            {
+              "text": "ortodoxa oriental",
+              "start": 158,
+              "end": 178,
+              "type": "distractor"
+            },
+            {
+              "text": "musulmana",
+              "start": 132,
+              "end": 142,
+              "type": "distractor"
+            },
+            {
+              "text": "religión tradicional africana",
+              "start": 264,
+              "end": 293,
+              "type": "distractor"
+            },
+            {
+              "text": "protestante",
+              "start": 108,
+              "end": 120,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
