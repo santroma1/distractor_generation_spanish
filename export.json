@@ -1371,6 +1371,1081 @@
           ]
         }
       ]
+    },
+    {
+      "context": "El impuesto sobre la renta de Tennessee no se aplica a los salarios y salarios, pero la mayoría de los ingresos por acciones, bonos y billetes que se pueden cobrar son imponibles. Todos los dividendos e intereses imponibles que exceden la exención individual de 1.250 dólares o la exención conjunta de 2.500 dólares son gravables a una tasa del 6%. Las ventas del estado y la tasa de uso fiscal para la mayoría de los artículos es del 7%. Los alimentos se gravan a una tasa menor del 5,25%, pero los dulces, suplementos dietéticos y alimentos preparados se gravan a la tasa total del 7%. Los impuestos locales sobre las ventas se recaudan en la mayoría de las jurisdicciones, con tasas que varían del 1,5% al 2,75%, lo que lleva el impuesto total de ventas entre el 8,5% y el 9,75%. La propiedad intangible se evalúa en las acciones de los accionistas de cualquier compañía de préstamo, compañía de inversión, compañía de seguros o compañías de cementerios con fines de lucro. La relación de evaluación es del 40% del valor multiplicado por la tasa impositiva para la jurisdicción. Tennessee impone un impuesto a la herencia sobre las propiedades de los desposeídos que exceden los límites máximos de una única exención ($1,000,000 para las muertes en 2006 y después).",
+      "annotations": [
+        {
+          "question": "¿Sobre qué esta un impuesto sobre las propiedades de los desposeídos?",
+          "choices": [
+            {
+              "text": "herencia",
+              "start": 1116,
+              "end": 1124,
+              "type": "correct answer"
+            },
+            {
+              "text": "dividendos",
+              "start": 190,
+              "end": 200,
+              "type": "distractor"
+            },
+            {
+              "text": "ingresos",
+              "start": 103,
+              "end": 111,
+              "type": "distractor"
+            },
+            {
+              "text": "alimentos",
+              "start": 533,
+              "end": 542,
+              "type": "distractor"
+            },
+            {
+              "text": "bonos",
+              "start": 126,
+              "end": 131,
+              "type": "distractor"
+            }
+          ]
+        },
+        {
+          "question": "¿A qué tasa se aplican normalmente las ventas estatales de Tennessee y el impuesto al uso?",
+          "choices": [
+            {
+              "text": "7%",
+              "start": 435,
+              "end": 437,
+              "type": "correct answer"
+            },
+            {
+              "text": "6%",
+              "start": 345,
+              "end": 347,
+              "type": "distractor"
+            },
+            {
+              "text": "1,5%",
+              "start": 701,
+              "end": 705,
+              "type": "distractor"
+            },
+            {
+              "text": "5,25%",
+              "start": 484,
+              "end": 489,
+              "type": "distractor"
+            },
+            {
+              "text": "8,5%",
+              "start": 766,
+              "end": 770,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1744, Burke comenzó en el Trinity College de Dublín, un establecimiento protestante, que hasta 1793 no permitió a los católicos obtener títulos. En 1747, creó una sociedad de debate, el \"Club de Edmund Burke\", que, en 1770, se fusionó con el Club Histórico de TCD para formar el College Historical Society; Es la sociedad de pregrado más antigua del mundo. Los minutos de las reuniones del Club Burke permanecen en la colección de la Sociedad Histórica. Burke se graduó de Trinity en 1748. El padre de Burke quería que leyera Law, y con esto en mente fue a Londres en 1750, donde entró en el Middle Temple, antes de abandonar pronto el estudio legal para viajar por Europa continental. Después de evitar la ley, se ganaba la vida escribiendo.",
+      "annotations": [
+        {
+          "question": "¿Cuándo empezó Burke a asistir al Trinity College de Dublín?",
+          "choices": [
+            {
+              "text": "1744",
+              "start": 3,
+              "end": 7,
+              "type": "correct answer"
+            },
+            {
+              "text": "1747",
+              "start": 151,
+              "end": 155,
+              "type": "distractor"
+            },
+            {
+              "text": "1770",
+              "start": 221,
+              "end": 225,
+              "type": "distractor"
+            },
+            {
+              "text": "1748",
+              "start": 487,
+              "end": 491,
+              "type": "distractor"
+            },
+            {
+              "text": "1750",
+              "start": 571,
+              "end": 575,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En pacientes estables cuyos síntomas se han resuelto en el momento de la evaluación, el tecnecio (99mTc) sestamibi (i.e. Un \"escáner MIBI\") o cloruro de tallio-201 se puede utilizar en medicina nuclear para visualizar áreas de flujo sanguíneo reducido junto con estrés fisiológico o farmacológico. El talio también se puede utilizar para determinar la viabilidad del tejido, distinguiendo si el miocardio no funcional está realmente muerto o simplemente en un estado de hibernación o de quedar aturdido. Las sociedades médicas y las directrices profesionales recomiendan que el médico confirma que una persona está en alto riesgo de infarto de miocardio antes de realizar pruebas de imagen para hacer un diagnóstico. Los pacientes que tienen un ECG normal y que son capaces de ejercer, por ejemplo, no merecen la imagen de rutina. Pruebas de imágenes como imágenes por estrés radionúclido o ecocardiografía por estrés pueden confirmar un diagnóstico cuando la historia de un paciente, el examen físico, el ECG y los biomarcadores cardíacos sugieren la probabilidad de un problema.",
+      "annotations": [
+        {
+          "question": "¿Según las sociedades médicas, qué se debe determinar antes de tomar una prueba de imagen?",
+          "choices": [
+            {
+              "text": "alto riesgo de infarto de miocardio",
+              "start": 618,
+              "end": 653,
+              "type": "correct answer"
+            },
+            {
+              "text": "la viabilidad del tejido",
+              "start": 349,
+              "end": 373,
+              "type": "distractor"
+            },
+            {
+              "text": "el miocardio no funcional está realmente muerto ",
+              "start": 392,
+              "end": 440,
+              "type": "distractor"
+            },
+            {
+              "text": "un ECG normal",
+              "start": 742,
+              "end": 755,
+              "type": "distractor"
+            },
+            {
+              "text": "áreas de flujo sanguíneo reducido",
+              "start": 218,
+              "end": 251,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Varios movimientos ecuménicos han intentado la cooperación o reorganización de las diversas denominaciones protestantes divididas, de acuerdo con varios modelos de unión, pero las divisiones siguen superando a los sindicatos, ya que no hay una autoridad general a la que las iglesias deben lealtad. La mayoría de las denominaciones comparten creencias comunes en los principales aspectos de la fe cristiana, mientras que difieren en muchas doctrinas secundarias, aunque lo que es importante y lo que es secundario es una cuestión de creencia idiosincrática.",
+      "annotations": [
+        {
+          "question": "¿Qué tipo de creencia define qué es una doctrina mayor o menor?",
+          "choices": [
+            {
+              "text": "idiosincrática",
+              "start": 541,
+              "end": 556,
+              "type": "correct answer"
+            },
+            {
+              "text": "protestante",
+              "start": 107,
+              "end": 118,
+              "type": "distractor"
+            },
+            {
+              "text": "cristiana",
+              "start": 397,
+              "end": 406,
+              "type": "distractor"
+            },
+            {
+              "text": "secundaria",
+              "start": 450,
+              "end": 460,
+              "type": "distractor"
+            },
+            {
+              "text": "principal",
+              "start": 367,
+              "end": 376,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "John Evans, para quien Evanston fue nombrado, compró 379 acres (153 hectáreas) de tierra a lo largo del lago Míchigan en 1853, y Philo Judson desarrolló planes para lo que se convertiría en la ciudad de Evanston, Illinois. El primer edificio, Old College, abrió el 5 de noviembre de 1855. Para recaudar fondos para su construcción, Northwestern vendió 100 dólares \"becas perpetuas\" dando derecho al comprador y sus herederos a la matrícula gratuita. Otro edificio, el University Hall, fue construido en 1869 de la misma piedra caliza de Joliet que la Chicago Water Tower, también construida en 1869, uno de los pocos edificios en el corazón de Chicago que sobrevivió al Gran Incendio de Chicago de 1871. En 1873 el Evanston College for Ladies se fusionó con Northwestern, y Frances Willard, quien más tarde ganó fama como sufragista y como una de las fundadoras de la Woman 's Christian Temperance Union (WCTU), se convirtió en la escuela. El Willard Residential College (1938) fue nombrado en su honor. Northwestern admitió a sus primeras estudiantes mujeres en 1869, y la primera mujer se graduó en 1874.",
+      "annotations": [
+        {
+          "question": "¿Con quién se fusionó Northwestern en 1873?",
+          "choices": [
+            {
+              "text": "Evanston College for Ladies",
+              "start": 715,
+              "end": 742,
+              "type": "correct answer"
+            },
+            {
+              "text": "Old College",
+              "start": 243,
+              "end": 254,
+              "type": "distractor"
+            },
+            {
+              "text": "University Hall",
+              "start": 468,
+              "end": 483,
+              "type": "distractor"
+            },
+            {
+              "text": "Woman 's Christian Temperance Union",
+              "start": 868,
+              "end": 903,
+              "type": "distractor"
+            },
+            {
+              "text": "Willard Residential College",
+              "start": 943,
+              "end": 970,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Desde la década de 1950 en adelante, muchas áreas de las Grandes Llanuras se han convertido en áreas productivas de cultivo de cultivos debido a la extensa irrigación en grandes propiedades. Estados Unidos es un importante exportador de productos agrícolas. La parte sur de las Grandes Llanuras se encuentra sobre el Ogallala Aquifer, una enorme capa subterránea de estratos acuáticos que datan de la última edad de hielo. El riego pivote central se utiliza ampliamente en las secciones más secas de las Grandes Llanuras, lo que resulta en el agotamiento del acuífero a una tasa que es mayor que la capacidad del suelo de recargar.",
+      "annotations": [
+        {
+          "question": "¿Qué tipo de riego se utiliza en las grandes llanuras?",
+          "choices": [
+            {
+              "text": "estratos acuáticos",
+              "start": 366,
+              "end": 384,
+              "type": "distractor"
+            },
+            {
+              "text": "pivote central",
+              "start": 432,
+              "end": 446,
+              "type": "correct answer"
+            },
+            {
+              "text": "agotamiento del acuífero",
+              "start": 543,
+              "end": 567,
+              "type": "distractor"
+            },
+            {
+              "text": "extensa irrigación",
+              "start": 148,
+              "end": 166,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El turismo contribuye con miles de millones de dólares cada año a la economía del estado y Tennessee está clasificado entre los 10 mejores destinos en los Estados Unidos. En 2014 un récord de 100 millones de personas visitaron el estado dando como resultado $17,7 mil millones en el gasto relacionado con el turismo dentro del estado, un aumento del 6,3% en 2013; Los ingresos fiscales por turismo equivalían a 1.500 millones de dólares. Cada condado en Tennessee vio al menos $1 millón del turismo, mientras que 19 condados recibieron al menos $100 millones (los condados de Davidson, Shelby y Sevier fueron los tres primeros). Los empleos generados por turismo para el estado llegaron a 152.900, un aumento del 2,8%. Los viajeros internacionales a Tennessee representaron 533 millones de dólares en gastos.",
+      "annotations": [
+        {
+          "question": "¿Cuántos miles de millones de dólares fueron gastados por los turistas en Tennessee en 2014?",
+          "choices": [
+            {
+              "text": "17,7 ",
+              "start": 259,
+              "end": 264,
+              "type": "correct answer"
+            },
+            {
+              "text": "1",
+              "start": 478,
+              "end": 479,
+              "type": "distractor"
+            },
+            {
+              "text": "10",
+              "start": 128,
+              "end": 130,
+              "type": "distractor"
+            },
+            {
+              "text": "6,3",
+              "start": 350,
+              "end": 353,
+              "type": "distractor"
+            },
+            {
+              "text": "2,8",
+              "start": 713,
+              "end": 716,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las aleaciones se hacen a menudo para alterar las propiedades mecánicas del metal base, para inducir dureza, ductilidad, u otras propiedades deseadas. La mayoría de los metales y aleaciones se pueden endurecer creando defectos en su estructura cristalina. Estos defectos se crean durante la deformación plástica, como el martilleo o la flexión, y son permanentes a menos que el metal sea recristalizado. Sin embargo, algunas aleaciones también pueden tener sus propiedades alteradas por el tratamiento térmico. Casi todos los metales pueden ser suavizados por recocido, que recristaliza la aleación y repara los defectos, pero no tantos pueden ser endurecidos por calentamiento y enfriamiento controlados. Muchas aleaciones de aluminio, cobre, magnesio, titanio y níquel se pueden fortalecer en algún grado por algún método de tratamiento térmico, pero pocos responden a esto en el mismo grado que el acero.",
+      "annotations": [
+        {
+          "question": "¿A qué se pueden crear defectos de metales y aleaciones para endurecerlos?",
+          "choices": [
+            {
+              "text": "estructura cristalina",
+              "start": 233,
+              "end": 254,
+              "type": "correct answer"
+            },
+            {
+              "text": "metal base",
+              "start": 76,
+              "end": 86,
+              "type": "distractor"
+            },
+            {
+              "text": "deformación plástica",
+              "start": 291,
+              "end": 311,
+              "type": "distractor"
+            },
+            {
+              "text": "tratamiento térmico",
+              "start": 490,
+              "end": 509,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Un samurai podía divorciarse de su esposa por una variedad de razones con la aprobación de un superior, pero el divorcio era, aunque no del todo inexistente, un evento raro. El fracaso de una esposa para producir un hijo fue causa de divorcio, pero la adopción de un heredero varón fue considerada una alternativa aceptable al divorcio. Un samurai podía divorciarse por razones personales, incluso si simplemente no le gustaba su esposa, pero esto generalmente se evitaba ya que avergonzaría a la persona que había arreglado el matrimonio. Una mujer también podría arreglar un divorcio, aunque generalmente tomaría la forma del samurai divorciándose de ella. Después de un divorcio, los samuráis tuvieron que devolver el dinero del compromiso, lo que a menudo impedía los divorcios.",
+      "annotations": [
+        {
+          "question": "¿Qué podía hacer un samurai con la aprobación de un superior, aunque se consideraba un evento raro?",
+          "choices": [
+            {
+              "text": "divorciarse de su esposa",
+              "start": 17,
+              "end": 41,
+              "type": "correct answer"
+            },
+            {
+              "text": "producir un hijo",
+              "start": 204,
+              "end": 220,
+              "type": "distractor"
+            },
+            {
+              "text": "adopción de un heredero",
+              "start": 252,
+              "end": 275,
+              "type": "distractor"
+            },
+            {
+              "text": "devolver el dinero del compromiso",
+              "start": 709,
+              "end": 742,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Chromobacterium violaceum y Pseudomonas fluorescens pueden movilizar cobre sólido, como compuesto de cianuro. Los hongos micorrizas ericoides asociados con Calluna, Erica y Vaccinium pueden crecer en suelos metalíferos de cobre. Suillus luteus protege a los pinos jóvenes de la toxicidad del cobre. Una muestra del hongo Aspergillus niger fue encontrado creciendo a partir de una solución minera de oro. Y se encontró que contenía complejos metálicos de cianuro; Como el oro, la plata, el cobre y el zinc. El hongo también juega un papel en la solubilización de sulfuros de metal pesado.",
+      "annotations": [
+        {
+          "question": "¿Qué pueden movilizar Chromobacterium violaceum y Pseudomonas fluorescens?",
+          "choices": [
+            {
+              "text": "cobre sólido",
+              "start": 69,
+              "end": 81,
+              "type": "correct answer"
+            },
+            {
+              "text": "metalíferos de cobre",
+              "start": 207,
+              "end": 227,
+              "type": "distractor"
+            },
+            {
+              "text": "sulfuros de metal pesado",
+              "start": 562,
+              "end": 586,
+              "type": "distractor"
+            },
+            {
+              "text": "solución minera de oro",
+              "start": 380,
+              "end": 402,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Nasser también intentó mantener la supervisión del servicio civil del país para evitar que se inflase y, en consecuencia, convertirse en una carga para el estado. Las nuevas leyes proporcionaron a los trabajadores un salario mínimo, acciones de ganancias, educación gratuita, atención de salud gratuita, reducción de las horas de trabajo y estímulo para participar en la gestión. Las reformas agrarias garantizaron la seguridad de los agricultores arrendatarios, promovieron el crecimiento agrícola y redujeron la pobreza rural. Como resultado de las medidas de 1962, la propiedad del gobierno de los negocios egipcios alcanzó el 51 por ciento, y la Unión Nacional pasó a llamarse Unión Socialista Árabe (ASU). Con estas medidas llegó más represión interna, ya que miles de islamistas fueron encarcelados, incluyendo decenas de oficiales militares. La inclinación de Nasser hacia un sistema de estilo soviético llevó a sus ayudantes Boghdadi y Hussein el-Shafei a presentar sus dimisiones en protesta.",
+      "annotations": [
+        {
+          "question": "¿Qué garantizó la seguridad de los agricultores arrendatarios?",
+          "choices": [
+            {
+              "text": "reformas agrarias",
+              "start": 384,
+              "end": 401,
+              "type": "correct answer"
+            },
+            {
+              "text": "servicio civil",
+              "start": 51,
+              "end": 65,
+              "type": "distractor"
+            },
+            {
+              "text": "salario mínimo",
+              "start": 217,
+              "end": 231,
+              "type": "distractor"
+            },
+            {
+              "text": "oficiales militares",
+              "start": 828,
+              "end": 847,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La población de París hoy es inferior a su máximo histórico de 2,9 millones en 1921. Las razones principales fueron una disminución significativa del tamaño de los hogares, y una migración dramática de los residentes a los suburbios entre 1962 y 1975. Los factores en la migración incluyen la desindustrialización, el alto alquiler, la gentrificación de muchos cuartos interiores, la transformación del espacio vital en oficinas y una mayor afluencia entre las familias trabajadoras. La pérdida de población de la ciudad llegó a su fin en el siglo XXI. La estimación de la población de julio de 2004 mostró un aumento de la población por primera vez desde 1954, y la población alcanzó los 2.234.000 en 2009.",
+      "annotations": [
+        {
+          "question": "¿Qué llegó a su fin en la ciudad a en el siglo XXI?",
+          "choices": [
+            {
+              "text": "disminución significativa del tamaño de los hogares",
+              "start": 120,
+              "end": 171,
+              "type": "distractor"
+            },
+            {
+              "text": "la desindustrialización",
+              "start": 290,
+              "end": 313,
+              "type": "distractor"
+            },
+            {
+              "text": "la pérdida de población",
+              "start": 484,
+              "end": 507,
+              "type": "correct answer"
+            },
+            {
+              "text": "el alto alquiler",
+              "start": 315,
+              "end": 331,
+              "type": "distractor"
+            },
+            {
+              "text": "aumento de la población",
+              "start": 610,
+              "end": 633,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Al igual que con la clasificación bacteriana, la identificación de bacterias está utilizando cada vez más métodos moleculares. Los diagnósticos usando herramientas basadas en ADN, como la reacción en cadena de la polimerasa, son cada vez más populares debido a su especificidad y velocidad, en comparación con los métodos basados en la cultura. Estos métodos también permiten la detección e identificación de células \"viables pero no culturables\" que son metabólicamente activas pero no divisibles. Sin embargo, incluso usando estos métodos mejorados, el número total de especies bacterianas no se conoce y ni siquiera se puede estimar con certeza. Después de la clasificación actual, hay un poco menos de 9.300 especies conocidas de procariotas, que incluye bacterias y arqueas. Sin embargo, los intentos de estimar el número real de diversidad bacteriana han variado de 107 a 109 especies totales, e incluso estas estimaciones diversas pueden estar disminuyendo en muchos órdenes de magnitud.",
+      "annotations": [
+        {
+          "question": "¿Qué más pueden revelar los métodos moleculares de clasificación?",
+          "choices": [
+            {
+              "text": "identificación de células \"viables pero no culturables\"",
+              "start": 391,
+              "end": 446,
+              "type": "correct answer"
+            },
+            {
+              "text": "diagnósticos usando herramientas basadas en ADN",
+              "start": 131,
+              "end": 178,
+              "type": "distractor"
+            },
+            {
+              "text": "intentos de estimar el número real de diversidad bacteriana",
+              "start": 797,
+              "end": 856,
+              "type": "distractor"
+            },
+            {
+              "text": "reacción en cadena de la polimerasa",
+              "start": 188,
+              "end": 223,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El lado norte de Miami incluye Midtown, un distrito con una gran mezcla de diversidad con muchos indios occidentales, hispanos, americanos europeos, bohemios y artistas. Edgewater, y Wynwood, son barrios de Midtown y se componen principalmente de torres residenciales de gran altura y son el hogar del Centro Adrienne Arsht para las Artes Escénicas. Los residentes más ricos viven generalmente en la parte noreste, en Midtown, el Distrito de Diseño y el Upper East Side, con muchas casas buscadas después de 1920 y el hogar del Distrito Histórico MIMO, un estilo de arquitectura originado. El lado norte de Miami también tiene notables comunidades de inmigrantes afroamericanos y caribeños como Little Haiti, Overtown (sede del Teatro Lírico) y Liberty City.",
+      "annotations": [
+        {
+          "question": "¿Qué parte de Miami tiene grandes comunidades de inmigrantes afroamericanos?",
+          "choices": [
+            {
+              "text": "Little Haiti",
+              "start": 695,
+              "end": 707,
+              "type": "correct answer"
+            },
+            {
+              "text": "Edgewater",
+              "start": 170,
+              "end": 179,
+              "type": "distractor"
+            },
+            {
+              "text": "Upper East Side",
+              "start": 454,
+              "end": 469,
+              "type": "distractor"
+            },
+            {
+              "text": "Wynwood",
+              "start": 183,
+              "end": 190,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A pesar de su renuencia inicial, los Sucesores parecen haberse naturalizado deliberadamente a sí mismos en sus diferentes regiones, presumiblemente para ayudar a mantener el control de la población. En el reino ptolemaico, encontramos algunos griegos egiptianizados en el siglo II en adelante. El reino indogriego, encontramos reyes que fueron convertidos al budismo (e.g. Menander). Por lo tanto, los griegos en las regiones se vuelven gradualmente \"localizados\", adoptando las costumbres locales según sea apropiado. De esta manera, las culturas híbridas helenísticas surgieron naturalmente, al menos entre los escalones superiores de la sociedad.",
+      "annotations": [
+        {
+          "question": "¿En qué reino se convirtieron reyes al budismo?",
+          "choices": [
+            {
+              "text": "indogriego",
+              "start": 303,
+              "end": 313,
+              "type": "correct answer"
+            },
+            {
+              "text": "ptolemaico",
+              "start": 211,
+              "end": 221,
+              "type": "distractor"
+            },
+            {
+              "text": "griego",
+              "start": 243,
+              "end": 249,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La tan esperada adquisición de Universal Pictures por MCA, Inc. ocurrió a mediados de 1962 como parte de la fusión MCA-Decca Records. La compañía cambió su nombre a Universal Pictures. Como gesto final antes de dejar el negocio de la agencia de talentos, prácticamente todos los clientes de MCA firmaron un contrato con Universal. En 1964 MCA formó Universal City Studios, Inc., fusionando las películas y las armas de televisión de Universal Pictures Company y Revue Productions (oficialmente renombrada como Universal Television en 1966). Y así, con MCA a cargo, Universal se convirtió en un estudio de cine completo, con actores principales y directores bajo contrato. Ofreciendo astucia, películas comerciales; Y una filial de gira de estudio lanzada en 1964. La producción de televisión constituyó gran parte de la producción del estudio, con Universal fuertemente comprometido, en particular, a los tratos con NBC (que más tarde se fusionó con Universal para formar NBC Universal; Ver abajo) proporcionando hasta la mitad de todos los espectáculos de horario estelar durante varias temporadas. Una innovación durante este período defendida por Universal fue la película hecha para la televisión.",
+      "annotations": [
+        {
+          "question": "¿Qué nuevo nombre se le dio a Revue Productions en 1966?",
+          "choices": [
+            {
+              "text": "Universal Television",
+              "start": 510,
+              "end": 530,
+              "type": "correct answer"
+            },
+            {
+              "text": "Universal Pictures",
+              "start": 165,
+              "end": 183,
+              "type": "distractor"
+            },
+            {
+              "text": "NBC Universal",
+              "start": 972,
+              "end": 985,
+              "type": "distractor"
+            },
+            {
+              "text": "Universal City Studios",
+              "start": 349,
+              "end": 371,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Bronx está situado casi en su totalidad en el continente norteamericano. El río Hudson separa el Bronx en el oeste de Alpine, Tenafly y Englewood Cliffs en el condado de Bergen, Nueva Jersey; El río Harlem lo separa de la isla de Manhattan al suroeste. El East River lo separa de Queens al sureste; Y al este, Long Island Sound la separa del condado de Nassau en el oeste de Long Island. Directamente al norte del Bronx están las comunidades contiguas del condado de Westchester de Yonkers, Mount Vernon, Pelham Manor y New Rochelle. (También hay un corto límite sur de tierra con Marble Hill en el Borough de Manhattan, sobre el antiguo curso de la Spuyten Duyvil Creek. El código postal del ZIP de Marble Hill, el código telefónico del área y el servicio de bomberos, sin embargo, son compartidos con el Bronx y no con Manhattan.)",
+      "annotations": [
+        {
+          "question": "¿Qué hay al otro lado del río Harlem del Bronx?",
+          "choices": [
+            {
+              "text": "Englewood Cliffs",
+              "start": 139,
+              "end": 155,
+              "type": "distractor"
+            },
+            {
+              "text": "Manhattan",
+              "start": 233,
+              "end": 242,
+              "type": "correct answer"
+            },
+            {
+              "text": "Queens",
+              "start": 283,
+              "end": 289,
+              "type": "distractor"
+            },
+            {
+              "text": "Long Island",
+              "start": 378,
+              "end": 389,
+              "type": "distractor"
+            },
+            {
+              "text": "Marble Hill",
+              "start": 703,
+              "end": 714,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Krispy Kreme, una cadena internacional de tiendas de dónut, se inició en Carolina del Norte; La sede de la compañía se encuentra en Winston-Salem. Pepsi-Cola fue producido por primera vez en 1898 en Nueva Berna. Un refresco regional, Cheerwine, fue creado y todavía tiene su sede en la ciudad de Salisbury. A pesar de su nombre, la salsa picante Texas Pete fue creada en Carolina del Norte; Su sede se encuentra en Winston-Salem. La cadena de comida rápida de Hardee se inició en Rocky Mount. Otra cadena de comida rápida, Bojangles, se inició en Charlotte, y tiene su sede corporativa allí. Una popular cadena de restaurantes de Carolina del Norte es Golden Corral. Fundada en 1973, la cadena fue fundada en Fayetteville, con sede en Raleigh. Mount Olive Pickle Company fue fundada en Mount Olive en 1926. La cadena de hamburguesas rápida Hwy 55 hamburguesas, Shakes & Fries también hace su hogar en Mount Olive. Cook Out, una popular cadena de comida rápida con hamburguesas, perritos calientes y batidos en una amplia variedad de sabores, fue fundada en Greensboro en 1989 y ha comenzado a expandirse fuera de Carolina del Norte. En 2013, Southern Living nombró a Durham - Chapel Hill la \"ciudad más sabrosa\" del Sur.",
+      "annotations": [
+        {
+          "question": "¿Qué cadena de comida rápida se inició en Charlotte?",
+          "choices": [
+            {
+              "text": "Bojangles",
+              "start": 523,
+              "end": 532,
+              "type": "correct answer"
+            },
+            {
+              "text": "Golden Corral",
+              "start": 652,
+              "end": 665,
+              "type": "distractor"
+            },
+            {
+              "text": "Shakes & Fries",
+              "start": 861,
+              "end": 875,
+              "type": "distractor"
+            },
+            {
+              "text": "Cook Out",
+              "start": 914,
+              "end": 922,
+              "type": "distractor"
+            },
+            {
+              "text": "Krispy Kreme",
+              "start": 0,
+              "end": 12,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Su temperatura media anual es de 18,4 ° C (65,1 ° F). 22,8 ° C (73,0 ° F) durante el día y 13,8 ° C (56,8 ° F) por la noche. En el mes más frío - enero, la temperatura máxima típicamente durante el día varía de 13 a 21 ° C (55 a 70 ° F), la temperatura mínima típicamente en la noche varía de 4 a 12 ° C (39 a 54 ° F). En el mes más cálido - agosto, la temperatura máxima durante el día típicamente oscila entre 28-34 ° C (82-93 ° F), alrededor de 23 ° C (73 ° F) por la noche. En general, temperaturas similares a las experimentadas en la parte norte de Europa en el verano pasado cerca de 8 meses, de abril a noviembre. Marzo es transicional, la temperatura a menudo supera los 20 ° C, con una temperatura media de 19,0 ° C durante el día y 10,0 ° C en la noche. Diciembre, enero y febrero son los meses más fríos, con temperaturas medias de alrededor de 17 ° C (63 ° F) durante el día y 7 ° C (45 ° F) por la noche. Valencia tiene uno de los inviernos más suaves en Europa, debido a su ubicación meridional en el mar Mediterráneo y el fenómeno Foehn. El promedio de enero es comparable a las temperaturas esperadas para mayo y septiembre en las principales ciudades del norte de Europa.",
+      "annotations": [
+        {
+          "question": "¿Cuál es la temperatura media anual de Valencia?",
+          "choices": [
+            {
+              "text": "18,4 ° C",
+              "start": 33,
+              "end": 41,
+              "type": "correct answer"
+            },
+            {
+              "text": "12 ° C",
+              "start": 297,
+              "end": 303,
+              "type": "distractor"
+            },
+            {
+              "text": "19,0 ° C",
+              "start": 717,
+              "end": 725,
+              "type": "distractor"
+            },
+            {
+              "text": "10,0 ° C",
+              "start": 743,
+              "end": 751,
+              "type": "distractor"
+            },
+            {
+              "text": "23 ° C",
+              "start": 448,
+              "end": 454,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1853, Victoria dio a luz a su octavo hijo, Leopold, con la ayuda del nuevo anestésico, el cloroformo. Victoria quedó tan impresionada por el alivio que le dio el dolor del parto que lo usó de nuevo en 1857 al nacer su novena y última hija, Beatrice, a pesar de la oposición de miembros del clero, que lo consideraron contra la enseñanza bíblica. Victoria puede haber sufrido de depresión post-natal después de muchos de sus embarazos. Cartas de Alberto a Victoria se quejan intermitentemente de su pérdida de autocontrol. Por ejemplo, alrededor de un mes después del nacimiento de Leopoldo, Alberto se quejó en una carta a Victoria sobre su \"continuidad de la histeria\" sobre una \"bagatela miserable\".",
+      "annotations": [
+        {
+          "question": "¿En qué ayudó el cloroformo a Victoria?",
+          "choices": [
+            {
+              "text": "depresión post-natal",
+              "start": 381,
+              "end": 401,
+              "type": "distractor"
+            },
+            {
+              "text": "pérdida de autocontrol",
+              "start": 501,
+              "end": 523,
+              "type": "distractor"
+            },
+            {
+              "text": "dolor del parto",
+              "start": 165,
+              "end": 180,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La biblioteca de películas de TCM abarca varias décadas de cine e incluye miles de títulos de cine. Además de sus acuerdos para transmitir lanzamientos de películas de Metro-Goldwyn-Mayer y Warner Bros. Entertainment, Turner Classic Movies también mantiene acuerdos de derechos de licencia de películas con Universal Studios, Paramount Pictures, 20th Century Fox, Walt Disney Studios",
+      "annotations": [
+        {
+          "question": "¿Qué biblioteca de películas abarca varias décadas de cine y mantiene acuerdos de derechos de licencia de películas con múltiples estudios?",
+          "choices": [
+            {
+              "text": "Turner Classic Movies",
+              "start": 218,
+              "end": 239,
+              "type": "correct answer"
+            },
+            {
+              "text": "Metro-Goldwyn-Mayer",
+              "start": 168,
+              "end": 187,
+              "type": "distractor"
+            },
+            {
+              "text": "20th Century Fox",
+              "start": 346,
+              "end": 362,
+              "type": "distractor"
+            },
+            {
+              "text": "Universal Studios",
+              "start": 307,
+              "end": 324,
+              "type": "distractor"
+            },
+            {
+              "text": "Warner Bros. Entertainment",
+              "start": 190,
+              "end": 216,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En los años posteriores a mediados de la década de 1930, Detroit fue conocida como la \"Ciudad de Campeones\" después de que los Tigres, Leones y Red Wings capturaran los tres principales campeonatos deportivos profesionales en un período de siete meses (octubre 1935). Los Lions ganaron el campeonato de la NFL en diciembre de 1935; Los Red Wings ganaron la Copa Stanley en abril de 1936. En 1932, Eddie \"The Midnight Express\" Tolan de Detroit ganó las carreras de 100 y 200 metros y dos medallas de oro en los Juegos Olímpicos de 1932. Joe Louis ganó el campeonato mundial de peso pesado en 1937.",
+      "annotations": [
+        {
+          "question": "¿En qué año ganó Joe Louis el título de boxeo?",
+          "choices": [
+            {
+              "text": "1937",
+              "start": 591,
+              "end": 595,
+              "type": "correct answer"
+            },
+            {
+              "text": "1936",
+              "start": 382,
+              "end": 386,
+              "type": "distractor"
+            },
+            {
+              "text": "1930",
+              "start": 51,
+              "end": 55,
+              "type": "distractor"
+            },
+            {
+              "text": "1935",
+              "start": 326,
+              "end": 330,
+              "type": "distractor"
+            },
+            {
+              "text": "1932",
+              "start": 530,
+              "end": 534,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Como \"pistas en el mar\", los portaaviones tienen una cubierta de vuelo plana, que lanza y recupera aviones. Los aviones se lanzan hacia adelante, hacia el viento, y se recuperan a popa. La cubierta de vuelo es donde se encuentran las diferencias más notables entre un portaaviones y una pista de aterrizaje. La creación de tal superficie en el mar plantea limitaciones en el portaaviones - por ejemplo, el hecho de que es un barco significa que una pista de aterrizaje larga sería costosa de construir y mantener. Esto afecta al procedimiento de despegue, ya que una pista más corta de la cubierta requiere que la aeronave se acelere más rápidamente para obtener sustentación. Esto requiere un impulso de empuje, un componente vertical a su velocidad, o una carga de despegue reducida (para bajar la masa). Los diferentes tipos de configuración de cubierta, como se mencionó anteriormente, influyen en la estructura de la cubierta de vuelo. La forma de asistencia de lanzamiento que proporciona un portaaviones está fuertemente relacionada con los tipos de aeronaves embarcadas y el diseño del propio portaaviones.",
+      "annotations": [
+        {
+          "question": "¿Qué característica de diseño tienen los portaaviones para ayudar a lanzar y recuperar aviones?",
+          "choices": [
+            {
+              "text": "asistencia de lanzamiento",
+              "start": 953,
+              "end": 978,
+              "type": "distractor"
+            },
+            {
+              "text": "aeronaves embarcadas",
+              "start": 1057,
+              "end": 1077,
+              "type": "distractor"
+            },
+            {
+              "text": "cubierta de vuelo plana",
+              "start": 53,
+              "end": 76,
+              "type": "correct answer"
+            },
+            {
+              "text": "pista de aterrizaje",
+              "start": 449,
+              "end": 468,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las aves desempeñan papeles prominentes y diversos en la religión y la mitología. En religión, las aves pueden servir como mensajeros o sacerdotes y líderes de una deidad, como en el Culto de Makemake, en el que el Tangata Manu de la Isla de Pascua sirvió como jefes o como asistentes. En varias civilizaciones de la antigua Italia, particularmente en la religión etrusca y romana, los sacerdotes estaban involucrados en el augurio, o interpretando las palabras de las aves mientras el \"Auspex\" (del cual se deriva la palabra). También pueden servir como símbolos religiosos, como cuando Jonás (en hebreo: יוננָה, paloma) encarnó el miedo, la pasividad, el luto y la belleza tradicionalmente asociadas con palomas. Las aves han sido deificadas, como en el caso del pavo real común, que es percibido como la Madre Tierra por los Dravidianos de la India. En las imágenes religiosas conservadas de los imperios Inca y Tiwanaku, las aves se representan en el proceso de transgredir las fronteras entre los reinos espirituales terrenales y terrenales. Los pueblos indígenas de los Andes centrales mantienen leyendas de aves que pasan desde y hacia mundos metafísicos. Se dice que el mítico pájaro chullumpi marca la existencia de un portal entre tales mundos, y para transformarse en una llama.",
+      "annotations": [
+        {
+          "question": "¿Qué especie de aves marca la existencia de un portal entre mundos, y para transformarse en una llama?",
+          "choices": [
+            {
+              "text": "pavo real común",
+              "start": 765,
+              "end": 780,
+              "type": "distractor"
+            },
+            {
+              "text": "paloma",
+              "start": 614,
+              "end": 620,
+              "type": "distractor"
+            },
+            {
+              "text": "pájaro chullumpi",
+              "start": 1185,
+              "end": 1201,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Microsoft comenzó una campaña publicitaria centrada en Windows 8 y su tableta Surface en octubre de 2012, comenzando con su primer anuncio de televisión que se estrenó el 14 de octubre de 2012. El presupuesto publicitario de Microsoft de US $1,5-1,8 mil millones fue significativamente mayor que la campaña de US $200 millones utilizada para promover Windows 95. Como parte de su campaña, Microsoft creó 34 tiendas pop-up dentro de los centros comerciales (principalmente enfocadas en Surface), proporcionó capacitación a empleados minoristas en asociación con Intel, y colaboró con la cadena de tiendas de electrónica Best Buy. Microsoft también desarrolló un personaje conocido en los mercados de habla inglesa como \"Allison Brown\", cuyo perfil ficticio (incluyendo fotos personales, contactos y correos electrónicos) también aparece en dispositivos de demostración.",
+      "annotations": [
+        {
+          "question": "¿Qué compañía tiene productos como Windows y la tableta Surface?",
+          "choices": [
+            {
+              "text": "Microsoft",
+              "start": 0,
+              "end": 9,
+              "type": "correct answer"
+            },
+            {
+              "text": "Intel",
+              "start": 561,
+              "end": 566,
+              "type": "distractor"
+            },
+            {
+              "text": "Best Buy",
+              "start": 619,
+              "end": 627,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Ley de Estándar de Oro de 1900 abandonó el estándar bimetálico y definió el dólar como 23,22 granos (1,505 g) de oro, lo que equivale a fijar el precio de 1 onza troy de oro. Las monedas de plata continuaron emitiéndose para su circulación hasta 1964, cuando toda la plata se eliminó de los centavos y cuartos, y el medio dólar se redujo a 40% de plata. Los medios de plata fueron emitidos por última vez en 1970. Las monedas de oro fueron confiscadas por la Orden Ejecutiva 6102 emitida en 1933 por Franklin Roosevelt. El patrón oro fue cambiado a 13,71 granos (0,888 g), equivalente a fijar el precio de 1 onza troy de oro a $35. Este estándar persistió hasta 1968.",
+      "annotations": [
+        {
+          "question": "¿Cuándo se definió el dólar como 23,22 granos de oro?",
+          "choices": [
+            {
+              "text": "1900",
+              "start": 29,
+              "end": 33,
+              "type": "correct answer"
+            },
+            {
+              "text": "1964",
+              "start": 249,
+              "end": 253,
+              "type": "distractor"
+            },
+            {
+              "text": "1970",
+              "start": 411,
+              "end": 415,
+              "type": "distractor"
+            },
+            {
+              "text": "1968",
+              "start": 665,
+              "end": 669,
+              "type": "distractor"
+            },
+            {
+              "text": "1933",
+              "start": 494,
+              "end": 498,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Xbox 360 cuenta con un servicio en línea, Xbox Live, que se amplió de su iteración anterior en la Xbox original y recibió actualizaciones regulares durante la vida de la consola. Disponible en variedades gratuitas y basadas en suscripciones, Xbox Live permite a los usuarios: Jugar juegos online; Descargar juegos (a través de Xbox Live Arcade) y demos de juegos; Comprar y transmitir música, programas de televisión y películas a través de los portales de Xbox Music y Xbox Video; Y acceder a servicios de contenido de terceros a través de aplicaciones de streaming de medios. Además de las características multimedia en línea, la Xbox 360 permite a los usuarios transmitir medios de PC locales. Varios periféricos han sido lanzados, incluyendo controladores inalámbricos, almacenamiento de disco duro expandido, y la cámara Kinect sensor de movimiento. El lanzamiento de estos servicios adicionales y periféricos ayudó a la marca Xbox a crecer de sólo jugar a abarcar todo multimedia, convirtiéndolo en un centro para el entretenimiento de la computación de salas vivas.",
+      "annotations": [
+        {
+          "question": "¿Qué no incluye el servicio Xbox Live?",
+          "choices": [
+            {
+              "text": "almacenamiento de disco duro expandido",
+              "start": 777,
+              "end": 815,
+              "type": "correct answer"
+            },
+            {
+              "text": "jugar juegos online",
+              "start": 279,
+              "end": 298,
+              "type": "distractor"
+            },
+            {
+              "text": "comprar y transmitir música",
+              "start": 367,
+              "end": 394,
+              "type": "distractor"
+            },
+            {
+              "text": "acceder a servicios de contenido de terceros",
+              "start": 487,
+              "end": 531,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El ensamblaje de computadoras de escritorio para el mercado norteamericano anteriormente tuvo lugar en plantas Dell en Austin, Texas (ubicación original) y Lebanon, Tennessee (abierto en 1999), que se han cerrado en 2008 y principios de 2009, respectivamente. La planta en Winston-Salem, Carolina del Norte recibió $280 millones de dólares en incentivos del estado y abrió sus puertas en 2005, pero cesó sus operaciones en noviembre de 2010, y el contrato de Dell con el estado les exige pagar los incentivos. La mayor parte del trabajo que solía tener lugar en las plantas estadounidenses de Dell fue transferido a fabricantes contratados en Asia y México, o algunas de las propias fábricas de Dell en el extranjero. La instalación de Alienware en Miami, Florida sigue en funcionamiento, mientras que Dell continúa produciendo sus servidores (sus productos más rentables) en Austin, Texas.",
+      "annotations": [
+        {
+          "question": "¿Cuál es la ubicación original de ensamblaje de plantas Dell?",
+          "choices": [
+            {
+              "text": "Austin, Texas",
+              "start": 119,
+              "end": 132,
+              "type": "correct answer"
+            },
+            {
+              "text": "Lebanon, Tennessee",
+              "start": 156,
+              "end": 174,
+              "type": "distractor"
+            },
+            {
+              "text": "Winston-Salem, Carolina del Norte",
+              "start": 273,
+              "end": 306,
+              "type": "distractor"
+            },
+            {
+              "text": "Miami, Florida",
+              "start": 749,
+              "end": 763,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Antropólogos como C. Loring Brace, los filósofos Jonathan Kaplan y Rasmus Winther, y el genetista Joseph Graves, han argumentado que si bien es ciertamente posible encontrar agrupaciones biológicas y genéticas que correspondan geográficamente La estructura del grupo de los datos genéticos es, por lo tanto, dependiente de las hipótesis iniciales del investigador y las poblaciones muestreadas. Cuando una muestra los grupos continentales, los grupos se vuelven continentales; Si uno hubiera elegido otros patrones de muestreo, el agrupamiento sería diferente. Weiss y Fullerton han señalado que si uno muestreaba sólo islandeses, mayas y maoris, se formarían tres grupos distintos y todas las demás poblaciones podrían ser descritas como clínicamente compuestas de admixturas de materiales maoríes. Kaplan y Winther argumentan que, visto de esta manera, tanto Lewontin como Edwards tienen razón en sus argumentos. Concluyen que si bien los grupos raciales se caracterizan por diferentes frecuencias alélicas, esto no significa que la clasificación racial sea una taxonomía natural de la especie humana, porque múltiples otros patrones genéticos se pueden encontrar en las poblaciones humanas. Además, los datos genómicos subdeterminan si uno desea ver subdivisiones (es decir, divisores) o un continuo (es decir, lumpers). Según Kaplan y Winther, los grupos raciales son construcciones sociales objetivas (Mills 1998) que tienen la realidad biológica convencional sólo en la medida en que las categorías son elegidas y construidas por razones científicas pragmáticas. En trabajos anteriores, Winther había identificado \"partición de diversidad\" y \"análisis de agrupamiento\" como dos metodologías separadas, con preguntas, suposiciones y protocolos distintos. Cada uno también está asociado con consecuencias ontológicas opuestas frente a la metafísica de la raza.",
+      "annotations": [
+        {
+          "question": "¿De qué depende la estructura del grupo de los datos genéticos?",
+          "choices": [
+            {
+              "text": "la clasificación racial",
+              "start": 1032,
+              "end": 1055,
+              "type": "distractor"
+            },
+            {
+              "text": "los datos genómicos",
+              "start": 1202,
+              "end": 1221,
+              "type": "distractor"
+            },
+            {
+              "text": "la metafísica de la raza",
+              "start": 1839,
+              "end": 1863,
+              "type": "distractor"
+            },
+            {
+              "text": "las hipótesis iniciales del investigador",
+              "start": 323,
+              "end": 363,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

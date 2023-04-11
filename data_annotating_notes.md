@@ -18,6 +18,19 @@ Total 40
 
 <br>
 
-# 
+# Tuesday April 11
+
+Dates and Numbers 6
+
+Names 7
+
+Phrases 16   
+
+Total 30
+
+## Comments
+52. Change articles
+68. Cases
 
 
+<br>
