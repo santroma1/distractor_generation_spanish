@@ -2,11 +2,11 @@
 
 Dates and Numbers 3
 
-Names 9
+Names 11
 
-Phrases 18
+Phrases 26
 
-Total 30
+Total 40
 
 ## Comments
 5. Add s to a distractor

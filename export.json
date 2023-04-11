@@ -1013,6 +1013,364 @@
           ]
         }
       ]
+    },
+    {
+      "context": "Los primeros militares Qing tenían sus raíces en las Ocho Banderas desarrolladas por Nurhaci para organizar la sociedad Jurchen más allá de las afiliaciones de los clanes menores. Había ocho banderas en total, diferenciadas por el color. Las banderas amarillas y blancas eran conocidas como las \"Tres banderas superiores\" y estaban bajo el mando directo del emperador. Sólo los manchúes pertenecientes a las tres banderas superiores, y los chinos Han seleccionados que habían pasado el mayor nivel de exámenes marciales podían servir como guardaespaldas personal del emperador. Las banderas restantes eran conocidas como las \"cinco banderas inferiores\". Estaban comandados por príncipes hereditarios manchúes descendientes de la familia inmediata de Nurhachi, conocidos informalmente como los \"príncipes gorros de hierro\". Juntos formaron el consejo gobernante de la nación Manchú, así como el alto mando del ejército. El hijo de Nurhachi, Hong Taiji, expandió el sistema para incluir a las banderas Han y Mongol. Después de capturar Pekín en 1644, los ejércitos relativamente pequeños de las banderas fueron aumentados aún más por el Ejército Estándar Verde, formado por las tropas Ming que se habían rendido a los Qing, que finalmente superaron en número a las banderas. Mantuvieron su organización de la era Ming y fueron dirigidos por una mezcla de oficiales de Banner y Green Standard. [Cita requerida]",
+      "annotations": [
+        {
+          "question": "¿Cuántas banderas había en total?",
+          "choices": [
+            {
+              "text": "ocho",
+              "start": 186,
+              "end": 190,
+              "type": "correct answer"
+            },
+            {
+              "text": "cinco",
+              "start": 626,
+              "end": 631,
+              "type": "distractor"
+            },
+            {
+              "text": "tres",
+              "start": 408,
+              "end": 412,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las compañías de alta tecnología se han localizado en la zona desde la década de 1930, cuando International Radio Corporation introdujo la primera radio AC / DC producida en masa (la Kadette, en 1931), así como la primera radio de bolsillo (Kadette Jr., en 1933). La compañía de cámaras Argus, originalmente filial de International Radio, fabricó cámaras en Ann Arbor desde 1936 hasta la década de 1960. Las empresas actuales incluyen Arbor Networks (proveedor de sistemas de seguridad e ingeniería de tráfico en Internet), Arbortext (proveedor de software editorial basado en XML), JSTOR (archivo de revistas académicas digitales), MediaQuest. Ann Arbor Terminals fabricó una terminal de vídeo llamada Ann Arbor Ambassador durante la década de 1980. Barracuda Networks, que proporciona redes, seguridad y productos de almacenamiento basados en electrodomésticos de red y servicios en la nube, abrió una oficina de ingeniería en Ann Arbor en 2008 en Depot St.",
+      "annotations": [
+        {
+          "question": "¿Qué compañía de red abrió en 2008 proporcionando seguridad, almacenamiento y redes?",
+          "choices": [
+            {
+              "text": "Barracuda Networks",
+              "start": 751,
+              "end": 769,
+              "type": "correct answer"
+            },
+            {
+              "text": "International Radio Corporation",
+              "start": 94,
+              "end": 125,
+              "type": "distractor"
+            },
+            {
+              "text": "Arbor Networks",
+              "start": 435,
+              "end": 449,
+              "type": "distractor"
+            },
+            {
+              "text": "Arbortext",
+              "start": 524,
+              "end": 533,
+              "type": "distractor"
+            },
+            {
+              "text": "Ann Arbor Terminals",
+              "start": 645,
+              "end": 664,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después del desarrollo de las grandes cervecerías Porter de Londres en el siglo XVIII, la tendencia creció para que los pubs se convirtieran en casas ligadas que sólo podían vender cerveza de una cervecería (un pub no atado de esta manera). El acuerdo habitual para una casa empatada era que el pub era propiedad de la cervecería, pero alquilado a un propietario privado que lo dirigía como un negocio separado (aunque contratado para comprar la cerveza de la cervecería). Otro acuerdo muy común era (y es) que el propietario poseyera las premisas (ya sea freehold o leasehold) independientemente del cervecero, pero luego tomar un préstamo hipotecario de una cervecería, ya sea para financiar.",
+      "annotations": [
+        {
+          "question": "¿Cómo se llamaba un bar que vendía cerveza de sólo una cervecería?",
+          "choices": [
+            {
+              "text": "casas ligadas",
+              "start": 144,
+              "end": 157,
+              "type": "correct answer"
+            },
+            {
+              "text": "casa empatada",
+              "start": 270,
+              "end": 283,
+              "type": "distractor"
+            },
+            {
+              "text": "negocio separado",
+              "start": 394,
+              "end": 410,
+              "type": "distractor"
+            },
+            {
+              "text": "propiedad de la cervecería",
+              "start": 303,
+              "end": 329,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Una molécula de grasa dietética consiste típicamente en varios ácidos grasos (que contienen largas cadenas de átomos de carbono e hidrógeno), unidos a un glicerol. Se encuentran típicamente como triglicéridos (tres ácidos grasos unidos a una espina dorsal de glicerol). Las grasas pueden ser clasificadas como saturadas o insaturadas dependiendo de la estructura detallada de los ácidos grasos involucrados. Las grasas saturadas tienen todos los átomos de carbono en sus cadenas de ácidos grasos unidos a átomos de hidrógeno, mientras que las grasas insaturadas tienen algunos de estos átomos de carbono de doble enlace, por lo que sus moléculas tienen relativamente menos átomos de hidrógeno. Las grasas insaturadas pueden ser clasificadas como monoinsaturadas (un doble enlace) o poliinsaturadas (muchos enlaces dobles). Además, dependiendo de la ubicación del doble enlace en la cadena de ácido graso, los ácidos grasos insaturados se clasifican como omega-3 o ácidos grasos omega-6. Las grasas trans son un tipo de grasa insaturada con enlaces de isómero trans; Estos son raros en la naturaleza y en los alimentos de fuentes naturales; Se crean típicamente en un proceso industrial llamado hidrogenación parcial. Hay nueve kilocalorías en cada gramo de grasa. Los ácidos grasos como el ácido linoleico conjugado, el ácido catalópico, el ácido eleosteárico y el ácido punico, además de proporcionar energía, representan potentes moléculas inmunomoduladoras.",
+      "annotations": [
+        {
+          "question": "¿Se puede decir que la grasa dietética consiste en ácidos grasos unidos a qué molécula?",
+          "choices": [
+            {
+              "text": "glicerol",
+              "start": 259,
+              "end": 267,
+              "type": "correct answer"
+            },
+            {
+              "text": "carbono",
+              "start": 120,
+              "end": 127,
+              "type": "distractor"
+            },
+            {
+              "text": "hidrógeno",
+              "start": 515,
+              "end": 524,
+              "type": "distractor"
+            },
+            {
+              "text": "ácido punico",
+              "start": 1365,
+              "end": 1377,
+              "type": "distractor"
+            },
+            {
+              "text": "ácido catalópico",
+              "start": 1320,
+              "end": 1336,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Señala que tanto A. P. de Candolle como Charles Lyell habían declarado que todos los organismos están expuestos a una competencia severa. Darwin enfatiza que usó la frase \"lucha por la existencia\" en \"un sentido grande y metafórico, incluyendo la dependencia de un ser en otro\"; Da ejemplos que van desde plantas que luchan contra la sequía hasta plantas que compiten por las aves para comer sus frutos y diseminar sus semillas. Describe la lucha resultante del crecimiento de la población: \"Es la doctrina de Malthus aplicada con fuerza manifiesta a todo el animal y los reinos vegetales\". Discute los controles para tal aumento, incluyendo interdependencias ecológicas complejas, y señala que la competencia es más severa entre formas estrechamente relacionadas \"que ocupan casi el mismo lugar en la economía de la naturaleza\".",
+      "annotations": [
+        {
+          "question": "¿Qué declararon A. P. de Candolle y Charles Lyell?",
+          "choices": [
+            {
+              "text": "ue todos los organismos están expuestos a una competencia severa",
+              "start": 72,
+              "end": 136,
+              "type": "correct answer"
+            },
+            {
+              "text": "que usó la frase \"lucha por la existencia\" en \"un sentido grande y metafórico, incluyendo la dependencia de un ser en otro\"",
+              "start": 154,
+              "end": 277,
+              "type": "distractor"
+            },
+            {
+              "text": "que van desde plantas que luchan contra la sequía hasta plantas que compiten por las aves para comer sus frutos y diseminar sus semillas",
+              "start": 291,
+              "end": 427,
+              "type": "distractor"
+            },
+            {
+              "text": "que la competencia es más severa entre formas estrechamente relacionadas ",
+              "start": 691,
+              "end": 764,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Antes de firmar un acuerdo de desarrollo con los Kane County Cougars en 2012, los Cubs tenían una afiliación de ligas menores de Clase A en dos ocasiones con los Peoria Chiefs (1985-1995 y 2004-2012). Ryne Sandberg dirigió a los Chiefs desde 2006 hasta 2010. En el período entre esas asociaciones con los Chiefs el club tenía afiliaciones con Dayton Dragons y Lansing Lugnuts. Los Lugnuts eran a menudo cariñosamente llamados por Chip Caray como \"el equipo favorito de Steve Stone\". El contrato de desarrollo de 2007 con los Tennessee Smokies fue precedido por las afiliaciones de Doble A con los Orlando Cubs y West Tenn Diamond Jaxx. El 16 de septiembre de 2014, los Cubs anunciaron un cambio de su equipo de Clase A afiliado de Daytona en la Florida State League a Myrtle Beach en la Carolina League para la temporada 2015. Dos días más tarde, el 18, los Cachorros firmaron un contrato de desarrollo de jugadores de 4 años con los South Bend Silver Hawks de la Midwest League, poniendo fin a su breve relación con los Kane County Cougars.",
+      "annotations": [
+        {
+          "question": "¿Con quién tuvieron los Cubs en dos ocasiones una afiliación de ligas menores de Clase A?",
+          "choices": [
+            {
+              "text": "Peoria Chiefs",
+              "start": 162,
+              "end": 175,
+              "type": "correct answer"
+            },
+            {
+              "text": "Kane County Cougars",
+              "start": 49,
+              "end": 68,
+              "type": "distractor"
+            },
+            {
+              "text": "Tennessee Smokies",
+              "start": 525,
+              "end": 542,
+              "type": "distractor"
+            },
+            {
+              "text": "Dayton Dragons",
+              "start": 343,
+              "end": 357,
+              "type": "distractor"
+            },
+            {
+              "text": "South Bend Silver Hawks",
+              "start": 934,
+              "end": 957,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Para otros analistas, el retraso entre los cambios de las reglas del CRA (en 1995) y la explosión de los préstamos de alto riesgo no es sorprendente y no exonera al CRA. Sostienen que hubo dos causas conectadas a la crisis: La relajación de los estándares de subescritura en 1995 y las tasas de interés ultra bajas iniciadas por la Reserva Federal después del ataque terrorista el 11 de septiembre de 2001. Ambas causas tuvieron que estar en vigor antes de que la crisis pudiera tener lugar. Los críticos también señalan que públicamente anunció compromisos de préstamo de la CRA fueron masivos, totalizando $4.5 billones en los años entre 1994 y 2007. También argumentan que la clasificación de la Reserva Federal de los préstamos CRA como \"primos\" se basa en la suposición defectuosa y egoísta de que los préstamos con altas tasas de interés (3 puntos porcentuales por término medio) equivalen.",
+      "annotations": [
+        {
+          "question": "¿Cómo clasificó la Reserva Federal los préstamos CRA?",
+          "choices": [
+            {
+              "text": "primos",
+              "start": 742,
+              "end": 748,
+              "type": "correct answer"
+            },
+            {
+              "text": "compromisos",
+              "start": 546,
+              "end": 557,
+              "type": "distractor"
+            },
+            {
+              "text": "causas",
+              "start": 193,
+              "end": 199,
+              "type": "distractor"
+            },
+            {
+              "text": "estándares",
+              "start": 245,
+              "end": 255,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Nigeria fue el único país en África que nunca erradicó la polio, que periódicamente exportó a otros países africanos; La polio se redujo un 98% entre 2009 y 2010. Sin embargo, un gran avance llegó en diciembre de 2014, cuando se informó que Nigeria no había registrado un caso de polio en 6 meses, y en su camino para ser declarado libre de polio. En 2012, la Universidad de Nigeria lanzó un nuevo programa de donantes de médula ósea para ayudar a personas con leucemia, linfoma o enfermedad de células falciformes a encontrar un donante compatible para un trasplante de médula ósea. Nigeria se convirtió en el segundo país africano en llevar a cabo con éxito esta cirugía. En el brote de ébola de 2014, Nigeria fue el primer país en contener y eliminar efectivamente la amenaza del ébola que estaba asolando a otros tres países de la región de África Occidental.",
+      "annotations": [
+        {
+          "question": "¿Qué enfermedad pudo Nigeria contener y eliminar en 2014?",
+          "choices": [
+            {
+              "text": "ébola",
+              "start": 783,
+              "end": 788,
+              "type": "correct answer"
+            },
+            {
+              "text": "polio",
+              "start": 58,
+              "end": 63,
+              "type": "distractor"
+            },
+            {
+              "text": "leucemia",
+              "start": 461,
+              "end": 469,
+              "type": "distractor"
+            },
+            {
+              "text": "linfoma",
+              "start": 471,
+              "end": 478,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El comportamiento que puede ser óptimo para un individuo (por ejemplo, ahorrar más durante condiciones económicas adversas) puede ser perjudicial si demasiados individuos persiguen el mismo comportamiento, ya que en última instancia el consumo de una persona es el ingreso de otra. A demasiados consumidores que intentan salvar (o pagar la deuda) simultáneamente se les llama la paradoja del ahorro y pueden causar o profundizar una recesión. El economista Hyman Minsky también describió una \"paradoja del desapalancamiento\" como instituciones financieras que tienen demasiado apalancamiento (deuda en relación con capital) no pueden desapalancarse simultáneamente sin caídas significativas en el valor de sus activos.",
+      "annotations": [
+        {
+          "question": "¿Cómo se llama cuando demasiados consumidores intentan salvar o pagar la deuda al mismo tiempo?",
+          "choices": [
+            {
+              "text": "paradoja del ahorro",
+              "start": 379,
+              "end": 398,
+              "type": "correct answer"
+            },
+            {
+              "text": "paradoja del desapalancamiento",
+              "start": 493,
+              "end": 523,
+              "type": "distractor"
+            },
+            {
+              "text": "condiciones económicas adversas",
+              "start": 91,
+              "end": 122,
+              "type": "distractor"
+            },
+            {
+              "text": "una recesión",
+              "start": 429,
+              "end": 441,
+              "type": "distractor"
+            },
+            {
+              "text": "desapalancarse simultáneamente",
+              "start": 634,
+              "end": 664,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Aunque los primeros éxitos de Kim lo habían llevado a predecir que terminaría la guerra a finales de agosto, los líderes chinos eran más pesimistas. Para contrarrestar un posible despliegue estadounidense, Zhou Enlai aseguró un compromiso soviético para que la Unión Soviética apoyara a las fuerzas chinas con cobertura aérea, y desplegó 260.000 soldados a lo largo de la frontera coreana, bajo el mando de Gao Gang. Zhou ordenó a Chai Chengwen realizar un estudio topográfico de Corea, y dirigió a Lei Yingfu, asesor militar de Zhou en Corea, para analizar la situación militar en Corea. Lei concluyó que MacArthur muy probablemente intentaría un aterrizaje en Incheon. Después de conferir con Mao que esta sería la estrategia más probable de MacArthur, Zhou informó a los asesores soviéticos y norcoreanos de los hallazgos de Lei, y emitió órdenes a los comandantes del ejército chino desplegados en la frontera coreana para prepararse.",
+      "annotations": [
+        {
+          "question": "¿Qué aseguró Zhou Enlai para contrarrestar un posible despliegue estadounidense?",
+          "choices": [
+            {
+              "text": "un compromiso soviético",
+              "start": 225,
+              "end": 248,
+              "type": "correct answer"
+            },
+            {
+              "text": "un estudio topográfico",
+              "start": 454,
+              "end": 476,
+              "type": "distractor"
+            },
+            {
+              "text": "asesores soviéticos y norcoreanos",
+              "start": 774,
+              "end": 807,
+              "type": "distractor"
+            },
+            {
+              "text": "órdenes a los comandantes del ejército chino",
+              "start": 842,
+              "end": 886,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
