@@ -1376,72 +1376,72 @@
       "context": "El impuesto sobre la renta de Tennessee no se aplica a los salarios y salarios, pero la mayoría de los ingresos por acciones, bonos y billetes que se pueden cobrar son imponibles. Todos los dividendos e intereses imponibles que exceden la exención individual de 1.250 dólares o la exención conjunta de 2.500 dólares son gravables a una tasa del 6%. Las ventas del estado y la tasa de uso fiscal para la mayoría de los artículos es del 7%. Los alimentos se gravan a una tasa menor del 5,25%, pero los dulces, suplementos dietéticos y alimentos preparados se gravan a la tasa total del 7%. Los impuestos locales sobre las ventas se recaudan en la mayoría de las jurisdicciones, con tasas que varían del 1,5% al 2,75%, lo que lleva el impuesto total de ventas entre el 8,5% y el 9,75%. La propiedad intangible se evalúa en las acciones de los accionistas de cualquier compañía de préstamo, compañía de inversión, compañía de seguros o compañías de cementerios con fines de lucro. La relación de evaluación es del 40% del valor multiplicado por la tasa impositiva para la jurisdicción. Tennessee impone un impuesto a la herencia sobre las propiedades de los desposeídos que exceden los límites máximos de una única exención ($1,000,000 para las muertes en 2006 y después).",
       "annotations": [
         {
-            "question": "¿Sobre qué esta un impuesto sobre las propiedades de los desposeídos?",
-            "choices": [
-              {
-                "text": "herencia",
-                "start": 1116,
-                "end": 1124,
-                "type": "correct answer"
-              },
-              {
-                "text": "dividendos",
-                "start": 190,
-                "end": 200,
-                "type": "distractor"
-              },
-              {
-                "text": "ingresos",
-                "start": 103,
-                "end": 111,
-                "type": "distractor"
-              },
-              {
-                "text": "alimentos",
-                "start": 533,
-                "end": 542,
-                "type": "distractor"
-              },
-              {
-                "text": "bonos",
-                "start": 126,
-                "end": 131,
-                "type": "distractor"
+          "question": "¿Sobre qué esta un impuesto sobre las propiedades de los desposeídos?",
+          "choices": [
+            {
+              "text": "herencia",
+              "start": 1116,
+              "end": 1124,
+              "type": "correct answer"
+            },
+            {
+              "text": "dividendos",
+              "start": 190,
+              "end": 200,
+              "type": "distractor"
+            },
+            {
+              "text": "ingresos",
+              "start": 103,
+              "end": 111,
+              "type": "distractor"
+            },
+            {
+              "text": "alimentos",
+              "start": 533,
+              "end": 542,
+              "type": "distractor"
+            },
+            {
+              "text": "bonos",
+              "start": 126,
+              "end": 131,
+              "type": "distractor"
             }
           ]
         },
         {
-            "question": "¿A qué tasa se aplican normalmente las ventas estatales de Tennessee y el impuesto al uso?",
-            "choices": [
-              {
-                "text": "7%",
-                "start": 435,
-                "end": 437,
-                "type": "correct answer"
-              },
-              {
-                "text": "6%",
-                "start": 345,
-                "end": 347,
-                "type": "distractor"
-              },
-              {
-                "text": "1,5%",
-                "start": 701,
-                "end": 705,
-                "type": "distractor"
-              },
-              {
-                "text": "5,25%",
-                "start": 484,
-                "end": 489,
-                "type": "distractor"
-              },
-              {
-                "text": "8,5%",
-                "start": 766,
-                "end": 770,
-                "type": "distractor"
+          "question": "¿A qué tasa se aplican normalmente las ventas estatales de Tennessee y el impuesto al uso?",
+          "choices": [
+            {
+              "text": "7%",
+              "start": 435,
+              "end": 437,
+              "type": "correct answer"
+            },
+            {
+              "text": "6%",
+              "start": 345,
+              "end": 347,
+              "type": "distractor"
+            },
+            {
+              "text": "1,5%",
+              "start": 701,
+              "end": 705,
+              "type": "distractor"
+            },
+            {
+              "text": "5,25%",
+              "start": 484,
+              "end": 489,
+              "type": "distractor"
+            },
+            {
+              "text": "8,5%",
+              "start": 766,
+              "end": 770,
+              "type": "distractor"
             }
           ]
         }
@@ -2775,6 +2775,358 @@
               "text": "311",
               "start": 306,
               "end": 309,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1886, Frank Julian Sprague inventó el primer motor DC práctico, un motor no chispeante que mantenía una velocidad relativamente constante bajo cargas variables. Otras invenciones eléctricas de Sprague en esta época mejoraron enormemente la distribución eléctrica en red (trabajo previo realizado por Thomas Edison), permitió que la energía de los motores eléctricos volviera a la red eléctrica, proveyendo distribución eléctrica a los carros. Esto permitió a Sprague usar motores eléctricos para inventar el primer sistema de tranvía eléctrico en 1887-88 en Richmond VA, el ascensor eléctrico y el sistema de control en 1892, y el metro eléctrico con motores centralmente controlados de forma independiente. El motor de Sprague y sus invenciones relacionadas llevaron a una explosión de interés y uso en motores eléctricos para la industria, mientras que casi simultáneamente otro gran inventor estaba desarrollando a su principal competidor, que se generalizaría mucho más. El desarrollo de motores eléctricos de eficiencia aceptable se retrasó durante varias décadas por no reconocer la importancia extrema de una brecha de aire relativamente pequeña entre el rotor y el estator. Los diseños eficientes tienen una brecha de aire comparativamente pequeña. [A] El motor de St. Louis, usado durante mucho tiempo en las aulas para ilustrar los principios motores, es extremadamente ineficiente por la misma razón, además de parecer nada como un motor moderno.",
+      "annotations": [
+        {
+          "question": "¿Qué debe existir entre el rotor y el estator para una mayor eficiencia?",
+          "choices": [
+            {
+              "text": "una brecha de aire",
+              "start": 1115,
+              "end": 1133,
+              "type": "correct answer"
+            },
+            {
+              "text": "un sistema de control",
+              "start": 601,
+              "end": 619,
+              "type": "distractor"
+            },
+            {
+              "text": "una distribución eléctrica en red",
+              "start": 243,
+              "end": 272,
+              "type": "distractor"
+            },
+            {
+              "text": "un motor no chispeante",
+              "start": 67,
+              "end": 89,
+              "type": "distractor"
+            },
+            {
+              "text": "unas cargas variables",
+              "start": 146,
+              "end": 162,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Cuando la Francia revolucionaria declaró la guerra a Gran Bretaña en 1793, Estados Unidos trató de permanecer neutral, pero el Tratado Jay, que era favorable a Gran Bretaña, enfureció al gobierno francés, que lo consideró una violación del Tratado de Alianza de 1778. Los corsarios franceses comenzaron a apoderarse de los buques estadounidenses, lo que llevó a una \"cuasi-guerra\" no declarada entre las dos naciones. Combatido en el mar desde 1798 hasta 1800, Estados Unidos ganó una serie de victorias en el Caribe. George Washington fue llamado de su retiro para dirigir un \"ejército provisional\" en caso de invasión de Francia, pero el presidente John Adams logró negociar una tregua, en la que Francia acordó terminar la alianza anterior y cesar sus ataques.",
+      "annotations": [
+        {
+          "question": "¿Cuándo se hizo el Tratado de Alianza?",
+          "choices": [
+            {
+              "text": "1778",
+              "start": 262,
+              "end": 266,
+              "type": "correct answer"
+            },
+            {
+              "text": "1793",
+              "start": 69,
+              "end": 73,
+              "type": "distractor"
+            },
+            {
+              "text": "1798",
+              "start": 444,
+              "end": 448,
+              "type": "distractor"
+            },
+            {
+              "text": "1800",
+              "start": 455,
+              "end": 459,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los griegos de Chipre tienen una historia similar de emigración, por lo general al mundo de habla inglesa debido a la colonización de la isla por el Imperio Británico. Las olas de emigración siguieron a la invasión turca de Chipre en 1974, mientras que la población disminuyó entre mediados de 1974 y 1977 como resultado de la emigración, las pérdidas de guerra y una disminución temporal de la fertilidad. Después de la limpieza étnica de un tercio de la población griega de la isla en 1974, también hubo un aumento en el número de grecochipriotas que se fueron, especialmente para Oriente Medio, lo que contribuyó a una disminución de la población. Hoy más de dos tercios de la población griega en Chipre es urbana.",
+      "annotations": [
+        {
+          "question": "¿De qué nacionalidad fue la invasión a Chipre en 1974?",
+          "choices": [
+            {
+              "text": "turca",
+              "start": 215,
+              "end": 220,
+              "type": "correct answer"
+            },
+            {
+              "text": "inglesa",
+              "start": 98,
+              "end": 105,
+              "type": "distractor"
+            },
+            {
+              "text": "griega",
+              "start": 466,
+              "end": 472,
+              "type": "distractor"
+            },
+            {
+              "text": "grecochipriota",
+              "start": 533,
+              "end": 547,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Con el tiempo, la red se extendió más allá de las instituciones académicas y militares y se hizo conocida como Internet. La aparición de redes implicó una redefinición de la naturaleza y los límites de la computadora. Los sistemas operativos y aplicaciones fueron modificados para incluir la capacidad de definir y acceder a los recursos de otras computadoras en la red, como dispositivos periféricos, información almacenada, y similares, como extensiones de los recursos de una computadora individual. Inicialmente estas instalaciones estaban disponibles principalmente para personas que trabajan en entornos de alta tecnología, pero en la década de 1990 la difusión de aplicaciones como el correo electrónico y la World Wide Web, combinada con el desarrollo de tecnologías de redes rápidas y baratas. De hecho, el número de computadoras en red está creciendo fenomenalmente. Una gran proporción de computadoras personales se conectan regularmente a Internet para comunicarse y recibir información. Las redes \"inalámbricas\", a menudo utilizando redes de telefonía móvil, han significado que las redes se están volviendo cada vez más omnipresentes incluso en los entornos de computación móvil.",
+      "annotations": [
+        {
+          "question": "¿Para quién estaba dedicada la Internet en un principio?",
+          "choices": [
+            {
+              "text": "instituciones académicas y militares",
+              "start": 50,
+              "end": 86,
+              "type": "correct answer"
+            },
+            {
+              "text": "dispositivos periféricos",
+              "start": 376,
+              "end": 400,
+              "type": "distractor"
+            },
+            {
+              "text": "redes de telefonía móvil",
+              "start": 1046,
+              "end": 1070,
+              "type": "distractor"
+            },
+            {
+              "text": "personas que trabajan en entornos de alta tecnología",
+              "start": 576,
+              "end": 628,
+              "type": "distractor"
+            },
+            {
+              "text": "computadoras personales ",
+              "start": 900,
+              "end": 924,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El 16 de julio de 1945, con muchos otros miembros del Proyecto Manhattan, von Neumann fue testigo presencial de la primera explosión de una bomba atómica, llamada Trinity, llevada a cabo como prueba del método de implosión, en el campo de aviación. Basándose solo en su observación, von Neumann estimó que la prueba había resultado en una explosión equivalente a 5 kilotones de TNT (21 TJ), pero Enrico Fermi produjo una estimación más precisa de 10 kilotones al soltar fragmentos de onda. El poder real de la explosión había sido de entre 20 y 22 kilotones. Fue en los artículos de 1944 de von Neumann que la expresión \"kilotones\" apareció por primera vez. Después de la guerra, Robert Oppenheimer comentó que los físicos involucrados en el proyecto de Manhattan tenían \"pecado conocido\". La respuesta de von Neumann fue que \"a veces alguien confiesa un pecado para tomar crédito por ello\".",
+      "annotations": [
+        {
+          "question": "¿Qué magnitud de explosión estimó von Neumann de la prueba?",
+          "choices": [
+            {
+              "text": "5 kilotones",
+              "start": 363,
+              "end": 374,
+              "type": "correct answer"
+            },
+            {
+              "text": "10 kilotones",
+              "start": 447,
+              "end": 459,
+              "type": "distractor"
+            },
+            {
+              "text": "22 kilotones",
+              "start": 545,
+              "end": 557,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1219 el Papa Honorio III invitó a Santo Domingo y sus compañeros a establecer su residencia en la antigua basílica romana de Santa Sabina, lo que hicieron a principios de 1220. Antes de ese momento los frailes tenían sólo una residencia temporal en Roma en el convento de San Sisto Vecchio que Honorio III había dado a Domingo alrededor de 1218 con la intención de convertirse en un convento para una reforma de monjas. En mayo de 1220 en Bolonia, el primer capítulo general de la orden ordenó que cada nuevo priorato de la orden mantuviera su propio studium conventuale sentando así la base de la tradición dominicana de patrocinar instituciones de aprendizaje. La fundación oficial del convento dominico de Santa Sabina con su studium conventuale ocurrió con la transferencia legal de la propiedad de Honorio III a la Orden de Predicadores el 5 de junio de 1222. Este estudio fue transformado en el primer studium provinciale de la orden por Santo Tomás de Aquino en 1265. Parte del plan de estudios de este estudio se trasladó en 1288 en el estudio de Santa Maria sopra Minerva que en el siglo XVI se transformó en el Colegio de Santo Tomás (en latín, Collegium Divi Thomæ). En el siglo XX el colegio se trasladó al convento de los Santos Domingo y Sixto y se transformaría en la Pontificia Universidad de Santo Tomás de Aquino, Angelicum.",
+      "annotations": [
+        {
+          "question": "¿Qué se requería de cada nuevo priorato?",
+          "choices": [
+            {
+              "text": "su propio studium conventuale",
+              "start": 544,
+              "end": 573,
+              "type": "correct answer"
+            },
+            {
+              "text": "una residencia temporal",
+              "start": 225,
+              "end": 248,
+              "type": "distractor"
+            },
+            {
+              "text": "un convento para una reforma de monjas",
+              "start": 383,
+              "end": 421,
+              "type": "distractor"
+            },
+            {
+              "text": "establecer su residencia en la antigua basílica romana de Santa Sabina",
+              "start": 70,
+              "end": 140,
+              "type": "distractor"
+            },
+            {
+              "text": "el primer studium provinciale",
+              "start": 901,
+              "end": 930,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Turner Classic Movies esencialmente opera como un servicio libre de comerciales, con los únicos anuncios en la red que se muestran entre las características - que anuncian productos TCM, promociones de red para los próximos programas especiales y los tráilers originales para películas. Además de esto, los descansos extendidos entre las características están llenos de tráilers de películas estrenadas y cortometrajes clásicos - de series como The Passing Parade, Crime Does Not Pay, Pete Smith Specialties y Robert Benchley. En 2007, algunos de los cortometrajes presentados en TCM se pusieron a disposición para la transmisión en el sitio web de TCM. En parte para permitir estos intersticiales, Turner Classic Movies planifica sus películas ya sea en la parte superior de la hora o en: 15,: 30 o: 45 minutos después de la hora, en lugar de intervalos de cinco minutos.",
+      "annotations": [
+        {
+          "question": "¿Qué se muestra en los descansos extendidos entre las características?",
+          "choices": [
+            {
+              "text": "tráilers de películas estrenadas y cortometrajes clásicos",
+              "start": 370,
+              "end": 427,
+              "type": "correct answer"
+            },
+            {
+              "text": "anuncios en la red",
+              "start": 96,
+              "end": 114,
+              "type": "distractor"
+            },
+            {
+              "text": "promociones de red para los próximos programas especiales",
+              "start": 187,
+              "end": 244,
+              "type": "distractor"
+            },
+            {
+              "text": "cortometrajes presentados en TCM",
+              "start": 551,
+              "end": 583,
+              "type": "distractor"
+            },
+            {
+              "text": "la transmisión en el sitio web de TCM",
+              "start": 615,
+              "end": 652,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Como otras lenguas eslavas del sur, el serbocroata tiene una fonología simple, con el sistema común de cinco vocales y veinticinco consonantes. Su gramática evolucionó del eslavo común, con inflexiones complejas, preservando siete casos gramaticales en sustantivos, pronombres y adjetivos. Los verbos exhiben aspecto imperfectivo o perfectivo, con un sistema tenso moderadamente complejo. El serbocroata es un lenguaje a favor de la caída con orden de palabras flexible, sujeto-verbo-objeto es el predeterminado. Se puede escribir en alfabeto cirílico serbio o latino de Gaj, cuyas treinta letras mapean mutuamente una a una, y la ortografía es altamente fonémica en todos los estándares.",
+      "annotations": [
+        {
+          "question": "¿Cuántos casos gramaticales tiene el eslavo común?",
+          "choices": [
+            {
+              "text": "siete",
+              "start": 225,
+              "end": 230,
+              "type": "correct answer"
+            },
+            {
+              "text": "cinco",
+              "start": 103,
+              "end": 108,
+              "type": "distractor"
+            },
+            {
+              "text": "veinticinco",
+              "start": 119,
+              "end": 130,
+              "type": "distractor"
+            },
+            {
+              "text": "treinta",
+              "start": 582,
+              "end": 589,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La División de Servicios de Información de la Justicia Criminal (CJIS) se encuentra en Clarksburg, Virginia Occidental. Organizada a partir de 1991, la oficina abrió en 1995 como la división de agencia más joven. El complejo tiene la longitud de tres campos de fútbol. Proporciona un repositorio principal de información en varios sistemas de datos. Bajo el techo del CJIS se encuentran los programas del National Crime Information Center (NCIC), Uniform Crime Reporting (UCR), Fingerprint Identification, Integrated Automated Fingerprint Identification System. Muchas agencias estatales y locales utilizan estos sistemas de datos como fuente para sus propias investigaciones y contribuyen a la base de datos utilizando comunicaciones seguras. El FBI proporciona estas herramientas de sofisticados servicios de identificación e información a las agencias policiales locales, estatales, federales e internacionales.",
+      "annotations": [
+        {
+          "question": "¿Qué proporciona como la División de Servicios de Información de la Justicia Criminal?",
+          "choices": [
+            {
+              "text": "un repositorio principal de información en varios sistemas de datos",
+              "start": 281,
+              "end": 348,
+              "type": "correct answer"
+            },
+            {
+              "text": "servicios de identificación e información a las agencias policiales locales, estatales, federales e internacionales",
+              "start": 798,
+              "end": 913,
+              "type": "distractor"
+            },
+            {
+              "text": "sistemas de datos como fuente para sus propias investigaciones",
+              "start": 613,
+              "end": 675,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Harper Lee estaba contento con la película, diciendo: \"En esa película el hombre y el papel se conocieron... He tenido muchas, muchas ofertas para convertirlo en musicales, en televisión o obras de teatro, pero siempre me he negado. Esa película fue una obra de arte \". Peck conoció al padre de Lee, el modelo de Atticus, antes del rodaje. El padre de Lee murió antes del estreno de la película, y Lee quedó tan impresionado con la actuación de Peck que le dio el reloj de bolsillo de su padre, que tuvo con él la noche en que fue galardonado con el Oscar al mejor actor. Años más tarde, se mostró reacio a decirle a Lee que el reloj fue robado de su equipaje en el aeropuerto de Londres-Heathrow. Cuando Peck finalmente le dijo a Lee, él dijo que ella respondió: \"Bueno, es sólo un reloj\". Harper - se siente profundamente, pero no es una persona sentimental sobre las cosas \". Lee y Peck compartieron una amistad mucho después de que se hizo la película. El nieto de Peck fue nombrado \"Harper\" en su honor.",
+      "annotations": [
+        {
+          "question": "¿Qué le obsequió Lee a Peck después de su actuación?",
+          "choices": [
+            {
+              "text": "un reloj",
+              "start": 464,
+              "end": 469,
+              "type": "correct answer"
+            },
+            {
+              "text": "una obra de arte",
+              "start": 250,
+              "end": 266,
+              "type": "distractor"
+            },
+            {
+              "text": "una película",
+              "start": 947,
+              "end": 955,
+              "type": "distractor"
+            },
+            {
+              "text": "una televisión",
+              "start": 176,
+              "end": 186,
               "type": "distractor"
             }
           ]

@@ -36,6 +36,22 @@ Total 40
 
 <br>
 
+# Wednesday April 12
+
+Dates and Numbers 2
+
+Names 0
+
+Phrases 8  
+
+Total 10
+
+## Comments
+81. Add "un", "unas"
+90. Add "un", "unas"
+
+<br>
+
 # Total
 
 Dates and Numbers 10
