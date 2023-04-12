@@ -1376,72 +1376,72 @@
       "context": "El impuesto sobre la renta de Tennessee no se aplica a los salarios y salarios, pero la mayoría de los ingresos por acciones, bonos y billetes que se pueden cobrar son imponibles. Todos los dividendos e intereses imponibles que exceden la exención individual de 1.250 dólares o la exención conjunta de 2.500 dólares son gravables a una tasa del 6%. Las ventas del estado y la tasa de uso fiscal para la mayoría de los artículos es del 7%. Los alimentos se gravan a una tasa menor del 5,25%, pero los dulces, suplementos dietéticos y alimentos preparados se gravan a la tasa total del 7%. Los impuestos locales sobre las ventas se recaudan en la mayoría de las jurisdicciones, con tasas que varían del 1,5% al 2,75%, lo que lleva el impuesto total de ventas entre el 8,5% y el 9,75%. La propiedad intangible se evalúa en las acciones de los accionistas de cualquier compañía de préstamo, compañía de inversión, compañía de seguros o compañías de cementerios con fines de lucro. La relación de evaluación es del 40% del valor multiplicado por la tasa impositiva para la jurisdicción. Tennessee impone un impuesto a la herencia sobre las propiedades de los desposeídos que exceden los límites máximos de una única exención ($1,000,000 para las muertes en 2006 y después).",
       "annotations": [
         {
-          "question": "¿Sobre qué esta un impuesto sobre las propiedades de los desposeídos?",
-          "choices": [
-            {
-              "text": "herencia",
-              "start": 1116,
-              "end": 1124,
-              "type": "correct answer"
-            },
-            {
-              "text": "dividendos",
-              "start": 190,
-              "end": 200,
-              "type": "distractor"
-            },
-            {
-              "text": "ingresos",
-              "start": 103,
-              "end": 111,
-              "type": "distractor"
-            },
-            {
-              "text": "alimentos",
-              "start": 533,
-              "end": 542,
-              "type": "distractor"
-            },
-            {
-              "text": "bonos",
-              "start": 126,
-              "end": 131,
-              "type": "distractor"
+            "question": "¿Sobre qué esta un impuesto sobre las propiedades de los desposeídos?",
+            "choices": [
+              {
+                "text": "herencia",
+                "start": 1116,
+                "end": 1124,
+                "type": "correct answer"
+              },
+              {
+                "text": "dividendos",
+                "start": 190,
+                "end": 200,
+                "type": "distractor"
+              },
+              {
+                "text": "ingresos",
+                "start": 103,
+                "end": 111,
+                "type": "distractor"
+              },
+              {
+                "text": "alimentos",
+                "start": 533,
+                "end": 542,
+                "type": "distractor"
+              },
+              {
+                "text": "bonos",
+                "start": 126,
+                "end": 131,
+                "type": "distractor"
             }
           ]
         },
         {
-          "question": "¿A qué tasa se aplican normalmente las ventas estatales de Tennessee y el impuesto al uso?",
-          "choices": [
-            {
-              "text": "7%",
-              "start": 435,
-              "end": 437,
-              "type": "correct answer"
-            },
-            {
-              "text": "6%",
-              "start": 345,
-              "end": 347,
-              "type": "distractor"
-            },
-            {
-              "text": "1,5%",
-              "start": 701,
-              "end": 705,
-              "type": "distractor"
-            },
-            {
-              "text": "5,25%",
-              "start": 484,
-              "end": 489,
-              "type": "distractor"
-            },
-            {
-              "text": "8,5%",
-              "start": 766,
-              "end": 770,
-              "type": "distractor"
+            "question": "¿A qué tasa se aplican normalmente las ventas estatales de Tennessee y el impuesto al uso?",
+            "choices": [
+              {
+                "text": "7%",
+                "start": 435,
+                "end": 437,
+                "type": "correct answer"
+              },
+              {
+                "text": "6%",
+                "start": 345,
+                "end": 347,
+                "type": "distractor"
+              },
+              {
+                "text": "1,5%",
+                "start": 701,
+                "end": 705,
+                "type": "distractor"
+              },
+              {
+                "text": "5,25%",
+                "start": 484,
+                "end": 489,
+                "type": "distractor"
+              },
+              {
+                "text": "8,5%",
+                "start": 766,
+                "end": 770,
+                "type": "distractor"
             }
           ]
         }
@@ -2442,6 +2442,340 @@
               "start": 323,
               "end": 363,
               "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En biología, la energía es un atributo de todos los sistemas biológicos de la biosfera al organismo vivo más pequeño. Dentro de un organismo es responsable del crecimiento y desarrollo de una célula biológica o un orgánulo de un organismo biológico. Por lo tanto, a menudo se dice que la energía es almacenada por las células en las estructuras de moléculas de sustancias tales como carbohidratos (incluidos azúcares), lípidos y proteínas, que liberan energía cuando reaccionan. En términos humanos, el equivalente humano (H-e) indica, para una determinada cantidad de gasto de energía, la cantidad relativa de energía necesaria para el metabolismo humano, asumiendo un gasto de energía promedio humano de 12.500 kJ por día. Por ejemplo, si nuestros cuerpos corren (en promedio) a 80 vatios, entonces una bombilla de 100 vatios está funcionando a 1,25 equivalentes humanos (100. 80) i.e. 1,25 H-e. Para una tarea difícil de sólo unos segundos de duración, una persona puede poner miles de watts, muchas veces los 746 vatios en un solo caballo oficial. Para tareas que duran unos minutos, un humano en forma puede generar quizás 1000 vatios. Para una actividad que debe mantenerse durante una hora, la producción cae a alrededor de 300. Para una actividad mantenida todo el día, 150 vatios es aproximadamente el máximo. El equivalente humano ayuda a comprender los flujos de energía en los sistemas físicos y biológicos expresando unidades de energía en términos humanos: Proporciona una \"sensación\" para el uso de una cantidad dada de energía.",
+      "annotations": [
+        {
+          "question": "¿Qué es almacenado por células en las estructuras de moléculas de sustancias tales como carbohidratos, lípidos y proteínas?",
+          "choices": [
+            {
+              "text": "energía",
+              "start": 288,
+              "end": 295,
+              "type": "correct answer"
+            },
+            {
+              "text": "metabolismo",
+              "start": 637,
+              "end": 648,
+              "type": "distractor"
+            },
+            {
+              "text": "biosfera",
+              "start": 78,
+              "end": 86,
+              "type": "distractor"
+            },
+            {
+              "text": "orgánulo",
+              "start": 214,
+              "end": 222,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Abarca tanto estilos seculares como religiosos, el diseño y el estilo hechos por los musulmanes y su construcción de edificios y estructuras en la cultura islámica incluyen los tipos arquitectónicos: La Mezquita, la Tumba, el Palacio y el Fuerte. Tal vez la expresión más importante del arte islámico es la arquitectura, particularmente la de la mezquita. A través de la arquitectura islámica, se pueden ilustrar los efectos de diversas culturas dentro de la civilización islámica. En general, el uso de patrones geométricos islámicos y arabescos basados en follaje fueron sorprendentes. También hubo el uso de caligrafía decorativa en lugar de imágenes que estaban prohibidas en la arquitectura de mezquitas. Nótese que en la arquitectura secular, la representación humana y animal estaba presente.",
+      "annotations": [
+        {
+          "question": "¿Qué tipo de decoraciones se utilizaban en lugar de imágenes?",
+          "choices": [
+            {
+              "text": "caligrafía decorativa",
+              "start": 611,
+              "end": 632,
+              "type": "correct answer"
+            },
+            {
+              "text": "representación humana y animal",
+              "start": 752,
+              "end": 782,
+              "type": "distractor"
+            },
+            {
+              "text": "patrones geométricos",
+              "start": 504,
+              "end": 524,
+              "type": "distractor"
+            },
+            {
+              "text": "estilos seculares",
+              "start": 13,
+              "end": 30,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La primera aparición del término \"acción afirmativa\" fue en la Ley Nacional de Relaciones Laborales, más conocida como la Ley Wagner, de 1935.: 15 Propuesta y defendida por U.S. El senador Robert F. Wagner de Nueva York, la Ley Wagner estaba en consonancia con el objetivo del presidente Roosevelt de proporcionar seguridad económica a los trabajadores y otros grupos de bajos ingresos. Durante este período de tiempo no era infrecuente para los empleadores la lista negra o los empleados de bomberos asociados con los sindicatos. La Ley Wagner permitió a los trabajadores sindicalizarse sin miedo a ser discriminados y facultó a una Junta Nacional de Relaciones Laborales para revisar los casos potenciales de discriminación laboral. En caso de discriminación, los empleados debían ser restaurados a un estatus apropiado en la empresa a través de la \"acción afirmativa\". Si bien la Ley Wagner protegía a los trabajadores y los sindicatos, no protegía a las minorías, que, eximiendo al Congreso de Organizaciones Industriales, a menudo se les excluía de las filas sindicales. : 11 Esta acuñación original del término por lo tanto tiene poco que ver con la política de acción afirmativa como se ve hoy, pero ayudó a establecer el escenario para toda política destinada a compensar o abordar el trato injusto de un individuo. [Cita requerida]",
+      "annotations": [
+        {
+          "question": "¿La Ley Wagner estaba en consonancia con qué objetivo del presidente Roosevelt?",
+          "choices": [
+            {
+              "text": "establecer el escenario para toda política destinada a compensar o abordar el trato injusto de un individuo",
+              "start": 1215,
+              "end": 1322,
+              "type": "distractor"
+            },
+            {
+              "text": "proporcionar seguridad económica a los trabajadores y otros grupos de bajos ingresos",
+              "start": 301,
+              "end": 385,
+              "type": "correct answer"
+            },
+            {
+              "text": "revisar los casos potenciales de discriminación laboral",
+              "start": 678,
+              "end": 733,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Por otro lado, ciertas técnicas financieras pueden reducir el impacto de tales compras en la moneda. Una es la esterilización, en la que se venden activos altamente valorados al mismo tiempo que se compran los activos más débiles, lo que mantiene la oferta monetaria neutral. Otra técnica es simplemente aceptar los malos activos como garantía a largo plazo (a diferencia de los intercambios de repo a corto plazo) que se celebrarán hasta que su valor de mercado se estabilice. Esto implicaría, como quid pro quo, ajustes en los impuestos y el gasto en las economías de los estados más débiles para mejorar el valor percibido de los activos.",
+      "annotations": [
+        {
+          "question": "¿Qué puede hacer un Estado con activos malos, en lugar de cobrarlos directamente?",
+          "choices": [
+            {
+              "text": "aceptar los malos activos como garantía a largo plazo",
+              "start": 304,
+              "end": 357,
+              "type": "correct answer"
+            },
+            {
+              "text": "comprar los activos más débiles",
+              "start": 198,
+              "end": 229,
+              "type": "distractor"
+            },
+            {
+              "text": "vender activos altamente valorados",
+              "start": 140,
+              "end": 174,
+              "type": "distractor"
+            },
+            {
+              "text": "mejorar el valor percibido de los activos",
+              "start": 599,
+              "end": 640,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las llamadas se utilizan para una variedad de propósitos, incluyendo la atracción de pareja, la evaluación de parejas potenciales, la formación de enlaces, la reclamación y el mantenimiento de territorios, la identificación de otros individuos. Algunas aves también utilizan sonidos mecánicos para la comunicación auditiva. Los francotiradores de Coenocorypha de Nueva Zelanda impulsan el aire a través de sus plumas, los pájaros carpinteros tocan territorialmente, y las cacatúas de palma utilizan herramientas para percusión.",
+      "annotations": [
+        {
+          "question": "¿Qué hacen las cacatúas de palma como llamada?",
+          "choices": [
+            {
+              "text": "utilizan herramientas para percusión",
+              "start": 490,
+              "end": 526,
+              "type": "correct answer"
+            },
+            {
+              "text": "tocan territorialmente",
+              "start": 442,
+              "end": 464,
+              "type": "distractor"
+            },
+            {
+              "text": "impulsan el aire a través de sus plumas",
+              "start": 377,
+              "end": 416,
+              "type": "distractor"
+            },
+            {
+              "text": "utilizan sonidos mecánicos para la comunicación auditiva",
+              "start": 266,
+              "end": 322,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Museo Soumaya, llamado así por la esposa del magnate mexicano Carlos Slim, tiene la mayor colección privada de esculturas originales de Rodin fuera de París. También cuenta con una gran colección de esculturas de Dalí, y recientemente comenzó a mostrar piezas en su colección de maestros como El Greco, Velázquez, Picasso y Canaletto. El museo inauguró una nueva instalación de diseño futurista en 2011 justo al norte de Polanco, manteniendo una instalación más pequeña en Plaza Loreto en el sur de la Ciudad de México. La Colección Júmex es un museo de arte contemporáneo ubicado en los terrenos baldíos de la compañía Jumex en el suburbio industrial norte de Ecatepec. Se dice que tiene la mayor colección privada de arte contemporáneo en América Latina y alberga piezas de su colección permanente, así como exposiciones itinerantes de destacados artistas contemporáneos. El nuevo Museo Júmex en Nuevo Polanco fue programado para abrir en noviembre de 2013. El Museo de San Ildefonso, ubicado en el Antiguo Colegio de San Ildefonso en el centro histórico de la Ciudad de México, es un palacio con columnas del siglo XVII que alberga un museo de arte internacional. Exposiciones recientes han incluido las de David LaChapelle, Antony Gormley y Ron Mueck. El Museo Nacional de Arte también se encuentra en un antiguo palacio en el centro histórico. Alberga una gran colección de piezas de todos los principales artistas mexicanos de los últimos 400 años y también alberga exposiciones de visita.",
+      "annotations": [
+        {
+          "question": "¿Cuál museo ha tenido exposiciones recientes de David LaChapelle, Antony Gormley y Ron Mueck?",
+          "choices": [
+            {
+              "text": "Museo de San Ildefonso",
+              "start": 966,
+              "end": 988,
+              "type": "correct answer"
+            },
+            {
+              "text": "Museo Nacional de Arte",
+              "start": 1262,
+              "end": 1284,
+              "type": "distractor"
+            },
+            {
+              "text": "Museo Soumaya",
+              "start": 3,
+              "end": 16,
+              "type": "distractor"
+            },
+            {
+              "text": "Museo Júmex",
+              "start": 886,
+              "end": 897,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Esta disociación tiene como objetivo dar los primeros pasos (ofrecer, prometer, pedir una ventaja) de un acuerdo corrupto que ya es un delito y, por lo tanto, dar una señal clara (desde un punto de vista de política criminal). Además, tal disociación hace que el procesamiento de delitos de soborno sea más fácil, ya que puede ser muy difícil demostrar que dos partes (el sobornador y el portador de sobornos) han acordado formalmente. Además, a menudo no existe tal acuerdo formal, sino sólo un entendimiento mutuo, por ejemplo, cuando es común el conocimiento en un municipio que para obtener un permiso de construcción uno tiene que pagar una cuota al tomador de decisiones para obtener una decisión favorable. Una definición funcional de corrupción también se proporciona de la siguiente manera en el artículo 3 de la Convención de Derecho Civil sobre la Corrupción (ETS 174): Para el propósito de esta Convención, \"corrupción\" significa solicitar, ofrecer o aceptar.",
+      "annotations": [
+        {
+          "question": "¿Qué significa \"corrupción\" según el artículo 3 de la Convención de Derecho Civil sobre la Corrupción?",
+          "choices": [
+            {
+              "text": "solicitar, ofrecer o aceptar",
+              "start": 942,
+              "end": 970,
+              "type": "correct answer"
+            },
+            {
+              "text": "ofrecer, prometer, pedir una ventaja",
+              "start": 61,
+              "end": 97,
+              "type": "distractor"
+            },
+            {
+              "text": "un entendimiento mutuo",
+              "start": 493,
+              "end": 515,
+              "type": "distractor"
+            },
+            {
+              "text": "pagar una cuota al tomador de decisiones para obtener una decisión favorable",
+              "start": 636,
+              "end": 712,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los estudiosos han caracterizado Matar un ruiseñor tanto como una novela gótica sureña como de madurez o Bildungsroman. Las grotescas y casi sobrenaturales cualidades de Boo Radley y su casa, y el elemento de injusticia racial que involucra a Tom Robinson contribuyen al aura del gótico en la novela. Lee usó el término \"Gothic\" para describir la arquitectura del palacio de justicia de Maycomb y en lo que respecta a las actuaciones exageradamente mórbidas de Dill como Boo Radley. Los forasteros son también un elemento importante de los textos góticos meridionales y las preguntas de Scout y Jem sobre la jerarquía de la ciudad hacen que los estudiosos comparen la novela con Catcher in the Rye y Las aventuras de Huckleberry Finn. A pesar de desafiar los sistemas de la ciudad, Scout invierte a Atticus como una autoridad por encima de todos los demás, porque cree que seguir la conciencia es la máxima prioridad, incluso cuando el resultado es el ostracismo social. Sin embargo, los estudiosos debaten sobre la clasificación gótica del sur, señalando que Boo Radley es de hecho humano, protector y benevolente. Además, al abordar temas como el alcoholismo, el incesto, la violación y la violencia racial, Lee escribió sobre su pequeña ciudad de manera realista en lugar de melodramática. Retrata los problemas de los personajes individuales como problemas subyacentes universales en cada sociedad.",
+      "annotations": [
+        {
+          "question": "¿Qué personaje debaten los estudiosos que es humano, protector y benevolente?",
+          "choices": [
+            {
+              "text": "Boo Radley",
+              "start": 1060,
+              "end": 1070,
+              "type": "correct answer"
+            },
+            {
+              "text": "Scout",
+              "start": 782,
+              "end": 787,
+              "type": "distractor"
+            },
+            {
+              "text": "Dill",
+              "start": 461,
+              "end": 465,
+              "type": "distractor"
+            },
+            {
+              "text": "Tom Robinson",
+              "start": 243,
+              "end": 255,
+              "type": "distractor"
+            },
+            {
+              "text": "Atticus",
+              "start": 799,
+              "end": 806,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Algunos contemporáneos alegaron que Bonaparte fue puesto bajo arresto domiciliario en Niza por su asociación con los Robespierres tras su caída en la Reacción Termidoria en julio de 1794, pero la secretaria de Napoleón Bourrienne disputó la acusación. Según Bourrienne, los celos eran responsables, entre el Ejército de los Alpes y el Ejército de Italia (con el que Napoleón era adscrito en ese momento). Bonaparte envió una defensa apasionada en una carta al comisario Salicetti, y posteriormente fue absuelto de cualquier delito.",
+      "annotations": [
+        {
+          "question": "¿Quién se cree que fue puesto bajo arresto domiciliario en Niza en julio de 1974?",
+          "choices": [
+            {
+              "text": "Bonaparte",
+              "start": 36,
+              "end": 45,
+              "type": "correct answer"
+            },
+            {
+              "text": "Robespierres",
+              "start": 117,
+              "end": 129,
+              "type": "distractor"
+            },
+            {
+              "text": "Salicetti",
+              "start": 470,
+              "end": 479,
+              "type": "distractor"
+            },
+            {
+              "text": "Bourrienne",
+              "start": 258,
+              "end": 268,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El tranvía de Estrasburgo es operado por la compañía de transporte regional Compagnie des Transports Strasbourgeois (CTS), que consta de 6 líneas con una longitud total de 55,8 km. El CTS también opera una red de autobuses integral en toda la ciudad que está integrada con los tranvías. Con más de 500 km (311 millas) de ciclovías, el ciclismo en la ciudad es conveniente y el CTS opera un esquema de reparto de bicicletas barato llamado Vélhop '. El CTS, y sus predecesores, también operaron una generación anterior de sistema de tranvía entre 1878 y 1960, complementado por rutas de trolebús entre 1939 y 1962.",
+      "annotations": [
+        {
+          "question": "¿Qué longitud en kilómetros tiene el CTS en sus 6 líneas?",
+          "choices": [
+            {
+              "text": "55,8",
+              "start": 172,
+              "end": 176,
+              "type": "correct answer"
+            },
+            {
+              "text": "500",
+              "start": 298,
+              "end": 301,
+              "type": "distractor"
+            },
+            {
+              "text": "311",
+              "start": 306,
+              "end": 309,
+              "type": "distractor"
             }
           ]
         }

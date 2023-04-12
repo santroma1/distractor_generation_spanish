@@ -20,17 +20,28 @@ Total 40
 
 # Tuesday April 11
 
-Dates and Numbers 6
+Dates and Numbers 7
 
-Names 7
+Names 10
 
-Phrases 16   
+Phrases 23   
 
-Total 30
+Total 40
 
 ## Comments
 52. Change articles
 68. Cases
+74. Edit all cases to infinitve
 
 
 <br>
+
+# Total
+
+Dates and Numbers 10
+
+Names 21
+
+Phrases 49   
+
+Total 80
