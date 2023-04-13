@@ -36,28 +36,32 @@ Total 40
 
 <br>
 
-# Wednesday April 12
+# Wednesday April 12 - Thursday April 13
 
-Dates and Numbers 2
+Dates and Numbers 6
 
-Names 0
+Names 9
 
-Phrases 8  
+Phrases 25
 
-Total 10
+Total 40
 
 ## Comments
 81. Add "un", "unas"
 90. Add "un", "unas"
+97. Add "de" + article
+100. Add "endo" to verbs
+103. Add "porque" and lower cases
+107. Add definite articles. 
 
 <br>
 
 # Total
 
-Dates and Numbers 10
+Dates and Numbers 16
 
-Names 21
+Names 30
 
-Phrases 49   
+Phrases 74   
 
-Total 80
+Total 120
