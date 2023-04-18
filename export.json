@@ -4194,6 +4194,358 @@
           ]
         }
       ]
+    },
+    {
+      "context": "El compromiso decisivo de la guerra llegó cuando Lisímaco invadió y invadió gran parte del oeste de Anatolia, pero pronto fue aislado por Antígono y Demetrio cerca de Ipsos en Frigia. Seleuco llegó a tiempo para salvar a Lisímaco y aplastó totalmente a Antígono en la batalla de Ipsos en el año 301 a. Los elefantes de guerra de Seleuco resultaron decisivos, Antígono fue asesinado, y Demetrio huyó de nuevo a Grecia para tratar de preservar los restos de su gobierno al recuperar una Atenas rebelde. Mientras tanto, Lisímaco tomó Jonia, Seleuco tomó Cilicia y Ptolomeo capturó Chipre.",
+      "annotations": [
+        {
+          "question": "¿Quién salvó a Lisímaco cerca de Ipsos en Frigia?",
+          "choices": [
+            {
+              "text": "Demetrio",
+              "start": 385,
+              "end": 393,
+              "type": "distractor"
+            },
+            {
+              "text": "Ptolomeo",
+              "start": 561,
+              "end": 569,
+              "type": "distractor"
+            },
+            {
+              "text": "Seleuco",
+              "start": 184,
+              "end": 191,
+              "type": "correct answer"
+            },
+            {
+              "text": "Antígono",
+              "start": 138,
+              "end": 146,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La compresión de audio sin pérdida produce una representación de datos digitales que se descomprime a un duplicado digital exacto de la corriente de audio original, a diferencia de la reproducción de técnicas de compresión con pérdida como Vorbis y MP3. Las relaciones de compresión son alrededor del 50-60% del tamaño original, que es similar a las de la compresión genérica de datos sin pérdida. La compresión sin pérdida es incapaz de alcanzar altas relaciones de compresión debido a la complejidad de las formas de onda y los rápidos cambios en las formas de sonido. Codecs como FLAC, Shorten y TTA utilizan la predicción lineal para estimar el espectro de la señal. Muchos de estos algoritmos utilizan la convolución con el filtro [-1 1] para ligeramente blanquear o aplanar el espectro, permitiendo así que la compresión sin pérdida tradicional funcione de manera más eficiente. El proceso se invierte tras la descompresión.",
+      "annotations": [
+        {
+          "question": "¿Qué se utiliza para que la compresión sin pérdida tradicional funcione de manera más eficiente?",
+          "choices": [
+            {
+              "text": "la convolución con el filtro [-1 1]",
+              "start": 707,
+              "end": 742,
+              "type": "correct answer"
+            },
+            {
+              "text": "la predicción lineal para estimar el espectro de la señal",
+              "start": 612,
+              "end": 669,
+              "type": "distractor"
+            },
+            {
+              "text": "un duplicado digital exacto de la corriente de audio original",
+              "start": 102,
+              "end": 163,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El manto es equivalente a 10 a 15 masas terrestres y es rico en agua, amoníaco y metano. Como es habitual en la ciencia planetaria, esta mezcla se conoce como helada a pesar de que es un fluido denso y caliente. Este fluido, que tiene una alta conductividad eléctrica, a veces se llama océano de agua y amoníaco. El manto puede consistir en una capa de agua iónica en la que las moléculas de agua se descomponen en una sopa de iones de hidrógeno y oxígeno, y en aguas superiores en las que el oxígeno cristaliza. A una profundidad de 7000 km, las condiciones pueden ser tales que el metano se descompone en cristales de diamante que llueven hacia abajo como granjitas. Experimentos de alta presión en el Laboratorio Nacional Lawrence Livermore sugieren que la base del manto puede comprender un océano de carbono líquido con \"diamantes\" sólidos flotantes.",
+      "annotations": [
+        {
+          "question": "¿Qué elemento o compuesto está presente en la base del manto para que esta tenga \"diamantes\" sólidos flotantes?",
+          "choices": [
+            {
+              "text": "carbono líquido",
+              "start": 805,
+              "end": 820,
+              "type": "correct answer"
+            },
+            {
+              "text": "metano",
+              "start": 583,
+              "end": 589,
+              "type": "distractor"
+            },
+            {
+              "text": "oxígeno",
+              "start": 493,
+              "end": 500,
+              "type": "distractor"
+            },
+            {
+              "text": "amoníaco",
+              "start": 70,
+              "end": 78,
+              "type": "distractor"
+            },
+            {
+              "text": "iones de hidrógeno",
+              "start": 427,
+              "end": 445,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A lo largo del siglo XIV, los reyes franceses trataron de expandir su influencia a expensas de las posesiones territoriales de la nobleza. Tuvieron dificultades al intentar confiscar las posesiones de los reyes ingleses en el sur de Francia, lo que llevó a la Guerra de los Cien Años, librada entre 1337 y 1453. Al principio de la guerra, los ingleses bajo Eduardo III (r. 1327-1377) y su hijo Eduardo, el Príncipe Negro (m. 1376), ganaron las batallas de Crécy y Poitiers, tomaron la ciudad de Calais. Las tensiones resultantes casi causaron la desintegración del reino francés durante los primeros años de la guerra. A principios del siglo XV, Francia estuvo de nuevo a punto de disolverse, pero a finales de 1420 los éxitos militares de Juana de Arco (m. 1431) llevaron a la victoria de los franceses y la captura de las últimas posesiones inglesas. El precio era alto, ya que la población de Francia al final de las Guerras era probablemente la mitad de lo que había sido al comienzo del conflicto. Por el contrario, las guerras tuvieron un efecto positivo en la identidad nacional inglesa, haciendo mucho para fusionar las diversas identidades locales en un ideal nacional inglés. El conflicto con Francia también ayudó a crear una cultura nacional en Inglaterra separada de la cultura francesa, que anteriormente había sido la influencia dominante. El dominio del arco largo inglés comenzó durante las primeras etapas de la Guerra de los Cien Años, y el cañón apareció en el campo de batalla en Crécy en 1346.",
+      "annotations": [
+        {
+          "question": "¿En qué año llegó la victoria de los franceses a manos de Juana de Arco?",
+          "choices": [
+            {
+              "text": "1420",
+              "start": 711,
+              "end": 715,
+              "type": "correct answer"
+            },
+            {
+              "text": "1337",
+              "start": 299,
+              "end": 303,
+              "type": "distractor"
+            },
+            {
+              "text": "1346",
+              "start": 1510,
+              "end": 1514,
+              "type": "distractor"
+            },
+            {
+              "text": "1431",
+              "start": 758,
+              "end": 762,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Si bien la noción de que las consideraciones estructurales y estéticas deben estar completamente sujetas a la funcionalidad se encontró con la popularidad y el escepticismo, tuvo el efecto de introducir el concepto de \"función\" en lugar de la \"utilidad\". \"Función\" llegó a ser visto como abarcando todos los criterios del uso, percepción y disfrute de un edificio, no sólo práctico sino también estético, psicológico y cultural.",
+      "annotations": [
+        {
+          "question": "¿Qué término se utiliza para referirse a \"abarcando todos los criterios del uso\"?",
+          "choices": [
+            {
+              "text": "función",
+              "start": 219,
+              "end": 226,
+              "type": "correct answer"
+            },
+            {
+              "text": "utilidad",
+              "start": 244,
+              "end": 252,
+              "type": "distractor"
+            },
+            {
+              "text": "popularidad",
+              "start": 143,
+              "end": 154,
+              "type": "distractor"
+            },
+            {
+              "text": "escepticismo",
+              "start": 160,
+              "end": 172,
+              "type": "distractor"
+            },
+            {
+              "text": "percepción",
+              "start": 327,
+              "end": 337,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Durante la Revolución francesa, y poco después, en Alemania (por los hegelianos de izquierda), el humanismo comenzó a referirse a una filosofía ética centrada en la humanidad, sin atención a lo trascendente o sobrenatural. El término humanismo religioso se refiere a los grupos organizados que surgieron a finales del siglo XIX y principios del XX. Es similar al protestantismo, aunque centrado en necesidades humanas, intereses y habilidades en lugar de lo sobrenatural. En el mundo anglófono, tales formas modernas y organizadas de humanismo, que están enraizadas en la Ilustración del siglo XVIII, se han separado mucho más o menos de la conexión histórica del humanismo con el aprendizaje clásico y las artes liberales.",
+      "annotations": [
+        {
+          "question": "¿En qué estaba centrada la filosofía ética en la revolución francesa?",
+          "choices": [
+            {
+              "text": "la humanidad",
+              "start": 162,
+              "end": 174,
+              "type": "correct answer"
+            },
+            {
+              "text": "lo trascendente",
+              "start": 191,
+              "end": 206,
+              "type": "distractor"
+            },
+            {
+              "text": "las artes liberales",
+              "start": 703,
+              "end": 722,
+              "type": "distractor"
+            },
+            {
+              "text": "lo sobrenatural",
+              "start": 455,
+              "end": 470,
+              "type": "distractor"
+            },
+            {
+              "text": "el protestantismo",
+              "start": 363,
+              "end": 377,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La memorización es un método de aprendizaje que permite a un individuo recordar información palabra por palabra. El Rote learning es el método más utilizado. Los métodos de memorización de cosas han sido objeto de mucha discusión a lo largo de los años con algunos escritores, como Cosmos Rossellius utilizando alfabetos visuales. El efecto de espaciado muestra que un individuo es más probable que recuerde una lista de elementos cuando el ensayo está espaciado durante un período prolongado de tiempo. En contraste con esto es conmovedor: Una memorización intensiva en un corto período de tiempo. También es relevante el efecto Zeigarnik que establece que las personas recuerdan tareas incompletas o interrumpidas mejor que las terminadas. El llamado Método de loci utiliza la memoria espacial para memorizar la información no espacial.",
+      "annotations": [
+        {
+          "question": "¿Qué fenómeno explica que las personas recuerdan tareas incompletas o interrumpidas mejor que las terminadas?",
+          "choices": [
+            {
+              "text": "el efecto Zeigarnik",
+              "start": 620,
+              "end": 639,
+              "type": "correct answer"
+            },
+            {
+              "text": "el Método de loci",
+              "start": 753,
+              "end": 767,
+              "type": "distractor"
+            },
+            {
+              "text": "el efecto de espaciado",
+              "start": 331,
+              "end": 353,
+              "type": "distractor"
+            },
+            {
+              "text": "el Rote learning",
+              "start": 113,
+              "end": 129,
+              "type": "distractor"
+            },
+            {
+              "text": "la memoria espacial",
+              "start": 776,
+              "end": 795,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La invención de las computadoras electrónicas en la década de 1940, junto con el desarrollo de la teoría de la información matemática, llevó a la comprensión de que los cerebros pueden ser entendidos potencialmente como sistemas de procesamiento de información. Este concepto formó la base del campo de la cibernética, y finalmente dio lugar al campo ahora conocido como neurociencia computacional. Los primeros intentos de cibernética fueron algo crudos en que trataban el cerebro como esencialmente una computadora digital disfrazada, como por ejemplo en el libro de 1958 de John von Neumann, The Computer and the Brain. Con los años, sin embargo, la acumulación de información sobre las respuestas eléctricas de las células cerebrales registradas por comportarse con animales ha movido constantemente los conceptos teóricos en la dirección del aumento del realismo.",
+      "annotations": [
+        {
+          "question": "¿Cómo trataban al cerebro los primeros intentos de la cibernética, ejemplificado por Von Neumann en 1958?",
+          "choices": [
+            {
+              "text": "respuestas eléctricas de las células cerebrales",
+              "start": 690,
+              "end": 737,
+              "type": "distractor"
+            },
+            {
+              "text": "una computadora digital disfrazada",
+              "start": 501,
+              "end": 535,
+              "type": "correct answer"
+            },
+            {
+              "text": "información matemática",
+              "start": 111,
+              "end": 133,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las formas más utilizadas de transporte a media distancia en Hyderabad incluyen servicios estatales como ferrocarriles y autobuses, así como taxis privados y rickshaws de automóviles. Los servicios de autobús operan desde la estación de autobuses Mahatma Gandhi en el centro de la ciudad y transportan más de 130 millones de pasajeros diarios a través de toda la red. El Multi-Modal Transport System (MMTS) es un servicio ferroviario suburbano de tres líneas utilizado por más de 160.000 pasajeros diarios. Complementando estos servicios gubernamentales son las rutas de minibús operadas por Setwin (Society for Employment Promotion & Training in Twin Cities). Los servicios ferroviarios interurbanos también operan desde Hyderabad; La estación principal, y más grande, es la estación de tren de Secunderabad, que sirve como la sede de la zona del Ferrocarril Central del Sur de Indian Railways y un centro tanto para autobuses y servicios de tren ligero MMTS que conectan Secunderabad. Otras estaciones de ferrocarril importantes en Hyderabad son Hyderabad Deccan Station, Kachiguda Railway Station, Begumpet Railway Station, Malkajgiri Railway Station y Lingampally Railway Station. El Metro de Hyderabad, un nuevo sistema de tránsito rápido, se va a agregar a la infraestructura de transporte público existente y está programado para operar tres líneas en 2015.",
+      "annotations": [
+        {
+          "question": "¿Qué método de transporte transporta más de 130 millones de pasajeros diarios?",
+          "choices": [
+            {
+              "text": "los servicios de autobús",
+              "start": 184,
+              "end": 208,
+              "type": "correct answer"
+            },
+            {
+              "text": "el servicio ferroviario suburbano",
+              "start": 413,
+              "end": 443,
+              "type": "distractor"
+            },
+            {
+              "text": "las rutas de minibús operadas por Setwin",
+              "start": 558,
+              "end": 598,
+              "type": "distractor"
+            },
+            {
+              "text": "los servicios ferroviarios interurbanos",
+              "start": 661,
+              "end": 700,
+              "type": "distractor"
+            },
+            {
+              "text": "los servicios de tren ligero",
+              "start": 930,
+              "end": 954,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La constitución para la independencia de Suazilandia fue promulgada por Gran Bretaña en noviembre de 1963 bajo los términos de los cuales se establecieron los consejos legislativos y ejecutivos. Este desarrollo fue rechazado por el Consejo Nacional Suazi (Liqoqo). A pesar de tal oposición, las elecciones tuvieron lugar y el primer Consejo Legislativo de Suazilandia se constituyó el 9 de septiembre de 1964. Los cambios en la constitución original propuesta por el Consejo Legislativo fueron aceptados por Gran Bretaña y se redactó una nueva constitución que preveía una Cámara de la Asamblea y el Senado. Las elecciones bajo esta constitución se celebraron en 1967.",
+      "annotations": [
+        {
+          "question": "¿Qué cuerpo gubernamental rechazó constitución para la independencia de Suazilandia?",
+          "choices": [
+            {
+              "text": "Consejo Nacional Suazi",
+              "start": 232,
+              "end": 254,
+              "type": "correct answer"
+            },
+            {
+              "text": "Consejo Legislativo de Suazilandia",
+              "start": 333,
+              "end": 367,
+              "type": "distractor"
+            },
+            {
+              "text": "Cámara de la Asamblea y el Senado",
+              "start": 573,
+              "end": 606,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

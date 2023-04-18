@@ -56,6 +56,23 @@ Total 40
 
 <br>
 
+# Monday April 17
+
+Dates and Numbers 1
+
+Names 2
+
+Phrases 7
+
+Total 10
+
+## Comments
+126. Add articul "el"
+127. Add articulos
+129. Add articulos
+
+<br>
+
 # Total
 
 Dates and Numbers 16
