@@ -25,7 +25,7 @@
                 "type": "distractor"
               },
               {
-                "text": "as sensibilidades experimentales",
+                "text": "las sensibilidades experimentales",
                 "start": 426,
                 "end": 458,
                 "type": "distractor"
@@ -1163,7 +1163,7 @@
             "question": "¿Qué declararon A. P. de Candolle y Charles Lyell?",
             "choices": [
               {
-                "text": "ue todos los organismos están expuestos a una competencia severa",
+                "text": "que todos los organismos están expuestos a una competencia severa",
                 "start": 72,
                 "end": 136,
                 "type": "correct answer"
@@ -2920,7 +2920,7 @@
                 "type": "distractor"
               },
               {
-                "text": "computadoras personales ",
+                "text": "computadoras personales",
                 "start": 900,
                 "end": 924,
                 "type": "distractor"
@@ -4541,6 +4541,1062 @@
               "text": "Cámara de la Asamblea y el Senado",
               "start": 573,
               "end": 606,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El crecimiento bacteriano sigue cuatro fases. Cuando una población de bacterias entra por primera vez en un ambiente de altos nutrientes que permite el crecimiento, las células necesitan adaptarse a su nuevo entorno. La primera fase de crecimiento es la fase de retraso, un período de crecimiento lento cuando las células se están adaptando al ambiente de altos nutrientes y se preparan para un crecimiento rápido. La fase de retraso tiene altas tasas de biosíntesis, ya que se producen proteínas necesarias para un crecimiento rápido. La segunda fase de crecimiento es la fase logarítmica, también conocida como fase logarítmica o exponencial. La fase log está marcada por un rápido crecimiento exponencial. La tasa a la que las células crecen durante esta fase se conoce como la tasa de crecimiento (k), y el tiempo que tarda las células en duplicarse se conoce como el tiempo de generación (g). Durante la fase de registro, los nutrientes se metabolizan a máxima velocidad hasta que uno de los nutrientes se agota y comienza a limitar el crecimiento. La tercera fase de crecimiento es la fase estacionaria y es causada por nutrientes agotados. Las células reducen su actividad metabólica y consumen proteínas celulares no esenciales. La fase estacionaria es una transición del crecimiento rápido a un estado de respuesta al estrés y hay una mayor expresión de genes involucrados en la reparación del ADN, el metabolismo antioxidante y el transporte de nutrientes. La fase final es la fase de muerte donde las bacterias se quedan sin nutrientes y mueren.",
+      "annotations": [
+        {
+          "question": "¿Cuál es la segunda fase del crecimiento bacteriano?",
+          "choices": [
+            {
+              "text": "fase de retraso",
+              "start": 254,
+              "end": 269,
+              "type": "distractor"
+            },
+            {
+              "text": "fase logarítmica",
+              "start": 573,
+              "end": 589,
+              "type": "correct answer"
+            },
+            {
+              "text": "fase estacionaria",
+              "start": 1091,
+              "end": 1108,
+              "type": "distractor"
+            },
+            {
+              "text": "fase de muerte",
+              "start": 1487,
+              "end": 1501,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Xinjiang, China; Argentina; Chile Islandia Rusia y otras áreas sesgan las zonas horarias hacia el oeste, observando el horario de verano durante todo el año sin complicaciones de los cambios de reloj. Por ejemplo, Saskatoon, Saskatchewan, está a 106 ° 39 ′ W longitud, un poco al oeste del centro de la zona horaria ideal de la montaña (105 ° W), pero el tiempo en Saskatchewan es el tiempo estándar central. Por el contrario, el noreste de la India y algunas otras áreas sesgan las zonas temporales hacia el este, en efecto observando las TDS negativas. El Reino Unido e Irlanda experimentaron con DST durante todo el año desde 1968 hasta 1971, pero lo abandonaron debido a su impopularidad, particularmente en las regiones del norte.",
+      "annotations": [
+        {
+          "question": "¿Qué país abandonó el DST en 1971?",
+          "choices": [
+            {
+              "text": "Irlanda",
+              "start": 572,
+              "end": 579,
+              "type": "correct answer"
+            },
+            {
+              "text": "Chile",
+              "start": 28,
+              "end": 33,
+              "type": "distractor"
+            },
+            {
+              "text": "China",
+              "start": 10,
+              "end": 15,
+              "type": "distractor"
+            },
+            {
+              "text": "Rusia",
+              "start": 43,
+              "end": 48,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La domesticación de las aves de corral tuvo lugar hace varios miles de años. Esto puede haber sido originalmente como resultado de la incubación y crianza de aves jóvenes de los huevos recolectados en la naturaleza, pero más tarde involucraron mantener a las aves permanentemente en cautiverio. Los pollos domesticados pueden haber sido utilizados para las peleas de gallos al principio y las codornices para sus canciones, pero pronto se dieron cuenta de lo útil que era tener una fuente de alimentos criados en cautividad. La cría selectiva para el crecimiento rápido, la capacidad de puesta de huevos, la conformación, el plumaje y la docilidad se llevó a cabo a lo largo de los siglos, y las razas modernas a menudo se ven muy diferentes. Aunque algunas aves todavía se mantienen en pequeñas bandadas en sistemas extensivos, la mayoría de las aves disponibles en el mercado hoy en día se crían en empresas comerciales intensivas. Las aves de corral son el segundo tipo de carne más consumida a nivel mundial y, junto con los huevos, proporciona alimentos nutricionalmente beneficiosos que contienen proteínas de alta calidad acompañados por una baja proporción de grasa. Toda la carne avícola debe manejarse adecuadamente y cocinarse lo suficiente para reducir el riesgo de intoxicación alimentaria.",
+      "annotations": [
+        {
+          "question": "¿Cuál fue una de las posibles razones originales para la domesticación de las aves de corral?",
+          "choices": [
+            {
+              "text": "incubación y crianza de aves jóvenes de los huevos recolectados en la naturaleza",
+              "start": 134,
+              "end": 214,
+              "type": "correct answer"
+            },
+            {
+              "text": "pueden haber sido utilizados para las peleas de gallos",
+              "start": 319,
+              "end": 373,
+              "type": "distractor"
+            },
+            {
+              "text": "cría selectiva para el crecimiento rápido",
+              "start": 528,
+              "end": 569,
+              "type": "distractor"
+            },
+            {
+              "text": "proporciona alimentos nutricionalmente beneficiosos que contienen proteínas de alta calidad acompañados por una baja proporción de grasa",
+              "start": 1037,
+              "end": 1173,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La música house es un género de música electrónica que se originó en Chicago a principios de la década de 1980. Fue popularizada inicialmente en Chicago, alrededor de 1984. La música house se extendió rápidamente a otras ciudades estadounidenses como Detroit, Nueva York y Newark, todas las cuales desarrollaron sus propias escenas regionales. A mediados y finales de la década de 1980, la música house se hizo popular en Europa, así como en las principales ciudades de América del Sur y Australia. El éxito comercial de la música house en Europa vio canciones como Pump Up The Volume de Marrs (1987), House Nation de House Master Boyz y Rude Boy of House (1987), Coldcharts Desde principios hasta mediados de la década de 1990, la música house ha sido infundida en la música pop y dance en todo el mundo.",
+      "annotations": [
+        {
+          "question": "¿En qué ciudad empezó la música house?",
+          "choices": [
+            {
+              "text": "Chicago",
+              "start": 69,
+              "end": 76,
+              "type": "correct answer"
+            },
+            {
+              "text": "Detroit",
+              "start": 251,
+              "end": 258,
+              "type": "distractor"
+            },
+            {
+              "text": "Nueva York",
+              "start": 260,
+              "end": 270,
+              "type": "distractor"
+            },
+            {
+              "text": "Newark",
+              "start": 273,
+              "end": 279,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La mayoría de los combates de lucha libre duran un número determinado de caídas, con el primer lado para lograr el número mayoritario de pinfalls, presentaciones o contadores siendo el ganador. Históricamente, los combates se lucharon a 3 caídas (\"mejor 2 de 3\") o 5 caídas (\"mejor 3 de 5\"). El estándar para los partidos modernos es una caída. Sin embargo, a pesar de que ahora es estándar, muchos anunciantes expresarán esto explícitamente (e.g. \"El siguiente concurso se establece para una caída con un límite de tiempo de 20 minutos\"). Estos partidos tienen un límite de tiempo. Si no se anotan suficientes caídas al final del tiempo límite, el partido se declara empate. Los partidos modernos generalmente tienen un límite de tiempo de 10 a 30 minutos para los partidos estándar. Los partidos por el título pueden durar hasta una hora. Los partidos de lucha británicos celebrados bajo las reglas del Almirantazgo Lord Mountevans son 2 de 3 caídas.",
+      "annotations": [
+        {
+          "question": "¿Qué característica específica tienen los partidos para el título?",
+          "choices": [
+            {
+              "text": "son 2 de 3 caídas",
+              "start": 934,
+              "end": 951,
+              "type": "distractor"
+            },
+            {
+              "text": "pueden durar hasta una hora",
+              "start": 812,
+              "end": 839,
+              "type": "correct answer"
+            },
+            {
+              "text": "tienen un límite de tiempo de 10 a 30 minutos",
+              "start": 711,
+              "end": 756,
+              "type": "distractor"
+            },
+            {
+              "text": "es una caída",
+              "start": 331,
+              "end": 343,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La música house temprana era generalmente música dance caracterizada por ritmos repetitivos 4 / 4, ritmos proporcionados principalmente por cajas de ritmos, platillos de hi-hat fuera de ritmo, y líneas de bajo sintetizadas. Mientras el house mostraba varias características similares a la música disco, era más electrónico y minimalista, y el ritmo repetitivo del house era más importante que la canción en sí. La música house en la década de 2010, mientras que mantiene varios de estos elementos básicos, notablemente el prominente tambor kick en cada latido, varía ampliamente en estilo e influencia, que van desde el soulful y atmosférico deep house al más minimalista. La música house también se ha fusionado con varios otros géneros creando subgéneros de fusión, tales como Euro house, tech house, electro house y jump house.",
+      "annotations": [
+        {
+          "question": "¿Qué característica del house lo diferencia del disco?",
+          "choices": [
+            {
+              "text": "más electrónico y minimalista",
+              "start": 307,
+              "end": 336,
+              "type": "correct answer"
+            },
+            {
+              "text": "varía ampliamente en estilo e influencia",
+              "start": 561,
+              "end": 601,
+              "type": "distractor"
+            },
+            {
+              "text": "el prominente tambor kick en cada latido",
+              "start": 519,
+              "end": 559,
+              "type": "distractor"
+            },
+            {
+              "text": "platillos de hi-hat fuera de ritmo",
+              "start": 157,
+              "end": 191,
+              "type": "distractor"
+            },
+            {
+              "text": "líneas de bajo sintetizadas",
+              "start": 195,
+              "end": 222,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La filosofía occidental consideraba la emoción de diferentes maneras. En las teorías estoicas fue visto como un obstáculo a la razón y por lo tanto un obstáculo a la virtud. Aristóteles creía que las emociones eran un componente esencial de la virtud. Desde el punto de vista aristotélico, todas las emociones (llamadas pasiones) correspondían a los apetitos o capacidades. Durante la Edad Media, la visión aristotélica fue adoptada y desarrollada por el escolasticismo y Tomás de Aquino en particular. También hay teorías de las emociones en las obras de filósofos como René Descartes, Nicolás Maquiavelo, Baruch Spinoza y David Hume. En el siglo XIX las emociones fueron consideradas adaptativas y fueron estudiadas con más frecuencia desde una perspectiva psiquiátrica empirista.",
+      "annotations": [
+        {
+          "question": "¿Qué corriente estableció que las emociones eran un componente esencial de la virtud?",
+          "choices": [
+            {
+              "text": "la visión aristotélica",
+              "start": 397,
+              "end": 419,
+              "type": "correct answer"
+            },
+            {
+              "text": "las teorías estoicas",
+              "start": 73,
+              "end": 93,
+              "type": "distractor"
+            },
+            {
+              "text": "la perspectiva psiquiátrica empirista",
+              "start": 747,
+              "end": 781,
+              "type": "distractor"
+            },
+            {
+              "text": "el escolasticismo",
+              "start": 452,
+              "end": 469,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El llamado \"Saqueo de Palermo\" es una de las principales caras visibles del problema. El término se utiliza para indicar las prácticas especulativas de construcción que han llenado la ciudad con edificios pobres. La importancia reducida de la agricultura en la economía siciliana ha llevado a una migración masiva a las ciudades, especialmente Palermo, que aumentó en tamaño, lo que llevó a una rápida expansión hacia el norte. Los planes regulatorios de expansión fueron ignorados en gran medida en el auge. Nuevas partes de la ciudad aparecieron casi de la nada, pero sin parques, escuelas, edificios públicos, carreteras adecuadas y otras comodidades que caracterizan a una ciudad moderna.",
+      "annotations": [
+        {
+          "question": "¿A qué se refiere el \"Saqueo de Palermo\"?",
+          "choices": [
+            {
+              "text": "las prácticas especulativas de construcción que han llenado la ciudad con edificios pobres",
+              "start": 121,
+              "end": 211,
+              "type": "correct answer"
+            },
+            {
+              "text": "la importancia reducida de la agricultura en la economía siciliana",
+              "start": 213,
+              "end": 279,
+              "type": "distractor"
+            },
+            {
+              "text": "la rápida expansión hacia el norte",
+              "start": 395,
+              "end": 426,
+              "type": "distractor"
+            },
+            {
+              "text": "la migración masiva a las ciudades, especialmente Palermo",
+              "start": 297,
+              "end": 351,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El cambiante orden mundial que la guerra había provocado, en particular el crecimiento de los Estados Unidos y Japón como potencias navales, y el aumento de los movimientos de independencia en la India e Irlanda, causó una reevaluación importante de la política imperial británica. Obligada a elegir entre alinearse con los Estados Unidos o Japón, Gran Bretaña optó por no renovar su alianza japonesa y en su lugar firmó el Tratado Naval de Washington de 1922, donde Gran Bretaña aceptó la paridad naval con los Estados Unidos. Esta decisión fue la fuente de mucho debate en Gran Bretaña durante la década de 1930 cuando los gobiernos militaristas se afianzaron en Japón y Alemania ayudó en parte a la Gran Depresión, porque se temía que el imperio no pudiera sobrevivir a un ataque simultáneo. Aunque la cuestión de la seguridad del imperio era una preocupación seria en Gran Bretaña, al mismo tiempo el imperio era vital para la economía británica.",
+      "annotations": [
+        {
+          "question": "¿Con quién celebró la Gran Bretaña el Tratado Naval de Washington de 1922?",
+          "choices": [
+            {
+              "text": "Japón",
+              "start": 665,
+              "end": 670,
+              "type": "distractor"
+            },
+            {
+              "text": "Alemania",
+              "start": 673,
+              "end": 681,
+              "type": "distractor"
+            },
+            {
+              "text": "Irlanda",
+              "start": 204,
+              "end": 211,
+              "type": "distractor"
+            },
+            {
+              "text": "India",
+              "start": 196,
+              "end": 201,
+              "type": "distractor"
+            },
+            {
+              "text": "Estados Unidos",
+              "start": 512,
+              "end": 526,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "J. M. E. McTaggart de la Universidad de Cambridge, argumentó que las mentes por sí solas existen y sólo se relacionan entre sí a través del amor. El espacio, el tiempo y los objetos materiales son irreales. En The Unreality of Time argumentó que el tiempo es una ilusión porque es imposible producir un relato coherente de una secuencia de eventos. La naturaleza de la existencia (1927) contenía sus argumentos de que el espacio, el tiempo y la materia no pueden ser reales. En sus Estudios en Cosmología hegeliana (Cambridge, 1901, pp. 196) declaró que la metafísica no es relevante para la acción social y política. McTaggart \"pensó que Hegel estaba equivocado al suponer que la metafísica podría mostrar que el estado es más que un medio para el bien de los individuos que lo componen\". La filosofía de McTaggart nos puede dar muy poca, si es que la hay, guía en acción... ¿Por qué debería sorprenderse un ciudadano hegeliano de que su creencia en la naturaleza orgánica del Absoluto no le ayude a votar? ¿Un ingeniero hegeliano sería razonable al esperar que su creencia de que toda la materia es espíritu le ayude a planear un puente?",
+      "annotations": [
+        {
+          "question": "¿Qué argumentó J. M. E. McTaggart de la Universidad de Cambridge que no era real?",
+          "choices": [
+            {
+              "text": "el espacio, el tiempo y la materia",
+              "start": 418,
+              "end": 452,
+              "type": "correct answer"
+            },
+            {
+              "text": "la naturaleza orgánica",
+              "start": 951,
+              "end": 973,
+              "type": "distractor"
+            },
+            {
+              "text": "la metafísica",
+              "start": 554,
+              "end": 567,
+              "type": "distractor"
+            },
+            {
+              "text": "la acción social y política",
+              "start": 589,
+              "end": 616,
+              "type": "distractor"
+            },
+            {
+              "text": "la naturaleza de la existencia",
+              "start": 349,
+              "end": 379,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "= = Demografía = = Según el censo de 2000, había 84.084 personas, 44.497 hogares y 16.775 familias en la ciudad. La densidad de población es de 3.930,4 habitantes por km ². Hay 47.863 viviendas con una densidad media de 2,237.3 viviendas / km ². El 78,29% de los habitantes eran blancos, el 7,25% asiáticos, el 3,78% afroamericanos, el 0,47% amerindios, el 0,10% isleños del Pacífico, el 5,97% de otras razas y el 4,13%. 13,44% de la población era de origen hispano o latino de cualquier raza. De las 44.497 viviendas en un 15,8% vivían niños de menos de 18 años, en un 27,5% vivían parejas casadas, en un 7,5% mujeres solteras, y en un 62,3% no eran unidades familiares. El 51,2% de todos los hogares están formados por una sola persona y 10,6% de ellos incluyen a una persona de más de 65 años. El tamaño promedio de los hogares era de 1,83 personas y el de las familias de 2,80.",
+      "annotations": [
+        {
+          "question": "¿Qué porcentaje de las viviendas no eran unidades familiares?",
+          "choices": [
+            {
+              "text": "62,3%",
+              "start": 637,
+              "end": 642,
+              "type": "correct answer"
+            },
+            {
+              "text": "51,2%",
+              "start": 675,
+              "end": 680,
+              "type": "distractor"
+            },
+            {
+              "text": "78,29%",
+              "start": 249,
+              "end": 255,
+              "type": "distractor"
+            },
+            {
+              "text": "7,25%",
+              "start": 291,
+              "end": 296,
+              "type": "distractor"
+            },
+            {
+              "text": "27,5%",
+              "start": 570,
+              "end": 575,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En las décadas posteriores a Furman, han surgido nuevas preguntas sobre si la arbitrariedad de la fiscalía ha reemplazado o no la arbitrariedad de la sentencia. Un estudio de la Escuela de Derecho de la Universidad de Pepperdine publicado en Temple Law Review, \"Unpredecible Doom and Lethal Injustice: An Argument for Greater Transparency in Death Penalty Decisions\". Los autores encontraron que la pena capital de la fiscalía sigue marcada por \"idiosincrasias\" locales, sugiriendo que no están de acuerdo con el espíritu de la directiva de la Corte Suprema. Esto significa que \"los mismos tipos de injusticia que la Corte Suprema trató de eliminar\" pueden todavía \"infectar casos de capital\". Una amplia discreción fiscal sigue siendo debida a criterios demasiado amplios. La ley de California, por ejemplo, tiene 22 \"circunstancias especiales\", haciendo casi todos los asesinatos premeditados potenciales casos de capital. Los 32 estados de pena de muerte tienen diferentes números y tipos de \"calificadores de muerte\" - circunstancias que permiten cargos de capital. El número varía de un máximo de 34 en California a 22 en Colorado y Delaware a 12 en Texas, Nebraska, Georgia y Montana. Los autores del estudio llaman a la reforma de los procedimientos estatales a lo largo de las líneas de reformas en el sistema federal, que el Departamento de Justicia de los Estados Unidos inició con un protocolo de 1995. Los delitos sujetos a la pena de muerte varían según la jurisdicción. Todas las jurisdicciones que utilizan la pena capital designan el grado más alto de asesinato como delito capital, aunque la mayoría de las jurisdicciones requieren circunstancias agravantes. La traición contra los Estados Unidos, así como la traición contra los estados de Arkansas, California, Georgia, Luisiana, Mississippi y Missouri son delitos capitales.",
+      "annotations": [
+        {
+          "question": "¿Cuántas circunstancias hay en Texas que permiten cargos de capital?",
+          "choices": [
+            {
+              "text": "12",
+              "start": 1149,
+              "end": 1151,
+              "type": "correct answer"
+            },
+            {
+              "text": "32",
+              "start": 929,
+              "end": 931,
+              "type": "distractor"
+            },
+            {
+              "text": "22",
+              "start": 815,
+              "end": 817,
+              "type": "distractor"
+            },
+            {
+              "text": "34",
+              "start": 1102,
+              "end": 1104,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La industria fotovoltaica ha visto caídas en los precios de los módulos desde 2008. A finales de 2011, los precios de las puertas de fábrica de los módulos fotovoltaicos de silicio cristalino cayeron por debajo de la marca de $1.00 / W. El costo instalado de $1,00 / W, a menudo se considera en la industria fotovoltaica como el logro de la paridad de red para la fotovoltaica. Estas reducciones han tomado muchas partes interesadas, incluidos los analistas de la industria, por sorpresa, y las percepciones de la economía de la energía solar actual a menudo están rezagadas respecto de la realidad. Algunas partes interesadas todavía tienen la perspectiva de que la energía solar fotovoltaica sigue siendo demasiado costosa sobre una base no subsidiada para competir con las opciones de generación convencional. Sin embargo, los avances tecnológicos, las mejoras en los procesos de fabricación y la reestructuración de la industria significan que es probable que en los próximos años haya más reducciones de los precios.",
+      "annotations": [
+        {
+          "question": "¿Qué se predice para el futuro a causa de las mejoras en procesos de fabricación y la reestructuración de la industria?",
+          "choices": [
+            {
+              "text": "paridad de red para la fotovoltaica",
+              "start": 341,
+              "end": 376,
+              "type": "distractor"
+            },
+            {
+              "text": "haya más reducciones de los precios",
+              "start": 985,
+              "end": 1020,
+              "type": "correct answer"
+            },
+            {
+              "text": "competir con las opciones de generación convencional",
+              "start": 759,
+              "end": 811,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Fragmentos importantes sobrevivieron del suelo de mosaico del Gran Palacio de Constantinopla, que fue encargado durante el reinado de Justiniano. Las figuras, animales, plantas son todas totalmente clásicas pero están dispersas ante un fondo plano. El retrato de un hombre bigote, probablemente un cacique gótico, es considerado el mosaico superviviente más importante de la época de Justiniano. El llamado sekreton pequeño del palacio fue construido durante el reinado de Justino II alrededor de 565-577. Algunos fragmentos sobreviven de los mosaicos de esta sala abovedada. Los motivos del rollo de la vid son muy similares a los de Santa Constanza y siguen de cerca la tradición clásica. Hay restos de decoración floral en la Iglesia de los Acheiropoietos en Salónica (siglos V al VI).",
+      "annotations": [
+        {
+          "question": "¿De qué son los restos que están en la Iglesia de los Acheiropoietos en Salónica?",
+          "choices": [
+            {
+              "text": "decoración floral",
+              "start": 705,
+              "end": 722,
+              "type": "correct answer"
+            },
+            {
+              "text": "figuras, animales, plantas",
+              "start": 150,
+              "end": 176,
+              "type": "distractor"
+            },
+            {
+              "text": "un hombre bigote",
+              "start": 263,
+              "end": 279,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Diwan de Umar, asignando anualidades a todos los árabes y a los soldados musulmanes de otras razas, sufrió un cambio en las manos de los omeyas. Los Omeyas se inmiscuyeron con el registro y los beneficiarios consideraron las pensiones como la asignación de subsistencia incluso sin estar en servicio activo. Hisham la reformó y pagó sólo a aquellos que participaron en la batalla. Según el patrón del sistema bizantino los omeyas reformaron su organización militar en general y la dividieron en cinco cuerpos: El centro, dos alas, vanguardia y retaguardia, siguiendo la misma formación mientras marchaban o en campo de batalla. Marwan II (740-50) abandonó la antigua división e introdujo Kurdus (cohorte), un pequeño cuerpo compacto. Las tropas omeyas se dividieron en tres divisiones: Infantería, caballería y artillería. Las tropas árabes estaban vestidas y armadas al estilo griego. La caballería omeya utilizaba sillas de montar lisas y redondas. La artillería usaba arradah (ballista), manjaniq (el mangonel) y dabbabah o kabsh (el ariete). Los pesados motores, máquinas de asedio y equipaje fueron llevados en camellos detrás del ejército.",
+      "annotations": [
+        {
+          "question": "¿Las tropas omeyas se dividieron en infantería, caballería y?",
+          "choices": [
+            {
+              "text": "artillería",
+              "start": 814,
+              "end": 824,
+              "type": "correct answer"
+            },
+            {
+              "text": "vanguardia",
+              "start": 534,
+              "end": 544,
+              "type": "distractor"
+            },
+            {
+              "text": "retaguardia",
+              "start": 547,
+              "end": 558,
+              "type": "distractor"
+            },
+            {
+              "text": "tropas",
+              "start": 830,
+              "end": 836,
+              "type": "distractor"
+            },
+            {
+              "text": "soldados",
+              "start": 67,
+              "end": 75,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A medida que los romanos extendieron su dominio por todo el mundo mediterráneo, su política en general era absorber las deidades y cultos de otros pueblos en lugar de tratar de erradicarlos, ya que creían que la preservación de la tradición promovía la estabilidad social. Una forma en que Roma incorporó diversos pueblos fue apoyando su herencia religiosa, construyendo templos a deidades locales que enmarcaban su teología dentro de la jerarquía de la religión romana. Las inscripciones en todo el Imperio registran la adoración de las deidades locales y romanas, incluyendo las dedicatorias hechas por los romanos a los dioses locales. En el apogeo del Imperio, numerosas deidades internacionales fueron cultivadas en Roma y se habían llevado incluso a las provincias más remotas, entre ellas Cybele, Isis, Epona y dioses del monismo solar como Mitra y Sol Invictus. Debido a que los romanos nunca habían sido obligados a cultivar un dios o un solo culto, la tolerancia religiosa no era un problema en el sentido de que es para los sistemas monoteístas competidores. El rigor monoteísta del judaísmo planteó dificultades para la política romana que llevó a veces a un compromiso y la concesión de exenciones especiales, pero a veces a un conflicto intratable. Por ejemplo, las disputas religiosas ayudaron a causar la Primera Guerra judeo-romana y la revuelta de Bar Kojba.",
+      "annotations": [
+        {
+          "question": "¿Qué creían los romanos que promovía la preservación de la tradición de otros pueblos?",
+          "choices": [
+            {
+              "text": "la estabilidad social",
+              "start": 250,
+              "end": 271,
+              "type": "correct answer"
+            },
+            {
+              "text": "la religión romana",
+              "start": 451,
+              "end": 469,
+              "type": "distractor"
+            },
+            {
+              "text": "el apogeo del Imperio",
+              "start": 642,
+              "end": 663,
+              "type": "distractor"
+            },
+            {
+              "text": "los sistemas monoteístas competidores",
+              "start": 1031,
+              "end": 1068,
+              "type": "distractor"
+            },
+            {
+              "text": "las disputas religiosas",
+              "start": 1276,
+              "end": 1299,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Parte de la Antártida se está calentando. El calentamiento particularmente fuerte se ha observado en la Península Antártica. Un estudio de Eric Steig publicado en 2009 señaló por primera vez que la tendencia a la temperatura media superficial continental de la Antártida es ligeramente positiva a > 0,05 ° C por década de 1957 a 2006. Este estudio también señaló que la Antártida Occidental se ha calentado más de 0,1 ° C por década en los últimos 50 años, y este calentamiento es más fuerte en invierno y primavera. Esto se compensa en parte por el enfriamiento del otoño en la Antártida Oriental. Hay evidencia de un estudio de que la Antártida se está calentando como resultado de las emisiones humanas de dióxido de carbono, pero esto sigue siendo ambiguo. La cantidad de calentamiento de la superficie en la Antártida Occidental, aunque grande, no ha llevado a una fusión apreciable en la superficie, y no está afectando directamente la contribución de la capa de hielo de la Antártida occidental al nivel del mar. En cambio, se cree que los recientes aumentos en el flujo de salida de los glaciares se deben a un flujo de agua caliente desde el océano profundo, justo fuera de la plataforma continental. La contribución neta al nivel del mar de la península Antártica es más probable que sea un resultado directo del mucho mayor calentamiento atmosférico allí.",
+      "annotations": [
+        {
+          "question": "¿A qué se cree que se debe los recientes aumentos en el flujo de salida de los glaciares?",
+          "choices": [
+            {
+              "text": "un flujo de agua caliente desde el océano profundo",
+              "start": 1116,
+              "end": 1166,
+              "type": "correct answer"
+            },
+            {
+              "text": "la contribución de la capa de hielo de la Antártida occidental al nivel del mar",
+              "start": 939,
+              "end": 1018,
+              "type": "distractor"
+            },
+            {
+              "text": "las emisiones humanas de dióxido de carbono",
+              "start": 684,
+              "end": 727,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Así, en menos de veinte años, Roma había destruido el poder de uno de los estados sucesores, paralizó a otro y afianzó firmemente su influencia sobre Grecia. Esto fue principalmente el resultado de la excesiva ambición de los reyes macedonios, y su provocación involuntaria de Roma; Aunque Roma se apresuró a explotar la situación. En otros veinte años, el reino macedonio ya no existía. Tratando de reafirmar el poder macedonio y la independencia griega, el hijo de Filipo V, Perseo, incurrió en la ira de los romanos, resultando en la tercera guerra macedónica (171-168 a. C.). Victoriosos, los romanos abolieron el reino macedonio, reemplazándolo por cuatro repúblicas títeres; Estos duraron veinte años más antes de que Macedonia fuera anexada formalmente como provincia romana (146 a. C.) después de otra rebelión bajo Andrisco. Roma exigió ahora que la Liga Aquea, el último bastión de la independencia griega, se disolviera. Los aqueos se negaron y declararon la guerra a Roma. La mayoría de las ciudades griegas se unieron al lado de los aqueos, incluso los esclavos fueron liberados para luchar por la independencia griega. El cónsul romano Lucio Mumio avanzó desde Macedonia y derrotó a los griegos en Corinto, que fue arrasado. En 146 a. C., la península griega, aunque no las islas, se convirtió en un protectorado romano. Se impusieron impuestos romanos, excepto en Atenas y Esparta, y todas las ciudades tuvieron que aceptar el gobierno de los aliados locales de Roma.",
+      "annotations": [
+        {
+          "question": "¿Dónde derrotó el cónsul romano Lucio Mumio a los griegos?",
+          "choices": [
+            {
+              "text": "Corinto",
+              "start": 1212,
+              "end": 1219,
+              "type": "correct answer"
+            },
+            {
+              "text": "Macedonia",
+              "start": 1175,
+              "end": 1184,
+              "type": "distractor"
+            },
+            {
+              "text": "Atenas",
+              "start": 1379,
+              "end": 1385,
+              "type": "distractor"
+            },
+            {
+              "text": "Esparta",
+              "start": 1388,
+              "end": 1395,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Pippy Park es un parque urbano ubicado en el extremo este de la ciudad. Con más de 3.400 acres (14 km2) de tierra, es uno de los parques urbanos más grandes de Canadá. El parque contiene una serie de instalaciones recreativas que incluyen dos campos de golf, Terranova y Labrador es el campamento más grande con servicios, senderos para caminar y esquí, así como hábitat protegido para muchas plantas y animales. Pippy Park es también el hogar del Fluvarium, un centro de educación ambiental que ofrece una vista de sección transversal de Nagle 's Hill Brook.",
+      "annotations": [
+        {
+          "question": "¿Cómo se llama el centro de educación ambiental de Pippy Park?",
+          "choices": [
+            {
+              "text": "Terranova",
+              "start": 259,
+              "end": 268,
+              "type": "distractor"
+            },
+            {
+              "text": "Labrador",
+              "start": 271,
+              "end": 279,
+              "type": "distractor"
+            },
+            {
+              "text": "Fluvarium",
+              "start": 448,
+              "end": 457,
+              "type": "correct answer"
+            },
+            {
+              "text": "Nagle 's Hill Brook",
+              "start": 539,
+              "end": 558,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los sistemas de electrificación modernos toman la energía de CA de una red eléctrica que se entrega a una locomotora y se convierte en un voltaje de CC para ser utilizado por los motores de tracción. Estos motores pueden ser o bien motores DC que utilizan directamente el CC o pueden ser motores de CA trifásicos que requieren una mayor conversión del CC a CA trifásica (usando electrónica de potencia). Por lo tanto, ambos sistemas se enfrentan a la misma tarea: Convertir y transportar CA de alta tensión desde la red eléctrica a DC de baja tensión en la locomotora. ¿Dónde debería tener lugar esta conversión y a qué voltaje y corriente (AC o DC) debe fluir la potencia a la locomotora? ¿Y cómo se relaciona todo esto con la eficiencia energética? Tanto la transmisión como la conversión de la energía eléctrica implican pérdidas: Pérdidas óhmicas en cables y electrónica de potencia, pérdidas de campo magnético en transformadores y reactores de suavizado (inductores). La conversión de energía para un sistema de corriente continua tiene lugar principalmente en una subestación de ferrocarril donde un hardware grande, pesado y más eficiente puede ser utilizado en comparación con un sistema de CA donde la conversión tiene lugar a bordo de la locomotora. Además, la energía utilizada para soplar aire para enfriar transformadores, electrónica de potencia (incluidos rectificadores), y otro hardware de conversión deben tenerse en cuenta.",
+      "annotations": [
+        {
+          "question": "¿Qué tipo de pérdidas tienen lugar en transformadores e inductores durante el proceso de conversión / transmisión?",
+          "choices": [
+            {
+              "text": "de campo magnético",
+              "start": 897,
+              "end": 915,
+              "type": "correct answer"
+            },
+            {
+              "text": "óhmicas",
+              "start": 843,
+              "end": 850,
+              "type": "distractor"
+            },
+            {
+              "text": "de potencia",
+              "start": 1349,
+              "end": 1360,
+              "type": "distractor"
+            },
+            {
+              "text": "trifásicas",
+              "start": 360,
+              "end": 369,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Centro Histórico de la Ciudad de México y los \"jardines flotantes\" de Xochimilco en el municipio del sur han sido declarados Patrimonio de la Humanidad por la UNESCO. Entre los monumentos más famosos del Centro Histórico se encuentran la Plaza de la Constitución (Zócalo), la principal plaza central con su histórica y contrastante Catedral Metropolitana y el Palacio Nacional. (El Templo Mayor fue descubierto en 1978 mientras los trabajadores cavaban para colocar cables eléctricos subterráneos).",
+      "annotations": [
+        {
+          "question": "¿De dónde son los \"jardines flotantes\" en la Ciudad de México?",
+          "choices": [
+            {
+              "text": "Xochimilco",
+              "start": 73,
+              "end": 83,
+              "type": "correct answer"
+            },
+            {
+              "text": "Zócalo",
+              "start": 267,
+              "end": 273,
+              "type": "distractor"
+            },
+            {
+              "text": "El Templo Mayor",
+              "start": 382,
+              "end": 397,
+              "type": "distractor"
+            },
+            {
+              "text": "Palacio Nacional",
+              "start": 363,
+              "end": 379,
+              "type": "distractor"
+            },
+            {
+              "text": "Centro Histórico",
+              "start": 3,
+              "end": 19,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Sin embargo, no siempre fue así. A principios del siglo XX, una vez que se hizo evidente que el \"deporte\" se trabajaba, la lucha libre profesional se consideraba un entretenimiento barato para la clase trabajadora sin educación -una actitud que todavía existe en diversos grados hoy. El teórico francés Roland Barthes fue uno de los primeros en proponer que la lucha libre era digna de un análisis más profundo, en su ensayo \"The World of Wrestling\" de su libro Mythologies, publicado por primera vez en 1957. Barthes argumentó que no debería ser visto como una estafa a los ignorantes, sino como un espectáculo; Un modo de actuación teatral para un público dispuesto, aunque sediento de sangre. La lucha se describe como arte realizado que exige una lectura inmediata de los significados yuxtapuestos. La conclusión lógica tiene menos importancia sobre los actores teatrales de los luchadores y el árbitro. Según Barthes, la función de un luchador no es ganar: Es ir exactamente a través de los movimientos que se esperan de ellos y dar a la audiencia un espectáculo teatral. Este trabajo se considera una base de todos los estudios posteriores.",
+      "annotations": [
+        {
+          "question": "¿Según Barthes, cuál es la función de un luchador?",
+          "choices": [
+            {
+              "text": "dar a la audiencia un espectáculo teatral",
+              "start": 1034,
+              "end": 1075,
+              "type": "correct answer"
+            },
+            {
+              "text": "un entretenimiento barato para la clase trabajadora sin educación",
+              "start": 162,
+              "end": 227,
+              "type": "distractor"
+            },
+            {
+              "text": "es ganar",
+              "start": 952,
+              "end": 960,
+              "type": "distractor"
+            },
+            {
+              "text": "una estafa a los ignorantes",
+              "start": 558,
+              "end": 585,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los israelitas disfrutaron de la independencia política dos veces en la historia antigua, primero durante los períodos de los jueces bíblicos seguidos por la Monarquía Unida. Después de la caída de la Monarquía Unida, la tierra fue dividida en Israel y Judá. El término judío se originó a partir del romano \"judío\" y denotó a alguien del reino meridional de Judá. El cambio de etnónimo de \"israelitas\" a \"judíos\" (habitante de Judá), aunque no contenido en la Torá, se hace explícito en el Libro de Ester (siglo IV a. En 587 a. C., Nabucodonosor II, rey del Imperio neobabilónico, sitió Jerusalén, destruyó el Primer Templo y deportó a los ciudadanos más prominentes de Judá. En 586 a. C., Judá dejó de ser un reino independiente, y sus restantes judíos quedaron sin Estado. El exilio babilónico terminó en 539 a. C., cuando el Imperio aqueménida conquistó Babilonia y Ciro el Grande permitió a los judíos exiliados regresar a Yehud y reconstruir su Templo. El Segundo Templo se completó en 515 a. La provincia de Yehud fue una parte pacífica del Imperio aqueménida hasta la caída del Imperio en c. 333 a. C. ante Alejandro Magno. Los judíos también eran políticamente independientes durante la dinastía asmonea que abarca desde 140 hasta 37 a. C. y hasta cierto punto bajo la dinastía herodiana desde 37 a. C. hasta 6. Desde la destrucción del Segundo Templo en el año 70, la mayoría de los judíos han vivido en la diáspora. Como minoría étnica en todos los países en los que viven (excepto Israel), han experimentado con frecuencia la persecución a lo largo de la historia, resultando en una población que ha fluctuado tanto en número como en distribución a lo largo de los siglos. [Cita requerida]",
+      "annotations": [
+        {
+          "question": "¿Cuándo dejó Judas de ser un reino independiente?",
+          "choices": [
+            {
+              "text": "586 a. C.",
+              "start": 679,
+              "end": 688,
+              "type": "correct answer"
+            },
+            {
+              "text": "587 a. C.",
+              "start": 521,
+              "end": 530,
+              "type": "distractor"
+            },
+            {
+              "text": "333 a. C.",
+              "start": 1099,
+              "end": 1108,
+              "type": "distractor"
+            },
+            {
+              "text": "37 a. C.",
+              "start": 1239,
+              "end": 1247,
+              "type": "distractor"
+            },
+            {
+              "text": "539 a. C.",
+              "start": 807,
+              "end": 816,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de los acontecimientos en Olimpia, hubo informes de que China solicitó permiso para desplegar al personal del Ejército Popular de Liberación a lo largo de la ruta de relevo para proteger la llama en Canberra. Las autoridades australianas declararon que tal solicitud, si se hiciera, sería rechazada. Los funcionarios chinos lo etiquetaron como un rumor. La policía australiana ha recibido poderes para buscar espectadores retransmisores, tras una llamada de la Asociación de Estudiantes y Académicos de China para que los estudiantes australianos chinos \"vayan a defender nuestra antorcha sagrada\" contra los \"separatistas étnicos degenerados\". Tony Goh, presidente del Consejo Australiano de Organizaciones Chinas, ha dicho que la ACCO llevaría \"miles\" de manifestantes pro-Beijing a Canberra en autobús, para apoyar el relevo de antorcha. Zhang Rongan, un estudiante australiano chino que organizaba manifestaciones pro-Beijing, dijo a la prensa que los diplomáticos chinos estaban ayudando con la organización de autobuses, comidas y alojamiento para los manifestantes pro-Beijing, y ayudándoles a organizar un \"despliegue pacífico\". El ministro de Relaciones Exteriores Stephen Smith dijo que los funcionarios chinos estaban instando a los partidarios a \"aparecer y poner un punto de vista\", pero que no tenía ninguna objeción a ello mientras permanecieran pacíficos.",
+      "annotations": [
+        {
+          "question": "¿Para qué desplegó China al personal del Ejército Popular de Liberación a lo largo de la ruta de relevo?",
+          "choices": [
+            {
+              "text": "proteger la llama en Canberra",
+              "start": 186,
+              "end": 215,
+              "type": "correct answer"
+            },
+            {
+              "text": "buscar espectadores retransmisores",
+              "start": 410,
+              "end": 444,
+              "type": "distractor"
+            },
+            {
+              "text": "apoyar el relevo de antorcha",
+              "start": 819,
+              "end": 847,
+              "type": "distractor"
+            },
+            {
+              "text": "organizar un \"despliegue pacífico\"",
+              "start": 1109,
+              "end": 1143,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 2012, la ciudad de Nueva York tuvo la tasa de criminalidad más baja y la segunda tasa de homicidios más baja entre las ciudades más grandes de Estados Unidos, después de un aumento significativo en el crimen en la década de 1970 a 1990. El crimen violento en la ciudad de Nueva York disminuyó más del 75% desde 1993 hasta 2005, y continuó disminuyendo durante los períodos en que la nación en su totalidad vio aumentar. En 2002, la tasa de criminalidad de la ciudad de Nueva York era similar a la de Provo, Utah, y se ubicó en el puesto 197º en el crimen entre las 216 ciudades estadounidenses con una población superior a 100.000 habitantes. En 2005 la tasa de homicidios estuvo en su nivel más bajo desde 1966, y en 2007 la ciudad registró menos de 500 homicidios por primera vez desde que se publicaron las estadísticas del crimen en 1963. En los primeros seis meses de 2010, el 95,1% de todas las víctimas de asesinato y el 95,9% de todas las víctimas de tiroteo en Nueva York eran negras o hispanas; Además, el 90,2% de los arrestados por asesinato y el 96,7% de los arrestados por disparar a alguien eran negros o hispanos. Nueva York experimentó un mínimo histórico de 328 homicidios en 2014 y tiene una tasa de homicidios mucho menor que otras grandes ciudades estadounidenses.",
+      "annotations": [
+        {
+          "question": "¿Cuándo fue el mínimo histórico de homicidios en Nueva York?",
+          "choices": [
+            {
+              "text": "2014",
+              "start": 1197,
+              "end": 1201,
+              "type": "correct answer"
+            },
+            {
+              "text": "2010",
+              "start": 876,
+              "end": 880,
+              "type": "distractor"
+            },
+            {
+              "text": "1993",
+              "start": 314,
+              "end": 318,
+              "type": "distractor"
+            },
+            {
+              "text": "2005",
+              "start": 325,
+              "end": 329,
+              "type": "distractor"
+            },
+            {
+              "text": "2007",
+              "start": 721,
+              "end": 725,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La característica distintiva de las catedrales francesas, y las de Alemania y Bélgica fuertemente influenciadas por ellas, es su altura y su impresión de verticalidad. Cada catedral francesa tiende a ser estilísticamente unificada en apariencia en comparación con una catedral inglesa donde hay una gran diversidad en casi todos los edificios. Son compactos, con poca o ninguna proyección de los transeptos y capillas subsidiarias. Los frentes occidentales son muy consistentes, con tres portales coronados por un rosetón, y dos grandes torres. A veces hay torres adicionales en los extremos del transepto. El extremo este es poligonal con girola y a veces una chevette de capillas radiantes. En el sur de Francia, muchas de las principales iglesias están sin transeptos y algunas sin pasillos.",
+      "annotations": [
+        {
+          "question": "¿Cuál es la característica mencionada de las catedrales francesas que se diferencia de las catedrales inglesas?",
+          "choices": [
+            {
+              "text": "ser estilísticamente unificada en apariencia",
+              "start": 200,
+              "end": 244,
+              "type": "correct answer"
+            },
+            {
+              "text": "hay una gran diversidad en casi todos los edificios",
+              "start": 291,
+              "end": 342,
+              "type": "distractor"
+            },
+            {
+              "text": "es su altura y su impresión de verticalidad",
+              "start": 123,
+              "end": 166,
+              "type": "distractor"
+            },
+            {
+              "text": "son muy consistentes, con tres portales coronados por un rosetón, y dos grandes torres",
+              "start": 457,
+              "end": 543,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1989 Alemania estaba cerca de la reunificación y la Guerra Fría estaba llegando a su fin. El liderazgo del ejército reaccionó empezando a planear una reducción de la fuerza. En noviembre de 1989, los informadores del Pentágono estaban planeando reducir la fuerza del ejército en un 23%, de 750.000 a 580.000. Se utilizaron una serie de incentivos como la jubilación anticipada. En 1990 Irak invadió a su vecino más pequeño, Kuwait, y las fuerzas terrestres estadounidenses, rápidamente desplegadas para asegurar la protección de Arabia Saudita. En enero de 1991 comenzó la Operación Tormenta del Desierto, una coalición liderada por Estados Unidos que desplegó más de 500.000 soldados, la mayor parte de ellos de formaciones del Ejército de los Estados Unidos, para expulsar a las fuerzas iraquíes. La campaña terminó en una victoria total, cuando las fuerzas de la coalición occidental derrotaron al ejército iraquí, organizado a lo largo de las líneas soviéticas, en sólo cien horas.",
+      "annotations": [
+        {
+          "question": "¿Qué país invadió a Kuwait en 1990?",
+          "choices": [
+            {
+              "text": "Irak",
+              "start": 389,
+              "end": 393,
+              "type": "correct answer"
+            },
+            {
+              "text": "Arabia Saudita",
+              "start": 532,
+              "end": 546,
+              "type": "distractor"
+            },
+            {
+              "text": "Estados Unidos",
+              "start": 636,
+              "end": 650,
+              "type": "distractor"
+            },
+            {
+              "text": "Alemania",
+              "start": 8,
+              "end": 16,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Equivalentemente, la pequeñez de la constante de Planck refleja el hecho de que los objetos y sistemas cotidianos están hechos de un gran número de partículas. Por ejemplo, la luz verde con una longitud de onda de 555 nanómetros (la longitud de onda aproximada a la que los ojos humanos son más sensibles) tiene una frecuencia de 540 THz (540 000 Hz). Cada fotón tiene una energía E = hf = 3.58 × 10 − 19 J. Esta es una cantidad muy pequeña de energía en términos de experiencia cotidiana, pero la experiencia cotidiana no se refiere a fotones individuales más que a átomos o moléculas individuales. Una cantidad de luz compatible con la experiencia cotidiana es la energía de un mol de fotones; Su energía se puede calcular multiplicando la energía del fotón por la constante de Avogadro, NA ≈ 70236022000000000 ♠ 6.022 × 1023 mol − 1. El resultado es que la luz verde de longitud de onda de 555 nm tiene una energía de 216 kJ / mol, una energía típica de la vida cotidiana.",
+      "annotations": [
+        {
+          "question": "¿Cuántos nanómetros es la longitud de onda de la luz verde?",
+          "choices": [
+            {
+              "text": "555",
+              "start": 893,
+              "end": 896,
+              "type": "correct answer"
+            },
+            {
+              "text": "540",
+              "start": 330,
+              "end": 333,
+              "type": "distractor"
+            },
+            {
+              "text": "216",
+              "start": 921,
+              "end": 924,
+              "type": "distractor"
+            },
+            {
+              "text": "1023",
+              "start": 823,
+              "end": 827,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Burke dijo: \"Tememos a Dios, admiramos a los reyes; Con afecto a los parlamentos; Con el deber de los magistrados... Con reverencia a los sacerdotes; Y con respecto a la nobleza. ¿Por qué? Porque cuando tales ideas son llevadas ante nuestras mentes, es natural ser tan afectado \". Burke defendió este prejuicio con el argumento de que es \"el banco general y capital de las naciones, y de los siglos\" y superior a la razón individual, que es pequeña en comparación. \"Prejuicio\", afirmó Burke, \"es de aplicación lista en la emergencia; Anteriormente involucra a la mente en un curso constante de sabiduría y virtud, y no deja al hombre vacilar en el momento de la decisión, escéptico, desconcertado y sin resolver. El prejuicio convierte la virtud de un hombre en su hábito \". Burke criticó la teoría del contrato social afirmando que la sociedad es de hecho, un contrato, pero \"una asociación no sólo entre los que están vivos, sino entre los que están vivos, los que están muertos y los que van a nacer\".",
+      "annotations": [
+        {
+          "question": "¿A quién dijo Burke que admiramos?",
+          "choices": [
+            {
+              "text": "los reyes",
+              "start": 41,
+              "end": 50,
+              "type": "correct answer"
+            },
+            {
+              "text": "los sacerdotes",
+              "start": 134,
+              "end": 148,
+              "type": "distractor"
+            },
+            {
+              "text": "la nobleza",
+              "start": 167,
+              "end": 177,
+              "type": "distractor"
+            },
+            {
+              "text": "los parlamentos",
+              "start": 65,
+              "end": 80,
+              "type": "distractor"
+            },
+            {
+              "text": "los magistrados",
+              "start": 98,
+              "end": 113,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La primera sesión terminó en una ceremonia solemne el 8 de diciembre de 1962 con la siguiente sesión programada para 1963 del 12 de mayo al 29 de junio. El discurso final de Juan XXIII hizo sutiles referencias al Papa Pío IX, y expresó el deseo de ver a Pío IX beatificado y, finalmente, canonizado. En su diario en 1959 durante un retiro espiritual, Juan XXIII hizo esta observación: \"Siempre pienso en Pío IX de memoria santa y gloriosa, y imitándolo en sus sacrificios, me gustaría ser digno de celebrar\".",
+      "annotations": [
+        {
+          "question": "¿En qué fecha terminó la primera sesión?",
+          "choices": [
+            {
+              "text": "8 de diciembre",
+              "start": 54,
+              "end": 68,
+              "type": "correct answer"
+            },
+            {
+              "text": "12 de mayo",
+              "start": 126,
+              "end": 136,
+              "type": "distractor"
+            },
+            {
+              "text": "29 de junio",
+              "start": 140,
+              "end": 151,
               "type": "distractor"
             }
           ]

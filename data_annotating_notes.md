@@ -56,29 +56,33 @@ Total 40
 
 <br>
 
-# Monday April 17
+# Monday April 17 - Tuesday April 18
 
-Dates and Numbers 1
+Dates and Numbers 7
 
-Names 2
+Names 7
 
-Phrases 7
+Phrases 26
 
-Total 10
+Total 40
 
 ## Comments
 126. Add articul "el"
 127. Add articulos
 129. Add articulos
+137. Add articulo
+138. Add articulo
+140. Change case
+150. add s
 
 <br>
 
 # Total
 
-Dates and Numbers 16
+Dates and Numbers 23
 
-Names 30
+Names 37
 
-Phrases 74   
+Phrases 100   
 
-Total 120
+Total 160
