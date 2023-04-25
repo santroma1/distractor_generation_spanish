@@ -5602,6 +5602,664 @@
           ]
         }
       ]
+    },
+    {
+      "context": "Estas limitaciones han causado problemas. Por ejemplo, antes de 2005, DST en Israel variaba cada año y se omitía algunos años. Windows 95 utilizó las reglas correctas sólo para 1995, causando problemas en años posteriores. En Windows 98, Microsoft marcó a Israel por no tener DST, obligando a los usuarios israelíes a cambiar sus relojes de computadora manualmente dos veces al año. La ley israelí de ahorro de luz diurna de 2005 estableció reglas predecibles utilizando el calendario judío, pero los archivos de zona de Windows no podían representar las fechas de las reglas de una manera independiente de año. Algunas soluciones parciales, que manejaban mal los sellos antiguos, incluían cambiar archivos de zona manualmente cada año y una herramienta de Microsoft que cambiaba las zonas automáticamente. En 2013, Israel estandarizó su horario de verano según el calendario gregoriano.",
+      "annotations": [
+        {
+          "question": "Debido a que el programa en Israel siempre estaba cambiando, ¿qué hizo Microsoft con el lanzamiento de Windows 98?",
+          "choices": [
+            {
+              "text": "marcó a Israel por no tener DST",
+              "start": 248,
+              "end": 279,
+              "type": "correct answer"
+            },
+            {
+              "text": "estableció reglas predecibles utilizando el calendario judío",
+              "start": 429,
+              "end": 490,
+              "type": "distractor"
+            },
+            {
+              "text": "estandarizó su horario de verano según el calendario gregoriano",
+              "start": 823,
+              "end": 886,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Étnicamente y lingüísticamente la población de la República del Congo es diversa - Ethnologue reconoce 62 lenguas habladas en el país - pero puede agruparse en tres categorías. Los kongo son el grupo étnico más grande y forman aproximadamente la mitad de la población. Los subgrupos más significativos del Congo son Laari en las regiones de Brazzaville y Pool y Vili alrededor de Pointe-Noire y a lo largo de la costa atlántica. El segundo grupo más grande son los Teke que viven al norte de Brazzaville con el 17% de la población. Boulangui (M 'Boshi) viven en el noroeste y en Brazzaville y forman el 12% de la población. Los pigmeos constituyen el 2% de la población del Congo.",
+      "annotations": [
+        {
+          "question": "¿Qué grupo representa el 17% de la población?",
+          "choices": [
+            {
+              "text": "Teke",
+              "start": 465,
+              "end": 469,
+              "type": "correct answer"
+            },
+            {
+              "text": "kongo",
+              "start": 181,
+              "end": 186,
+              "type": "distractor"
+            },
+            {
+              "text": "pigmeos",
+              "start": 628,
+              "end": 635,
+              "type": "distractor"
+            },
+            {
+              "text": "Laari",
+              "start": 316,
+              "end": 321,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Para hacer pulpa de madera, un proceso químico de pulpa separa la lignina de las fibras de celulosa. Esto se logra disolviendo lignina en un licor de cocina, para que pueda lavarse de la celulosa. Esto conserva la longitud de las fibras de celulosa. El papel hecho de pulps químicos también se conoce como papers-libre de madera para no ser confundido con papel libre de árboles; Esto se debe a que no contienen lignina, que se deteriora con el tiempo. La pulpa también se puede blanquear para producir papel blanco, pero esto consume el 5% de las fibras; Los procesos químicos de impresión no se utilizan para hacer papel hecho de algodón, que ya es 90% de celulosa.",
+      "annotations": [
+        {
+          "question": "¿Qué característica tiene la lignina?",
+          "choices": [
+            {
+              "text": "se deteriora con el tiempo",
+              "start": 425,
+              "end": 451,
+              "type": "correct answer"
+            },
+            {
+              "text": "se puede blanquear para producir papel blanco",
+              "start": 470,
+              "end": 515,
+              "type": "distractor"
+            },
+            {
+              "text": "conserva la longitud de las fibras de celulosa",
+              "start": 202,
+              "end": 248,
+              "type": "distractor"
+            },
+            {
+              "text": "se conoce como papers-libre de madera",
+              "start": 291,
+              "end": 328,
+              "type": "distractor"
+            },
+            {
+              "text": "consume el 5% de las fibras",
+              "start": 527,
+              "end": 554,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Astrónomos como Hiparco (c. 190 - c. 120 a. C.) construyeron sobre las mediciones de los astrónomos babilónicos antes que él, para medir la precesión de la Tierra. Plinio informa que Hiparco produjo el primer catálogo sistemático de estrellas después de haber observado una nueva estrella (no se sabe si se trataba de una nova o un cometa) y deseaba preservar el registro astronómico de las estrellas. Recientemente se ha afirmado que un globo celeste basado en el catálogo de estrellas de Hiparco se encuentra sobre los hombros anchos de una gran estatua romana del siglo II conocida como el Atlas Farnesio. Otro astrónomo, Aristarchos de Samos desarrolló un sistema heliocéntrico.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo Hiparco basado en las mediciones de los astrónomos babilónicos?",
+          "choices": [
+            {
+              "text": "medir la precesión de la Tierra",
+              "start": 131,
+              "end": 162,
+              "type": "correct answer"
+            },
+            {
+              "text": "preservar el registro astronómico de las estrellas",
+              "start": 350,
+              "end": 400,
+              "type": "distractor"
+            },
+            {
+              "text": "desarrollar un sistema heliocéntrico",
+              "start": 646,
+              "end": 681,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1820-1830 el Imperio otomano sufrió una serie de huelgas que desafiaron la existencia del país. El levantamiento griego (iniciado en la primavera de 1821) evidenció la debilidad interna y militar del Imperio otomano y causó graves atrocidades por las fuerzas militares otomanas. La disolución de los cuerpos de jenízaros centenarios por el sultán Mahmud II el 15 de junio de 1826 (Incidente Auspicioso) fue una buena acción para el país a largo plazo, pero ha privado al país de su ejército. En 1827, la flota aliada anglo-franco-rusa destruyó casi todas las fuerzas navales otomanas durante la batalla de Navarino. En 1830 Grecia se convierte en un estado independiente después de 10 años de guerra de independencia y la guerra ruso-turca de 1828-1829. Según el Tratado de Adrianópolis (1829), los barcos comerciales rusos y europeos estaban autorizados a pasar libremente a través de los estrechos del mar Negro, Serbia recibió autonomía, y los principados danubianos (Moldavia y Valaquia) se convirtieron en los territorios bajo protección rusa.",
+      "annotations": [
+        {
+          "question": "¿Qué le paso a Grecia en 1930 después de 10 años de guerra?",
+          "choices": [
+            {
+              "text": "se convierte en un estado independiente",
+              "start": 634,
+              "end": 673,
+              "type": "correct answer"
+            },
+            {
+              "text": "se convirtieron en los territorios bajo protección rusa",
+              "start": 995,
+              "end": 1050,
+              "type": "distractor"
+            },
+            {
+              "text": "evidenció la debilidad interna y militar del Imperio otomano",
+              "start": 158,
+              "end": 218,
+              "type": "distractor"
+            },
+            {
+              "text": "causó graves atrocidades por las fuerzas militares otomanas",
+              "start": 221,
+              "end": 280,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El equipo de baloncesto masculino de la KU ha desplegado un equipo cada año desde 1898. Los Jayhawks son un eterno aspirante nacional actualmente entrenado por Bill Self. El equipo ha ganado cinco títulos nacionales, incluyendo tres campeonatos de la NCAA en 1952, 1988 y 2008. El programa de baloncesto es actualmente el segundo programa más ganador en la historia del baloncesto universitario con un récord general de 2.070-806 hasta la temporada 2011-12. El equipo juega en Allen Fieldhouse. Quizás su mejor jugador reconocido fue Wilt Chamberlain, que jugó en la década de 1950. James Naismith (el inventor del baloncesto y único entrenador en la historia de Kansas en tener un récord perdedor), Phog Allen (\"el padre del entrenador de baloncesto\"). Además, el legendario entrenador de la Universidad de Kentucky y miembro del Basketball Hall of Fame Adolph Rupp jugó para KU en 1922 y 1923 con los Helms National Championship. Tanto Rupp como Smith jugaron bajo Phog Allen. Allen también entrenó a los entrenadores del Hall of Fame Dutch Lonborg y Ralph Miller. Allen fundó la National Association of Basketball Coaches (NABC), que comenzó lo que hoy es el torneo de la NCAA. El torneo comenzó en 1939 bajo la NABC y al año siguiente fue entregado a la nueva NCAA.",
+      "annotations": [
+        {
+          "question": "¿Quién fundó la National Association of Basketball Coaches (NABC)?",
+          "choices": [
+            {
+              "text": "Phog Allen",
+              "start": 967,
+              "end": 977,
+              "type": "correct answer"
+            },
+            {
+              "text": "Adolph Rupp",
+              "start": 855,
+              "end": 866,
+              "type": "distractor"
+            },
+            {
+              "text": "Wilt Chamberlain",
+              "start": 534,
+              "end": 550,
+              "type": "distractor"
+            },
+            {
+              "text": "Bill Self",
+              "start": 160,
+              "end": 169,
+              "type": "distractor"
+            },
+            {
+              "text": "James Naismith",
+              "start": 583,
+              "end": 597,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los bitinianos eran un pueblo tracio que vivía en el noroeste de Anatolia. Después de las conquistas de Alejandro, la región de Bitinia quedó bajo el dominio del rey nativo Bas, que derrotó a Calas, un general de Alejandro Magno, y mantuvo la independencia de Bitinia. Su hijo, Zipoetes I de Bitinia mantuvo esta autonomía contra Lisímaco y Seleuco I, y asumió el título de rey (basileus) en 297 a. Su hijo y sucesor, Nicomedes I, fundó Nicomedia, que pronto alcanzó gran prosperidad, y durante su largo reinado (c. 278 a. Nicomedes también invitó a los gálatas celtas a Anatolia como mercenarios, y más tarde se volvieron contra su hijo Prusias I, que los derrotó en la batalla. Su último rey, Nicomedes IV, fue incapaz de mantenerse en contra de Mitrídates VI del Ponto, y, después de ser restaurado en su trono por el Senado romano, legó su reino a la república romana (74 a.",
+      "annotations": [
+        {
+          "question": "¿Quién es el hijo de Bas, el rey nativo de Bitinia?",
+          "choices": [
+            {
+              "text": "Zipoetes I",
+              "start": 278,
+              "end": 288,
+              "type": "correct answer"
+            },
+            {
+              "text": "Seleuco I",
+              "start": 341,
+              "end": 350,
+              "type": "distractor"
+            },
+            {
+              "text": "Nicomedes I",
+              "start": 418,
+              "end": 429,
+              "type": "distractor"
+            },
+            {
+              "text": "Prusias I",
+              "start": 638,
+              "end": 647,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1274, la dinastía Yuan fundada por los mongoles en China envió una fuerza de unos 40.000 hombres y 900 barcos para invadir Japón en el norte de Kyūshū. Japón reunió a sólo 10.000 samuráis para enfrentar esta amenaza. El ejército invasor fue acosado por grandes tormentas durante la invasión, lo que ayudó a los defensores infligiendo fuertes bajas. El ejército Yuan fue retirado y la invasión fue cancelada. Los invasores mongoles utilizaron pequeñas bombas, que probablemente fue la primera aparición de bombas y pólvora en Japón.",
+      "annotations": [
+        {
+          "question": "¿Qué fue lo único que usó Japón ante la dinastía Yuan?",
+          "choices": [
+            {
+              "text": "samuráis",
+              "start": 182,
+              "end": 190,
+              "type": "correct answer"
+            },
+            {
+              "text": "bombas",
+              "start": 508,
+              "end": 514,
+              "type": "distractor"
+            },
+            {
+              "text": "mongoles",
+              "start": 42,
+              "end": 50,
+              "type": "distractor"
+            },
+            {
+              "text": "barcos",
+              "start": 106,
+              "end": 112,
+              "type": "distractor"
+            },
+            {
+              "text": "pólvora",
+              "start": 517,
+              "end": 524,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las primeras maniobras militares comenzaron en septiembre de 1806. En una notable carta al mariscal Soult detallando el plan para la campaña, Napoleón describió las características esenciales de la guerra napoleónica e introdujo la frase le bataillon-carré ('batallón cuadrado'). En el sistema bataillon-carré, los diversos cuerpos de la Grande Armée marchaban uniformemente juntos a corta distancia de apoyo. Si un solo cuerpo era atacado, los otros podían rápidamente entrar en acción y llegar a ayudar. Napoleón invadió Prusia con 180.000 soldados, marchando rápidamente a la orilla derecha del río Saale. Como en campañas anteriores, su objetivo fundamental era destruir a un oponente antes de que los refuerzos de otro pudiera inclinar el equilibrio de la guerra. Al enterarse del paradero del ejército prusiano, los franceses cruzaron el Saale con una fuerza abrumadora. En las batallas gemelas de Jena y Auerstedt, libradas el 14 de octubre, los franceses derrotaron convincentemente a los prusianos e infligieron fuertes bajas. Con varios comandantes importantes muertos o incapacitados, el rey prusiano demostró ser incapaz de comandar efectivamente el ejército, que comenzó a desintegrarse rápidamente. Según el historiador Richard Brooks, los franceses lograron capturar 140.000 soldados, más de 2.000 cañones y cientos de carros de munición, todos en un solo mes. El historiador David Chandler escribió sobre las fuerzas prusianas: \"Nunca la moral de ningún ejército ha sido más completamente destrozada\". A pesar de su abrumadora derrota, los prusianos se negaron a negociar con los franceses hasta que los rusos tuvieron la oportunidad de entrar en la lucha.",
+      "annotations": [
+        {
+          "question": "¿Cuál era el objetivo de Napoleón cuando invadió Prusia?",
+          "choices": [
+            {
+              "text": "destruir a un oponente antes de que los refuerzos de otro pudiera inclinar el equilibrio de la guerra",
+              "start": 666,
+              "end": 767,
+              "type": "correct answer"
+            },
+            {
+              "text": "negociar con los franceses hasta que los rusos tuvieron la oportunidad de entrar en la lucha",
+              "start": 1579,
+              "end": 1671,
+              "type": "distractor"
+            },
+            {
+              "text": "rápidamente entrar en acción y llegar a ayudar",
+              "start": 458,
+              "end": 504,
+              "type": "distractor"
+            },
+            {
+              "text": "comandar efectivamente el ejército, que comenzó a desintegrarse rápidamente",
+              "start": 1136,
+              "end": 1211,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El invierno, y una situación de deterioro de la oferta en ambos lados de las tropas y el material, llevaron a un alto en las operaciones en tierra. Sebastopol permaneció invertida por los aliados, mientras que los ejércitos aliados fueron bloqueados por el ejército ruso en el interior. El 14 de noviembre una tormenta hundió treinta buques de transporte aliados, incluyendo el HMS Prince, que llevaba una carga de ropa de invierno. : 435 La tormenta y el tráfico pesado hicieron que el camino de la costa a las tropas se desintegraran en un pantano, requiriendo a los ingenieros dedicar la mayor parte de su tiempo a su reparación, incluida la piedra. Se ordenó un Tramroad. Llegó en enero con un equipo de ingenieros civiles, sin embargo fue en marzo antes de que fuera lo suficientemente avanzado para ser de cualquier valor apreciable. : 439 Se ordenó también un telégrafo eléctrico, pero el terreno congelado retrasó su instalación hasta marzo, cuando se establecieron las comunicaciones desde el puerto base de Balaklava al Cuartel General Británico. El arado de extracción de piedras y cables fracasó debido al suelo duro congelado, pero incluso así se colocaron 21 millas de cable. 449",
+      "annotations": [
+        {
+          "question": "¿Qué se ordenó que fue retrasado por el terreno congelado?",
+          "choices": [
+            {
+              "text": "telégrafo eléctrico",
+              "start": 867,
+              "end": 886,
+              "type": "correct answer"
+            },
+            {
+              "text": "buques de transporte",
+              "start": 334,
+              "end": 354,
+              "type": "distractor"
+            },
+            {
+              "text": "equipo de ingenieros civiles",
+              "start": 699,
+              "end": 726,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de la disolución de Destiny 's Child en junio de 2005, lanzó su segundo álbum en solitario, B' Day (2006), que contenía éxitos \"Déjà Vu\", \"Irreplaceable\" y \"Beautiful Liar\". Beyoncé también incursionó en la actuación, con una actuación nominada al Globo de Oro en Dreamgirls (2006), y papeles protagonistas en The Pink Panther (2006) y Obsessed (2009). Su matrimonio con la rapera Jay Z y su interpretación de Etta James en Cadillac Records (2008) influyó en su tercer álbum, I Am... Sasha Fierce (2008). Beyoncé se tomó un descanso de la música en 2010 y se hizo cargo de la gestión de su carrera; Su cuarto álbum 4 (2011) fue posteriormente mellower en tono, explorando el funk de los años 70, el pop de los 80 y el soul de los 90. Su quinto álbum de estudio aclamado por la crítica, Beyoncé (2013), se distinguió de lanzamientos anteriores por su producción experimental y exploración de temas más oscuros.",
+      "annotations": [
+        {
+          "question": "¿Cómo se llama la actuación en la que Beyoncé fue nominada al Globo de Oro?",
+          "choices": [
+            {
+              "text": "Dreamgirls",
+              "start": 272,
+              "end": 282,
+              "type": "correct answer"
+            },
+            {
+              "text": "I Am... Sasha Fierce",
+              "start": 484,
+              "end": 504,
+              "type": "distractor"
+            },
+            {
+              "text": "Destiny 's Child",
+              "start": 28,
+              "end": 44,
+              "type": "distractor"
+            },
+            {
+              "text": "The Pink Panther",
+              "start": 318,
+              "end": 334,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los parasitoides son organismos que viven en o en su huésped y se alimentan directamente de él, lo que finalmente lleva a su muerte. Son muy parecidos a los parásitos en su cercana relación simbiótica con su anfitrión o anfitrión. Al igual que las dos clasificaciones anteriores de los depredadores parásitos no matan a sus huéspedes al instante. Sin embargo, a diferencia de los parásitos, son muy similares a los verdaderos depredadores en que el destino de sus presas es inevitablemente la muerte. Un ejemplo bien conocido de parasitoides son las avispas ichneumon, insectos solitarios que viven una vida libre como adultos, poniendo huevos en o en otras especies como una oruga. Su larva (e) se alimenta del huésped en crecimiento causándole poco daño al principio, pero pronto devora los órganos internos hasta que finalmente destruye el sistema nervioso resultando en la muerte de sus presas. En esta etapa las avispas jóvenes se desarrollan lo suficiente como para moverse a la siguiente etapa de su ciclo de vida. Aunque se limita principalmente al orden de insectos Hymenoptera, Diptera y Coleoptera parasitoides constituyen hasta el 10% de todas las especies de insectos.",
+      "annotations": [
+        {
+          "question": "¿Qué son las avispas ichneumon?",
+          "choices": [
+            {
+              "text": "parásitos",
+              "start": 380,
+              "end": 389,
+              "type": "distractor"
+            },
+            {
+              "text": "larvas",
+              "start": 686,
+              "end": 691,
+              "type": "distractor"
+            },
+            {
+              "text": "insectos",
+              "start": 1066,
+              "end": 1074,
+              "type": "distractor"
+            },
+            {
+              "text": "parasitoides",
+              "start": 529,
+              "end": 541,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En los Países Bajos meridionales (ahora Bélgica y Luxemburgo) los desarrollos fueron diferentes. Bajo el dominio español, austriaco y francés, la estandarización del idioma holandés se paralizó. El estado, la ley y cada vez más la educación usaban el francés, pero más de la mitad de la población belga hablaba un dialecto holandés. En el transcurso del siglo XIX, el movimiento flamenco defendió los derechos del holandés, en su mayoría llamados flamencos. Pero al competir con la lengua francesa la variación en los dialectos fue una seria desventaja. Dado que la estandarización es un proceso largo, la Bélgica de habla neerlandesa se asoció con el idioma estándar que ya se había desarrollado en los Países Bajos a lo largo de los siglos. Por lo tanto, la situación en Bélgica no es esencialmente diferente a la de los Países Bajos, aunque hay diferencias reconocibles en la pronunciación, comparables a las diferencias de pronunciación entre el inglés británico estándar y el inglés estadounidense estándar. En 1980 los Países Bajos y Bélgica firmaron el Tratado de Unión de la Lengua. Este tratado establece el principio de que los dos países deben equipar su política lingüística entre sí, entre otras cosas, para un sistema común de ortografía.",
+      "annotations": [
+        {
+          "question": "¿Qué idioma sustituyó al holandés en los Países Bajos meridionales?",
+          "choices": [
+            {
+              "text": "flamenco",
+              "start": 379,
+              "end": 387,
+              "type": "distractor"
+            },
+            {
+              "text": "inglés",
+              "start": 981,
+              "end": 988,
+              "type": "distractor"
+            },
+            {
+              "text": "español",
+              "start": 113,
+              "end": 120,
+              "type": "distractor"
+            },
+            {
+              "text": "francés",
+              "start": 251,
+              "end": 258,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La lucha principal se produjo entre el Ejército Rojo bolchevique y las fuerzas del Ejército Blanco. Muchos ejércitos extranjeros combatieron contra el Ejército Rojo, especialmente las Fuerzas Aliadas, pero muchos extranjeros voluntarios lucharon en ambos lados de la Guerra Civil Rusa. Otros grupos políticos nacionalistas y regionales también participaron en la guerra, incluyendo el nacionalista ucraniano Ejército Verde, el anarquista ucraniano Ejército Negro y Guardias Negras, y señores de la guerra como Ungern von Sternberg. Los combates más intensos tuvieron lugar entre 1918 y 1920. Las principales operaciones militares terminaron el 25 de octubre de 1922, cuando el Ejército Rojo ocupó Vladivostok, anteriormente ocupado por el Gobierno Provisional de Priamur. El último enclave de las Fuerzas Blancas fue el distrito de Ayano-Maysky en la costa del Pacífico. La mayoría de los combates terminaron en 1920 con la derrota del general Pyotr Wrangel en Crimea, pero una notable resistencia en ciertas áreas continuó hasta 1923 (por ejemplo, el levantamiento de Kronstadt, la rebelión de Tambov).",
+      "annotations": [
+        {
+          "question": "¿Qué grupo ocupó Vladivostok en 1922?",
+          "choices": [
+            {
+              "text": "Ejército Rojo",
+              "start": 677,
+              "end": 690,
+              "type": "correct answer"
+            },
+            {
+              "text": "Ejército Verde",
+              "start": 408,
+              "end": 422,
+              "type": "distractor"
+            },
+            {
+              "text": "Ejército Negro",
+              "start": 448,
+              "end": 462,
+              "type": "distractor"
+            },
+            {
+              "text": "Ejército Blanco",
+              "start": 83,
+              "end": 98,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El plumaje se muda regularmente. El plumaje estándar de un ave que ha mudado después de la cría se conoce como plumaje \"no reproductivo\", o -en la terminología Humphrey-Parkes - plumaje \"básico\"; Los plumajes de cría o variaciones del plumaje básico se conocen bajo el sistema Humphrey-Parkes como plumajes \"alternativos\". La muda es anual en la mayoría de las especies, aunque algunas pueden tener dos mudas al año, y las grandes aves de presa pueden mudar sólo una vez cada pocos años. Los patrones de muda varían entre las especies. En los paseriformes, las plumas de vuelo son reemplazadas una a la vez, siendo la primaria más interna la primera. Cuando se reemplaza la quinta de la sexta primaria, las terciarias exteriores comienzan a caer. Después de que se muevan los terciarios más internos, las secundarias comienzan a caer desde el interior y esto procede a las plumas exteriores (muda centrífuga). Las mayores coberteras primarias se mudan en sincronía con las primarias que se superponen. Un pequeño número de especies, como patos y gansos, pierden todas sus plumas de vuelo a la vez, convirtiéndose temporalmente en no voladores. Como regla general, las plumas de la cola son mudadas y reemplazadas comenzando por la pareja más interna. Sin embargo, las moldes centrípeas de las plumas de la cola se ven en Phasianidae. La muda centrífuga se modifica en las plumas de la cola de los pájaros carpinteros y trepadoras, en que comienza con el segundo par de plumas más internas y termina con el par central de plumas para que el ave mantenga una cola. El patrón general visto en los paseriformes es que las primarias son reemplazadas hacia afuera, las secundarias hacia adentro y la cola desde el centro hacia afuera. Antes de anidar, las hembras de la mayoría de las especies de aves obtienen un parche desnudo por la pérdida de plumas cerca del vientre. La piel allí está bien provista de vasos sanguíneos y ayuda al ave en la incubación.",
+      "annotations": [
+        {
+          "question": "¿En qué tipo de aves las plumas de vuelo son reemplazadas una a la vez?",
+          "choices": [
+            {
+              "text": "pájaros carpinteros",
+              "start": 1397,
+              "end": 1416,
+              "type": "distractor"
+            },
+            {
+              "text": "paseriformes",
+              "start": 543,
+              "end": 555,
+              "type": "correct answer"
+            },
+            {
+              "text": "patos",
+              "start": 1038,
+              "end": 1043,
+              "type": "distractor"
+            },
+            {
+              "text": "gansos",
+              "start": 1046,
+              "end": 1052,
+              "type": "distractor"
+            },
+            {
+              "text": "aves de presa",
+              "start": 431,
+              "end": 444,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La adhesión religiosa de los samoanos incluye las siguientes: Iglesia congregacional Cristiana de Samoa 31,8%, católica 19,4%, metodista 15,2%, Asamblea de Dios 13,7%, Mormón 7,6%, séptimo día. El Jefe de Estado hasta 2007, Su Alteza Malietoa Tanumafili II, fue un converso bahá 'í. Samoa alberga una de las siete casas bahá 'ís de culto en el mundo; Terminado en 1984 y dedicado por el Jefe de Estado, se encuentra en Tiapapata, a 8 km de Apia.",
+      "annotations": [
+        {
+          "question": "¿Qué porcentaje de la adhesión religiosa de los samoanos incluye mormones?",
+          "choices": [
+            {
+              "text": "7,6%",
+              "start": 175,
+              "end": 179,
+              "type": "correct answer"
+            },
+            {
+              "text": "19,4%",
+              "start": 120,
+              "end": 125,
+              "type": "distractor"
+            },
+            {
+              "text": "15,2%",
+              "start": 137,
+              "end": 142,
+              "type": "distractor"
+            },
+            {
+              "text": "13,7%",
+              "start": 161,
+              "end": 166,
+              "type": "distractor"
+            },
+            {
+              "text": "31,8%",
+              "start": 104,
+              "end": 109,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1890, Robert Louis Stevenson, su esposa Fanny Vandegrift Stevenson y su hijo Lloyd Osbourne navegaron en el Janet Nicoll, un vapor mercante propiedad de Henderson y Macfarlane de Auckland, Nueva Zelanda. La Janet Nicoll visitó tres de las Islas Ellice; Mientras Fanny registra que tocaron tierra en Funafuti, Niutao y Nanumea, Jane Resture sugiere que era más probable que desembarcaran en Nukufetau en lugar de Funafuti. Un relato de este viaje fue escrito por Fanny Stevenson y publicado bajo el título The Cruise of the Janet Nichol, junto con fotografías tomadas por Robert Louis Stevenson y Lloyd Osbourne.",
+      "annotations": [
+        {
+          "question": "¿Cómo se llama el barco en el que navegaron?",
+          "choices": [
+            {
+              "text": "Janet Nicoll",
+              "start": 111,
+              "end": 123,
+              "type": "correct answer"
+            },
+            {
+              "text": "Jane Resture",
+              "start": 330,
+              "end": 342,
+              "type": "distractor"
+            },
+            {
+              "text": "Lloyd Osbourne",
+              "start": 80,
+              "end": 94,
+              "type": "distractor"
+            },
+            {
+              "text": "Fanny Vandegrift Stevenson",
+              "start": 43,
+              "end": 69,
+              "type": "distractor"
+            },
+            {
+              "text": "Macfarlane",
+              "start": 168,
+              "end": 178,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Cualquier filosofía que asigna una importancia crucial al reino ideal o espiritual en su relato de la existencia humana puede denominarse \"idealista\". El idealismo metafísico es una doctrina ontológica que sostiene que la realidad en sí misma es incorpórea o experiencial en su núcleo. Más allá de esto, los idealistas no están de acuerdo sobre qué aspectos de la mente son más básicos. El idealismo platónico afirma que las abstracciones son más básicas para la realidad que las cosas que percibimos, mientras que los idealistas subjetivos y fenomenalistas tienden a privilegiar la experiencia sensorial sobre el razonamiento abstracto. El idealismo epistemológico es la visión de que la realidad sólo puede ser conocida a través de ideas, que sólo la experiencia psicológica puede ser detenida por la mente.",
+      "annotations": [
+        {
+          "question": "¿Qué rama del idealismo trata la idea que la experiencia psicológica puede ser detenida por la mente?",
+          "choices": [
+            {
+              "text": "idealismo epistemológico",
+              "start": 641,
+              "end": 665,
+              "type": "correct answer"
+            },
+            {
+              "text": "idealismo metafísico",
+              "start": 154,
+              "end": 174,
+              "type": "distractor"
+            },
+            {
+              "text": "idealismo platónico",
+              "start": 390,
+              "end": 409,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de la larga crisis de desarme en Irak culminó con una demanda estadounidense de que el presidente iraquí Sadam Husein abandonara Irak, que fue rechazada, una coalición liderada por Estados Unidos y el Reino Unido luchó contra el ejército iraquí en 2003. Aproximadamente 250.000 soldados estadounidenses, con el apoyo de 45.000 británicos, 2.000 australianos y 200 polacos, entraron en Irak principalmente a través de su área de preparación en Kuwait. (Turquía se había negado a permitir que su territorio se utilizara para una invasión desde el norte.) Las fuerzas de la coalición también apoyaron a la milicia kurda iraquí, estimada en un número superior a 50.000. Después de aproximadamente tres semanas de lucha, Hussein y el Partido Baaz fueron expulsados por la fuerza, seguidos por 9 años de presencia militar por los Estados Unidos y la coalición luchando junto al nuevo gobierno iraquí contra varios grupos insurgentes.",
+      "annotations": [
+        {
+          "question": "¿Cuántos soldados venían de Inglaterra?",
+          "choices": [
+            {
+              "text": "45.000",
+              "start": 328,
+              "end": 334,
+              "type": "correct answer"
+            },
+            {
+              "text": "2.000",
+              "start": 347,
+              "end": 352,
+              "type": "distractor"
+            },
+            {
+              "text": "250.000",
+              "start": 278,
+              "end": 285,
+              "type": "distractor"
+            },
+            {
+              "text": "50.000",
+              "start": 666,
+              "end": 672,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
