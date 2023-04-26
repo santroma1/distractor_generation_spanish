@@ -6260,6 +6260,710 @@
           ]
         }
       ]
+    },
+    {
+      "context": "Durante la Segunda Guerra Mundial, cuando Dinamarca fue ocupada por la Alemania nazi, Estados Unidos controló brevemente Groenlandia para campos de batalla y protección. En 1946, Estados Unidos ofreció comprar Groenlandia a Dinamarca por 100 millones de dólares, pero Dinamarca se negó a venderla. Varios políticos y otros han argumentado en los últimos años que Groenlandia podría estar hipotéticamente en una mejor situación financiera como parte de los Estados Unidos; Por ejemplo mencionado por el profesor Gudmundur Alfredsson en la Universidad de Akureyri en 2014. Una de las razones reales detrás del interés estadounidense en Groenlandia podría ser los vastos recursos naturales de la isla. Según Wikileaks, los Estados Unidos parecen estar muy interesados en invertir en la base de recursos de la isla y en aprovechar los vastos hidrocarburos esperados en la costa groenlandesa.",
+      "annotations": [
+        {
+          "question": "¿Qué país controla la isla de Groenlandia?",
+          "choices": [
+            {
+              "text": "Dinamarca",
+              "start": 42,
+              "end": 51,
+              "type": "correct answer"
+            },
+            {
+              "text": "Alemania",
+              "start": 71,
+              "end": 79,
+              "type": "distractor"
+            },
+            {
+              "text": "Estados Unidos",
+              "start": 456,
+              "end": 470,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En la noche del 25 de diciembre de 1991, a las 7: 32 pp. m. hora de Moscú, después de que Gorbachov dejó el Kremlin, la bandera soviética fue bajada por última vez, y la bandera tricolor rusa fue erigida. Al día siguiente, el 26 de diciembre de 1991, el Consejo de Repúblicas, la cámara alta del Soviet Supremo, emitió una declaración formal reconociendo que la Unión Soviética había dejado de existir como estado y sujeto de derecho internacional. Al día siguiente Yeltsin se trasladó a la antigua oficina de Gorbachov, aunque las autoridades rusas habían tomado la suite dos días antes. Para el 31 de diciembre de 1991, las pocas instituciones soviéticas restantes que no habían sido tomadas por Rusia dejaron de funcionar, y las repúblicas individuales asumieron el papel del gobierno central.",
+      "annotations": [
+        {
+          "question": "¿Qué pasó la noche del 25 de diciembre de 1991?",
+          "choices": [
+            {
+              "text": "la bandera soviética fue bajada por última vez, y la bandera tricolor rusa fue erigida",
+              "start": 117,
+              "end": 203,
+              "type": "correct answer"
+            },
+            {
+              "text": "la cámara alta del Soviet Supremo, emitió una declaración formal reconociendo que la Unión Soviética había dejado de existir como estado",
+              "start": 277,
+              "end": 413,
+              "type": "distractor"
+            },
+            {
+              "text": "Yeltsin se trasladó a la antigua oficina de Gorbachov",
+              "start": 466,
+              "end": 519,
+              "type": "distractor"
+            },
+            {
+              "text": "las pocas instituciones soviéticas restantes que no habían sido tomadas por Rusia dejaron de funcionar",
+              "start": 622,
+              "end": 724,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Un ejemplo de esta teoría en acción sería el siguiente: Un estímulo que evoca emociones (serpiente) desencadena un patrón de respuesta fisiológica (ritmo cardíaco aumentado, respiración más rápida, etc. ), que se interpreta como una emoción particular (miedo). Esta teoría se apoya en experimentos en los que mediante la manipulación del estado corporal induce un estado emocional deseado. Algunas personas pueden creer que las emociones dan lugar a acciones específicas de la emoción: E.g. \"Lloro porque estoy triste\", o \"huí porque tenía miedo\". El problema con la teoría de James-Lange es el de la causación (estados corporales que causan emociones y son a priori), no el de las influencias corporales en la experiencia emocional (que se puede argumentar y sigue prevaleciendo).",
+      "annotations": [
+        {
+          "question": "¿En el texto, cuál es un ejemplo del estímulo que evoca emociones?",
+          "choices": [
+            {
+              "text": "serpiente",
+              "start": 89,
+              "end": 98,
+              "type": "correct answer"
+            },
+            {
+              "text": "miedo",
+              "start": 253,
+              "end": 258,
+              "type": "distractor"
+            },
+            {
+              "text": "ritmo cardíaco aumentado",
+              "start": 148,
+              "end": 172,
+              "type": "distractor"
+            },
+            {
+              "text": "la manipulación del estado corporal",
+              "start": 318,
+              "end": 353,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La sociología de la cultura se refiere a la cultura - generalmente entendida como el conjunto de códigos simbólicos utilizados por una sociedad - como se manifiesta en la sociedad. Para Georg Simmel (1858-1918), la cultura se refería a \"el cultivo de individuos a través de la agencia de formas externas que han sido objetivadas en el curso de la historia\". La cultura en el campo sociológico se puede definir como las formas de pensar, las formas de actuar y los objetos materiales que juntos forman el modo de vida de un pueblo. La cultura puede ser cualquiera de dos tipos, cultura no material o cultura material. La cultura no material se refiere a las ideas no físicas que los individuos tienen sobre su cultura, incluyendo valores, sistema de creencias, reglas, normas, morales, lenguaje, organizaciones e instituciones. Mientras que la cultura material es la evidencia física de una cultura en los objetos y la arquitectura que hacen, o han hecho. El término tiende a ser relevante sólo en los estudios arqueológicos y antropológicos, pero específicamente significa toda evidencia material que se puede atribuir a la cultura pasada o presente.",
+      "annotations": [
+        {
+          "question": "¿A qué se refiere la cultura no material?",
+          "choices": [
+            {
+              "text": "las ideas no físicas que los individuos tienen sobre su cultura",
+              "start": 653,
+              "end": 716,
+              "type": "correct answer"
+            },
+            {
+              "text": "toda evidencia material que se puede atribuir a la cultura pasada o presente",
+              "start": 1073,
+              "end": 1149,
+              "type": "distractor"
+            },
+            {
+              "text": "la evidencia física de una cultura en los objetos y la arquitectura que hacen, o han hecho",
+              "start": 863,
+              "end": 953,
+              "type": "distractor"
+            },
+            {
+              "text": "las formas de pensar, las formas de actuar y los objetos materiales que juntos forman el modo de vida de un pueblo",
+              "start": 415,
+              "end": 529,
+              "type": "distractor"
+            },
+            {
+              "text": "el conjunto de códigos simbólicos utilizados por una sociedad",
+              "start": 82,
+              "end": 143,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La química moderna surgió del siglo XVI al XVIII a través de las prácticas materiales y teorías promovidas por la alquimia, la medicina, la manufactura y la minería. Un momento decisivo llegó cuando la \"quimia\" fue distinguida de la alquimia por Robert Boyle en su obra The Sceptical Chymist, en 1661; Aunque la tradición alquímica continuó durante algún tiempo después de su trabajo. Otros pasos importantes incluyen las prácticas gravimétricas experimentales de químicos médicos como William Cullen, Joseph Black, Torbern Bergman y Pierre Macquer y a través del trabajo de Antoine Lavoisier (Padre de la química moderna). La teoría de que toda materia está hecha de átomos, que son los constituyentes más pequeños de materia que no se pueden descomponer sin perder las propiedades químicas y físicas básicas de esa materia, fue proporcionada por John Dalton en 1803. Dalton también formuló la ley de relaciones de masas. En 1869, Dmitri Mendeléyev compuso su tabla periódica de elementos sobre la base de los descubrimientos de Dalton.",
+      "annotations": [
+        {
+          "question": "¿Quién es considerado el Padre de la química moderna?",
+          "choices": [
+            {
+              "text": "Antoine Lavoisier",
+              "start": 575,
+              "end": 592,
+              "type": "correct answer"
+            },
+            {
+              "text": "John Dalton",
+              "start": 848,
+              "end": 859,
+              "type": "distractor"
+            },
+            {
+              "text": "Dmitri Mendeléyev",
+              "start": 932,
+              "end": 949,
+              "type": "distractor"
+            },
+            {
+              "text": "Robert Boyle",
+              "start": 246,
+              "end": 258,
+              "type": "distractor"
+            },
+            {
+              "text": "William Cullen",
+              "start": 486,
+              "end": 500,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En el siglo siguiente, que es el comienzo del período clásico, se consideró que la belleza en las cosas visibles como en todo lo demás, consistía en simetría y proporciones. Los artistas también trataron de representar el movimiento en un momento específico (Myron), que puede considerarse como la reaparición del elemento inactivo minoico. La anatomía y la geometría están fusionadas en una, y cada una hace algo al otro. Los escultores griegos intentaron aclararlo buscando proporciones matemáticas, al igual que buscaban cierta realidad detrás de las apariencias. Polykleitos en su Canon escribió que la belleza consiste en la proporción no de los elementos (materiales), sino de las partes, que es la interrelación de las partes entre sí y con el todo. Parece que fue influenciado por las teorías de Pitágoras. El famoso Apolo de Mantua y sus variantes son formas tempranas del tipo de estatua de Apolo Citharoedus, en la que el dios sostiene la cítara en su brazo izquierdo. El tipo está representado por copias imperiales romanas neoáticas de finales del siglo I o principios del siglo II a. C., inspiradas en un supuesto original griego de bronce hecho en el segundo cuarto del siglo V a. El Apolo sostuvo la cítara contra su brazo izquierdo extendido, del cual en el ejemplo del Louvre, un fragmento de un cuerno giratorio retorcido se mantiene contra sus bíceps.",
+      "annotations": [
+        {
+          "question": "¿Qué sostiene Apolo en su brazo izquierdo en la estatua de Apolo Citharoedus?",
+          "choices": [
+            {
+              "text": "la cítara",
+              "start": 1213,
+              "end": 1222,
+              "type": "correct answer"
+            },
+            {
+              "text": "un cuerno giratorio",
+              "start": 1311,
+              "end": 1330,
+              "type": "distractor"
+            },
+            {
+              "text": "sus bíceps",
+              "start": 1360,
+              "end": 1370,
+              "type": "distractor"
+            },
+            {
+              "text": "la belleza",
+              "start": 80,
+              "end": 90,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El ambiente de un adolescente juega un papel enorme en su desarrollo de identidad. Mientras que la mayoría de los estudios adolescentes se llevan a cabo en niños blancos de clase media, los estudios muestran que cuanto más privilegiados tienen las personas, más exitosamente desarrollan su identidad. La formación de la identidad de un adolescente es un momento crucial en su vida. Recientemente se ha encontrado que los patrones demográficos sugieren que la transición a la adultez está ocurriendo en un lapso más largo de años de lo que fue el caso a mediados del siglo XX. En consecuencia, la juventud, un período que abarca la adolescencia tardía y la adultez temprana, se ha convertido en una etapa más prominente del curso de la vida. Esto por lo tanto ha causado que varios factores se vuelvan importantes durante este desarrollo. Tantos factores contribuyen al desarrollo de la identidad social de un adolescente del compromiso, de los dispositivos de afrontamiento, de las redes sociales. Todos estos factores son afectados por el medio ambiente en el que un adolescente crece. Un niño de una educación más privilegiada está expuesto a más oportunidades y mejores situaciones en general. Un adolescente de una ciudad interior o un vecindario impulsado por el crimen es más probable que esté expuesto a un entorno que puede ser perjudicial para su desarrollo. La adolescencia es un período sensible en el proceso de desarrollo, y la exposición a las cosas equivocadas en ese momento puede tener un efecto importante en las decisiones futuras. Si bien los niños que crecen en buenas comunidades suburbanas no están expuestos a entornos malos, es más probable que participen en actividades que pueden beneficiar su identidad y contribuir a un desarrollo de identidad más exitoso.",
+      "annotations": [
+        {
+          "question": "¿Qué muestran los estudios de los adolescentes?",
+          "choices": [
+            {
+              "text": "cuanto más privilegiados tienen las personas, más exitosamente desarrollan su identidad",
+              "start": 212,
+              "end": 299,
+              "type": "correct answer"
+            },
+            {
+              "text": "la transición a la adultez está ocurriendo en un lapso más largo de años de lo que fue el caso a mediados del siglo XX",
+              "start": 456,
+              "end": 574,
+              "type": "distractor"
+            },
+            {
+              "text": "la juventud, un período que abarca la adolescencia tardía y la adultez temprana, se ha convertido en una etapa más prominente del curso de la vida",
+              "start": 593,
+              "end": 739,
+              "type": "distractor"
+            },
+            {
+              "text": "un niño de una educación más privilegiada está expuesto a más oportunidades y mejores situaciones en general",
+              "start": 1087,
+              "end": 1195,
+              "type": "distractor"
+            },
+            {
+              "text": "la adolescencia es un período sensible en el proceso de desarrollo, y la exposición a las cosas equivocadas en ese momento puede tener un efecto importante en las decisiones futuras",
+              "start": 1368,
+              "end": 1549,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "48 de las montañas de Suiza están a 4.000 metros sobre el mar en altitud o más. Con 4.634 m (15.203 pies), Monte Rosa es el más alto, aunque el Matterhorn (4.478 m) es a menudo considerado como el más famoso. Ambos se encuentran dentro de los Alpes Peninos en el cantón del Valais. La sección de los Alpes berneses por encima del profundo valle glacial Lauterbrunnen, que contiene 72 cascadas, es bien conocida por los valles de Jungfrau (4.158 m) Eiger y Mönch, y muchos. En el sureste el largo valle de Engadin, que abarca el área de St. Moritz en el cantón de los Grisones, también es bien conocido. El pico más alto en los vecinos Alpes Bernina es el Piz Bernina (4.049 m).",
+      "annotations": [
+        {
+          "question": "¿Qué montaña es a menudo considerada la más famosa?",
+          "choices": [
+            {
+              "text": "Matterhorn",
+              "start": 144,
+              "end": 154,
+              "type": "correct answer"
+            },
+            {
+              "text": "Monte Rosa",
+              "start": 107,
+              "end": 117,
+              "type": "distractor"
+            },
+            {
+              "text": "Jungfrau",
+              "start": 429,
+              "end": 437,
+              "type": "distractor"
+            },
+            {
+              "text": "Piz Bernina",
+              "start": 655,
+              "end": 666,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El idioma principal y nativo hablado en el Punjab es el punyabí (que está escrito en una escritura Shahmukhi en Pakistán) y el punjabis es el grupo étnico más grande del país. El punjabi es la lengua provincial del Punyab. No hay un solo distrito en la provincia donde el idioma panyabí sea lengua materna de menos del 89% de la población. El idioma no recibe ningún reconocimiento oficial en la Constitución de Pakistán a nivel nacional. Los mismos Punjabis son un grupo heterogéneo formado por diferentes tribus, clanes (urdu: برادری) y comunidades. En el Punjab pakistaní estas tribus tienen más que ver con ocupaciones tradicionales como herreros o artesanos en lugar de estratificaciones sociales rígidas. Dialectos del punjabi hablados en la provincia incluyen Majhi (estándar), Saraiki e Hindko. El saraiki se habla principalmente en el sur de Punjab, y el pashto, hablado en algunas partes del noroeste de Punjab, especialmente en el distrito de Attock y el distrito de Mianwali.",
+      "annotations": [
+        {
+          "question": "¿Qué idioma se habla principalmente en el sur de Punjab?",
+          "choices": [
+            {
+              "text": "saraiki",
+              "start": 806,
+              "end": 813,
+              "type": "correct answer"
+            },
+            {
+              "text": "punyabí",
+              "start": 56,
+              "end": 63,
+              "type": "distractor"
+            },
+            {
+              "text": "pashto",
+              "start": 864,
+              "end": 870,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Homero se refiere a los \"helenos\" (/ ˈhɛliːnz /) como una tribu relativamente pequeña asentada en Thessalic Phthia, con sus guerreros bajo el mando de Aquileo. La Crónica de Paria dice que Ftia era la patria de los helenos y que este nombre fue dado a los anteriormente llamados griegos (Γραικοί). En la mitología griega, Helén, el patriarca de los helenos, era hijo de Pirra y Deucalión, que gobernaban alrededor de Ftia, los únicos sobrevivientes después del gran diluvio. Parece que el mito fue inventado cuando las tribus griegas comenzaron a separarse unas de otras en ciertas áreas de Grecia e indica su origen común. Aristóteles nombra a la antigua Hellas como un área en Epiro entre Dodona y el río Aqueloo, la ubicación del gran diluvio de Deucalión, una tierra ocupada por los Selloi y los \"griegos\". Selloi eran los sacerdotes de Zeus Dodoniano y la palabra probablemente significa \"sacrificadores\" (comparar el saljan gótico, \"presente, sacrificio\"). Actualmente no hay una etimología satisfactoria del nombre helenos. Algunos estudiosos afirman que el nombre Selloi cambió a Sellanes y luego a Hellanes-Hellenes. Sin embargo, esta etimología conecta el nombre helenos con los dorios que ocuparon Epiro y la relación con el nombre griego dado por los romanos se vuelve incierta. El nombre helenos parece ser más antiguo y fue probablemente utilizado por los griegos con el establecimiento de la Gran Liga Anfictionónica. Esta fue una antigua asociación de tribus griegas con doce fundadores que se organizó para proteger los grandes templos de Apolo en Delfos (Fócida) y de Deméter cerca de las Termópilas (Locris). Según la leyenda fue fundada después de la Guerra de Troya por el epónimo Amphictyon, hermano de Helén.",
+      "annotations": [
+        {
+          "question": "¿Cómo denomina Aristóteles a la antigua Hellas?",
+          "choices": [
+            {
+              "text": "un área en Epiro entre Dodona y el río Aqueloo",
+              "start": 668,
+              "end": 714,
+              "type": "correct answer"
+            },
+            {
+              "text": "una tribu relativamente pequeña asentada en Thessalic Phthia",
+              "start": 54,
+              "end": 114,
+              "type": "distractor"
+            },
+            {
+              "text": "una antigua asociación de tribus griegas con doce fundadores que se organizó para proteger los grandes templos",
+              "start": 1442,
+              "end": 1552,
+              "type": "distractor"
+            },
+            {
+              "text": "los únicos sobrevivientes después del gran diluvio",
+              "start": 423,
+              "end": 473,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En diciembre de 2005, la activista Suzanne Shell presentó una demanda exigiendo a Internet Archive pagar 100.000 dólares por archivar su sitio web profane-justice.org entre 1999 y 2004. Internet Archive presentó una acción de juicio declaratorio en el Tribunal de Distrito de los Estados Unidos para el Distrito Norte de California el 20 de enero de 2006, buscando una determinación judicial de que Internet Archive no violaba los derechos de autor de Shell. Shell respondió y trajo una contrademanda contra Internet Archive para archivar su sitio, que ella alega está en violación de sus términos de servicio. El 13 de febrero de 2007, un juez del Tribunal de Distrito de los Estados Unidos para el Distrito de Colorado desestimó todas las contrademandas excepto la violación de contrato. El Archivo de Internet no se movió para desestimar las demandas por infracción de derechos de autor, Shell afirmó que surgió de sus actividades de copia, lo que también seguiría adelante.",
+      "annotations": [
+        {
+          "question": "¿Cuándo se desestimó todas las contrademandas de Shell?",
+          "choices": [
+            {
+              "text": "febrero de 2007",
+              "start": 620,
+              "end": 635,
+              "type": "correct answer"
+            },
+            {
+              "text": "diciembre de 2005",
+              "start": 3,
+              "end": 20,
+              "type": "distractor"
+            },
+            {
+              "text": "enero de 2006",
+              "start": 341,
+              "end": 354,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En Europa occidental, algunas de las familias de élite romanas más antiguas murieron, mientras que otras se involucraron más con la Iglesia que con los asuntos seculares. Los valores vinculados a la erudición latina y la educación en su mayoría desaparecieron, y aunque la alfabetización siguió siendo importante, se convirtió en una habilidad práctica en lugar de un signo de estatus de élite. En el siglo IV, Jerónimo (m. 420) soñó que Dios lo reprendió por pasar más tiempo leyendo a Cicerón que la Biblia. En el siglo VI, Gregorio de Tours (m. 594) tuvo un sueño similar, pero en lugar de ser castigado por leer a Cicerón, fue castigado por aprender taquigrafía. A finales del siglo VI, el principal medio de instrucción religiosa en la Iglesia se había convertido en música y arte en lugar del libro. La mayoría de los esfuerzos intelectuales fueron hacia la imitación de la erudición clásica, pero se crearon algunas obras originales, junto con composiciones orales ahora perdidas. Los escritos de Sidonio Apolinar (m. 489), Casiodoro (m. 585) y Boecio (m.",
+      "annotations": [
+        {
+          "question": "¿Quién soñó que Dios lo reprendió por pasar más tiempo leyendo a Cicerón que la Biblia?",
+          "choices": [
+            {
+              "text": "Jerónimo",
+              "start": 411,
+              "end": 419,
+              "type": "correct answer"
+            },
+            {
+              "text": "Gregorio de Tours",
+              "start": 526,
+              "end": 543,
+              "type": "distractor"
+            },
+            {
+              "text": "Sidonio Apolinar",
+              "start": 1004,
+              "end": 1020,
+              "type": "distractor"
+            },
+            {
+              "text": "Casiodoro ",
+              "start": 1031,
+              "end": 1041,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Tribunal Supremo Federal ha establecido que los tratados están sujetos a revisión constitucional y disfrutan de la misma posición jerárquica que la legislación ordinaria (leis ordinárias, o \"leyes ordinarias\", en portugués). Una decisión más reciente de la Corte Suprema en 2008 ha alterado ese esquema un poco, al afirmar que los tratados que contienen disposiciones de derechos humanos gozan de un estatus superior al de la legislación ordinaria, aunque permanecen bajo la propia constitución. Además, según la enmienda 45 a la constitución, los tratados de derechos humanos que son aprobados por el Congreso por medio de un procedimiento especial disfrutan de la misma posición jerárquica como una enmienda constitucional. La posición jerárquica de los tratados en relación con la legislación doméstica es relevante para la discusión sobre si (y cómo) este último puede derogar lo primero y viceversa.",
+      "annotations": [
+        {
+          "question": "¿Qué tiene la misma posición jerárquica que los tratados?",
+          "choices": [
+            {
+              "text": "la legislación ordinaria",
+              "start": 148,
+              "end": 172,
+              "type": "correct answer"
+            },
+            {
+              "text": "la legislación doméstica",
+              "start": 784,
+              "end": 808,
+              "type": "distractor"
+            },
+            {
+              "text": "la constitución",
+              "start": 530,
+              "end": 545,
+              "type": "distractor"
+            },
+            {
+              "text": "los derechos humanos",
+              "start": 562,
+              "end": 579,
+              "type": "distractor"
+            },
+            {
+              "text": "la Corte Suprema",
+              "start": 257,
+              "end": 273,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En su lanzamiento, Twilight Princess fue considerado como el mejor juego de Zelda jamás hecho por muchos críticos, incluyendo escritores para 1UP.com, Computer and Video Games, Electronic Gaming Monthly, Game Informer, GamesRadar, IGN y The Washington Post. Game Informer lo llamó \"tan creativo que rivaliza con lo mejor que Hollywood tiene para ofrecer\". GamesRadar elogió a Twilight Princess como \"un juego que no merece nada más que la máxima recomendación absoluta\". Cubed3 aclamó a Twilight Princess como \"la mejor experiencia del videojuego\". Los gráficos de Twilight Princess fueron elogiados por el estilo de arte y la animación, aunque el juego fue diseñado para GameCube, que es técnicamente insuficiente en comparación con las consolas de la próxima generación. Tanto IGN como GameSpy señalaron la existencia de texturas borrosas y personajes de baja resolución. A pesar de estas quejas, Computer y Video Games sintieron que la atmósfera del juego era superior a la de cualquier juego anterior de Zelda, y consideraron a Hyrule de Twilight Princess como la mejor versión jamás creada. PALGN elogió la cinemática del juego, señalando que \"las escenas son las mejores de los juegos de Zelda\". En cuanto a la versión de Wii, Jeff Gerstmann de GameSpot dijo que los controles de Wii se sintieron \"abordados\", aunque 1UP.com dijo que los ataques de espada de balanceo remoto eran \"los más impresionantes de toda la serie\". Gaming Nexus consideró la banda sonora de Twilight Princess como la mejor de esta generación, aunque IGN criticó sus canciones con formato MIDI por carecer de \"el golpe y la crudeza\" de sus contrapartes orquestadas. Javier Glickman de Hyper elogió el juego por sus \"misiones muy largas, excelentes controles de Wii y ser capaz de salvar en cualquier momento\". Sin embargo, lo criticó por \"ninguna actuación de voz, ninguna partitura orquestal y gráficos ligeramente anticuados\".",
+      "annotations": [
+        {
+          "question": "¿Qué revista crítica elogió la banda sonora de Twilight Princess como la mejor de esta generación?",
+          "choices": [
+            {
+              "text": "Gaming Nexus",
+              "start": 1429,
+              "end": 1441,
+              "type": "correct answer"
+            },
+            {
+              "text": "PALGN",
+              "start": 1096,
+              "end": 1101,
+              "type": "distractor"
+            },
+            {
+              "text": "1UP.com",
+              "start": 1323,
+              "end": 1330,
+              "type": "distractor"
+            },
+            {
+              "text": "IGN ",
+              "start": 779,
+              "end": 783,
+              "type": "distractor"
+            },
+            {
+              "text": "Electronic Gaming Monthly",
+              "start": 177,
+              "end": 202,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "María había sido venerada desde el cristianismo primitivo, y es considerada por millones como la santa más meritoria de la religión. Las Iglesias ortodoxa, católica, anglicana y luterana creen que María, como Madre de Jesús, es la Madre de Dios y Theotokos, literalmente \"Dador de nacimiento a Dios\". Hay una diversidad significativa en las creencias marianas y las prácticas devocionales de las principales tradiciones cristianas. La Iglesia católica mantiene distintivos dogmas marianos. Es decir, su condición de madre de Dios; Su Inmaculada Concepción; Su virginidad perpetua. Y su Asunción al cielo. Muchos protestantes minimizan el papel de María dentro del cristianismo, basado en la brevedad argumentada de las referencias bíblicas. Mary (Maryam) también tiene una posición reverenciada en el Islam, donde un capítulo entero del Corán está dedicado a ella, también describiendo el nacimiento de Jesús.",
+      "annotations": [
+        {
+          "question": "¿Qué rama de la iglesia minimiza el papel de María?",
+          "choices": [
+            {
+              "text": "católica",
+              "start": 443,
+              "end": 451,
+              "type": "distractor"
+            },
+            {
+              "text": "ortodoxa",
+              "start": 146,
+              "end": 154,
+              "type": "distractor"
+            },
+            {
+              "text": "cristianismo",
+              "start": 35,
+              "end": 47,
+              "type": "distractor"
+            },
+            {
+              "text": "protestante",
+              "start": 612,
+              "end": 623,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Portugal tiene sin duda las leyes más liberales sobre la posesión de drogas ilícitas en el mundo occidental. En 2001, Portugal despenalizó la posesión de efectivamente todas las drogas que todavía son ilegales en otras naciones desarrolladas, incluyendo, pero no limitadas a, cannabis, cocaína, heroína y LSD. Si bien la posesión es legal, el tráfico y la posesión de más de \"10 días de uso personal\" todavía se castigan con pena de cárcel y multas. A las personas atrapadas con pequeñas cantidades de cualquier medicamento se les da la opción de ir a un centro de rehabilitación y pueden rechazar el tratamiento sin consecuencias. A pesar de las críticas de otras naciones europeas, que declararon que el consumo de drogas de Portugal aumentaría enormemente, el uso general de drogas ha disminuido junto con el número de casos de infección del VIH, que había caído 50 por ciento en 2009. El uso de drogas entre los niños de 16 a 18 años también disminuyó, sin embargo el uso de marihuana aumentó sólo ligeramente entre ese grupo de edad.",
+      "annotations": [
+        {
+          "question": "¿Qué aumentó ligeramente entre niños de 16 a 18 años?",
+          "choices": [
+            {
+              "text": "el uso de marihuana",
+              "start": 969,
+              "end": 988,
+              "type": "correct answer"
+            },
+            {
+              "text": "el número de casos de infección del VIH",
+              "start": 809,
+              "end": 848,
+              "type": "distractor"
+            },
+            {
+              "text": "la posesión de drogas ilícitas",
+              "start": 54,
+              "end": 84,
+              "type": "distractor"
+            },
+            {
+              "text": "la pena de cárcel y multas",
+              "start": 425,
+              "end": 448,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Bajo el gobernador territorial Thomas Meagher, los montaneses celebraron una convención constitucional en 1866 en una fallida candidatura a la condición de Estado. Una segunda convención constitucional se celebró en Helena en 1884 que produjo una constitución ratificada 3: 1 por los ciudadanos de Montana en noviembre de 1884. Por razones políticas, el Congreso no aprobó la condición de estado de Montana hasta 1889. El Congreso aprobó la condición de estado de Montana en febrero de 1889 y el presidente Grover Cleveland firmó un proyecto de ley que otorgaba la condición de estado a Montana, Dakota del Norte, Dakota del Sur y Washington una vez que se elaboraron las constituciones estatales apropiadas. En julio de 1889, los montaneses convocaron su tercera convención constitucional y produjeron una constitución aceptable por el pueblo y el gobierno federal. El 8 de noviembre de 1889, el presidente Benjamin Harrison proclamó Montana como el cuadragésimo primer estado de la unión. El primer gobernador del estado fue Joseph K. Toole. En la década de 1880, Helena (la actual capital del estado) tenía más millonarios per cápita que cualquier otra ciudad de los Estados Unidos.",
+      "annotations": [
+        {
+          "question": "¿Cuándo fue la tercera convención constitucional?",
+          "choices": [
+            {
+              "text": "julio de 1889",
+              "start": 712,
+              "end": 725,
+              "type": "correct answer"
+            },
+            {
+              "text": "noviembre de 1889",
+              "start": 875,
+              "end": 892,
+              "type": "distractor"
+            },
+            {
+              "text": "febrero de 1889 ",
+              "start": 475,
+              "end": 491,
+              "type": "distractor"
+            },
+            {
+              "text": "noviembre de 1884",
+              "start": 309,
+              "end": 326,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de varias semanas de rumores, que comenzaron alrededor del 11 de enero de 2013, Dell anunció el 5 de febrero de 2013 que había llegado a un acuerdo de compra de $24.4 mil millones apalancado, que habría eliminado sus acciones. Reuters informó que Michael Dell y Silver Lake Partners, ayudados por un préstamo de $2 mil millones de Microsoft, adquirirían las acciones públicas a $13,65 cada uno. La compra de 24.400 millones de dólares fue proyectada como la mayor compra apalancada respaldada por capital privado desde la crisis financiera de 2007. También es la mayor adquisición tecnológica de la historia, superando la compra en 2006 de Freescale Semiconductor por 17.500 millones de dólares.",
+      "annotations": [
+        {
+          "question": "¿De qué cifra en dólares fue la adquisición de Freescale Semiconductor en 2006?",
+          "choices": [
+            {
+              "text": "17.500 millones",
+              "start": 676,
+              "end": 691,
+              "type": "correct answer"
+            },
+            {
+              "text": "24.400 millones",
+              "start": 416,
+              "end": 431,
+              "type": "distractor"
+            },
+            {
+              "text": "2 mil millones",
+              "start": 321,
+              "end": 335,
+              "type": "distractor"
+            },
+            {
+              "text": "24.4 mil millones",
+              "start": 170,
+              "end": 187,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "No sólo eso, Austria se distanció ahora de los nuevos desarrollos dentro del propio imperio. Junto al ascenso de Prusia, Augusto III, aunque ineficaz, pudo reunir un ejército no sólo de Sajonia, sino también de Polonia, considerando que el elector era también el rey de Polonia. El creciente poder e independencia de Baviera también era evidente, ya que tenía más voces en el camino que su ejército debería haber tomado, y logró salir de la guerra a su propia voluntad. Más importante aún, con el ahora algo beligerante Hannover unido personalmente bajo Jorge III de Gran Bretaña, puede acumular un poder considerable, incluso trajo a Gran Bretaña, en los futuros conflictos. Esta dinámica de poder es importante para el futuro y los últimos conflictos del imperio. La guerra también demostró que las reformas de María Teresa no eran suficientes para competir con Prusia: A diferencia de su enemigo, los austriacos casi quebraron al final de la guerra. Por lo tanto, dedicó las siguientes dos décadas a la consolidación de su administración.",
+      "annotations": [
+        {
+          "question": "¿De dónde era Jorge III?",
+          "choices": [
+            {
+              "text": "Gran Bretaña",
+              "start": 567,
+              "end": 579,
+              "type": "correct answer"
+            },
+            {
+              "text": "Prusia",
+              "start": 113,
+              "end": 119,
+              "type": "distractor"
+            },
+            {
+              "text": "Austria",
+              "start": 13,
+              "end": 20,
+              "type": "distractor"
+            },
+            {
+              "text": "Polonia",
+              "start": 270,
+              "end": 277,
+              "type": "distractor"
+            },
+            {
+              "text": "Sajonia",
+              "start": 186,
+              "end": 193,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La evaporación y sublimación en un vacío se llama desgasificación. Todos los materiales, sólidos o líquidos, tienen una pequeña presión de vapor, y su desgasificación se vuelve importante cuando la presión de vacío cae por debajo de esta presión de vapor. En los sistemas artificiales, la desgasificación tiene el mismo efecto que una fuga y puede limitar el vacío alcanzable. Los productos de desgasificación pueden condensarse en superficies más frías cercanas, lo que puede ser problemático si oscurecen los instrumentos ópticos o reaccionan con otros materiales. Esto es de gran preocupación para las misiones espaciales, donde un telescopio oculto o una celda solar puede arruinar una misión costosa.",
+      "annotations": [
+        {
+          "question": "¿La desgasificación se vuelve importante cuando la presión de vacío cae por debajo de qué?",
+          "choices": [
+            {
+              "text": "presión de vapor",
+              "start": 238,
+              "end": 254,
+              "type": "correct answer"
+            },
+            {
+              "text": "evaporación",
+              "start": 3,
+              "end": 14,
+              "type": "distractor"
+            },
+            {
+              "text": "sublimación",
+              "start": 17,
+              "end": 28,
+              "type": "distractor"
+            },
+            {
+              "text": "superficies más frías cercanas",
+              "start": 432,
+              "end": 462,
+              "type": "distractor"
+            },
+            {
+              "text": "el vacío alcanzable",
+              "start": 356,
+              "end": 375,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

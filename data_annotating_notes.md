@@ -77,28 +77,31 @@ Total 40
 
 <br>
 
-# Wednesday April 19 - Monday April 24
+# Wednesday April 19 - Wednesday April 26
 
-Dates and Numbers 2
+Dates and Numbers 3
 
-Names 6
+Names 11
 
-Phrases 12
+Phrases 26
 
-Total 20
+Total 40
 
 ## Comments
 164. Infinitive
 172. plural
+187. Cases
+193. Articles
+196. Articles
 
 <br>
 
 # Total
 
-Dates and Numbers 23
+Dates and Numbers 26
 
-Names 37
+Names 48
 
-Phrases 100   
+Phrases 126   
 
-Total 160
+Total 200
