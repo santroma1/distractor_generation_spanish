@@ -96,6 +96,24 @@ Total 40
 
 <br>
 
+# Wednesday April 26 - 
+
+Dates and Numbers 4
+
+Names 8
+
+Phrases 18
+
+Total 30
+
+## Comments
+206. Plural
+215. o->a
+222. Upper case
+224. Upper case
+
+<br>
+
 # Total
 
 Dates and Numbers 26
@@ -105,3 +123,8 @@ Names 48
 Phrases 126   
 
 Total 200
+
+
+# GLOBAL NOTES
+- THere is a text on Tennesse, that has 2 questions
+- For a reason, its not exporting datapoint 177. 
