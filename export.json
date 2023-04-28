@@ -5316,6 +5316,35 @@
               "type": "distractor"
             }
           ]
+        },
+        {
+            "question": "¿Cómo se consideraba la lucha libre a principios del siglo XX?",
+            "choices": [
+            {
+                "text": "un entretenimiento barato",
+                "start": 162,
+                "end": 187,
+                "type": "correct answer"
+            },
+            {
+                "text": "un espectáculo",
+                "start": 597,
+                "end": 611,
+                "type": "distractor"
+            },
+            {
+                "text": "una estafa a los ignorantes",
+                "start": 558,
+                "end": 585,
+                "type": "distractor"
+            },
+            {
+                "text": "deporte",
+                "start": 97,
+                "end": 104,
+                "type": "distractor"
+            }
+          ]
         }
       ]
     },
@@ -8455,6 +8484,342 @@
               "text": "azules",
               "start": 774,
               "end": 780,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La isla de Santa Elena tiene una superficie total de 122 km ², y se compone en gran parte de terreno accidentado de origen volcánico (las últimas erupciones volcánicas ocurrieron hace unos 7 millones de años). Las zonas costeras están cubiertas de rocas volcánicas y más cálidas y secas que el centro. El punto más alto de la isla es el Pico de Diana con 818 m. En 1996 se convirtió en el primer parque nacional de la isla. Gran parte de la isla está cubierta por lino de Nueva Zelanda, un legado de la antigua industria, pero hay algunos árboles originales aumentados por plantaciones, incluyendo los del Bosque Milenio proyecto que fue establecido en 2002 para replantar parte del perdido Great Wood. Cuando la isla fue descubierta, estaba cubierta de vegetación indígena única, incluyendo una notable especie de árbol de col. El interior de la isla debe haber sido un denso bosque tropical, pero las zonas costeras eran probablemente también bastante verdes. El paisaje moderno es muy diferente, con una amplia roca desnuda en las zonas más bajas, aunque en el interior es verde, principalmente debido a la vegetación introducida. No hay mamíferos terrestres nativos, pero se han introducido vacas, gatos, perros, burros, ratones, conejos, ratas y ovejas, y las especies nativas se han visto afectadas negativamente como resultado. El cambio dramático en el paisaje debe atribuirse a estas introducciones. Como resultado, el árbol de cuerda (Acalypha rubrinervis) y el olivo de Santa Helena (Nesiota elliptica) están ahora extintos, y muchas de las otras plantas endémicas están amenazadas de extinción.",
+      "annotations": [
+        {
+          "question": "¿Cuál fue el objetivo del proyecto Bosque Milenio en 2002?",
+          "choices": [
+            {
+              "text": "replantar parte del perdido Great Wood",
+              "start": 663,
+              "end": 701,
+              "type": "correct answer"
+            },
+            {
+              "text": "introducir vacas, gatos, perros, burros, ratones, conejos, ratas y ovejas",
+              "start": 1183,
+              "end": 1257,
+              "type": "distractor"
+            },
+            {
+              "text": "estar cubierta de vegetación indígena única",
+              "start": 735,
+              "end": 779,
+              "type": "distractor"
+            },
+            {
+              "text": "cubrir de rocas volcánicas",
+              "start": 235,
+              "end": 264,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En junio de 2006, Steven Spielberg anunció que dirigiría una película científicamente exacta sobre \"un grupo de exploradores que viajan a través de un agujero de gusano y en otra dimensión\", a partir de un tratamiento de Kip Thorne y la productora Lynda Obst. En enero de 2007, el guionista Jonathan Nolan se reunió con ellos para discutir la adaptación del tratamiento de Obst y Thorne en un guion narrativo. El guionista sugirió la adición de un \"elemento del tiempo\" a la idea básica del tratamiento, que fue recibida por Obst y Thorne. En marzo de ese año, Paramount contrató a Nolan, así como a científicos de Caltech, formando un taller para adaptar el tratamiento bajo el título de Interstellar. El mes de julio siguiente, Kip Thorne dijo que había un empujón de la gente para que se retratara a sí mismo en la película. Spielberg abandonó Interstellar, que finalmente fue dirigido por Christopher Nolan.",
+      "annotations": [
+        {
+          "question": "¿Quién iba a dirigir Interstellar originalmente?",
+          "choices": [
+            {
+              "text": "Steven Spielberg",
+              "start": 18,
+              "end": 34,
+              "type": "correct answer"
+            },
+            {
+              "text": "Kip Thorne",
+              "start": 221,
+              "end": 231,
+              "type": "distractor"
+            },
+            {
+              "text": "Lynda Obst",
+              "start": 248,
+              "end": 258,
+              "type": "distractor"
+            },
+            {
+              "text": "Christopher Nolan",
+              "start": 893,
+              "end": 910,
+              "type": "distractor"
+            },
+            {
+              "text": "Jonathan Nolan",
+              "start": 291,
+              "end": 305,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El libro fue ampliamente traducido en vida de Darwin, pero surgieron problemas con la traducción de conceptos y metáforas, y algunas traducciones fueron sesgadas por la propia agenda del traductor. Darwin distribuyó copias de presentación en Francia y Alemania, con la esperanza de que los solicitantes adecuados se presentaran, ya que se esperaba que los traductores hicieran sus propios arreglos con un editor local. Dio la bienvenida al distinguido naturalista y geólogo Heinrich Georg Bronn, pero la traducción alemana publicada en 1860 impuso las propias ideas de Bronn, añadiendo temas controvertidos que Darwin había omitido deliberadamente. Bronn tradujo \"razas favorecidas\" como \"razas perfeccionadas\" y añadió ensayos sobre temas como el origen de la vida, así como un capítulo final sobre implicaciones religiosas inspirado en parte por la adhesión de Bronn a la filosofía natural. En 1862, Bronn produjo una segunda edición basada en la tercera edición en inglés y las adiciones sugeridas por Darwin, pero luego murió de un ataque al corazón. Darwin mantuvo correspondencia con Julius Victor Carus, quien publicó una traducción mejorada en 1867. Los intentos de Darwin de encontrar un traductor en Francia fracasaron, y la traducción de Clémence Royer publicada en 1862 añadió una introducción alabando las ideas de Darwin como una alternativa a la revelación religiosa y promoviendo ideas explicativas. Darwin mantuvo correspondencia con Royer sobre una segunda edición publicada en 1866 y una tercera en 1870, pero tuvo dificultades para conseguir que ella quitara sus notas y fue preocupado por estas ediciones. Permaneció insatisfecho hasta que una traducción de Edmond Barbier fue publicada en 1876. Una traducción al neerlandés de Tiberius Cornelis Winkler fue publicada en 1860. En 1864, aparecieron traducciones adicionales en italiano y ruso. En vida de Darwin, Origin fue publicado en sueco en 1871, danés en 1872, polaco en 1873, húngaro en 1873-1874, español en 1877 y serbio en 1878. Para 1977, había aparecido en 18 idiomas adicionales.",
+      "annotations": [
+        {
+          "question": "¿Qué evento estuvo relacionado con Heinrich Georg Bronn en 1862?",
+          "choices": [
+            {
+              "text": "murió de un ataque al corazón",
+              "start": 1024,
+              "end": 1053,
+              "type": "correct answer"
+            },
+            {
+              "text": "publicó una traducción mejorada",
+              "start": 1117,
+              "end": 1148,
+              "type": "distractor"
+            },
+            {
+              "text": "distribuyó copias de presentación en Francia y Alemania, con la esperanza de que los solicitantes adecuados se presentaran",
+              "start": 205,
+              "end": 327,
+              "type": "distractor"
+            },
+            {
+              "text": "añadió una introducción alabando las ideas de Darwin como una alternativa a la revelación religiosa y promoviendo ideas explicativas",
+              "start": 1282,
+              "end": 1414,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 2004, el primer carril bici de la ciudad se añadió a Orange Street, conectando East Rock Park y el barrio East Rock con el centro. Desde entonces, también se han añadido carriles bici a las secciones de Howard Ave, Elm St, Dixwell Avenue, Water Street, Clinton Avenue y State Street. La ciudad ha creado rutas de bicicletas recomendadas para circular por New Haven, incluyendo el uso de la ruta del Canal y el carril de la calle Orange. Un mapa en bicicleta de la ciudad entera se puede ver aquí, y mapas en bicicleta desglosados por área aquí. A finales de 2012, también se han añadido carriles para bicicletas en ambas direcciones en Dixwell Avenue a lo largo de la mayor parte de la calle desde el centro de la ciudad de Hamden, así como a lo largo de Howard Avenue.",
+      "annotations": [
+        {
+          "question": "¿Dónde se añadió el primer carril de bici de la ciudad?",
+          "choices": [
+            {
+              "text": "Orange Street",
+              "start": 56,
+              "end": 69,
+              "type": "correct answer"
+            },
+            {
+              "text": "Water Street",
+              "start": 242,
+              "end": 254,
+              "type": "distractor"
+            },
+            {
+              "text": "Howard Avenue",
+              "start": 758,
+              "end": 771,
+              "type": "distractor"
+            },
+            {
+              "text": "Dixwell Avenue",
+              "start": 639,
+              "end": 653,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Durante este período crítico, el número de Predicadores parece nunca haber caído por debajo de 3.500. Las estadísticas de 1876 muestran 3.748, pero 500 de ellos habían sido expulsados de sus conventos y participaron en el trabajo parroquial. Las estadísticas de 1910 muestran un total de 4.472 nominalmente o comprometidos en actividades adecuadas de la orden. En el año 2000, había 5.171 frailes dominicos en votos solemnes, 917 hermanos estudiantes y 237 novicios. Para el año 2013 había 6058 frailes dominicos, incluyendo 4.470 sacerdotes.",
+      "annotations": [
+        {
+          "question": "¿Cuántos predicadores había en 1876 según las estadísticas?",
+          "choices": [
+            {
+              "text": "3.748",
+              "start": 136,
+              "end": 141,
+              "type": "correct answer"
+            },
+            {
+              "text": "3.500",
+              "start": 95,
+              "end": 100,
+              "type": "distractor"
+            },
+            {
+              "text": "5.171",
+              "start": 383,
+              "end": 388,
+              "type": "distractor"
+            },
+            {
+              "text": "4.470",
+              "start": 525,
+              "end": 530,
+              "type": "distractor"
+            },
+            {
+              "text": "4.472",
+              "start": 288,
+              "end": 293,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Por ejemplo, si un transmisor entrega 100 W en una antena con una eficiencia del 80%, entonces la antena irradiará 80 W como ondas de radio y producirá 20 W de calor. Para irradiar 100 W de potencia, se necesitaría usar un transmisor capaz de suministrar 125 W a la antena. Tenga en cuenta que la eficiencia de la antena es un problema separado del emparejamiento de impedancia, que también puede reducir la cantidad de potencia radiada utilizando un transmisor dado. Si un medidor SWR lee 150 W de potencia incidente y 50 W de potencia reflejada, eso significa que 100 W en realidad han sido absorbidos por la antena (ignorando las pérdidas de línea de transmisión). La cantidad de energía que realmente se ha irradiado no puede determinarse directamente a través de mediciones eléctricas en (o antes) los terminales de la antena, pero requeriría (por ejemplo) una cuidadosa medición de la fuerza del campo. Afortunadamente, se puede calcular la resistencia a la pérdida de los conductores de antenas como las barras de aluminio y la eficiencia de una antena usando tales materiales predichos.",
+      "annotations": [
+        {
+          "question": "¿Qué potencia se irradia como calor cuando un transmisor entrega 100 W en una antena con una eficiencia del 80%?",
+          "choices": [
+            {
+              "text": "20 W",
+              "start": 152,
+              "end": 156,
+              "type": "correct answer"
+            },
+            {
+              "text": "80 W",
+              "start": 115,
+              "end": 119,
+              "type": "distractor"
+            },
+            {
+              "text": "125 W",
+              "start": 255,
+              "end": 260,
+              "type": "distractor"
+            },
+            {
+              "text": "150 W",
+              "start": 490,
+              "end": 495,
+              "type": "distractor"
+            },
+            {
+              "text": "50 W",
+              "start": 520,
+              "end": 524,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Imperio búlgaro estaba en declive en el siglo XIV, y el ascenso de Serbia estuvo marcado por la victoria serbia sobre los búlgaros en la batalla de Velbazhd en 1330. En 1346, el rey serbio Esteban Dušan había sido proclamado emperador. Sin embargo, el dominio serbio fue efímero; El ejército serbio dirigido por el Lazar Hrebljevanovic fue derrotado por los otomanos en la batalla de Kosovo en 1389, donde la mayor parte de la nobleza serbia murió y el sur del país quedó bajo la ocupación otomana. Los restos del norte de Bulgaria fueron finalmente conquistados en 1396, Serbia cayó en 1459, Bosnia en 1463, y Albania fue finalmente subordinada en 1479 sólo unos pocos años después de la muerte de Skanderbeg. Belgrado, un dominio húngaro en ese momento, fue la última gran ciudad balcánica que cayó bajo el dominio otomano, en 1521. Al final del período medieval, toda la península balcánica fue anexada por los otomanos, o se convirtió en vasallo.",
+      "annotations": [
+        {
+          "question": "¿Por qué evento se marcó el ascenso de Serbia?",
+          "choices": [
+            {
+              "text": "la victoria serbia sobre los búlgaros en la batalla de Velbazhd",
+              "start": 96,
+              "end": 159,
+              "type": "correct answer"
+            },
+            {
+              "text": "el rey serbio Esteban Dušan había sido proclamado emperador",
+              "start": 178,
+              "end": 237,
+              "type": "distractor"
+            },
+            {
+              "text": "la mayor parte de la nobleza serbia murió",
+              "start": 409,
+              "end": 450,
+              "type": "distractor"
+            },
+            {
+              "text": "el sur del país quedó bajo la ocupación otomana",
+              "start": 453,
+              "end": 500,
+              "type": "distractor"
+            },
+            {
+              "text": "toda la península balcánica fue anexada por los otomanos",
+              "start": 869,
+              "end": 925,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En septiembre de 1939, Gran Bretaña y los dominios autónomos, pero no Irlanda, declararon la guerra a la Alemania nazi. Jorge VI y su esposa decidieron quedarse en Londres, a pesar de los bombardeos alemanes. Permanecieron oficialmente en el palacio de Buckingham durante toda la guerra, aunque por lo general pasaban las noches en el castillo de Windsor. La primera incursión alemana en Londres, el 7 de septiembre de 1940, mató a cerca de mil civiles, principalmente en el East End. El 13 de septiembre, el rey y la reina evitaron por poco la muerte cuando dos bombas alemanas explotaron en un patio del Palacio de Buckingham mientras estaban allí. En desafío, la reina declaró: \"Me alegro de que nos hayan bombardeado. Me hace sentir que podemos mirar el East End en la cara \". La familia real fue retratada como compartiendo los mismos peligros y privaciones que el resto del país. Estaban sujetos a restricciones de racionamiento, y la Primera Dama de los Estados Unidos Eleanor Roosevelt comentó sobre la comida racionada servida y el agua de baño limitada que se permitía durante una estancia en el Palacio sin calefacción. En agosto de 1942, el hermano del rey, el príncipe Jorge, duque de Kent, murió en servicio activo.",
+      "annotations": [
+        {
+          "question": "¿Qué paso el 13 de septiembre de 1940?",
+          "choices": [
+            {
+              "text": "dos bombas alemanas explotaron en un patio del Palacio de Buckingham",
+              "start": 559,
+              "end": 627,
+              "type": "correct answer"
+            },
+            {
+              "text": "los dominios autónomos, pero no Irlanda, declararon la guerra a la Alemania nazi",
+              "start": 38,
+              "end": 118,
+              "type": "distractor"
+            },
+            {
+              "text": "la Primera Dama de los Estados Unidos Eleanor Roosevelt comentó sobre la comida racionada servida y el agua de baño limitada que se permitía durante una estancia en el Palacio sin calefacción",
+              "start": 938,
+              "end": 1129,
+              "type": "distractor"
+            },
+            {
+              "text": "el hermano del rey, el príncipe Jorge, duque de Kent, murió en servicio activo",
+              "start": 1150,
+              "end": 1228,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Actuando por recomendación del Secretario de Estado Acheson, el presidente Truman ordenó al general MacArthur que transfiriera material de guerra al Ejército de la República de Corea mientras daba cobertura aérea a la evacuación de los ciudadanos estadounidenses. El presidente no estuvo de acuerdo con los asesores que recomendaban el bombardeo unilateral estadounidense de las fuerzas norcoreanas, y ordenó a la Séptima Flota de los Estados Unidos proteger a la República de China (Taiwán), cuyo gobierno pidió luchar en Corea. Los Estados Unidos negaron la solicitud de la República de China para el combate, para no provocar una represalia comunista china. Debido a que los Estados Unidos habían enviado la Séptima Flota para \"neutralizar\" el estrecho de Taiwán, el primer ministro chino Zhou Enlai criticó las iniciativas de la ONU y de los Estados Unidos como \"agresión armada en territorio chino\".",
+      "annotations": [
+        {
+          "question": "¿Qué acción tomó el presidente Truman que fue criticada por el primer ministro chino Zhou Enlai como \"agresión armada en territorio chino\"?",
+          "choices": [
+            {
+              "text": "envió la Séptima Flota para \"neutralizar\" el estrecho de Taiwán",
+              "start": 700,
+              "end": 765,
+              "type": "correct answer"
+            },
+            {
+              "text": "negó la solicitud de la República de China para el combate",
+              "start": 549,
+              "end": 610,
+              "type": "distractor"
+            },
+            {
+              "text": "pidió luchar en Corea",
+              "start": 507,
+              "end": 528,
+              "type": "distractor"
+            },
+            {
+              "text": "ordenó al general MacArthur que transfiriera material de guerra al Ejército de la República de Corea",
+              "start": 82,
+              "end": 182,
+              "type": "distractor"
+            },
+            {
+              "text": "no estuvo de acuerdo con los asesores que recomendaban el bombardeo unilateral estadounidense de las fuerzas norcoreanas",
+              "start": 278,
+              "end": 398,
               "type": "distractor"
             }
           ]

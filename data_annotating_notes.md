@@ -116,6 +116,23 @@ _One extra to compensate for 177 that doesnt appear, belongs to "Phrases"_
 
 <br>
 
+# Friday April 28 - 
+
+Dates and Numbers 2
+
+Names 2
+
+Phrases 6
+
+Total 10
+
+
+## Comments
+242. To infinitive
+250. Change Verb tenses 
+
+<br>
+
 # Total
 
 Dates and Numbers 32
