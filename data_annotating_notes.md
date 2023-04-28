@@ -96,35 +96,37 @@ Total 40
 
 <br>
 
-# Wednesday April 26 - 
+# Thursday April 27 - Friday April 28
 
-Dates and Numbers 4
+Dates and Numbers 6
 
-Names 8
+Names 9
 
-Phrases 18
+Phrases 26
 
-Total 30
+Total 41
+_One extra to compensate for 177 that doesnt appear, belongs to "Phrases"_
 
 ## Comments
 206. Plural
 215. o->a
 222. Upper case
 224. Upper case
+238. Infinitive
 
 <br>
 
 # Total
 
-Dates and Numbers 26
+Dates and Numbers 32
 
-Names 48
+Names 57
 
-Phrases 126   
+Phrases 152 - 1   
 
-Total 200
+Total 240
 
 
 # GLOBAL NOTES
-- THere is a text on Tennesse, that has 2 questions
+- There is a text on Tennesse, that has 2 questions
 - For a reason, its not exporting datapoint 177. 
