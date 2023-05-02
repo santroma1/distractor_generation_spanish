@@ -118,18 +118,19 @@ _One extra to compensate for 177 that doesnt appear, belongs to "Phrases"_
 
 # Friday April 28 - 
 
-Dates and Numbers 2
+Dates and Numbers 4
 
-Names 2
+Names 4
 
-Phrases 6
+Phrases 12
 
-Total 10
+Total 20
 
 
 ## Comments
 242. To infinitive
 250. Change Verb tenses 
+252. Articles
 
 <br>
 
@@ -147,3 +148,4 @@ Total 240
 # GLOBAL NOTES
 - There is a text on Tennesse, that has 2 questions
 - For a reason, its not exporting datapoint 177. 
+- There is another text with 2 questions

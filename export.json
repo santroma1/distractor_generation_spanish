@@ -8825,6 +8825,388 @@
           ]
         }
       ]
+    },
+    {
+      "context": "Aunque las comunidades judías ortodoxas considerables se encuentran en todo Estados Unidos, muchos judíos ortodoxos estadounidenses viven en el estado de Nueva York, particularmente en el área metropolitana de Nueva York. Dos de las principales comunidades ortodoxas de los Estados Unidos se encuentran en la ciudad de Nueva York y el condado de Rockland. En Nueva York, los barrios de Borough Park, Midwood, Williamsburg, y Crown Heights, situados en el barrio de Brooklyn, tienen comunidades ortodoxas particularmente grandes. La comunidad de judíos ortodoxos se encuentra en el Condado de Rockland y el Valle de Hudson de Nueva York, incluyendo las comunidades de Monsey, Monroe, New Square y Kiryas Joel. También hay comunidades ortodoxas de gran tamaño y rápido crecimiento en toda Nueva Jersey, particularmente en Lakewood, Teaneck, Englewood, Passaic y Fair Lawn.",
+      "annotations": [
+        {
+          "question": "¿Qué barrio de Nueva Jersey tiene comunidades ortodoxas?",
+          "choices": [
+            {
+              "text": "Lakewood",
+              "start": 820,
+              "end": 828,
+              "type": "correct answer"
+            },
+            {
+              "text": "Borough Park",
+              "start": 386,
+              "end": 398,
+              "type": "distractor"
+            },
+            {
+              "text": "Valle de Hudson",
+              "start": 606,
+              "end": 621,
+              "type": "distractor"
+            },
+            {
+              "text": "New Square",
+              "start": 683,
+              "end": 693,
+              "type": "distractor"
+            },
+            {
+              "text": "Crown Heights",
+              "start": 425,
+              "end": 438,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Aunque la mayoría de los caracteres chinos simplificados en uso hoy en día son el resultado de las obras moderadas por el gobierno de la República Popular de China en los años 1950 y 1960, la simplificación de caracteres es anterior a la formación de la república. Uno de los primeros defensores de la simplificación del carácter fue Lufei Kui, quien propuso en 1909 que los caracteres simplificados deberían ser utilizados en la educación. En los años posteriores al Movimiento del Cuatro de Mayo en 1919, muchos intelectuales chinos antiimperialistas buscaron maneras de modernizar China. En las décadas de 1930 y 1940, hubo discusiones sobre la simplificación del personaje dentro del gobierno del Kuomintang, y muchos intelectuales y escritores chinos han mantenido durante mucho tiempo que la simplificación del personaje ayudaría a impulsar la alfabetización en China. En muchos idiomas del mundo, la alfabetización ha sido promovida como una justificación para las reformas ortográficas. La República Popular China emitió su primera ronda de simplificaciones oficiales de caracteres en dos documentos, el primero en 1956 y el segundo en 1964. En las décadas de 1950 y 1960, mientras que la confusión acerca de los personajes simplificados seguía siendo desenfrenada, los personajes transicionales que mezclaban partes simplificadas con partes aún simplificadas de los personajes aparecieron brevemente, luego desaparecieron.",
+      "annotations": [
+        {
+          "question": "¿Cuál es el tema principal del texto?",
+          "choices": [
+            {
+              "text": "la simplificación de caracteres",
+              "start": 189,
+              "end": 220,
+              "type": "correct answer"
+            },
+            {
+              "text": "la educación",
+              "start": 427,
+              "end": 439,
+              "type": "distractor"
+            },
+            {
+              "text": "el Movimiento del Cuatro de Mayo",
+              "start": 468,
+              "end": 497,
+              "type": "distractor"
+            },
+            {
+              "text": "la República Popular de China",
+              "start": 134,
+              "end": 163,
+              "type": "distractor"
+            },
+            {
+              "text": "la alfabetización en China",
+              "start": 847,
+              "end": 873,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La película fotográfica estándar de 35 mm utilizada para la proyección de cine tiene una resolución de imagen mucho más alta que los sistemas de HDTV, y está expuesta y proyectada a una velocidad de 24 fotogramas por segundo. Para ser mostrado en la televisión estándar, en los países del sistema PAL, el cine se escanea a una velocidad de TV de 25 fotogramas / s, causando una aceleración del 4,1 por ciento, que generalmente se considera aceptable. En los países del sistema NTSC, la velocidad de escaneo de 30 fotogramas / s causaría una aceleración perceptible si se intentaran los mismos, y la corrección necesaria se realiza por una técnica llamada 3: 2 pulldown.",
+      "annotations": [
+        {
+          "question": "¿A cuántos fotogramas por segundo se proyecta una película fotográfica estándar?",
+          "choices": [
+            {
+              "text": "35",
+              "start": 36,
+              "end": 38,
+              "type": "distractor"
+            },
+            {
+              "text": "24",
+              "start": 199,
+              "end": 201,
+              "type": "correct answer"
+            },
+            {
+              "text": "25",
+              "start": 346,
+              "end": 348,
+              "type": "distractor"
+            },
+            {
+              "text": "30",
+              "start": 510,
+              "end": 512,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Desde la política de apertura en 1979, los grandes almacenes chinos también se desarrollan rápidamente junto con la economía de rápido crecimiento. Hay diferentes grupos de grandes almacenes que dominan diferentes regiones. Por ejemplo, los grandes almacenes tienen la mayor presencia de mercado en la provincia de Zhejiang, mientras que los grandes almacenes Jinying dominan la provincia de Jiangsu. Además, hay muchos otros grupos de grandes almacenes, como Pacific, Parkson, Wangfujing. New World etc etc., muchos de ellos se están expandiendo rápidamente al listarse en el mercado financiero.",
+      "annotations": [
+        {
+          "question": "¿Cuál es el tema principal del texto?",
+          "choices": [
+            {
+              "text": "los grandes almacenes chinos",
+              "start": 39,
+              "end": 67,
+              "type": "correct answer"
+            },
+            {
+              "text": "el mercado financiero",
+              "start": 574,
+              "end": 595,
+              "type": "distractor"
+            },
+            {
+              "text": "la economía de rápido crecimiento",
+              "start": 113,
+              "end": 146,
+              "type": "distractor"
+            },
+            {
+              "text": "la política de apertura",
+              "start": 6,
+              "end": 29,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de la guerra Genpei de finales del siglo XII, un líder del clan Minamoto no Yoritomo obtuvo el derecho de nombrar shugo y jito, y se le permitió organizar soldados y policías, y recoger una cierta cantidad de impuestos. Inicialmente, su responsabilidad se limitó a arrestar a los rebeldes y recolectar las provisiones del ejército necesarias, y se les prohibió interferir con los gobernadores Kokushi, pero su responsabilidad se expandió gradualmente y por lo tanto la clase samurai apareció como el poder gobernante político en Japón. Minamoto no Yoritomo abrió el shogunato Kamakura Bakufu en 1192.",
+      "annotations": [
+        {
+          "question": "¿Quién o quienes obtuvieron el derecho de nombrar shugo y jito?",
+          "choices": [
+            {
+              "text": "soldados y policías",
+              "start": 163,
+              "end": 182,
+              "type": "distractor"
+            },
+            {
+              "text": "los rebeldes",
+              "start": 284,
+              "end": 296,
+              "type": "distractor"
+            },
+            {
+              "text": "los gobernadores Kokushi",
+              "start": 384,
+              "end": 408,
+              "type": "distractor"
+            },
+            {
+              "text": "un líder del clan Minamoto no Yoritomo",
+              "start": 54,
+              "end": 92,
+              "type": "correct answer"
+            },
+            {
+              "text": "el shogunato Kamakura Bakufu",
+              "start": 571,
+              "end": 599,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Dirección de Educación y Empleo también ofrece programas para estudiantes con necesidades especiales, formación profesional, educación para adultos, clases nocturnas y aprendizaje a distancia. La isla tiene una biblioteca pública (la más antigua del hemisferio sur) y un servicio de biblioteca móvil que opera áreas rurales semanales.",
+      "annotations": [
+        {
+          "question": "¿Qué se ofrece en la isla que es la más antigua del hemisferio sur?",
+          "choices": [
+            {
+              "text": "una biblioteca pública",
+              "start": 210,
+              "end": 232,
+              "type": "correct answer"
+            },
+            {
+              "text": "educación para adultos",
+              "start": 128,
+              "end": 150,
+              "type": "distractor"
+            },
+            {
+              "text": "un servicio de biblioteca móvil",
+              "start": 271,
+              "end": 302,
+              "type": "distractor"
+            },
+            {
+              "text": "áreas rurales semanales.",
+              "start": 313,
+              "end": 337,
+              "type": "distractor"
+            },
+            {
+              "text": "programas para estudiantes con necesidades especiales",
+              "start": 50,
+              "end": 103,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El término moderno \"cultura\" se basa en un término utilizado por el antiguo orador romano Cicerón en su Tusculanae Disputationes, donde escribió sobre el cultivo del alma o \"cultura animi\", usando un ideal agrícola. Samuel Pufendorf asumió esta metáfora en un contexto moderno, lo que significa algo similar, pero ya no asumiendo que la filosofía era la perfección natural del hombre. Su uso, y el de muchos escritores después de él \"se refiere a todas las formas en que los seres humanos superan su barbarie original, y a través del artificio, se vuelven completamente humanos\".",
+      "annotations": [
+        {
+          "question": "¿Qué término moderno se basa en un término utilizado por el antiguo orador romano Cicerón?",
+          "choices": [
+            {
+              "text": "cultura",
+              "start": 20,
+              "end": 27,
+              "type": "correct answer"
+            },
+            {
+              "text": "los seres humanos",
+              "start": 471,
+              "end": 488,
+              "type": "distractor"
+            },
+            {
+              "text": "la perfección natural del hombre",
+              "start": 351,
+              "end": 383,
+              "type": "distractor"
+            },
+            {
+              "text": "la filosofía",
+              "start": 334,
+              "end": 346,
+              "type": "distractor"
+            },
+            {
+              "text": "el cultivo del alma",
+              "start": 151,
+              "end": 170,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los elementos de circuitos puramente electrónicos pronto reemplazaron sus equivalentes mecánicos y electromecánicos, al mismo tiempo que el cálculo digital reemplazó a los análogos. El ingeniero Tommy Flowers, que trabajaba en la Estación de Investigación de la Oficina Postal en Londres en la década de 1930, comenzó a explorar el posible uso de la electrónica para la central telefónica. El equipo experimental que construyó en 1934 entró en funcionamiento 5 años más tarde, convirtiendo una parte de la red de intercambio telefónico en un sistema de procesamiento de datos electrónico, utilizando miles de tubos de vacío. En los Estados Unidos, John Vincent Atanasoff y Clifford E. Berry de la Universidad Estatal de Iowa desarrollaron y probaron el Atanasoff-Berry Computer (ABC) en 1942, la primera \"computadora digital electrónica automática\". Este diseño también era totalmente electrónico y usaba cerca de 300 tubos de vacío, con condensadores fijos en un tambor mecánicamente giratorio para la memoria.",
+      "annotations": [
+        {
+          "question": "¿Qué reemplazó a su equivalente mecánicos y electromecánicos?",
+          "choices": [
+            {
+              "text": "los elementos de circuitos puramente electrónicos",
+              "start": 0,
+              "end": 49,
+              "type": "correct answer"
+            },
+            {
+              "text": "el cálculo digital",
+              "start": 137,
+              "end": 155,
+              "type": "distractor"
+            },
+            {
+              "text": "la central telefónica",
+              "start": 367,
+              "end": 388,
+              "type": "distractor"
+            },
+            {
+              "text": "un sistema de procesamiento de datos electrónico",
+              "start": 539,
+              "end": 587,
+              "type": "distractor"
+            },
+            {
+              "text": "la computadora digital electrónica automática",
+              "start": 805,
+              "end": 847,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Orden está limitada a 300 Caballeros y Damas Gran Cruz, 845 Caballeros y Damas Comendadores, y 8.960 Comandantes. No hay límites aplicados al número total de miembros de la cuarta y quinta clase, pero no más de 858 oficiales y 1464 miembros pueden ser nombrados por año. Los beneficiarios extranjeros, como miembros honorarios, no contribuyen a los números restringidos a la Orden como miembros plenos. Aunque la Orden del Imperio Británico tiene el mayor número de miembros de las Órdenes Británicas de Caballería, con más de 100.000 miembros vivos en todo el mundo, hay menos nombramientos para caballería que en otras órdenes.",
+      "annotations": [
+        {
+          "question": "¿Cuántos oficiales es el máximo que pueden ser nombrados al año?",
+          "choices": [
+            {
+              "text": "858",
+              "start": 214,
+              "end": 217,
+              "type": "correct answer"
+            },
+            {
+              "text": "1464",
+              "start": 230,
+              "end": 234,
+              "type": "distractor"
+            },
+            {
+              "text": "845",
+              "start": 59,
+              "end": 62,
+              "type": "distractor"
+            },
+            {
+              "text": "300",
+              "start": 25,
+              "end": 28,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Everton jugó originalmente en la esquina sureste de Stanley Park, que fue el sitio para el nuevo Liverpool F.C. El primer partido oficial tuvo lugar en 1879. En 1882, un hombre llamado J. Cruitt donó tierras en Priory Road, que se convirtió en la casa del club antes de mudarse a Anfield, que era el hogar del Everton hasta 1892. En este momento, una disputa de cómo el club iba a ser propiedad y correr surgió con el dueño de Anfield y el presidente del Everton, John Houlding. Una disputa entre Houlding y el comité del club sobre cómo debía funcionar el club, llevó a Houlding a intentar obtener el control total del club registrando la compañía, \"Everton F.C. Y Athletic Grounds Ltd \". En respuesta, el Everton dejó Anfield para un nuevo estadio, Goodison Park, donde el club ha jugado desde entonces. Houlding intentó hacerse cargo del nombre del Everton, los colores, los fijos y la posición de la liga, pero fue negado por la Asociación de Fútbol. En su lugar, Houlding formó un nuevo club, el Liverpool F.C.",
+      "annotations": [
+        {
+          "question": "¿Sobre qué equipo fue la disputa entre Houlding y el comité del club?",
+          "choices": [
+            {
+              "text": "Liverpool F.C.",
+              "start": 100,
+              "end": 114,
+              "type": "distractor"
+            },
+            {
+              "text": "Anfield",
+              "start": 283,
+              "end": 290,
+              "type": "distractor"
+            },
+            {
+              "text": "Everton",
+              "start": 458,
+              "end": 465,
+              "type": "correct answer"
+            },
+            {
+              "text": "Stanley Park",
+              "start": 55,
+              "end": 67,
+              "type": "distractor"
+            },
+            {
+              "text": "Goodison Park",
+              "start": 754,
+              "end": 767,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
