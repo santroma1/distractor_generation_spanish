@@ -9207,6 +9207,704 @@
           ]
         }
       ]
+    },
+    {
+      "context": "Más recientemente, películas como Das Boot (1981), The Never Ending Story (1984) Run Lola Run (1998), Das Experiment (2001), Good Bye Lenin! (2003), Gegen die Wand (Head-on) (2004) y Der Untergang (Downfall) (2004) han disfrutado de éxito internacional. En 2002, el Premio de la Academia a la Mejor Película Extranjera fue a Caroline Link 's Nowhere en África, en 2007 a Florian Henckel von Donnersmarck. El Festival Internacional de Cine de Berlín, celebrado anualmente desde 1951, es uno de los festivales de cine y cine más importantes del mundo.",
+      "annotations": [
+        {
+          "question": "¿Cuándo fue la primera edición del Festival Internacional de Cine de Berlín?",
+          "choices": [
+            {
+              "text": "1951",
+              "start": 477,
+              "end": 481,
+              "type": "correct answer"
+            },
+            {
+              "text": "1981",
+              "start": 44,
+              "end": 48,
+              "type": "distractor"
+            },
+            {
+              "text": "2002",
+              "start": 257,
+              "end": 261,
+              "type": "distractor"
+            },
+            {
+              "text": "2007",
+              "start": 364,
+              "end": 368,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los problemas culturales y de carrera en la Fuerza Aérea de los Estados Unidos han sido citados como una de las razones del déficit en los operadores UAV necesarios. A pesar de la necesidad urgente de UAV o drones para proporcionar una cobertura de reloj para las tropas estadounidenses durante la Guerra de Irak, la USAF no estableció un nuevo campo de carrera para pilotarlos hasta el último año de la guerra. Paul Scharre ha informado de que la división cultural entre la USAF y el Ejército de los Estados Unidos ha impedido que ambos servicios adopten sus innovaciones de manejo de drones.",
+      "annotations": [
+        {
+          "question": "¿Cuál es una de las razones del déficit en los operadores UAV necesarios?",
+          "choices": [
+            {
+              "text": "los problemas culturales y de carrera en la Fuerza Aérea de los Estados Unidos",
+              "start": 0,
+              "end": 78,
+              "type": "correct answer"
+            },
+            {
+              "text": "drones para proporcionar una cobertura de reloj",
+              "start": 207,
+              "end": 254,
+              "type": "distractor"
+            },
+            {
+              "text": "la Guerra de Irak",
+              "start": 295,
+              "end": 312,
+              "type": "distractor"
+            },
+            {
+              "text": "un nuevo campo de carrera",
+              "start": 336,
+              "end": 361,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Hay muchos acentos que tradicionalmente se consideran como acentos de Londres. El más conocido de los acentos de Londres hace mucho tiempo adquirió el sello Cockney, que se escucha tanto en Londres como en toda la región del sudeste de Inglaterra en general. El acento de un 'londinense' del siglo XXI varía ampliamente; Lo que se está volviendo más y más común entre los menores de 30 años, sin embargo, es una fusión de Cockney con una serie de acentos \"étnicos\", en particular el Caribe, que forman un acento etiquetado como inglés multicultural. El otro acento hablado es RP (Pronunciación recibida) en varias formas, que a menudo se puede escuchar en los medios de comunicación y muchas otras profesiones tradicionales y más allá, aunque este acento no se limita a Londres y el Sur.",
+      "annotations": [
+        {
+          "question": "¿De qué trata el texto?",
+          "choices": [
+            {
+              "text": "acentos de Londres",
+              "start": 59,
+              "end": 77,
+              "type": "correct answer"
+            },
+            {
+              "text": "el Caribe",
+              "start": 480,
+              "end": 489,
+              "type": "distractor"
+            },
+            {
+              "text": "fusión de Cockney",
+              "start": 412,
+              "end": 429,
+              "type": "distractor"
+            },
+            {
+              "text": "Pronunciación recibida",
+              "start": 580,
+              "end": 602,
+              "type": "distractor"
+            },
+            {
+              "text": "la región del sudeste de Inglaterra",
+              "start": 211,
+              "end": 246,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La religión romana era por lo tanto práctica y contractual, basado en el principio de do ut des, \"Yo doy que tú podrías dar\". La religión dependía del conocimiento y la práctica correcta de la oración, el ritual y el sacrificio, no de la fe o el dogma, aunque la literatura latina conserva la especulación aprendida sobre la naturaleza de lo divino y su relación con los asuntos humanos. Incluso los más escépticos entre la élite intelectual de Roma, como Cicerón, que era un augur, veían la religión como una fuente de orden social. Para los romanos ordinarios, la religión era parte de la vida cotidiana. Cada hogar tenía un santuario en el que se ofrecían oraciones y libaciones a las deidades domésticas de la familia. Santuarios vecinales y lugares sagrados como manantiales y arboledas salpicaban la ciudad. El calendario romano se estructuraba en torno a las observancias religiosas. Mujeres, esclavos y niños participaron en una serie de actividades religiosas. Algunos rituales públicos solo podían ser conducidos por mujeres, y las mujeres formaban lo que es quizás el sacerdocio más famoso de Roma, las vestales con el apoyo del estado, que cuidaban el hogar sagrado de Roma durante siglos, hasta desaparecer bajo la dominación cristiana.",
+      "annotations": [
+        {
+          "question": "¿En torno a qué se estructuraba el calendario romano?",
+          "choices": [
+            {
+              "text": "las mujeres",
+              "start": 1038,
+              "end": 1049,
+              "type": "distractor"
+            },
+            {
+              "text": "la naturaleza de lo divino",
+              "start": 323,
+              "end": 348,
+              "type": "distractor"
+            },
+            {
+              "text": "la práctica correcta de la oración",
+              "start": 166,
+              "end": 200,
+              "type": "distractor"
+            },
+            {
+              "text": "oraciones y libaciones a las deidades domésticas de la familia",
+              "start": 659,
+              "end": 721,
+              "type": "distractor"
+            },
+            {
+              "text": "las observancias religiosas",
+              "start": 862,
+              "end": 889,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1914, el ejecutivo publicitario Albert Lasker obtuvo una gran parte de las acciones del club y antes de la temporada 1916 asumió la propiedad mayoritaria de la franquicia. Lasker trajo a un socio rico, Charles Weeghman, el propietario de una popular cadena de almuerzos que anteriormente había sido propietario de los Chicago Whales de la efímera Liga Federal. Como dueños principales, la pareja trasladó el club de West Side Grounds al mucho más nuevo Weeghman Park, que había sido construido para las Ballenas sólo dos años antes, donde permanecen hasta el día de hoy. Los Cachorros respondieron ganando un banderín en la temporada acortada por la guerra de 1918, donde jugaron un papel en la maldición de otro equipo: Los Medias Rojas de Boston derrotaron a los Cachorros de Grover Cleveland Alexander cuatro partidos a dos.",
+      "annotations": [
+        {
+          "question": "¿Para qué equipo fue construido Weeghman Park originalmente?",
+          "choices": [
+            {
+              "text": "las Ballenas",
+              "start": 502,
+              "end": 514,
+              "type": "correct answer"
+            },
+            {
+              "text": "los Cachorros",
+              "start": 764,
+              "end": 777,
+              "type": "distractor"
+            },
+            {
+              "text": "los Medias Rojas",
+              "start": 724,
+              "end": 740,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La migración de las aves también ayuda al movimiento de otras especies, incluyendo las de ectoparásitos como las garrapatas y los piojos, que a su vez pueden llevar microorganismos incluyendo aquellos de preocupación a la salud humana. Debido a la propagación global de la gripe aviar, la migración de aves se ha estudiado como un posible mecanismo de transmisión de enfermedades, pero se ha encontrado que no presenta un riesgo especial. La importación de mascotas y aves domésticas es una amenaza mayor. Algunos virus que se mantienen en aves sin efectos letales, como el virus del Nilo Occidental pueden ser dispersados por aves migratorias. Las aves también pueden tener un papel en la dispersión de propágulos de plantas y plancton.",
+      "annotations": [
+        {
+          "question": "¿Cuáles son algunos ejemplos de ectoparásitos mencionados en el texto que pueden ser transportados por aves migratorias?",
+          "choices": [
+            {
+              "text": "la gripe aviar",
+              "start": 270,
+              "end": 284,
+              "type": "distractor"
+            },
+            {
+              "text": "el virus del Nilo Occidental",
+              "start": 571,
+              "end": 599,
+              "type": "distractor"
+            },
+            {
+              "text": "propágulos de plantas y plancton",
+              "start": 704,
+              "end": 736,
+              "type": "distractor"
+            },
+            {
+              "text": "las garrapatas y los piojos",
+              "start": 109,
+              "end": 136,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El primer politécnico de Hong Kong es el Politécnico de Hong Kong, establecido en 1972 mediante la mejora del Colegio Técnico de Hong Kong (Escuela de Comercio del Gobierno antes de 1947). El segundo politécnico, el City Polytechnic of Hong Kong, fue fundado en 1984. Estas politécnicas otorgan diplomas, diplomas más altos, así como títulos académicos. Al igual que el Reino Unido, a los dos politécnicos se les concedió el estatus de universidad en 1994, y se renombraron Universidad Politécnica de Hong Kong y la Universidad de la Ciudad de Hong Kong, respectivamente. La Universidad de Ciencia y Tecnología de Hong Kong, una universidad con un enfoque en la ciencia aplicada, ingeniería y negocios, fue fundada en 1991.",
+      "annotations": [
+        {
+          "question": "¿Cómo se llama el segundo politécnico de Hong Kong?",
+          "choices": [
+            {
+              "text": "Politécnico de Hong Kong",
+              "start": 41,
+              "end": 65,
+              "type": "distractor"
+            },
+            {
+              "text": "Colegio Técnico de Hong Kong",
+              "start": 110,
+              "end": 138,
+              "type": "distractor"
+            },
+            {
+              "text": "City Polytechnic of Hong Kong",
+              "start": 216,
+              "end": 245,
+              "type": "correct answer"
+            },
+            {
+              "text": "Universidad de Ciencia y Tecnología de Hong Kong",
+              "start": 575,
+              "end": 623,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las normas sociales regionales son generalmente antagónicas a la caza, mientras que algunas sectas, como los Bishnoi, ponen especial énfasis en la conservación de especies particulares, como el antílope. La Ley de Protección de Vida Silvestre de la India de 1972 prohíbe el asesinato de todos los animales salvajes. Sin embargo, el Guardián de Vida Silvestre Jefe puede, si está satisfecho de que cualquier animal salvaje de una lista específica se ha vuelto peligroso para la vida humana, o está tan incapacitado o enfermo como para estar más allá de la recuperación. En este caso, el cuerpo de cualquier animal salvaje muerto o herido se convierte en propiedad del gobierno.",
+      "annotations": [
+        {
+          "question": "¿Qué prohíbe la Ley de Protección de Vida Silvestre de la India de 1972?",
+          "choices": [
+            {
+              "text": "el asesinato de todos los animales salvajes",
+              "start": 271,
+              "end": 314,
+              "type": "correct answer"
+            },
+            {
+              "text": "cualquier animal salvaje de una lista específica",
+              "start": 397,
+              "end": 445,
+              "type": "distractor"
+            },
+            {
+              "text": "el cuerpo de cualquier animal salvaje muerto",
+              "start": 583,
+              "end": 627,
+              "type": "distractor"
+            },
+            {
+              "text": "la conservación de especies particulares",
+              "start": 144,
+              "end": 184,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Muammar Muhammad Abu Minyar al-Gaddafi (en árabe: معمر محمد أبو منيار الق: افي) Por ejemplo: Audio (ayuda · i); C. 1942 - 20 de octubre de 2011), comúnmente conocido como Coronel Gadafi, [b] fue un revolucionario libio, político y teórico político. Gobernó Libia como Presidente Revolucionario de la República Árabe Libia de 1969 a 1977 y luego como el \"Líder Brotherly\" de la Gran Jamaica Árabe Libia Popular Socialista de 1977 a 2011. Inicialmente ideológicamente comprometido con el nacionalismo árabe y el socialismo árabe, llegó a gobernar de acuerdo con su propia Tercera Teoría Internacional antes de abrazar el Pan-Africanismo y servir como Presidente de la Unión Africana de 2009 a 2010.",
+      "annotations": [
+        {
+          "question": "¿Qué puesto tuvo Muammar Muhammad Abu Minyar al-Gaddafi de 2009 a 2010?",
+          "choices": [
+            {
+              "text": "Presidente de la Unión Africana",
+              "start": 649,
+              "end": 680,
+              "type": "correct answer"
+            },
+            {
+              "text": "el \"Líder Brotherly\" de la Gran Jamaica Árabe Libia Popular Socialista",
+              "start": 350,
+              "end": 420,
+              "type": "distractor"
+            },
+            {
+              "text": "Presidente Revolucionario de la República Árabe Libia",
+              "start": 268,
+              "end": 321,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La serotonina es un neuromodulador involucrado en la regulación del estado de ánimo y el comportamiento. El desarrollo en el sistema límbico juega un papel importante en la determinación de recompensas y castigos y el procesamiento de la experiencia emocional y la información social. Los cambios en los niveles de los neurotransmisores dopamina y serotonina en el sistema límbico hacen a los adolescentes más emocionales y más sensibles a las recompensas y el estrés. El aumento correspondiente de la variabilidad emocional también puede aumentar la vulnerabilidad de los adolescentes. El efecto de la serotonina no se limita al sistema límbico: Varios receptores de serotonina tienen su cambio de expresión génica dramáticamente durante la adolescencia, particularmente en la corteza frontal y prefrontal humana.",
+      "annotations": [
+        {
+          "question": "¿Cuál es el tema principal del texto?",
+          "choices": [
+            {
+              "text": "la serotonina",
+              "start": 600,
+              "end": 613,
+              "type": "correct answer"
+            },
+            {
+              "text": "la variabilidad emocional",
+              "start": 499,
+              "end": 524,
+              "type": "distractor"
+            },
+            {
+              "text": "el sistema límbico",
+              "start": 122,
+              "end": 140,
+              "type": "distractor"
+            },
+            {
+              "text": "la experiencia emocional ",
+              "start": 235,
+              "end": 260,
+              "type": "distractor"
+            },
+            {
+              "text": "la corteza frontal y prefrontal humana",
+              "start": 775,
+              "end": 813,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A principios y mediados de la década de 1980 se produjeron problemas económicos para Libia; De 1982 a 1986, los ingresos anuales del país cayeron de $21 mil millones a $5,4 mil millones. Al centrarse en proyectos de riego, en 1983 se inició la construcción del Proyecto Mascota de Gadafi, el Gran Río Artificial; Aunque diseñado para ser terminado al final de la década, se mantuvo incompleto a principios del siglo XXI. El gasto militar aumentó, mientras que otros presupuestos administrativos se redujeron. Libia había apoyado durante mucho tiempo a la milicia FROLINAT en el vecino Chad, y en diciembre de 1980, volvió a invadir Chad a petición del gobierno GUNT controlado por Frolinat para ayudar en la guerra civil. En enero de 1981, Gadafi sugirió una fusión política. La Organización para la Unidad Africana (OUA) lo rechazó y pidió una retirada libia, que se produjo en noviembre de 1981. La guerra civil se reanudó, por lo que Libia envió tropas de regreso, enfrentándose con las fuerzas francesas que apoyaban a las fuerzas del sur de Chad. Muchas naciones africanas se habían cansado de las políticas de interferencia de Libia en asuntos exteriores; En 1980, nueve estados africanos habían cortado las relaciones diplomáticas con Libia, mientras que en 1982 la OUA canceló su conferencia programada en Trípoli para evitar que Gaddafi ganara la presidencia. Proponiendo la unidad política con Marruecos, en agosto de 1984, Gadafi y el monarca marroquí Hassan II firmaron el Tratado de Oujda, formando la Unión Árabe-Africana. Tal unión se consideró sorprendente debido a las fuertes diferencias políticas y la larga enemistad que existía entre los dos gobiernos. Las relaciones se mantuvieron tensas, particularmente debido a las relaciones amistosas de Marruecos con los Estados Unidos e Israel; En agosto de 1986, Hassan abolió la unión. Las amenazas internas continuaron afectando a Gadafi. En mayo de 1984, su casa de Bab al-Azizia fue atacada sin éxito por una milicia conjunta de la Hermandad Musulmana, y en las consecuencias 5000 disidentes fueron arrestados.",
+      "annotations": [
+        {
+          "question": "¿Qué evento sucedió en agosto de 1984?",
+          "choices": [
+            {
+              "text": "se inició la construcción del Proyecto Mascota de Gadafi, el Gran Río Artificial",
+              "start": 231,
+              "end": 311,
+              "type": "distractor"
+            },
+            {
+              "text": "Gadafi y el monarca marroquí Hassan II firmaron el Tratado de Oujda, formando la Unión Árabe-Africana",
+              "start": 1434,
+              "end": 1535,
+              "type": "correct answer"
+            },
+            {
+              "text": " los ingresos anuales del país cayeron de $21 mil millones a $5,4 mil millones",
+              "start": 107,
+              "end": 185,
+              "type": "distractor"
+            },
+            {
+              "text": "Libia envió tropas de regreso, enfrentándose con las fuerzas francesas que apoyaban a las fuerzas del sur de Chad",
+              "start": 937,
+              "end": 1050,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Desde 1938 hasta 1995, la Corte Suprema de los Estados Unidos no invalidó ningún estatuto federal que excediera el poder del Congreso bajo la Cláusula de Comercio. La mayoría de las acciones del gobierno federal pueden encontrar algún apoyo legal entre las potencias expresas, como la Cláusula de Comercio, cuya aplicabilidad ha sido reducida por el Tribunal Supremo en los últimos años. En 1995, la Corte Suprema rechazó la Ley de Zonas Escolares Libres de Armas en la decisión López, y también rechazó la parte de remedio civil de la Ley de Violencia contra la Mujer de 1994 en la decisión Estados Unidos v. Recientemente, se interpretó la Cláusula de Comercio para incluir leyes de marihuana en la decisión Gonzales v. Raich.",
+      "annotations": [
+        {
+          "question": "¿En qué año se rechazó la Ley de Zonas Escolares Libres de Armas en la decisión López?",
+          "choices": [
+            {
+              "text": "1995",
+              "start": 391,
+              "end": 395,
+              "type": "correct answer"
+            },
+            {
+              "text": "1994",
+              "start": 572,
+              "end": 576,
+              "type": "distractor"
+            },
+            {
+              "text": "1938",
+              "start": 6,
+              "end": 10,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Oklahoma se encuentra en el percentil medio de la nación en el gasto per cápita en las artes, ocupando el puesto 17, y contiene más de 300 museos. El Museo Philbrook de Tulsa es considerado uno de los 50 mejores museos de arte en los Estados Unidos, y el Museo Sam Noble de Historia Natural de Oklahoma en Norman, uno de los más grandes museos universitarios de historia natural en el país. Las colecciones de Thomas Gilcrease se encuentran en el Museo Gilcrease de Tulsa, que también alberga la mayor colección de arte y artefactos del Oeste americano.",
+      "annotations": [
+        {
+          "question": "¿Qué museo tiene la mayor colección de arte y artefactos del Oeste americano?",
+          "choices": [
+            {
+              "text": "Museo Gilcrease de Tulsa",
+              "start": 447,
+              "end": 471,
+              "type": "correct answer"
+            },
+            {
+              "text": "Museo Philbrook de Tulsa",
+              "start": 150,
+              "end": 174,
+              "type": "distractor"
+            },
+            {
+              "text": "Museo Sam Noble de Historia Natural de Oklahoma",
+              "start": 255,
+              "end": 302,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Prácticamente todos los alimentos básicos provienen directamente de la producción primaria de las plantas, o indirectamente de los animales que los comen. Las plantas y otros organismos fotosintéticos están en la base de la mayoría de las cadenas alimenticias porque utilizan la energía del sol y los nutrientes del suelo y la atmósfera, convirtiéndolos en una forma que puede ser utilizada por los animales. Esto es lo que los ecólogos llaman el primer nivel trófico. Las formas modernas de los principales alimentos básicos, como maíz, arroz, trigo y otras hierbas de cereales, pulsos, plátanos y plátanos, así como lino y algodón son las características deseables de sus fibras prehistóricas. Los botánicos estudian cómo las plantas producen alimentos y cómo aumentar los rendimientos, por ejemplo, a través de la cría de plantas, haciendo su trabajo importante para la capacidad de la humanidad de alimentar al mundo y proporcionar seguridad alimentaria para las generaciones futuras. Los botánicos también estudian las malezas, que son un problema considerable en la agricultura, y la biología y el control de patógenos de plantas en la agricultura y los ecosistemas naturales. La etnobotánica es el estudio de las relaciones entre plantas y personas. Cuando se aplica a la investigación histórica de las relaciones entre las plantas etnobotánicas puede denominarse Archaeobotany o palaeoethnobotany.",
+      "annotations": [
+        {
+          "question": "¿Qué estudia la etnobotánica?",
+          "choices": [
+            {
+              "text": "las relaciones entre plantas y personas",
+              "start": 1216,
+              "end": 1255,
+              "type": "correct answer"
+            },
+            {
+              "text": "el control de patógenos de plantas en la agricultura y los ecosistemas naturales",
+              "start": 1101,
+              "end": 1181,
+              "type": "distractor"
+            },
+            {
+              "text": "los principales alimentos básicos, como maíz, arroz, trigo y otras hierbas de cereales",
+              "start": 492,
+              "end": 578,
+              "type": "distractor"
+            },
+            {
+              "text": "la energía del sol y los nutrientes del suelo y la atmósfera",
+              "start": 276,
+              "end": 336,
+              "type": "distractor"
+            },
+            {
+              "text": "cómo las plantas producen alimentos y cómo aumentar los rendimientos",
+              "start": 719,
+              "end": 787,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Northwestern requiere que todos los nuevos edificios sean certificados por LEED. Silverman Hall en el campus de Evanston recibió la certificación LEED de Oro en 2010. Wieboldt Hall en el campus de Chicago fue galardonado con la certificación LEED de Oro en 2007, y el Ford Motor Company Engineering Design Center en el campus Evanston fue galardonado con la Certificación LEED de Plata en 2006. Nuevos proyectos de construcción y renovación serán diseñados para proporcionar al menos un 20% de mejora sobre los requisitos de código de energía donde sea técnicamente factible. La universidad también lanzó al comienzo del año académico 2008-09 el Evanston Campus Framework Plan, que describe los planes para el desarrollo futuro del campus Evanston. El plan no sólo enfatiza la construcción sostenible de edificios, sino que también analiza la mejora del transporte mediante la optimización del acceso a peatones y bicicletas. Northwest ha tenido un programa de reciclaje completo desde 1990. Anualmente más de 1.500 toneladas se reciclan en Northwestern, que representa el 30% de los residuos producidos en el campus. Además, todos los residuos del paisaje de la universidad se publican.",
+      "annotations": [
+        {
+          "question": "¿Qué acción para el medio ambiente empezó a hacer Northwest en el 1990?",
+          "choices": [
+            {
+              "text": "un programa de reciclaje completo",
+              "start": 946,
+              "end": 979,
+              "type": "correct answer"
+            },
+            {
+              "text": "la construcción sostenible de edificios",
+              "start": 774,
+              "end": 813,
+              "type": "distractor"
+            },
+            {
+              "text": "un 20% de mejora sobre los requisitos de código de energía",
+              "start": 484,
+              "end": 542,
+              "type": "distractor"
+            },
+            {
+              "text": "los residuos del paisaje de la universidad se publican",
+              "start": 1132,
+              "end": 1186,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Otros críticos, como Francis Fukuyama, señalan que el \"terrorismo\" no es un enemigo, sino una táctica; Llamándolo una \"guerra contra el terrorismo\", oscurece las diferencias entre conflictos como los insurgentes anti-ocupación y los muyahidines internacionales. Con una presencia militar en Irak y Afganistán y su daño colateral asociado Shirley Williams mantiene que esto aumenta el resentimiento y las amenazas terroristas contra Occidente. También se percibe la hipocresía estadounidense, la histeria inducida por los medios y que las diferencias en la política exterior y de seguridad han dañado la imagen de Estados Unidos en la mayor parte del mundo.",
+      "annotations": [
+        {
+          "question": "¿Qué es el terrorismo, según Francis Fukuyama?",
+          "choices": [
+            {
+              "text": "una táctica",
+              "start": 90,
+              "end": 101,
+              "type": "correct answer"
+            },
+            {
+              "text": "un enemigo",
+              "start": 73,
+              "end": 83,
+              "type": "distractor"
+            },
+            {
+              "text": "una presencia militar",
+              "start": 266,
+              "end": 287,
+              "type": "distractor"
+            },
+            {
+              "text": "el resentimiento y las amenazas terroristas contra Occidente",
+              "start": 381,
+              "end": 441,
+              "type": "distractor"
+            },
+            {
+              "text": "la hipocresía estadounidense",
+              "start": 462,
+              "end": 490,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "París es una ciudad de libros y librerías. En la década de 1970, el 80 por ciento de las editoriales en francés fueron encontradas en París, casi todas en la orilla izquierda en los arrondissements 5, 6 y 7. Desde entonces, debido a los altos precios, algunos editores se han mudado a las zonas menos costosas. También es una ciudad de pequeñas librerías. Hay alrededor de 150 librerías solo en el quinto distrito, más otros 250 puestos de libros a lo largo del Sena. Las pequeñas librerías de París están protegidas contra la competencia de los libreros de descuento por la ley francesa; Los libros, incluso los libros electrónicos, no se pueden descartar más del cinco por ciento por debajo del precio de portada de su editor.",
+      "annotations": [
+        {
+          "question": "¿De qué trata el texto que hay en París?",
+          "choices": [
+            {
+              "text": "libros y librerías",
+              "start": 23,
+              "end": 41,
+              "type": "correct answer"
+            },
+            {
+              "text": "los altos precios",
+              "start": 233,
+              "end": 250,
+              "type": "distractor"
+            },
+            {
+              "text": "el quinto distrito",
+              "start": 395,
+              "end": 413,
+              "type": "distractor"
+            },
+            {
+              "text": "la ley francesa",
+              "start": 572,
+              "end": 587,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Japón: El evento se celebró en Nagano, que fue sede de los Juegos Olímpicos de Invierno de 1998, el 26 de abril. El templo budista japonés Zenkō-ji, que originalmente estaba programado para ser el punto de partida para el relevo de la antorcha olímpica en Nagano, se negó a albergar la antorcha y se retiró de los planes de relevo. Además del riesgo de interrupción por protestas violentas. Partes del edificio principal del templo Zenkō-ji (Zenkō-ji hondō), reconstruido en 1707 y uno de los tesoros nacionales de Japón, fueron vandalizados con pintura de spray. Un nuevo punto de partida, anteriormente el sitio de un edificio municipal y ahora un estacionamiento, fue elegido por la ciudad. Un evento que la ciudad había planeado celebrar en el Parque Deportivo Minami Nagano después del relevo de la antorcha también fue cancelado por preocupación por las interrupciones causadas por manifestantes que protestaban contra la reciente represión china en el Tíbet. Miles de policías antidisturbios fueron movilizados para proteger la antorcha a lo largo de su ruta. La demostración de fuerza mantuvo a la mayoría de los manifestantes bajo control, pero los lemas gritados por manifestantes pro-China o pro-Tíbet, nacionalistas japoneses y organizaciones de derechos humanos inundaron el aire. Cinco hombres fueron arrestados y cuatro heridos en medio de escenas de violencia de la mafia. La ruta de la antorcha estaba llena de manifestantes pacíficos. El público no estaba autorizado en el estacionamiento donde comenzó el relevo. Después de que los monjes Zenkoji celebraran una ceremonia de oración para las víctimas de los acontecimientos recientes en el Tíbet. Más de 100 agentes de policía corrieron con la antorcha y la policía antidisturbios se alinearon las calles mientras tres helicópteros volaban por encima. Sólo dos guardias chinos pudieron acompañar la antorcha debido a la preocupación de Japón por su tratamiento de los manifestantes en relevos anteriores. Un hombre con una bandera tibetana intentó detener la antorcha al comienzo del relevo, pero fue arrastrado por la policía. Algunos huevos crudos también fueron arrojados de la multitud.",
+      "annotations": [
+        {
+          "question": "¿En contra de qué eran las posibles manifestaciones por la que fue cancelado el evento en el Parque Deportivo Minami Nagano?",
+          "choices": [
+            {
+              "text": "la reciente represión china en el Tíbet",
+              "start": 925,
+              "end": 964,
+              "type": "correct answer"
+            },
+            {
+              "text": "nacionalistas japoneses",
+              "start": 1214,
+              "end": 1237,
+              "type": "distractor"
+            },
+            {
+              "text": "violencia de la mafia",
+              "start": 1366,
+              "end": 1387,
+              "type": "distractor"
+            },
+            {
+              "text": "organizaciones de derechos humanos",
+              "start": 1240,
+              "end": 1274,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las similitudes entre checo y eslovaco llevaron a que las lenguas fueran consideradas una sola lengua por un grupo de estudiosos del siglo XIX que se llamaban a sí mismos \"checoslovacos\" (Čechoslováci). Durante la Primera República Checoslovaca (1918-1938), aunque el \"checoslovaco\" fue designado como lengua oficial de la república, se utilizaron tanto los estándares de escritura checos como eslovacos. El eslovaco estándar fue parcialmente modelado en checo literario, y el checo fue preferido para algunas funciones oficiales en la mitad eslovaca de la república. La influencia checa en el eslovaco fue protestada por los estudiosos eslovacos, y cuando Eslovaquia se separó de Checoslovaquia en 1938 como el Estado eslovaco (que entonces se alineó con la Alemania nazi en la Segunda Guerra Mundial). Cuando las potencias del Eje perdieron la guerra y Checoslovaquia se reformó, Slovak se desarrolló por su cuenta (con influencia checa); Durante la Primavera de Praga de 1968, Slovak obtuvo la independencia (e igualdad con) Czech. Desde entonces, \"checoslovaco\" se refiere a pidgins improvisados de las lenguas que han surgido a partir de la disminución de la inteligibilidad mutua.",
+      "annotations": [
+        {
+          "question": "¿Qué evento en 1968 llevó a que el eslovaco obtuviera independencia e igualdad con el checo?",
+          "choices": [
+            {
+              "text": "la Primavera de Praga",
+              "start": 949,
+              "end": 970,
+              "type": "correct answer"
+            },
+            {
+              "text": "la Segunda Guerra Mundial",
+              "start": 776,
+              "end": 801,
+              "type": "distractor"
+            },
+            {
+              "text": "cuando Eslovaquia se separó de Checoslovaquia",
+              "start": 650,
+              "end": 695,
+              "type": "distractor"
+            },
+            {
+              "text": "cuando las potencias del Eje perdieron la guerra",
+              "start": 804,
+              "end": 852,
+              "type": "distractor"
+            },
+            {
+              "text": "la Primera República Checoslovaca",
+              "start": 211,
+              "end": 244,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Situada en el Pacífico occidental, Guam es un destino popular para los turistas japoneses. Su centro turístico, Tumon, cuenta con más de 20 grandes hoteles, un Duty Free Shoppers Galleria, el distrito de Pleasure Island, acuario interior, sandcastle Las Vegas. Es un vuelo relativamente corto desde Asia o Australia en comparación con Hawaii, con hoteles y siete campos de golf públicos que alojan a más de un millón de turistas por año. Aunque el 75% de los turistas son japoneses, Guam recibe un número considerable de turistas de Corea del Sur, Estados Unidos, Filipinas y Taiwán. Fuentes importantes de ingresos incluyen tiendas de compras sin impuestos, y los centros comerciales de estilo estadounidense: Micronesia Mall, Guam Premier Outlets, el Agana Shopping Center, y el Kmart más grande del mundo. [Cita requerida]",
+      "annotations": [
+        {
+          "question": "¿A qué destino suelen ir los turistas japoneses?",
+          "choices": [
+            {
+              "text": "Guam",
+              "start": 35,
+              "end": 39,
+              "type": "correct answer"
+            },
+            {
+              "text": "Las Vegas",
+              "start": 250,
+              "end": 259,
+              "type": "distractor"
+            },
+            {
+              "text": "Taiwán",
+              "start": 576,
+              "end": 582,
+              "type": "distractor"
+            },
+            {
+              "text": "Estados Unidos",
+              "start": 548,
+              "end": 562,
+              "type": "distractor"
+            },
+            {
+              "text": "Hawaii",
+              "start": 335,
+              "end": 341,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

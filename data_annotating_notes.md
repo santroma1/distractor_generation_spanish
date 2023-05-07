@@ -116,33 +116,36 @@ _One extra to compensate for 177 that doesnt appear, belongs to "Phrases"_
 
 <br>
 
-# Friday April 28 - 
+# Friday April 28 - Sunday May 7th
 
-Dates and Numbers 4
+Dates and Numbers 6
 
-Names 4
+Names 8
 
-Phrases 12
+Phrases 26
 
-Total 20
+Total 40
 
 
 ## Comments
 242. To infinitive
 250. Change Verb tenses 
 252. Articles
+262. Just modify dude
+265. Cases
+279. Cases
 
 <br>
 
 # Total
 
-Dates and Numbers 32
+Dates and Numbers 38
 
-Names 57
+Names 65
 
-Phrases 152 - 1   
+Phrases 178 - 1   
 
-Total 240
+Total 280
 
 
 # GLOBAL NOTES
