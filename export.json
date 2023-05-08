@@ -5731,6 +5731,29 @@
             "type": "distractor"
           }
         ]
+      },
+      {
+        "question": "¿Qué característica o elemento es correspondiente al papers-libre de madera",
+        "choices": [
+          {
+            "text": "no contienen lignina",
+            "start": 399,
+            "end": 419,
+            "type": "correct answer"
+          },
+          {
+            "text": "se puede blanquear para producir papel blanco",
+            "start": 470,
+            "end": 515,
+            "type": "distractor"
+          },
+          {
+            "text": "no se utilizan para hacer papel hecho de algodón",
+            "start": 591,
+            "end": 639,
+            "type": "distractor"
+          }
+        ]
       }
     ]
   },
@@ -10581,6 +10604,670 @@
               "text": "las cucarachas",
               "start": 300,
               "end": 310,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las aves migratorias pueden usar dos herramientas electromagnéticas para encontrar sus destinos: Una que es totalmente innata y otra que se basa en la experiencia. Un ave joven en su primera migración vuela en la dirección correcta de acuerdo con el campo magnético de la Tierra, pero no sabe hasta dónde estará el viaje. Lo hace a través de un mecanismo de par radical mediante el cual las reacciones químicas en los pigmentos fotográficos especiales sensibles a longitudes de onda largas se ven afectadas por el campo. Aunque esto sólo funciona durante las horas diurnas, no utiliza la posición del sol de ninguna manera. En esta etapa el ave está en la posición de un boy scout con una brújula pero sin mapa, hasta que se acostumbra al viaje y puede poner sus otras capacidades para usar. Con la experiencia aprende varios puntos de referencia y esta \"cartografía\" es realizada por magnetitas en el sistema trigémino, que le dicen al ave lo fuerte que es el campo. Debido a que las aves migran entre las regiones norte y sur, las fuerzas del campo magnético en diferentes latitudes le permiten interpretar el mecanismo de pareja radical con mayor precisión y hacerle saber cuándo ha llegado a su destino. Hay una conexión neuronal entre el ojo y el \"Cúmulo N\", la parte del antebrazo que está activa durante la orientación migracional, lo que sugiere que las aves pueden realmente ser capaces de ver el campo magnético de la tierra.",
+      "annotations": [
+        {
+          "question": "¿Qué hace un ave joven en su primera migración?",
+          "choices": [
+            {
+              "text": "aprende varios puntos de referencia y esta \"cartografía\" es realizada por magnetitas en el sistema trigémino",
+              "start": 811,
+              "end": 919,
+              "type": "distractor"
+            },
+            {
+              "text": "migran entre las regiones norte y sur",
+              "start": 990,
+              "end": 1027,
+              "type": "distractor"
+            },
+            {
+              "text": "pueden realmente ser capaces de ver el campo magnético de la tierra",
+              "start": 1367,
+              "end": 1434,
+              "type": "distractor"
+            },
+            {
+              "text": "vuela en la dirección correcta de acuerdo con el campo magnético de la Tierra, pero no sabe hasta dónde estará el viaje",
+              "start": 201,
+              "end": 320,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Egipto reconoce sólo tres religiones: El Islam, el cristianismo y el judaísmo. Otras religiones y sectas musulmanas minoritarias practicadas por los egipcios, como la pequeña comunidad bahá 'í y Ahmadi, no son reconocidas por el Estado y se enfrentan a la persecución ya que son etiquetados como grupos de extrema derecha. A los individuos, particularmente Baha 'is y ateos, que deseen incluir su religión (o la falta de ella) en su estado obligatorio, se les niega esta habilidad. Una sentencia judicial de 2008 permitió a los miembros de creencias no reconocidas obtener identificación y dejar en blanco el campo de la religión.",
+      "annotations": [
+        {
+          "question": "¿A qué religión se les negaba la habilidad de incluir su religión en su estado obligatorio antes del 2008?",
+          "choices": [
+            {
+              "text": "Baha 'is",
+              "start": 357,
+              "end": 365,
+              "type": "correct answer"
+            },
+            {
+              "text": "Islam",
+              "start": 41,
+              "end": 46,
+              "type": "distractor"
+            },
+            {
+              "text": "cristianismo",
+              "start": 51,
+              "end": 63,
+              "type": "distractor"
+            },
+            {
+              "text": "judaísmo",
+              "start": 69,
+              "end": 77,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Había dos técnicas principales en el mosaico greco-romano: Opus vermiculatum usaba diminutas teselas, típicamente cubos de 4 milímetros o menos, y se producía en talleres en paneles relativamente pequeños que eran transportados al sitio de soporte. Las pequeñas teselas permitían detalles muy finos, y un acercamiento al ilusionismo de la pintura. A menudo pequeños paneles llamados emblemata se insertaban en las paredes o como lo más destacado de los grandes mosaicos del suelo en la obra más gruesa. La técnica normal era opus tessellatum, usando teselas más grandes, las cuales fueron colocadas en el sitio. Había un estilo italiano nativo distinto usando negro en un fondo blanco, que sin duda era más barato que el trabajo totalmente coloreado.",
+      "annotations": [
+        {
+          "question": "¿Qué característica en el texto corresponde a opus tessellatum?",
+          "choices": [
+            {
+              "text": "teselas más grandes",
+              "start": 550,
+              "end": 569,
+              "type": "correct answer"
+            },
+            {
+              "text": "pequeñas teselas",
+              "start": 253,
+              "end": 269,
+              "type": "distractor"
+            },
+            {
+              "text": "pequeños paneles llamados emblemata",
+              "start": 357,
+              "end": 392,
+              "type": "distractor"
+            },
+            {
+              "text": "cubos de 4 milímetros o menos",
+              "start": 114,
+              "end": 143,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Su esposa más conocida fue Jovanka Broz. Tito apenas era tímido por su 59 cumpleaños, mientras que ella tenía 27 años, cuando finalmente se casaron en abril de 1952, con el jefe de seguridad estatal Aleksandar Ranković como el mejor hombre. Su eventual matrimonio se produjo algo inesperado ya que Tito en realidad la rechazó algunos años antes cuando su confidente Ivan Krajacic la trajo originalmente. En ese momento, tenía 20 años y Tito, objetando su personalidad enérgica, optó por la cantante de ópera más madura Zinka Kunc. Jovanka continuó trabajando en Beli Dvor, donde dirigió al personal y finalmente tuvo otra oportunidad después de que la extraña relación de Tito con Zinka fracasara. Como Jovanka fue la única compañera con la que se casó en el poder, también pasó a la historia como primera dama de Yugoslavia. Sin embargo, su relación no fue feliz. Había pasado por muchos, a menudo públicos, altibajos con episodios de infidelidades e incluso alegaciones de preparación para un golpe de estado por la última pareja. Algunos informes no oficiales sugieren que Tito y Jovanka incluso se divorciaron formalmente a finales de 1970, poco antes de su muerte. Sin embargo, durante el funeral de Tito, ella estuvo oficialmente presente como su esposa, y más tarde reclamó derechos de herencia. La pareja no tuvo hijos.",
+      "annotations": [
+        {
+          "question": "¿Qué paso entre Tito y Jovanka en 1970?",
+          "choices": [
+            {
+              "text": "se divorciaron formalmente",
+              "start": 1099,
+              "end": 1125,
+              "type": "correct answer"
+            },
+            {
+              "text": "episodios de infidelidades",
+              "start": 923,
+              "end": 949,
+              "type": "distractor"
+            },
+            {
+              "text": "alegaciones de preparación para un golpe de estado",
+              "start": 960,
+              "end": 1010,
+              "type": "distractor"
+            },
+            {
+              "text": "se casaron en abril",
+              "start": 137,
+              "end": 156,
+              "type": "distractor"
+            },
+            {
+              "text": "Tito en realidad la rechazó",
+              "start": 298,
+              "end": 325,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los instrumentos barrocos incluían algunos instrumentos de épocas anteriores (por ejemplo, la zanfona y grabadora) y una serie de nuevos instrumentos (como el violonchelo, el contrabajo y el fortepiano). Algunos instrumentos de épocas anteriores cayeron en desuso, como el shawm y la corneta de madera. Los instrumentos barrocos clave para cuerdas incluyen violín, viola, viola d 'amore, violonchelo, contrabajo, laúd, teorbo (que a menudo tocaba las partes de bajo continuo), mandolina, guitarra barroca. Los vientos incluyeron la flauta barroca, el oboe barroco, el rastrillo, la flauta y el fagot. Los instrumentos de metal incluyen el cornetto, el cuerno natural, la trompeta barroca, la serpiente y el trombón. Los instrumentos de teclado incluían el clavicordio, el piano tangente, el fortepiano (una versión temprana del piano), el clavecín y el órgano. Los instrumentos de percusión incluyen el timbal, el tambor, la pandereta y las castañuelas.",
+      "annotations": [
+        {
+          "question": "¿Qué instrumento de épocas anteriores al barroco cayeron en desuso?",
+          "choices": [
+            {
+              "text": "corneta de madera",
+              "start": 284,
+              "end": 301,
+              "type": "correct answer"
+            },
+            {
+              "text": "violonchelo",
+              "start": 159,
+              "end": 170,
+              "type": "distractor"
+            },
+            {
+              "text": "fortepiano",
+              "start": 191,
+              "end": 201,
+              "type": "distractor"
+            },
+            {
+              "text": "violín",
+              "start": 357,
+              "end": 363,
+              "type": "distractor"
+            },
+            {
+              "text": "flauta",
+              "start": 582,
+              "end": 588,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Al igual que otras actividades económicas gubernamentales, también la privatización, como la venta de bienes de propiedad estatal, está particularmente en riesgo de amiguismo. Las privatizaciones en Rusia, América Latina y Alemania Oriental fueron acompañadas por la corrupción a gran escala durante la venta de las empresas estatales. Aquellos con conexiones políticas injustamente obtuvieron una gran riqueza, que ha desacreditado la privatización en estas regiones. Si bien los medios han informado ampliamente de la gran corrupción que acompañó a las ventas, los estudios han argumentado que, además de una mayor eficiencia operativa, la corrupción menor diaria es, o sería, más grande sin privatizaciones y que la corrupción. Además, hay evidencia que sugiere que las actividades extralegales y no oficiales son más frecuentes en países que privatizaron menos.",
+      "annotations": [
+        {
+          "question": "¿Qué sugiere la evidencia en países que privatizaron menos?",
+          "choices": [
+            {
+              "text": "las actividades extralegales y no oficiales son más frecuentes",
+              "start": 769,
+              "end": 831,
+              "type": "correct answer"
+            },
+            {
+              "text": "la venta de bienes de propiedad estatal, está particularmente en riesgo de amiguismo",
+              "start": 90,
+              "end": 174,
+              "type": "distractor"
+            },
+            {
+              "text": "los medios han informado ampliamente de la gran corrupción que acompañó a las ventas",
+              "start": 477,
+              "end": 561,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "C., Ciro el Grande, hijo de Mandane y Cambises I, se hizo cargo del Imperio Mediano, y fundó el Imperio aqueménida unificando otras ciudades-estado. La conquista de Media fue el resultado de lo que se llama la revuelta persa. El brouhaha se desencadenó inicialmente por las acciones del gobernante medio Astiages, y se extendió rápidamente a otras provincias, ya que se aliaron con los persas. Conquistas posteriores bajo Ciro y sus sucesores expandieron el imperio para incluir Lidia, Babilonia, Egipto, partes de los Balcanes y Europa oriental propiamente dicha, así como las tierras al oeste de los ríos Indo y Oxo.",
+      "annotations": [
+        {
+          "question": "¿Qué conquista fue el resultado de la revuelta persa?",
+          "choices": [
+            {
+              "text": "Media",
+              "start": 165,
+              "end": 170,
+              "type": "correct answer"
+            },
+            {
+              "text": "Babilonia",
+              "start": 486,
+              "end": 495,
+              "type": "distractor"
+            },
+            {
+              "text": "Egipto,",
+              "start": 497,
+              "end": 504,
+              "type": "distractor"
+            },
+            {
+              "text": "Lidia",
+              "start": 479,
+              "end": 484,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1886, los trabajadores de municiones del Woolwich fundaron el club como Dial Square. En 1913, el club cruzó la ciudad al Arsenal Stadium en Highbury. Se convirtieron en el club más cercano del Tottenham Hotspur, comenzando el derbi del Norte de Londres. En 2006, se mudaron al Emirates Stadium en Holloway. Arsenal ganó 435,5 millones de euros en 2014-15, con el Emirates Stadium generando los mayores ingresos en el fútbol mundial. Basado en la actividad de las redes sociales de 2014-15, la base de fans del Arsenal es la quinta más grande del mundo. Forbes estima que el club valía $1.3 mil millones en 2015.",
+      "annotations": [
+        {
+          "question": "¿De qué equipo se habla principalmente en el texto?",
+          "choices": [
+            {
+              "text": "Arsenal",
+              "start": 513,
+              "end": 520,
+              "type": "correct answer"
+            },
+            {
+              "text": "Tottenham Hotspur",
+              "start": 196,
+              "end": 213,
+              "type": "distractor"
+            },
+            {
+              "text": "Woolwich",
+              "start": 44,
+              "end": 52,
+              "type": "distractor"
+            },
+            {
+              "text": "Dial Square",
+              "start": 75,
+              "end": 86,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Dos controversias durante la campaña lo probaron a él y a su personal, pero no afectaron a la campaña. Uno incluía un informe de que Nixon había recibido fondos indebidamente de un fideicomiso secreto. Nixon habló adroitamente para evitar daños potenciales, pero el asunto alienó permanentemente a los dos candidatos. El segundo número se centró en la decisión de Eisenhower de enfrentar los controvertidos métodos de Joseph McCarthy en su territorio en Wisconsin. Sólo dos semanas antes de las elecciones, Eisenhower prometió ir a Corea y terminar la guerra allí. Prometió mantener un fuerte compromiso contra el comunismo y evitar el tema de la OTAN; Finalmente, hizo hincapié en una administración frugal y libre de corrupción en casa.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo Eisenhower dos semanas antes de las elecciones?",
+          "choices": [
+            {
+              "text": "prometió ir a Corea y terminar la guerra allí",
+              "start": 518,
+              "end": 563,
+              "type": "correct answer"
+            },
+            {
+              "text": "había recibido fondos indebidamente de un fideicomiso secreto",
+              "start": 139,
+              "end": 200,
+              "type": "distractor"
+            },
+            {
+              "text": "habló adroitamente para evitar daños potenciales",
+              "start": 208,
+              "end": 256,
+              "type": "distractor"
+            },
+            {
+              "text": "alienó permanentemente a los dos candidatos",
+              "start": 273,
+              "end": 316,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En contraste con el Proterozoico, las rocas del Arcaico son a menudo sedimentos de aguas profundas metamorfoseadas, como graywackes, lutitas, sedimentos volcánicos y formaciones de hierro bandeado. Los cinturones de rocas verdes son formaciones típicas del Arcaico, que consisten en rocas metamórficas alternas de alto y bajo grado. Las rocas de alto grado se derivaron de los arcos insulares volcánicos, mientras que las rocas metamórficas de bajo grado representan sedimentos del mar profundo erosionados de las ranas insulares vecinas y depositados en una cuenca del antearco. En resumen, los cinturones de piedra verde representan protocontinentes suturados.",
+      "annotations": [
+        {
+          "question": "¿De qué se derivaron las rocas de alto grado?",
+          "choices": [
+            {
+              "text": "arcos insulares volcánicos",
+              "start": 377,
+              "end": 403,
+              "type": "correct answer"
+            },
+            {
+              "text": "rocas metamórficas alternas",
+              "start": 283,
+              "end": 310,
+              "type": "distractor"
+            },
+            {
+              "text": "cinturones de rocas verdes",
+              "start": 202,
+              "end": 228,
+              "type": "distractor"
+            },
+            {
+              "text": "sedimentos del mar profundo",
+              "start": 467,
+              "end": 494,
+              "type": "distractor"
+            },
+            {
+              "text": "protocontinentes suturados",
+              "start": 635,
+              "end": 661,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "TCM emite regularmente una \"Estrella del Mes\" durante todo el año los miércoles a las 8: 00 pp. m. hora del este, en la que la mayoría, si no todos, se muestran películas de una estrella de cine clásico. Organizada por Robert Osbourne, la red también marca la ocurrencia del cumpleaños de un actor de cine (ya sea ANTEMORTEM o póstumamente) o la muerte reciente con festivales de día o de noche mostrando varias de las mejores películas. Por efecto, maratones programados en honor al fallecimiento de un actor (que están programados dentro de un mes después de su muerte) adelantaron películas originalmente programadas para salir al aire en esa fecha. TCM también cuenta con un bloque de programa mensual llamado \"TCM Guest Programmer\", en el que Osborne se une a los invitados famosos responsables de elegir las películas de esa noche (ejemplos de tales programadores durante 2012 incluyen a Jules Feiffer Regis, Anthony Philinger Una rama de este bloque con empleados de Turner Classic Movies se emitió durante febrero de 2011.",
+      "annotations": [
+        {
+          "question": "¿Qué tipo de programación emite TCM en la franja horaria de \"Estrella del Mes\"?",
+          "choices": [
+            {
+              "text": "películas de una estrella de cine clásico",
+              "start": 161,
+              "end": 202,
+              "type": "correct answer"
+            },
+            {
+              "text": "festivales de día o de noche",
+              "start": 366,
+              "end": 394,
+              "type": "distractor"
+            },
+            {
+              "text": "maratones programados en honor al fallecimiento de un actor",
+              "start": 450,
+              "end": 509,
+              "type": "distractor"
+            },
+            {
+              "text": "películas originalmente programadas para salir al aire en esa fecha",
+              "start": 584,
+              "end": 651,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La termodinámica divide la transformación de energía en dos clases: Procesos reversibles y procesos irreversibles. Un proceso irreversible es aquel en el que la energía se disipa en estados de energía vacíos disponibles en un volumen, del cual no se puede recuperar en formas más concentradas (menos estados cuánticos), sin degradación de aún más energía. Un proceso reversible es uno en el que este tipo de disipación no ocurre. Por ejemplo, la conversión de energía de un tipo de campo potencial a otro, es reversible, como en el sistema de péndulo descrito anteriormente. En procesos donde se genera calor, los estados cuánticos de menor energía, presentes como posibles excitaciones en campos entre átomos, actúan como un reservorio para parte de la energía, de la que no se puede recuperar, para convertirse con 100% de eficiencia. En este caso, la energía debe permanecer en parte como calor, y no puede ser completamente recuperada como energía utilizable, excepto por el precio de un aumento en algún otro tipo de incremento en el calor en estados cuánticos.",
+      "annotations": [
+        {
+          "question": "¿Qué característica tiene un proceso irreversible en termodinámica?",
+          "choices": [
+            {
+              "text": "la energía se disipa en estados de energía vacíos disponibles en un volumen",
+              "start": 158,
+              "end": 233,
+              "type": "correct answer"
+            },
+            {
+              "text": "procesos donde se genera calor",
+              "start": 578,
+              "end": 608,
+              "type": "distractor"
+            },
+            {
+              "text": "actúan como un reservorio para parte de la energía, de la que no se puede recuperar, para convertirse con 100% de eficiencia",
+              "start": 711,
+              "end": 835,
+              "type": "distractor"
+            },
+            {
+              "text": "la energía debe permanecer en parte como calor, y no puede ser completamente recuperada como energía utilizable",
+              "start": 851,
+              "end": 962,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El subcomité X3.2 diseñó ASCII basado en los sistemas de codificación de teletipo anteriores. Como otras codificaciones de caracteres, ASCII especifica una correspondencia entre patrones de bits digitales y símbolos de caracteres (i.e. Grafemas y caracteres de control). Esto permite a los dispositivos digitales comunicarse entre sí y procesar, almacenar y comunicar información orientada a caracteres como el lenguaje escrito. Antes de que ASCII fuera desarrollado, las codificaciones en uso incluían 26 caracteres alfabéticos, 10 dígitos numéricos, y de 11 a 25 símbolos gráficos especiales. Para incluir a todos estos, y los personajes de control compatibles con el Comité Consultatif International Téléphonique et Télégraphique (CCITT) International Telegraph Alphabet No. 2 (ITA2) estándar, Fieldata y los primeros EBCDIC, se requerían más de 64 códigos para ASCII.",
+      "annotations": [
+        {
+          "question": "¿Qué sistema de codificación diseñó el subcomité X3.2?",
+          "choices": [
+            {
+              "text": "ASCII",
+              "start": 25,
+              "end": 30,
+              "type": "correct answer"
+            },
+            {
+              "text": "CCITT",
+              "start": 734,
+              "end": 739,
+              "type": "distractor"
+            },
+            {
+              "text": "ITA2",
+              "start": 781,
+              "end": 785,
+              "type": "distractor"
+            },
+            {
+              "text": "EBCDIC",
+              "start": 821,
+              "end": 827,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las complicaciones pueden ocurrir inmediatamente después del ataque al corazón (en la fase aguda), o pueden necesitar tiempo para desarrollarse (un problema crónico). Las complicaciones agudas pueden incluir insuficiencia cardíaca si el corazón dañado ya no es capaz de bombear la sangre adecuadamente alrededor del cuerpo. Aneurisma del miocardio ventrículo izquierdo; Ruptura septal ventricular o ruptura pared libre; Regurgitación mitral, en particular si el infarto causa disfunción del músculo papilar. Síndrome de Dressler Y ritmos cardíacos anormales, como la fibrilación ventricular, taquicardia ventricular, fibrilación auricular y bloqueo cardíaco. Las complicaciones a largo plazo incluyen insuficiencia cardíaca, fibrilación auricular y un mayor riesgo de un segundo MI.",
+      "annotations": [
+        {
+          "question": "¿Cuál de las siguientes es una complicación de largo plazo?",
+          "choices": [
+            {
+              "text": "ritmos cardíacos anormales",
+              "start": 531,
+              "end": 557,
+              "type": "distractor"
+            },
+            {
+              "text": "fibrilación auricular",
+              "start": 725,
+              "end": 746,
+              "type": "correct answer"
+            },
+            {
+              "text": "aneurisma del miocardio ventrículo izquierdo",
+              "start": 324,
+              "end": 368,
+              "type": "distractor"
+            },
+            {
+              "text": "ruptura septal ventricular",
+              "start": 370,
+              "end": 396,
+              "type": "distractor"
+            },
+            {
+              "text": "síndrome de Dressler",
+              "start": 508,
+              "end": 528,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El estrés tiene un efecto significativo en la formación de memoria y el aprendizaje. En respuesta a situaciones estresantes, el cerebro libera hormonas y neurotransmisores (ex. Glucocorticoides y catecolaminas) que afectan a los procesos de codificación de memoria en el hipocampo. La investigación conductual en animales muestra que el estrés crónico produce hormonas suprarrenales que afectan la estructura hipocampal en el cerebro de las ratas. Un estudio experimental de psicólogos cognitivos alemanes L. Schwabe y O. Wolf demuestra cómo el aprendizaje bajo estrés también disminuye el recuerdo de la memoria en los seres humanos. En este estudio, 48 estudiantes universitarios masculinos y femeninos sanos participaron en una prueba de estrés o un grupo de control. Aquellos asignados aleatoriamente al grupo de pruebas de estrés tenían una mano inmersa en agua fría en hielo (el SECPT o \"Prueba presora fría experimentada socialmente\") durante hasta tres minutos, mientras eran monitorizados. Tanto los grupos de estrés y control se presentaron con 32 palabras para memorizar. Veinticuatro horas más tarde, ambos grupos fueron probados para ver cuántas palabras podían recordar (recuerdo libre), así como cuántas podían reconocer de una lista más grande de palabras (rendimiento de reconocimiento). Los resultados mostraron un claro deterioro del rendimiento de la memoria en el grupo de prueba de estrés, que recordó un 30% menos de palabras que el grupo de control. Los investigadores sugieren que el estrés experimentado durante el aprendizaje distrae a las personas desviando su atención durante el proceso de codificación de memoria.",
+      "annotations": [
+        {
+          "question": "¿Qué efecto tiene el estrés en la formación de memoria y el aprendizaje en el hipocampo?",
+          "choices": [
+            {
+              "text": "distrae a las personas desviando su atención durante el proceso de codificación de memoria",
+              "start": 1553,
+              "end": 1643,
+              "type": "distractor"
+            },
+            {
+              "text": "afectan a los procesos de codificación de memoria",
+              "start": 215,
+              "end": 264,
+              "type": "correct answer"
+            },
+            {
+              "text": "produce hormonas suprarrenales que afectan la estructura",
+              "start": 352,
+              "end": 408,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Burke afirmó que los argumentos de Bolingbroke contra la religión revelada podrían aplicarse también a todas las instituciones sociales y civiles. Lord Chesterfield y el obispo Warburton inicialmente pensaron que la obra era genuinamente de Bolingbroke en lugar de una sátira. Todas las críticas de la obra fueron positivas, y los críticos apreciaron especialmente la calidad de la escritura de Burke. Algunos críticos no notaron la naturaleza irónica del libro, lo que llevó a Burke a afirmar en el prefacio de la segunda edición (1757) que era una sátira.",
+      "annotations": [
+        {
+          "question": "¿Quién es el autor de la obra de la que se habla en el texto?",
+          "choices": [
+            {
+              "text": "Burke",
+              "start": 395,
+              "end": 400,
+              "type": "correct answer"
+            },
+            {
+              "text": "Lord Chesterfield",
+              "start": 147,
+              "end": 164,
+              "type": "distractor"
+            },
+            {
+              "text": "el obispo Warburton",
+              "start": 167,
+              "end": 186,
+              "type": "distractor"
+            },
+            {
+              "text": "Bolingbroke",
+              "start": 241,
+              "end": 252,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Tennessee ha jugado un papel crítico en el desarrollo de muchas formas de música popular estadounidense, incluyendo rock and roll, blues, country y rockabilly. Beale Street en Memphis es considerado por muchos como el lugar de nacimiento del blues, con músicos como W.C. La práctica en sus clubes ya en 1909. Memphis es también el hogar de Sun Records, donde músicos como Elvis Presley, Johnny Cash, Carl Perkins, Jerry Lee Lewis, Roy Orbison, y Charlie Rich comenzaron sus carreras de grabación en los años 50. Las sesiones de grabación de 1927 en Bristol marcaron el comienzo del género de la música country y el auge del Grand Ole Opry en la década de 1930 ayudó a hacer de Nashville el centro de la industria de la música country. Tres museos reconocen el papel de Tennessee en nutrir varias formas de música popular: El Memphis Rock N 'Soul Museum, el Country Music Hall of Fame and Museum en A-Nashville, y el International Rock-Museum en Billy Jackson. Además, el Salón de la Fama de Rockabilly, un sitio en línea que reconoce el desarrollo de rockabilly en el que Tennessee jugó un papel crucial, se basa en Nashville. [No verificado en el cuerpo]",
+      "annotations": [
+        {
+          "question": "¿Qué ciudad en Tennessee es considerada el centro de la industria de la música country?",
+          "choices": [
+            {
+              "text": "Nashville",
+              "start": 677,
+              "end": 686,
+              "type": "correct answer"
+            },
+            {
+              "text": "Memphis",
+              "start": 176,
+              "end": 183,
+              "type": "distractor"
+            },
+            {
+              "text": "Bristol",
+              "start": 549,
+              "end": 556,
+              "type": "distractor"
+            },
+            {
+              "text": "Rockabilly",
+              "start": 991,
+              "end": 1001,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Debido a su capacidad de crecer rápidamente y la relativa facilidad con la que pueden ser manipuladas, las bacterias son los caballos de trabajo para los campos de la biología molecular, la genética y la bioquímica. Al hacer mutaciones en el ADN bacteriano y examinar los fenotipos resultantes, los científicos pueden determinar la función de los genes, enzimas y rutas metabólicas en las bacterias, y luego aplicar este conocimiento a organismos más complejos. Este objetivo de entender la bioquímica de una célula alcanza su expresión más compleja en la síntesis de grandes cantidades de datos de cinética enzimática y expresión génica en modelos matemáticos de organismos enteros. Esto se puede lograr en algunas bacterias bien estudiadas, con modelos de metabolismo de la Escherichia coli que ahora se producen y prueban. Esta comprensión del metabolismo y la genética bacteriana permite el uso de la biotecnología para la producción de proteínas terapéuticas, como la insulina, factores de crecimiento o anticuerpos.",
+      "annotations": [
+        {
+          "question": "¿De qué tipo de modelos se pueden lograr en algunas bacterias bien estudiadas, como Escherichia coli, que se producen y prueban?",
+          "choices": [
+            {
+              "text": "metabolismo",
+              "start": 758,
+              "end": 769,
+              "type": "correct answer"
+            },
+            {
+              "text": "organismos enteros",
+              "start": 664,
+              "end": 682,
+              "type": "distractor"
+            },
+            {
+              "text": "genética",
+              "start": 190,
+              "end": 198,
+              "type": "distractor"
+            },
+            {
+              "text": "enzimas",
+              "start": 354,
+              "end": 361,
+              "type": "distractor"
+            },
+            {
+              "text": "anticuerpos",
+              "start": 1009,
+              "end": 1020,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El término \"push-pull\" se estableció en 1987 como un enfoque para la gestión integrada de plagas (IPM). Esta estrategia utiliza una mezcla de estímulos modificadores del comportamiento para manipular la distribución y abundancia de insectos. \"Push\" significa que los insectos son repelidos o disuadidos de cualquier recurso que esté siendo protegido. \"Tirar\" significa que ciertos estímulos (estímulos semioquímicos, feromonas, aditivos alimentarios, estímulos visuales, plantas genéticamente alteradas, etc.) Se utilizan para atraer plagas para atrapar cultivos donde serán asesinados. Hay numerosos componentes diferentes involucrados con el fin de implementar una estrategia push-pull en IPM.",
+      "annotations": [
+        {
+          "question": "¿Qué significa \"Push\" en el texto?",
+          "choices": [
+            {
+              "text": "los insectos son repelidos o disuadidos de cualquier recurso que esté siendo protegido",
+              "start": 263,
+              "end": 349,
+              "type": "correct answer"
+            },
+            {
+              "text": "ciertos estímulos (estímulos semioquímicos, feromonas, aditivos alimentarios, estímulos visuales, plantas genéticamente alteradas, etc.) Se utilizan para atraer plagas para atrapar cultivos donde serán asesinados",
+              "start": 373,
+              "end": 585,
+              "type": "distractor"
+            },
+            {
+              "text": "una mezcla de estímulos modificadores del comportamiento para manipular la distribución y abundancia de insectos",
+              "start": 128,
+              "end": 240,
+              "type": "distractor"
+            },
+            {
+              "text": "la gestión integrada de plagas (IPM)",
+              "start": 66,
+              "end": 102,
               "type": "distractor"
             }
           ]

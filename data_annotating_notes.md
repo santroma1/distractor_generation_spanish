@@ -162,15 +162,15 @@ Total 20
 
 Dates and Numbers 0
 
-Names 0
+Names 5
 
-Phrases 0
+Phrases 15
 
-Total 0
+Total 20
 
 
 ## Comments
-
+305. 
 
 <br>
 
@@ -189,3 +189,4 @@ Total 300
 - There is a text on Tennesse, that has 2 questions
 - For a reason, its not exporting datapoint 177. 
 - There is another text with 2 questions
+- There is now a total of 3 texts with 2 questions
