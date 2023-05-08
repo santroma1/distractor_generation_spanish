@@ -137,15 +137,52 @@ Total 40
 
 <br>
 
+# Sunday May 7th - Monday May 8th
+
+Dates and Numbers 2
+
+Names 3
+
+Phrases 15
+
+Total 20
+
+
+## Comments
+284. Articles
+285. Cases
+293. Something
+298. Cases
+300. Articles
+
+<br>
+
+
+# Monday May 8th
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 0
+
+Total 0
+
+
+## Comments
+
+
+<br>
+
 # Total
 
-Dates and Numbers 38
+Dates and Numbers 40
 
-Names 65
+Names 68
 
-Phrases 178 - 1   
+Phrases 193 - 1   
 
-Total 280
+Total 300
 
 
 # GLOBAL NOTES
