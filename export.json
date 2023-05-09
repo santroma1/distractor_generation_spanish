@@ -3970,6 +3970,29 @@
             "type": "distractor"
           }
         ]
+      },
+      {
+        "question": "¿De qué artista es el video \"Single Ladies\"?",
+        "choices": [
+          {
+            "text": "Beyoncé",
+            "start": 350,
+            "end": 357,
+            "type": "correct answer"
+          },
+          {
+            "text": "Lady Gaga",
+            "start": 488,
+            "end": 497,
+            "type": "distractor"
+          },
+          {
+            "text": "Taylor Swift",
+            "start": 283,
+            "end": 295,
+            "type": "distractor"
+          }
+        ]
       }
     ]
   },
@@ -5733,7 +5756,7 @@
         ]
       },
       {
-        "question": "¿Qué característica o elemento es correspondiente al papers-libre de madera",
+        "question": "¿Qué característica o elemento es correspondiente al papers-libre de madera?",
         "choices": [
           {
             "text": "no contienen lignina",
@@ -10478,6 +10501,35 @@
       "context": "En contraste con el DVD completamente digital, LaserDiscs usa solo video analógico. Como el formato Laserdisc no está codificado digitalmente y no hace uso de técnicas de compresión, es inmune al proceso Macroblocking de vídeo (más visible como bloqueo durante secuencias de alto movimiento) o al marcado de contraste. Los primeros lanzamientos en DVD tenían el potencial de superar a sus contrapartes de LaserDisc, pero a menudo sólo se las arreglaba para obtener calidad de imagen, y en algunos casos, se prefería la versión de LaserDisc. Sin embargo, los codificadores patentados asistidos por humanos operados manualmente por especialistas pueden reducir enormemente la incidencia de artefactos, dependiendo del tiempo de juego y la complejidad de la imagen. Al final de la ejecución de LaserDisc, los DVD estaban a la altura de su potencial como un formato superior.",
       "annotations": [
         {
+          "question": "¿Qué hacen los codificadores patentados asistidos por humanos operados manualmente por especialistas?",
+          "choices": [
+            {
+              "text": "pueden reducir enormemente la incidencia de artefactos",
+              "start": 644,
+              "end": 698,
+              "type": "correct answer"
+            },
+            {
+              "text": "tenían el potencial de superar a sus contrapartes de LaserDisc",
+              "start": 352,
+              "end": 414,
+              "type": "distractor"
+            },
+            {
+              "text": "es inmune al proceso Macroblocking de vídeo",
+              "start": 183,
+              "end": 226,
+              "type": "distractor"
+            },
+            {
+              "text": "no hace uso de técnicas de compresión",
+              "start": 144,
+              "end": 181,
+              "type": "distractor"
+            }
+          ]
+        },
+        {
           "question": "¿Qué característica de LaserDiscs lo diferencia del DVD?",
           "choices": [
             {
@@ -11268,6 +11320,976 @@
               "text": "la gestión integrada de plagas (IPM)",
               "start": 66,
               "end": 102,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El genetista de población Sewall Wright desarrolló una manera de medir las diferencias genéticas entre las poblaciones conocidas como el índice de Fixación, que a menudo se abrevia como FST. Esta estadística se utiliza a menudo en taxonomía para comparar las diferencias entre dos poblaciones dadas cualesquiera midiendo las diferencias genéticas entre y entre poblaciones de genes individuales, o para muchos genes simultáneamente. A menudo se dice que el índice de fijación para los humanos es de aproximadamente 0,15. Esto se traduce en un estimado del 85% de la variación medida en la población humana total se encuentra dentro de individuos de la misma población, y alrededor del 15% de la variación se produce entre las poblaciones. Estas estimaciones implican que dos individuos de diferentes poblaciones son casi tan probables de ser más similares entre sí que a un miembro de su propio grupo. Richard Lewontin, quien afirmó estas relaciones, concluyó que ni \"raza\" ni \"subespecie\" eran formas apropiadas o útiles para describir las poblaciones humanas. Sin embargo, otros han notado que la variación de grupo era relativamente similar a la variación observada en otras especies de mamíferos.",
+      "annotations": [
+        {
+          "question": "¿Qué conclusiones extrajo Richard Lewontin sobre las poblaciones humanas basándose en las relaciones de índice de fijación?",
+          "choices": [
+            {
+              "text": "ni \"raza\" ni \"subespecie\" eran formas apropiadas o útiles para describir las poblaciones humanas",
+              "start": 964,
+              "end": 1060,
+              "type": "correct answer"
+            },
+            {
+              "text": "la variación de grupo era relativamente similar a la variación observada en otras especies de mamíferos",
+              "start": 1096,
+              "end": 1199,
+              "type": "distractor"
+            },
+            {
+              "text": "85% de la variación medida en la población humana total se encuentra dentro de individuos de la misma población",
+              "start": 556,
+              "end": 667,
+              "type": "distractor"
+            },
+            {
+              "text": "dos individuos de diferentes poblaciones son casi tan probables de ser más similares entre sí que a un miembro de su propio grupo",
+              "start": 771,
+              "end": 900,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El 11 de abril de 2006, Brian May y Roger Taylor aparecieron en el concurso de canto estadounidense American Idol. Cada participante debía cantar una canción de Queen durante esa semana de la competencia. Las canciones que aparecieron en el programa incluyeron Bohemian Rhapsody, Fat Bottomed Girls, The Show Must Go On, Who Wants to Live Forever e Innuendo. Brian May más tarde criticó el programa por editar escenas específicas, una de las cuales hizo que el tiempo del grupo con el concursante Ace Young pareciera negativo, a pesar de ser lo contrario. Taylor y May aparecieron de nuevo en el final de la temporada 8 de American Idol en mayo de 2009, interpretando \"We Are the Champions\" con los finalistas Adam Lambert y Kris Allen. El 15 de noviembre de 2009, Brian May y Roger Taylor aparecieron en el concurso de canto programa de televisión X Factor en el Reino Unido.",
+      "annotations": [
+        {
+          "question": "¿Qué canción de Queen apareció en la final de la temporada 8?",
+          "choices": [
+            {
+              "text": "We Are the Champions",
+              "start": 669,
+              "end": 689,
+              "type": "correct answer"
+            },
+            {
+              "text": "Bohemian Rhapsody",
+              "start": 261,
+              "end": 278,
+              "type": "distractor"
+            },
+            {
+              "text": "The Show Must Go On",
+              "start": 300,
+              "end": 319,
+              "type": "distractor"
+            },
+            {
+              "text": "Who Wants to Live Forever",
+              "start": 321,
+              "end": 346,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los primeros habitantes semipermanentes de las regiones cercanas a la Antártida (áreas situadas al sur de la convergencia antártica) fueron cazadores de focas británicos y estadounidenses que solían pasar un año o más en Georgia del Sur, desde 1786. Durante la era de la caza de ballenas, que duró hasta 1966, la población de esa isla varió de más de 1.000 en el verano (más de 2.000 en algunos años) a unos 200 en el invierno. La mayoría de los balleneros eran noruegos, con una proporción creciente de británicos. Los asentamientos incluyeron Grytviken, Leith Harbour, King Edward Point, Stromness, Husvik, Puerto Príncipe Olav, Puerto de Océano y Godthul. Los gerentes y otros altos oficiales de las estaciones balleneras a menudo vivían junto con sus familias. Entre ellos estaba el fundador de Grytviken, el capitán Carl Anton Larsen, un prominente ballenero y explorador noruego que, junto con su familia, adoptó la ciudadanía británica en 1910.",
+      "annotations": [
+        {
+          "question": "¿De qué nacionalidad era la mayoría de los balleneros?",
+          "choices": [
+            {
+              "text": "noruegos",
+              "start": 462,
+              "end": 470,
+              "type": "correct answer"
+            },
+            {
+              "text": "británicos",
+              "start": 159,
+              "end": 169,
+              "type": "distractor"
+            },
+            {
+              "text": "estadounidenses",
+              "start": 172,
+              "end": 187,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Isaac Newton (1643-1727) heredó la concepción mecánica de la materia de Descartes. En la tercera de sus \"Reglas de Razonamiento en Filosofía\", Newton enumera las cualidades universales de la materia como \"extensión, dureza, impenetrabilidad, movilidad e inercia\". Del mismo modo en Optics, él conjetura que Dios creó la materia como \"partículas móviles sólidas, descaradas, duras, impenetrables\", que eran \"... incluso tan duro como nunca usar o romper en pedazos\". Las propiedades \"primarias\" de la materia eran susceptibles a la descripción matemática, a diferencia de las cualidades \"secundarias\" como el color o el gusto. Al igual que Descartes, Newton rechazó la naturaleza esencial de las cualidades secundarias.",
+      "annotations": [
+        {
+          "question": "¿Cuál es una cualidad \"secundaria\" según Newton?",
+          "choices": [
+            {
+              "text": "la impenetrabilidad",
+              "start": 224,
+              "end": 240,
+              "type": "distractor"
+            },
+            {
+              "text": "la descripción matemática",
+              "start": 528,
+              "end": 553,
+              "type": "distractor"
+            },
+            {
+              "text": "el color",
+              "start": 605,
+              "end": 613,
+              "type": "correct answer"
+            },
+            {
+              "text": "la naturaleza",
+              "start": 665,
+              "end": 678,
+              "type": "distractor"
+            },
+            {
+              "text": "la inercia",
+              "start": 254,
+              "end": 261,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las perspectivas cristianas marianas incluyen una gran diversidad. Mientras que algunos cristianos como los católicos romanos y los ortodoxos orientales han establecido bien las tradiciones marianas, los protestantes en general prestan poca atención a los temas mariológicos. Católicos, ortodoxos orientales, ortodoxos orientales, anglicanos y luteranos veneran a la Virgen María. Esta veneración toma especialmente la forma de oración por intercesión con su Hijo, Jesucristo. Además incluye componer poemas y canciones en honor de María, pintar iconos o tallar estatuas de ella, y conferir títulos a María que reflejan su posición entre los santos.",
+      "annotations": [
+        {
+          "question": "¿Qué rama presta poca atención a los temas mariológicos?",
+          "choices": [
+            {
+              "text": "los protestantes",
+              "start": 200,
+              "end": 216,
+              "type": "correct answer"
+            },
+            {
+              "text": "los católicos romanos",
+              "start": 104,
+              "end": 125,
+              "type": "distractor"
+            },
+            {
+              "text": "los ortodoxos orientales",
+              "start": 128,
+              "end": 152,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Otra fuente de préstamos fue el nórdico antiguo, que entró en contacto con el inglés antiguo a través de los gobernantes escandinavos y colonos en el Danelaw desde finales del siglo IX, y durante el gobierno de Canuto y otros reyes daneses. Muchos topónimos en el este y norte de Inglaterra son de origen escandinavo. Los préstamos nórdicos son relativamente raros en la literatura en inglés antiguo, siendo en su mayoría términos relacionados con el gobierno y la administración. El estándar literario, sin embargo, se basó en el dialecto sajón occidental, lejos de la principal área de influencia escandinava; El impacto del nórdico puede haber sido mayor en los dialectos oriental y septentrional. Ciertamente en los textos en inglés medio, que a menudo se basan en dialectos orientales, una fuerte influencia nórdica se hace evidente. El inglés moderno contiene muchas palabras, a menudo cotidianas, que fueron tomadas del nórdico antiguo, y la simplificación gramatical que ocurrió después del período inglés antiguo también se atribuye a menudo a la influencia nórdica.",
+      "annotations": [
+        {
+          "question": "¿A través de qué medio entró el nórdico antiguo en contacto con el inglés antiguo?",
+          "choices": [
+            {
+              "text": "el estándar literario",
+              "start": 481,
+              "end": 502,
+              "type": "distractor"
+            },
+            {
+              "text": "el dialecto sajón occidental",
+              "start": 528,
+              "end": 556,
+              "type": "distractor"
+            },
+            {
+              "text": "los dialectos oriental y septentrional",
+              "start": 661,
+              "end": 699,
+              "type": "distractor"
+            },
+            {
+              "text": "los gobernantes escandinavos y colonos",
+              "start": 105,
+              "end": 143,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Su siguiente relación fue con Herta Haas, con quien se casó en 1940. Broz se fue a Belgrado después de la Guerra de abril, dejando a Haas embarazada. En mayo de 1941, dio a luz a su hijo, Aleksandar \"Mišo\" Broz. Durante toda su relación con Haas, Tito mantuvo una vida promiscua y tuvo una relación paralela con Davorjanka Paunović, quien, bajo el nombre en clave de \"Zdenka\", se convirtió posteriormente en secretario personal. Haas y Tito repentinamente se separaron en 1943 en Jajce durante la segunda reunión de AVNOJ después de que ella entrara en él y Davorjanka. La última vez que Haas vio a Broz fue en 1946. Davorjanka murió de tuberculosis en 1946 y Tito insistió en que fuera enterrada en el patio trasero de Beli Dvor, su residencia en Belgrado.",
+      "annotations": [
+        {
+          "question": "¿Cuándo fue la última vez que Haas vio a Broz?",
+          "choices": [
+            {
+              "text": "1946",
+              "start": 611,
+              "end": 615,
+              "type": "correct answer"
+            },
+            {
+              "text": "1941",
+              "start": 161,
+              "end": 165,
+              "type": "distractor"
+            },
+            {
+              "text": "1940",
+              "start": 63,
+              "end": 67,
+              "type": "distractor"
+            },
+            {
+              "text": "1943",
+              "start": 472,
+              "end": 476,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1858 los arquitectos Sebastián Monleón Estellés, Antonino Sancho y Timoteo Calvo elaboraron un proyecto de ampliación general para la ciudad que incluía la demolición de sus antiguas murallas (una segunda versión en 1868). Ninguno de los proyectos propuestos recibió la aprobación final, pero sirvieron como guía, aunque no de cerca, para el crecimiento futuro. Para 1860 el municipio tenía 140.416 habitantes, y a partir de 1866 las antiguas murallas de la ciudad fueron demolidas casi por completo para facilitar la expansión urbana. La electricidad se introdujo en Valencia en 1882.",
+      "annotations": [
+        {
+          "question": "¿Cuándo se introdujo la electricidad en Valencia?",
+          "choices": [
+            {
+              "text": "1882",
+              "start": 583,
+              "end": 587,
+              "type": "correct answer"
+            },
+            {
+              "text": "1860",
+              "start": 370,
+              "end": 374,
+              "type": "distractor"
+            },
+            {
+              "text": "1866",
+              "start": 428,
+              "end": 432,
+              "type": "distractor"
+            },
+            {
+              "text": "1858",
+              "start": 3,
+              "end": 7,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La publicación más influyente de la Ilustración fue la Encyclopédie, compilada por Denis Diderot y (hasta 1759) por Jean le Rond d 'Alembert y un equipo de 150 científicos y filósofos. Se publicó entre 1751 y 1772 en treinta y cinco volúmenes, y difundió las ideas de la Ilustración en toda Europa y más allá. Otras publicaciones históricas fueron Dictionnaire philosophique (Diccionario Filosófico, 1764) y Letters on the English (1733), de Voltaire. El discurso de Rousseau sobre la desigualdad (1754) y El contrato social (1762). Y el espíritu de las leyes de Montesquieu (1748). Las ideas de la Ilustración jugaron un papel importante en la inspiración de la Revolución Francesa, que comenzó en 1789. Después de la Revolución, la Ilustración fue seguida por un movimiento intelectual opuesto conocido como Romanticismo.",
+      "annotations": [
+        {
+          "question": "¿Qué evento comenzó en 1789?",
+          "choices": [
+            {
+              "text": "la Revolución Francesa",
+              "start": 660,
+              "end": 682,
+              "type": "correct answer"
+            },
+            {
+              "text": "la Ilustración",
+              "start": 731,
+              "end": 745,
+              "type": "distractor"
+            },
+            {
+              "text": "el discurso de Rousseau sobre la desigualdad",
+              "start": 452,
+              "end": 496,
+              "type": "distractor"
+            },
+            {
+              "text": "el contrato social",
+              "start": 506,
+              "end": 524,
+              "type": "distractor"
+            },
+            {
+              "text": "el Romanticismo",
+              "start": 810,
+              "end": 822,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Al comienzo de la Guerra de Corea, la CIA todavía tenía unos pocos miles de empleados, mil de los cuales trabajaban en análisis. La inteligencia provenía principalmente de la Oficina de Informes y Estimados, que extraía sus informes de una toma diaria de telegramas del Departamento de Estado, despachos militares y otros documentos públicos. La CIA todavía carecía de sus propias habilidades de recopilación de inteligencia. El 21 de agosto de 1950, poco después de la invasión de Corea del Sur, Truman anunció a Walter Bedell Smith como el nuevo Director de la CIA para corregir lo que fue visto como un grave fracaso de la Inteligencia. [Cita requerida]",
+      "annotations": [
+        {
+          "question": "¿En qué trabajaban mil de los empleados de la CIA?",
+          "choices": [
+            {
+              "text": "análisis",
+              "start": 119,
+              "end": 127,
+              "type": "correct answer"
+            },
+            {
+              "text": "despachos militares",
+              "start": 294,
+              "end": 313,
+              "type": "distractor"
+            },
+            {
+              "text": "recopilación de inteligencia",
+              "start": 396,
+              "end": 424,
+              "type": "distractor"
+            },
+            {
+              "text": "telegramas",
+              "start": 255,
+              "end": 265,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El vuelo de Gagarin cambió esto; Ahora Kennedy sintió la humillación y el miedo por parte del público estadounidense sobre el liderazgo soviético. Envió un memorando fechado el 20 de abril de 1961, al vicepresidente Lyndon B. Johnson, pidiéndole que examinara el programa espacial del estado de América, y en programas que podrían ofrecer a la NASA la oportunidad de ponerse al día. Las dos opciones principales en ese momento parecían ser, ya sea el establecimiento de una estación espacial orbital de la Tierra, o un aterrizaje tripulado en la Luna. Johnson a su vez consultó con von Braun, quien respondió a las preguntas de Kennedy basadas en sus estimaciones de la capacidad de elevación de cohetes estadounidenses y soviéticos. Basado en esto, Johnson respondió a Kennedy, concluyendo que se necesitaba mucho más para alcanzar una posición de liderazgo, y recomendando que el alunizaje tripulado de la Luna estuviera lo suficientemente lejos en el futuro como para lograrlo primero.",
+      "annotations": [
+        {
+          "question": "¿Qué opción recomendó Johnson a Kennedy para alcanzar una posición de liderazgo en el espacio?",
+          "choices": [
+            {
+              "text": "el alunizaje tripulado de la Luna",
+              "start": 879,
+              "end": 912,
+              "type": "correct answer"
+            },
+            {
+              "text": "el establecimiento de una estación espacial orbital de la Tierra",
+              "start": 448,
+              "end": 512,
+              "type": "distractor"
+            },
+            {
+              "text": "la elevación de cohetes estadounidenses",
+              "start": 683,
+              "end": 719,
+              "type": "distractor"
+            },
+            {
+              "text": "el programa espacial del estado de América",
+              "start": 260,
+              "end": 302,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las antenas de bucle consisten en un bucle o bobina de alambre. Bucles con circunferencia de una longitud de onda o mayor actúan de manera similar a las antenas dipolares. Sin embargo, los bucles pequeños en comparación con una longitud de onda actúan de manera diferente. Interactúan con el campo magnético de la onda de radio en lugar del campo eléctrico como hacen otras antenas, por lo que son relativamente insensibles al ruido eléctrico cercano. Sin embargo, tienen baja resistencia a la radiación, por lo que son ineficientes para transmitir. Se utilizan como antenas receptoras a bajas frecuencias, y también como antenas de búsqueda de dirección.",
+      "annotations": [
+        {
+          "question": "¿Qué ocasiona la baja resistencia a la radiación en los bucles pequeños?",
+          "choices": [
+            {
+              "text": "son ineficientes para transmitir",
+              "start": 516,
+              "end": 548,
+              "type": "correct answer"
+            },
+            {
+              "text": "actúan de manera similar a las antenas dipolares",
+              "start": 122,
+              "end": 170,
+              "type": "distractor"
+            },
+            {
+              "text": "interactúan con el campo magnético de la onda de radio en lugar del campo eléctrico",
+              "start": 273,
+              "end": 356,
+              "type": "distractor"
+            },
+            {
+              "text": "son relativamente insensibles al ruido eléctrico cercano",
+              "start": 394,
+              "end": 450,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Era de la Ilustración fue un asunto europeo. La \"Edad de la razón\" del siglo XVII abrió las vías a los pasos decisivos hacia la ciencia moderna, que tuvo lugar durante la \"Era de la Ilustración\" del siglo XVIII. Basado directamente en los trabajos de Newton, Descartes, Pascal y Leibniz, el camino estaba claro para el desarrollo de las matemáticas modernas, la física y la tecnología por la generación de Benjamin Franklin (1706-1790), Leonhard Euler (1707-1783) El impacto de este proceso no se limitó a la ciencia y la tecnología, sino a la filosofía (Immanuel Kant, David Hume), la religión (el impacto cada vez más significativo de la ciencia sobre la religión). El período moderno temprano es visto como un florecimiento del Renacimiento europeo, en lo que a menudo se conoce como la Revolución Científica, visto como una base de la ciencia moderna.",
+      "annotations": [
+        {
+          "question": "¿Cómo se le llama a este periodo de florecimiento visto como una base de la ciencia moderna?",
+          "choices": [
+            {
+              "text": "la Era de la Ilustración",
+              "start": 0,
+              "end": 24,
+              "type": "distractor"
+            },
+            {
+              "text": "el Renacimiento europeo",
+              "start": 734,
+              "end": 754,
+              "type": "distractor"
+            },
+            {
+              "text": "la \"Edad de la razón\"",
+              "start": 48,
+              "end": 69,
+              "type": "distractor"
+            },
+            {
+              "text": "la \"Era de la Ilustración\"",
+              "start": 171,
+              "end": 197,
+              "type": "distractor"
+            },
+            {
+              "text": "la Revolución Científica",
+              "start": 790,
+              "end": 814,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La primera fase del neoclasicismo en Francia se expresa en el \"estilo Luis XVI\" de arquitectos como Ange-Jacques Gabriel (Petit Trianon, 1762-68); La segunda fase, en los estilos llamados Directoire e Empire, podría caracterizarse por el severo astilar de Jean Chalgrin Arc de Triomphe (diseñado en 1806). En Inglaterra las dos fases podrían caracterizarse primero por las estructuras de Robert Adam, la segunda por las de Sir John Soane. El estilo interior en Francia fue inicialmente un estilo parisino, el \"Goût grec\" (\"estilo griego\") no era un estilo cortesano. Sólo cuando el joven rey accedió al trono en 1771, María Antonieta, su reina amante de la moda, llevó el estilo \"Luis XVI\" a la corte.",
+      "annotations": [
+        {
+          "question": "¿Cómo se caracteriza la segunda fase del neoclasicismo en Francia?",
+          "choices": [
+            {
+              "text": "el severo astilar de Jean Chalgrin Arc de Triomphe",
+              "start": 235,
+              "end": 285,
+              "type": "correct answer"
+            },
+            {
+              "text": "las estructuras de Robert Adam",
+              "start": 369,
+              "end": 399,
+              "type": "distractor"
+            },
+            {
+              "text": "un estilo parisino, el \"Goût grec\"",
+              "start": 486,
+              "end": 520,
+              "type": "distractor"
+            },
+            {
+              "text": "el \"estilo Luis XVI\" de arquitectos como Ange-Jacques Gabriel",
+              "start": 59,
+              "end": 120,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "LaserDisc no tenía alta penetración en el mercado en Norteamérica debido al alto costo de los reproductores y discos, que eran mucho más caros que los reproductores de VHS y cintas. Aunque el formato no fue ampliamente adoptado por los consumidores norteamericanos, fue bien recibido entre los videófilos debido a la calidad de audio y video superior en comparación con las cintas VHS y Betamax, encontrando un lugar en casi un millón de hogares estadounidenses a finales de 1990. El formato fue más popular en Japón que en América del Norte porque los precios se mantuvieron bajos para asegurar la adopción, lo que resultó en diferencias de precio mínimas entre las cintas VHS y los Laserdisc de mayor calidad. Coleccionistas de anime en todos los países se lanzó el formato LD, que incluye Norteamérica y Japón, también rápidamente se familiarizó con este formato, y buscó la mayor calidad de vídeo y sonido de LaserDisc y la disponibilidad de numerosos títulos no disponibles en VHS. LaserDiscs también fueron alternativas populares a los videocasetes entre los entusiastas de películas en las regiones más ricas del sudeste asiático, especialmente Singapur, debido a su alta integración con el mercado japonés de exportación y las condiciones endémicas húmedas.",
+      "annotations": [
+        {
+          "question": "¿Por qué fue un mayor éxito el LaserDisc en Japón?",
+          "choices": [
+            {
+              "text": "los precios se mantuvieron bajos para asegurar la adopción",
+              "start": 549,
+              "end": 607,
+              "type": "correct answer"
+            },
+            {
+              "text": "la disponibilidad de numerosos títulos no disponibles en VHS",
+              "start": 925,
+              "end": 985,
+              "type": "distractor"
+            },
+            {
+              "text": "su alta integración con el mercado japonés de exportación y las condiciones endémicas húmedas",
+              "start": 1171,
+              "end": 1264,
+              "type": "distractor"
+            },
+            {
+              "text": "la calidad de audio y video superior en comparación con las cintas VHS y Betamax",
+              "start": 314,
+              "end": 394,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los críticos también notan los métodos de entretenimiento utilizados para conducir la trama. Cuando Atticus está fuera de la ciudad, Jem encierra a un compañero de escuela dominical en el sótano de la iglesia con el horno durante un juego de Shadrach. Esto lleva a Calpurnia a escoltar a Scout y Jem a su iglesia, lo que permite a los niños una visión de su vida personal, así como la de Tom Robinson. Scout se duerme durante el desfile de Halloween y hace una entrada tardía en el escenario, haciendo que la audiencia se ría uproariamente. Ella está tan distraída y avergonzada que prefiere ir a casa con su traje de jamón, que le salva la vida.",
+      "annotations": [
+        {
+          "question": "¿Qué le salva la vida a Scout, a causa de pasar una vergüenza?",
+          "choices": [
+            {
+              "text": "se duerme durante el desfile de Halloween",
+              "start": 408,
+              "end": 449,
+              "type": "distractor"
+            },
+            {
+              "text": "hace una entrada tardía en el escenario",
+              "start": 452,
+              "end": 491,
+              "type": "distractor"
+            },
+            {
+              "text": "encierra a un compañero de escuela dominical en el sótano de la iglesia",
+              "start": 137,
+              "end": 208,
+              "type": "distractor"
+            },
+            {
+              "text": "prefiere ir a casa con su traje de jamón",
+              "start": 584,
+              "end": 623,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 2009, los hispanos y latinos representaban el 52,0% de la población del Bronx. Los puertorriqueños representaban el 23,2% de la población del municipio. Más de 72.500 mexicanos vivían en el Bronx, y formaban el 5,2% de la población. Los cubanos contaban con más de 9.640 miembros y formaban el 0,7% de la población. Además, más de 319,000 personas eran de varios grupos hispanos y latinos, como dominicos, salvadoreños, etc. Estos grupos representaron colectivamente el 22,9% de la población. Según el censo de 2010, el 53,5% de la población del Bronx era de origen hispano, latino o español. Los asiáticos estadounidenses son una pequeña pero considerable minoría en el municipio. Aproximadamente 49,600 asiáticos representan el 3,6% de la población. Aproximadamente 13.600 indios llaman a la casa del Bronx, junto con 9.800 chinos, 6.540 filipinos, 2.260 vietnamitas, 2.010 coreanos y 1.100 japoneses.",
+      "annotations": [
+        {
+          "question": "¿Cuántos mexicanos vivían en el Bronx en 2009?",
+          "choices": [
+            {
+              "text": "72.500",
+              "start": 163,
+              "end": 169,
+              "type": "correct answer"
+            },
+            {
+              "text": "13.600",
+              "start": 771,
+              "end": 777,
+              "type": "distractor"
+            },
+            {
+              "text": "9.800",
+              "start": 823,
+              "end": 828,
+              "type": "distractor"
+            },
+            {
+              "text": "6.540",
+              "start": 837,
+              "end": 842,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Una milicia misratana tomó a Gadafi prisionero, golpeándolo, causando graves heridas; Los eventos fueron filmados en un teléfono móvil. Un video muestra a Gaddafi siendo golpeado o apuñalado en la parte trasera \"con algún tipo de bastón o cuchillo\" o posiblemente una bayoneta. Tirado al frente de un camión de recogida, se cayó mientras se alejaba. Su cuerpo semidesnudo y sin vida fue colocado en una ambulancia y llevado a Misurata. A su llegada, fue encontrado muerto. Los informes oficiales del CNT afirmaron que Gadafi fue atrapado en un fuego cruzado y murió de sus heridas de bala. Otros testigos afirmaron que los rebeldes habían disparado fatalmente a Gadafi en el estómago; Un rebelde que se identificó como Senad el-Sadik el-Ureybi más tarde se atribuyó la responsabilidad. El hijo de Gadafi, Mutassim, que también había estado entre el convoy, también fue capturado, y encontrado muerto varias horas después, probablemente de una ejecución extrajudicial. Alrededor de 140 gadafistas fueron detenidos del convoy; Atados y maltratados, los cadáveres de 66 fueron encontrados en el cercano Hotel Mahari, víctimas de la ejecución extrajudicial. El principal patólogo forense de Libia, el Dr. Othman al-Zintani, llevó a cabo las autopsias de Gadafi, su hijo y Jabr en los días posteriores a sus muertes; Aunque el patólogo inicialmente dijo a la prensa que Gadafi había muerto de una herida de bala en la cabeza, el informe de la autopsia no se hizo público.",
+      "annotations": [
+        {
+          "question": "¿Qué se muestra en el video que le hacen a Gaddafi?",
+          "choices": [
+            {
+              "text": "siendo golpeado o apuñalado en la parte trasera \"con algún tipo de bastón o cuchillo\" o posiblemente una bayoneta",
+              "start": 163,
+              "end": 276,
+              "type": "correct answer"
+            },
+            {
+              "text": "fue atrapado en un fuego cruzado y murió de sus heridas de bala",
+              "start": 525,
+              "end": 588,
+              "type": "distractor"
+            },
+            {
+              "text": "había muerto de una herida de bala en la cabeza",
+              "start": 1372,
+              "end": 1419,
+              "type": "distractor"
+            },
+            {
+              "text": "los rebeldes habían disparado fatalmente a Gadafi en el estómago",
+              "start": 619,
+              "end": 683,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La posición especial de María dentro del propósito de salvación de Dios como \"portador de Dios\" (Theotokos) es reconocida de varias maneras por algunos cristianos anglicanos. Todas las iglesias miembros de la Comunión Anglicana afirman en los credos históricos que Jesús nació de la Virgen María, y celebran los días festivos de la Presentación de Cristo en el Templo. Esta fiesta se llama en viejos libros de oración la purificación de la Virgen María el 2 de febrero. La Anunciación de nuestro Señor a la Virgen el 25 de marzo fue de antes de la época de Beda hasta el día de Año Nuevo del siglo XVIII en Inglaterra. La Anunciación se llama la \"Anunciación de nuestra Señora\" en el Libro de Oración Común de 1662. Los anglicanos también celebran en la Visitación de la Virgen el 31 de mayo, aunque en algunas provincias se conserva la fecha tradicional del 2 de julio. La fiesta de Santa María la Virgen se celebra el día tradicional de la Asunción, el 15 de agosto. La Natividad de la Virgen se mantiene el 8 de septiembre.",
+      "annotations": [
+        {
+          "question": "¿Qué día se celebra el día tradicional de la Asunción?",
+          "choices": [
+            {
+              "text": "el 15 de agosto",
+              "start": 952,
+              "end": 967,
+              "type": "correct answer"
+            },
+            {
+              "text": "el 2 de febrero",
+              "start": 453,
+              "end": 468,
+              "type": "distractor"
+            },
+            {
+              "text": "el 25 de marzo",
+              "start": 514,
+              "end": 528,
+              "type": "distractor"
+            },
+            {
+              "text": "el 31 de mayo",
+              "start": 778,
+              "end": 791,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Muchos insectos son considerados plagas por los humanos. Los insectos comúnmente considerados como plagas incluyen aquellos que son parásitos (e.g. Piojos, chinches de cama), transmiten enfermedades (mosquitos, moscas), estructuras dañinas (termitas), o destruyen bienes agrícolas (langostas, gorgojos). Muchos entomólogos están involucrados en varias formas de control de plagas, como en la investigación para que las empresas produzcan insecticidas, pero cada vez más se basan en los métodos de control biológico de plagas o biocontrol. El biocontrol utiliza un organismo para reducir la densidad de población de otro organismo - la plaga - y se considera un elemento clave de la gestión integrada de plagas.",
+      "annotations": [
+        {
+          "question": "¿Qué insecto, que es plaga, destruye bienes agrícolas?",
+          "choices": [
+            {
+              "text": "gorgojos",
+              "start": 293,
+              "end": 301,
+              "type": "correct answer"
+            },
+            {
+              "text": "chinches de cama",
+              "start": 156,
+              "end": 172,
+              "type": "distractor"
+            },
+            {
+              "text": "termitas",
+              "start": 241,
+              "end": 249,
+              "type": "distractor"
+            },
+            {
+              "text": "mosquitos",
+              "start": 200,
+              "end": 209,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El presidente Abraham Lincoln visitó al general Grant en Petersburg el 3 de abril, y tomó un lanzamiento a Richmond al día siguiente, mientras que Jefferson Davis intentó organizar su gobierno confederado en Danville. Lincoln conoció al secretario asistente confederado de Guerra John A. Campbell, y le entregó una nota invitando a la legislatura de Virginia a terminar su rebelión. Después de que Campbell giró la nota a los legisladores confederados como un posible fin a la Proclamación de Emancipación, Lincoln rescindió su oferta y ordenó al general Weitzel evitar que la legislatura estatal confederada se reuniera. Las fuerzas de la Unión mataron, hirieron o capturaron 8000 soldados confederados en Saylor 's Creek al suroeste de Petersburg el 6 de abril. El general Lee continuó rechazando la sugerencia de rendición del general Grant hasta que la infantería y la caballería de Sheridan aparecieron frente a su ejército en retirada el 8 de abril. Entregó a sus restantes aproximadamente 10.000 soldados en Appomattox Court House a la mañana siguiente. Jefferson Davis se retiró a Carolina del Norte, luego más al sur. Cuando Lincoln rechazó los términos de rendición negociados por el general Sherman y los enviados del gobernador de Carolina del Norte Zebulon Vance, que no mencionaron la esclavitud. Davis fue capturado el 10 de mayo cerca de Irwinville, Georgia y llevado de vuelta a Virginia, donde fue acusado de traición y encarcelado durante dos años en Fort Monroe hasta que fue liberado bajo fianza.",
+      "annotations": [
+        {
+          "question": "¿Qué le entregó Lincoln al secretario asistente confederado de guerra, John A. Campbell?",
+          "choices": [
+            {
+              "text": "una nota invitando a la legislatura de Virginia a terminar su rebelión",
+              "start": 311,
+              "end": 381,
+              "type": "correct answer"
+            },
+            {
+              "text": "la sugerencia de rendición del general Grant",
+              "start": 799,
+              "end": 843,
+              "type": "distractor"
+            },
+            {
+              "text": "aproximadamente 10.000 soldados en Appomattox Court House",
+              "start": 980,
+              "end": 1037,
+              "type": "distractor"
+            },
+            {
+              "text": "los términos de rendición negociados por el general Sherman",
+              "start": 1150,
+              "end": 1209,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de la Primera Guerra Mundial, el Ejército de los Estados Unidos comenzó a desarrollar un cañón automático de 37 mm, diseñado por John M. Browning. Fue estandarizado en 1927 como el cañón antiaéreo T9, pero los ensayos revelaron rápidamente que no tenía valor en el papel terrestre. Sin embargo, mientras el obús era un poco ligero (muy por debajo de 2 libras) tenía un buen techo efectivo y disparaba 125 proyectiles por minuto. Se desarrolló un afuste AA y entró en servicio en 1939. La Browning 37 mm demostró ser propensa a atascarse, y finalmente fue reemplazada en unidades AA por la Bofors 40 mm. Los Bofors habían atraído la atención de la Armada de los Estados Unidos, pero ninguno fue adquirido antes de 1939. Además, en 1931 el Ejército de los Estados Unidos trabajó en una ametralladora antiaérea móvil en la parte posterior de un camión pesado que tenía cuatro ametralladoras enfriadas por agua calibre .30 y un director óptico. No tuvo éxito y fue abandonado.",
+      "annotations": [
+        {
+          "question": "¿Qué proyecto de 1931 del Ejército no tuvo éxito y fue abandonado?",
+          "choices": [
+            {
+              "text": "una ametralladora antiaérea móvil en la parte posterior de un camión pesado",
+              "start": 788,
+              "end": 863,
+              "type": "correct answer"
+            },
+            {
+              "text": "el cañón antiaéreo T9",
+              "start": 186,
+              "end": 207,
+              "type": "distractor"
+            },
+            {
+              "text": "un cañón automático de 37 mm",
+              "start": 94,
+              "end": 122,
+              "type": "distractor"
+            },
+            {
+              "text": "la Bofors 40 mm",
+              "start": 594,
+              "end": 609,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La educación formal no comenzó en Hungría hasta la edad de diez años. En cambio, las institutrices enseñaron a von Neumann, sus hermanos y sus primos. Max creía que el conocimiento de idiomas distintos del húngaro era esencial, por lo que los niños fueron instruidos en inglés, francés, alemán e italiano. A la edad de 8 años, von Neumann estaba familiarizado con el cálculo diferencial e integral, pero estaba particularmente interesado en la historia, leyendo su camino a través de Allgemeine Geschichte de Wilhelm Oncken Einzeldarstellungen. Una copia fue contenida en una biblioteca privada que Max compró. Una de las habitaciones del apartamento se convirtió en una biblioteca y sala de lectura, con estanterías de techo a piso.",
+      "annotations": [
+        {
+          "question": "¿Cuál fue una materia de particular interés de von Neumann a los 8 años?",
+          "choices": [
+            {
+              "text": "historia",
+              "start": 444,
+              "end": 452,
+              "type": "correct answer"
+            },
+            {
+              "text": "cálculo diferencial",
+              "start": 367,
+              "end": 386,
+              "type": "distractor"
+            },
+            {
+              "text": "inglés",
+              "start": 270,
+              "end": 276,
+              "type": "distractor"
+            },
+            {
+              "text": "francés",
+              "start": 278,
+              "end": 285,
+              "type": "distractor"
+            },
+            {
+              "text": "lectura",
+              "start": 692,
+              "end": 699,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los pueblos neolíticos en el Levante, Anatolia, Siria, el norte de Mesopotamia y Asia Central también fueron constructores logrados, utilizando ladrillos de barro para construir casas y aldeas. En Çatal Höyük, las casas estaban enlucidas y pintadas con escenas elaboradas de humanos y animales. En Europa, se construyeron casas largas a partir del ganado y el daub. Se construyeron tumbas elaboradas para los muertos. Estas tumbas son particularmente numerosas en Irlanda, donde hay muchos miles todavía en existencia. Los neolíticos en las Islas Británicas construyeron largos túmulos y tumbas de cámara para sus campamentos muertos y causewayed, henges, minas de sílex y monumentos cursus. También era importante encontrar formas de preservar los alimentos para los meses futuros, como la moda de contenedores relativamente herméticos, y el uso de sustancias como la sal como conservantes.",
+      "annotations": [
+        {
+          "question": "¿Qué construían los pueblos neolíticos con ladrillos de barro?",
+          "choices": [
+            {
+              "text": "casas y aldeas",
+              "start": 178,
+              "end": 192,
+              "type": "correct answer"
+            },
+            {
+              "text": "largos túmulos",
+              "start": 571,
+              "end": 585,
+              "type": "distractor"
+            },
+            {
+              "text": "tumbas de cámara",
+              "start": 588,
+              "end": 604,
+              "type": "distractor"
+            },
+            {
+              "text": "contenedores relativamente herméticos",
+              "start": 799,
+              "end": 836,
+              "type": "distractor"
+            },
+            {
+              "text": "monumentos cursus",
+              "start": 673,
+              "end": 690,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Ubicado en Cordon, la escuela de Brendan, antes llamada St.Catherine 's es una asociación civil sin fines de lucro, que tiene una cultura institucional sólida con una visión clara del futuro. Es conocida por ser una de las mejores escuelas del país, uniéndose a estudiantes de las partes más ricas de Montevideo, tales como Punta Carretas, Pocitos, Malvin y Carrasco. La Escuela de San Brendan es una escuela bilingüe, no confesional que promueve un enfoque pedagógico constructivista centrado en el niño en su conjunto. En este enfoque, la comprensión se construye a partir de las conexiones que los niños hacen entre su propio conocimiento previo y las experiencias de aprendizaje, desarrollando así habilidades de pensamiento crítico. También es la única escuela en el país que implementa los tres Programas de Bachillerato Internacional. Estos son:",
+      "annotations": [
+        {
+          "question": "¿De qué institución se habla principalmente en este texto?",
+          "choices": [
+            {
+              "text": "escuela de Brendan",
+              "start": 22,
+              "end": 40,
+              "type": "correct answer"
+            },
+            {
+              "text": "Punta Carretas",
+              "start": 324,
+              "end": 338,
+              "type": "distractor"
+            },
+            {
+              "text": "Carrasco",
+              "start": 358,
+              "end": 366,
+              "type": "distractor"
+            },
+            {
+              "text": "Malvin",
+              "start": 349,
+              "end": 355,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Tras el asesinato de Felipe II, su hijo Alejandro III (\"El Grande\") asumió el liderazgo de la Liga de Corinto y lanzó una invasión del Imperio persa con las fuerzas combinadas de todos los estados griegos en 334 a. Derrotado en batalla, Alejandro había conquistado el Imperio persa en su totalidad en 330 a. En el momento de su muerte en 323 a. C., había creado uno de los mayores imperios de la historia, que se extendía desde Grecia hasta la India. Su imperio se dividió en varios reinos a su muerte, el más famoso de los cuales fueron el Imperio seléucida, el Egipto ptolemaico, el Reino grecobactriano y el Reino indogriego. Muchos griegos emigraron a Alejandría, Antioquía, Seleucia y las muchas otras nuevas ciudades helenísticas en Asia y África. Aunque la unidad política del imperio de Alejandro no pudo mantenerse, resultó en la civilización helenística y extendió la lengua griega y la cultura griega en los territorios conquistados por Alejandro. Se considera que la ciencia, la tecnología y las matemáticas griegas alcanzaron su apogeo durante el período helenístico.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo Alejandro después del asesinato de Felipe II?",
+          "choices": [
+            {
+              "text": "había conquistado el Imperio persa en su totalidad",
+              "start": 247,
+              "end": 297,
+              "type": "distractor"
+            },
+            {
+              "text": "había creado uno de los mayores imperios de la historia, que se extendía desde Grecia hasta la India",
+              "start": 349,
+              "end": 449,
+              "type": "distractor"
+            },
+            {
+              "text": "extendió la lengua griega y la cultura griega en los territorios conquistados",
+              "start": 866,
+              "end": 943,
+              "type": "distractor"
+            },
+            {
+              "text": "asumió el liderazgo de la Liga de Corinto",
+              "start": 68,
+              "end": 109,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Samskrita Bharati es una organización que trabaja para el renacimiento del sánscrito. El \"Festival sánscrito de toda la India\" (desde 2002) organiza concursos de composición. El censo indio de 1991 reportó 49.736 hablantes fluidos de sánscrito. Los programas de aprendizaje sánscrito también figuran en las listas de la mayoría de los centros de radiodifusión de AIR. La aldea Mattur en el centro de Karnataka afirma tener hablantes nativos de sánscrito entre su población. Los habitantes de todas las castas aprenden sánscrito a partir de la infancia y conversan en la lengua. Incluso los musulmanes locales conversan en sánscrito. Históricamente, el pueblo fue dado por el rey Krishnadevaraya del Imperio Vijayanagara a eruditos védicos y sus familias, mientras que la gente en su reino hablaba kannada y telugu. Otro esfuerzo se concentra en preservar y pasar a lo largo de la tradición oral de los Vedas, www.shrivedabharathi.in es una organización con sede en Hyderabad que ha estado digitalizando los Vedas.",
+      "annotations": [
+        {
+          "question": "¿Cuál es el objetivo principal de Samskrita Bharati?",
+          "choices": [
+            {
+              "text": "el renacimiento del sánscrito",
+              "start": 55,
+              "end": 84,
+              "type": "correct answer"
+            },
+            {
+              "text": "preservar y pasar a lo largo de la tradición oral de los Vedas",
+              "start": 845,
+              "end": 907,
+              "type": "distractor"
+            },
+            {
+              "text": "tener hablantes nativos de sánscrito entre su población",
+              "start": 417,
+              "end": 472,
+              "type": "distractor"
+            },
+            {
+              "text": "los programas de aprendizaje sánscrito",
+              "start": 245,
+              "end": 283,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El chino moderno tiene muchos homófonos; Así, la misma sílaba hablada puede ser representada por muchos caracteres, dependiendo del significado. Un solo personaje también puede tener una gama de significados, o a veces significados bastante distintos; Ocasionalmente se corresponden con diferentes pronunciaciones. Los cognados en varias variedades de chino se escriben generalmente con el mismo carácter. Por lo general tienen significados similares, pero a menudo pronunciaciones bastante diferentes. En otros idiomas, más significativamente hoy en japonés y a veces en coreano, los caracteres se utilizan para representar préstamos chinos, para representar palabras nativas independientes de la pronunciación china, y como elementos puramente fonéticos basados en su pronunciación en la variedad histórica china. Estas adaptaciones extranjeras de la pronunciación china se conocen como pronunciación sino-xénica, y han sido útiles en la reconstrucción del chino medio.",
+      "annotations": [
+        {
+          "question": "¿A qué se refiere como una pronunciación sino-xénica?",
+          "choices": [
+            {
+              "text": "adaptaciones extranjeras de la pronunciación china",
+              "start": 822,
+              "end": 872,
+              "type": "correct answer"
+            },
+            {
+              "text": "palabras nativas independientes de la pronunciación china",
+              "start": 660,
+              "end": 717,
+              "type": "distractor"
+            },
+            {
+              "text": "la misma sílaba hablada",
+              "start": 46,
+              "end": 69,
+              "type": "distractor"
+            },
+            {
+              "text": "los cognados en varias variedades de chino",
+              "start": 315,
+              "end": 357,
               "type": "distractor"
             }
           ]

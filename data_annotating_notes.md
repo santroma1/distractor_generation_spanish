@@ -160,29 +160,47 @@ Total 20
 
 # Monday May 8th
 
-Dates and Numbers 0
+Dates and Numbers 4
 
-Names 5
+Names 10
 
-Phrases 15
+Phrases 36
 
-Total 20
+Total 50
 
 
 ## Comments
 305. 
+333. Articles
 
 <br>
 
 # Total
 
-Dates and Numbers 40
+Dates and Numbers 44
 
-Names 68
+Names 78
 
-Phrases 193 - 1   
+Phrases 229 - 1   
 
-Total 300
+Total 350
+
+
+# Tuesday May 9th
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 0
+
+Total 0
+
+
+## Comments
+
+
+<br>
 
 
 # GLOBAL NOTES
@@ -190,3 +208,4 @@ Total 300
 - For a reason, its not exporting datapoint 177. 
 - There is another text with 2 questions
 - There is now a total of 3 texts with 2 questions
+- Texts with 2 questions: 6
