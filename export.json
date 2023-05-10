@@ -12295,6 +12295,1050 @@
           ]
         }
       ]
+    },
+    {
+      "context": "El exceso de ingesta de agua, sin la reposición de sales de sodio y potasio, conduce a hiponatremia, que puede conducir aún más a la intoxicación del agua a niveles más peligrosos. Un caso bien publicitado ocurrió en 2007, cuando Jennifer Strange murió mientras participaba en un concurso de beber agua. Más generalmente, la condición se produce en eventos de larga distancia de resistencia (como maratón o competencia y entrenamiento de triatlón) y causa daños mentales graduales, dolor de cabeza, somnolencia, debilidad y confusión. Los casos extremos pueden resultar en coma, convulsiones y muerte. El daño principal proviene de la hinchazón del cerebro, causada por el aumento de la ósmosis a medida que disminuye la salinidad de la sangre. Las técnicas efectivas de reemplazo de líquidos incluyen estaciones de ayuda de agua durante las carreras de ciclismo, entrenadores que proporcionan agua durante los juegos de equipo, como el fútbol, y dispositivos como Baks Camel, que pueden proporcionar agua para una persona.",
+      "annotations": [
+        {
+          "question": "¿Qué pueden causar los casos de hiponatremia más extremos?",
+          "choices": [
+            {
+              "text": "convulsiones",
+              "start": 579,
+              "end": 591,
+              "type": "correct answer"
+            },
+            {
+              "text": "dolor de cabeza",
+              "start": 482,
+              "end": 497,
+              "type": "distractor"
+            },
+            {
+              "text": "salinidad de la sangre",
+              "start": 721,
+              "end": 743,
+              "type": "distractor"
+            },
+            {
+              "text": "somnolencia",
+              "start": 499,
+              "end": 510,
+              "type": "distractor"
+            },
+            {
+              "text": "hinchazón del cerebro",
+              "start": 635,
+              "end": 656,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La región creció sobre la base del lucrativo comercio de pieles, en el que numerosos nativos americanos tenían papeles importantes. La bandera de la ciudad de Detroit refleja su herencia colonial francesa. (Véase Bandera de Detroit). Los descendientes de los primeros colonos franceses y francocanadienses formaron una comunidad cohesionada que fue gradualmente reemplazada como la población dominante después de que más colonos angloamericanos llegaran a la zona a principios del siglo XIX. Viviendo a lo largo de las orillas de los lagos St. Clair, y al sur de los suburbios de Monroe y río abajo, los canadienses franceses de Detroit, también conocidos como Muskrat French, siguen siendo una subcultura en la región hoy.",
+      "annotations": [
+        {
+          "question": "¿De dónde viene la herencia de la bandera de la ciudad de Detroit?",
+          "choices": [
+            {
+              "text": "franceses",
+              "start": 276,
+              "end": 285,
+              "type": "correct answer"
+            },
+            {
+              "text": "canadienses franceses",
+              "start": 604,
+              "end": 625,
+              "type": "distractor"
+            },
+            {
+              "text": "angloamericanos",
+              "start": 429,
+              "end": 444,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En la década de 1940, el artista de blues de Detroit John Lee Hooker se convirtió en residente a largo plazo en el barrio de Delray al suroeste de la ciudad. Hooker, entre otros importantes músicos de blues emigraron de su casa en Mississippi trayendo el Delta blues a ciudades del norte como Detroit. Hooker grabó para Fortune Records, el mayor sello de blues / soul pre-Motown. Durante la década de 1950, la ciudad se convirtió en un centro de jazz, con estrellas tocando en el barrio Black Bottom. El trompetista Donald Byrd que asistió a Cass Tech y tocó con Art Blakey y los Jazz Messengers al principio de su carrera y el saxofonista Pepper Adams que disfrutó de una carrera en solitario y acompañó a Byrd en varios álbumes. El Graystone International Jazz Museum documenta el jazz en Detroit.",
+      "annotations": [
+        {
+          "question": "¿Qué músico se mudó de Mississippi a Detroit para perseguir una carrera en el blues?",
+          "choices": [
+            {
+              "text": "John Lee Hooker",
+              "start": 53,
+              "end": 68,
+              "type": "correct answer"
+            },
+            {
+              "text": "Pepper Adams",
+              "start": 640,
+              "end": 652,
+              "type": "distractor"
+            },
+            {
+              "text": "Donald Byrd",
+              "start": 516,
+              "end": 527,
+              "type": "distractor"
+            },
+            {
+              "text": "Art Blakey",
+              "start": 563,
+              "end": 573,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los ingresos del gobierno provienen en gran medida de las ventas de licencias de pesca, los ingresos del Fondo Fiduciario de Tuvalu, y del arrendamiento de su altamente fortuito dominio de Internet de nivel superior (TLD). En 1998, Tuvalu comenzó a derivar los ingresos del uso de su código de área para números telefónicos y de la comercialización de su nombre de dominio de Internet \"TV\", que ahora es administrado por Verisign hasta 2021. El nombre de dominio \"TV\" genera alrededor de $2.2 millones cada año a partir de regalías, que es aproximadamente el diez por ciento de los ingresos totales del gobierno. Los ingresos por nombre de dominio pagaron la mayor parte del costo de pavimentar las calles de Funafuti e instalar alumbrado público a mediados de 2002. Tuvalu también genera ingresos de sellos de la Oficina Filatélica de Tuvalu e ingresos del Registro de Barcos de Tuvalu.",
+      "annotations": [
+        {
+          "question": "¿Qué hace el nombre de dominio \"TV\"?",
+          "choices": [
+            {
+              "text": "genera alrededor de $2.2 millones cada año a partir de regalías",
+              "start": 468,
+              "end": 531,
+              "type": "correct answer"
+            },
+            {
+              "text": "genera ingresos de sellos de la Oficina Filatélica de Tuvalu e ingresos del Registro de Barcos de Tuvalu",
+              "start": 782,
+              "end": 886,
+              "type": "distractor"
+            },
+            {
+              "text": "comenzó a derivar los ingresos del uso de su código de área para números telefónicos",
+              "start": 239,
+              "end": 323,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El origen de las especies se publicó por primera vez el jueves 24 de noviembre de 1859, con un precio de quince chelines con una primera impresión de 1250 copias. El libro había sido ofrecido a los libreros en la venta de otoño de Murray el 22 de noviembre, y todas las copias disponibles habían sido tomadas inmediatamente. En total, se imprimieron 1.250 copias, pero después de deducir las copias de presentación y revisión, y cinco para los derechos de autor de Stationers 'Hall, alrededor de 1.170 copias estaban disponibles a la venta. Significativamente, 500 fueron tomadas por la Biblioteca de Mudie, asegurando que el libro rápidamente alcanzara un gran número de suscriptores a la biblioteca. La segunda edición de 3.000 copias se publicó rápidamente el 7 de enero de 1860, e incorporó numerosas correcciones, así como una respuesta a las objeciones religiosas mediante la adición de un nuevo epígrafe en la página ii, una cita de Charles Kingsley. Durante la vida de Darwin el libro pasó por seis ediciones, con cambios acumulativos y revisiones para hacer frente a los contra-argumentos planteados. La tercera edición se publicó en 1861, con una serie de oraciones reescritas o agregadas y un apéndice introductorio, An Historical Sketch of the Recent Progress of Opinion on the Origin of Species, mientras que la cuarta en 1866. La quinta edición, publicada el 10 de febrero de 1869, incorporó más cambios y por primera vez incluyó la frase \"supervivencia del más apto\", que había sido acuñada por el filósofo Herbert Spencer en sus Principios de Biología (1864).",
+      "annotations": [
+        {
+          "question": "¿Qué se incluyó por primera vez en la quinta edición del libro?",
+          "choices": [
+            {
+              "text": "la frase \"supervivencia del más apto\"",
+              "start": 1444,
+              "end": 1481,
+              "type": "correct answer"
+            },
+            {
+              "text": "una serie de oraciones reescritas o agregadas y un apéndice introductorio",
+              "start": 1153,
+              "end": 1226,
+              "type": "distractor"
+            },
+            {
+              "text": "una respuesta a las objeciones religiosas mediante la adición de un nuevo epígrafe en la página ii",
+              "start": 828,
+              "end": 926,
+              "type": "distractor"
+            },
+            {
+              "text": "una cita de Charles Kingsley",
+              "start": 928,
+              "end": 956,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Con la continua miniaturización de los recursos informáticos y los avances en la vida útil de las baterías portátiles, las computadoras portátiles crecieron en popularidad en la década de 2000. Los mismos desarrollos que impulsaron el crecimiento de computadoras portátiles y otras computadoras portátiles permitieron a los fabricantes integrar recursos informáticos en los teléfonos celulares. Estos teléfonos inteligentes y tabletas funcionan en una variedad de sistemas operativos y se han convertido en el dispositivo informático dominante en el mercado, con los fabricantes reportando haber enviado un estimado de 237 millones de dispositivos en 2Q 2013.",
+      "annotations": [
+        {
+          "question": "¿Qué elemento electrónico tuvo un avance en su vida útil, que permitió el desarrollo de otros electrónicos?",
+          "choices": [
+            {
+              "text": "baterías portátiles",
+              "start": 98,
+              "end": 117,
+              "type": "correct answer"
+            },
+            {
+              "text": "computadoras portátiles",
+              "start": 123,
+              "end": 146,
+              "type": "distractor"
+            },
+            {
+              "text": "teléfonos inteligentes",
+              "start": 401,
+              "end": 423,
+              "type": "distractor"
+            },
+            {
+              "text": "tabletas",
+              "start": 426,
+              "end": 434,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La ciudad alberga numerosos teatros y casas de producción, incluyendo el Teatro Repertorio de Yale, el Teatro de Long Wharf y el Teatro Shubert. También hay actividad teatral de la Yale School of Drama, que trabaja a través del Teatro de la Universidad de Yale y el Cabaret Yale, dirigido por estudiantes. La Southern Connecticut State University alberga el Lyman Center for the Performing Arts. El cerrado Palace Theatre (frente al Shubert Theatre) está siendo renovado y reabierto como el College Street Music Hall en mayo de 2015. Teatros más pequeños incluyen el Little Theater en Lincoln Street. Cooperative Arts and Humanities High School también cuenta con un teatro de última generación en College Street. El teatro se utiliza para producciones estudiantiles, así como el hogar de servicios semanales a una iglesia local no confesional, la Iglesia de la Ciudad de New Haven.",
+      "annotations": [
+        {
+          "question": "¿Cómo se llama el teatro que se encuentra en Lincoln Street?",
+          "choices": [
+            {
+              "text": "Little Theater",
+              "start": 567,
+              "end": 581,
+              "type": "correct answer"
+            },
+            {
+              "text": "Palace Theatre",
+              "start": 407,
+              "end": 421,
+              "type": "distractor"
+            },
+            {
+              "text": "Shubert Theatre",
+              "start": 433,
+              "end": 448,
+              "type": "distractor"
+            },
+            {
+              "text": "Teatro Repertorio de Yale",
+              "start": 73,
+              "end": 98,
+              "type": "distractor"
+            },
+            {
+              "text": "Teatro de Long Wharf",
+              "start": 103,
+              "end": 123,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La guerra comenzó mal para Estados Unidos y la ONU. Las fuerzas norcoreanas atacaron masivamente en el verano de 1950 y casi condujeron a los defensores estadounidenses y surcoreanos al mar. Sin embargo, las Naciones Unidas intervinieron, nombrando a Douglas MacArthur comandante de sus fuerzas, y las fuerzas UN-US-ROK mantuvieron un perímetro alrededor de Pusan, ganando tiempo para el refuerzo. MacArthur, en un movimiento audaz pero arriesgado, ordenó una invasión anfibia muy por detrás de las líneas del frente en Inchon, cortando y enrutando a los norcoreanos y rápidamente cruzando el paralelo 38 hacia Corea del Norte. Como las fuerzas de la ONU continuaron avanzando hacia el río Yalu en la frontera con la China comunista, los chinos cruzaron el río Yalu en octubre y lanzaron una serie de ataques sorpresa que enviaron a las fuerzas de la ONU de nuevo a través. Truman originalmente quería una estrategia de Rollback para unificar Corea; Después de los éxitos chinos se estableció para una política de contención para dividir el país. MacArthur defendió el retroceso, pero fue despedido por el presidente Harry Truman después de disputas sobre la conducta de la guerra. Las negociaciones de paz se prolongaron durante dos años hasta que el presidente Dwight D. Eisenhower amenazó a China con armas nucleares; Se llegó rápidamente a un armisticio con las dos Coreas restantes divididas en el paralelo 38. Corea del Norte y Corea del Sur siguen en estado de guerra, nunca han firmado un tratado de paz, y las fuerzas estadounidenses siguen estacionadas en Corea del Sur como parte de la política exterior estadounidense.",
+      "annotations": [
+        {
+          "question": "¿Cuál fue el primer movimiento audaz pero arriesgado de Douglas MacArthur durante la guerra?",
+          "choices": [
+            {
+              "text": "invasión anfibia muy por detrás de las líneas del frente en Inchon",
+              "start": 460,
+              "end": 526,
+              "type": "correct answer"
+            },
+            {
+              "text": "una serie de ataques sorpresa que enviaron a las fuerzas de la ONU de nuevo",
+              "start": 788,
+              "end": 863,
+              "type": "distractor"
+            },
+            {
+              "text": "una estrategia de Rollback para unificar Corea",
+              "start": 902,
+              "end": 948,
+              "type": "distractor"
+            },
+            {
+              "text": "una política de contención para dividir el país",
+              "start": 998,
+              "end": 1045,
+              "type": "distractor"
+            },
+            {
+              "text": "amenazó a China con armas nucleares",
+              "start": 1284,
+              "end": 1319,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los grandes almacenes de París tenían sus raíces en la magasin de Nouveautés, o novedosa tienda; El primero, el Tapis Rouge, fue creado en 1784. Florecieron a principios del siglo XIX, con La Belle Jardiniere (1824), Aux Trois Quartiers (1829) y Le Petit Saint Thomas (1830). Balzac describió su funcionamiento en su novela César Birotteau. En la década de 1840, con la llegada de los ferrocarriles a París y el aumento del número de compradores, crecieron en tamaño, y comenzaron a tener grandes ventanas de exhibición de vidrio, precios fijos y etiquetas de precios, y publicidad en periódicos.",
+      "annotations": [
+        {
+          "question": "¿Qué significa la magasin de Nouveautés?",
+          "choices": [
+            {
+              "text": "novedosa tienda",
+              "start": 80,
+              "end": 95,
+              "type": "correct answer"
+            },
+            {
+              "text": "publicidad en periódicos",
+              "start": 571,
+              "end": 595,
+              "type": "distractor"
+            },
+            {
+              "text": "novela",
+              "start": 317,
+              "end": 323,
+              "type": "distractor"
+            },
+            {
+              "text": "exhibición",
+              "start": 509,
+              "end": 519,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La BYU Ballroom Dance Company es conocida como uno de los mejores equipos de baile de salón de formación en el mundo, habiendo ganado el U.S. National Formation Dance Championship cada año desde 1982. El equipo de baile de salón de BYU ha ganado el primer lugar en Latín o Estándar muchas veces cuando han competido en el Blackpool Dance Festival, y fueron el primer equipo estadounidense en ganar los campeonatos de formación en Inglaterra. El Campeonato Nacional de DanceSport de la NDCA se ha celebrado en BYU durante varios años, y BYU tiene docenas de clases de baile de salón cada semestre y es en consecuencia el programa de baile universitario más grande. Además, BYU tiene una serie de otros equipos y programas de baile notables. Estos equipos incluyen el Theatre Ballet, Contemporary Dance Theatre, Living Legends y International Folk Dance Ensemble. Las Living Legends realizan bailes latinos, nativos americanos y polinesios. BYU cuenta con uno de los departamentos de danza más grandes de la nación. Muchos estudiantes de todas las diferentes carreras de todo el campus participan en varias clases de baile cada semestre.",
+      "annotations": [
+        {
+          "question": "¿Qué grupo de baile de BYU realiza baile latino?",
+          "choices": [
+            {
+              "text": "Living Legends",
+              "start": 866,
+              "end": 880,
+              "type": "correct answer"
+            },
+            {
+              "text": "Ballroom Dance Company",
+              "start": 7,
+              "end": 29,
+              "type": "distractor"
+            },
+            {
+              "text": "Contemporary Dance Theatre",
+              "start": 782,
+              "end": 808,
+              "type": "distractor"
+            },
+            {
+              "text": "Theatre Ballet",
+              "start": 766,
+              "end": 780,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La FAA ha sido citada como un ejemplo de captura reguladora, \"en la que la industria aérea dicta abiertamente a sus reguladores sus reglas de gobierno, arreglando no sólo una regulación beneficiosa, sino la colocación de personas clave para estos reguladores\". El agente especial Joseph Gutheinz, que solía ser un agente especial con la Oficina del Inspector General para el Departamento de Transporte y con la Seguridad de la FAA, es uno de los críticos más abiertos de la FAA. En lugar de elogiar a la agencia por proponer una multa de $10.2 millones contra Southwest Airlines por su fracaso en llevar a cabo inspecciones obligatorias en 2008, fue citado diciendo lo siguiente en una historia de Associated Press: \"Las directivas deberían. A $25,000 por violación, dijo Gutheinz, las aerolíneas pueden justificar el lanzamiento de los dados y tomar la oportunidad de ser atrapadas. También dijo que la FAA es a menudo demasiado rápido para doblarse a la presión de las aerolíneas y los pilotos \". Otros expertos han sido críticos con las limitaciones y expectativas bajo las cuales se espera que la FAA opere. El doble papel de alentar los viajes aeroespaciales y regular los viajes aeroespaciales es contradictorio. Por ejemplo, imponer una fuerte pena a una aerolínea por violar una regulación de la FAA que afectaría su capacidad de seguir operando no se consideraría alentar los viajes aeroespaciales.",
+      "annotations": [
+        {
+          "question": "¿Qué critica Joseph Gutheinz de la FAA en vez de elogiarlos?",
+          "choices": [
+            {
+              "text": "ser a menudo demasiado rápido para doblarse a la presión de las aerolíneas y los pilotos",
+              "start": 908,
+              "end": 995,
+              "type": "correct answer"
+            },
+            {
+              "text": "proponer una multa de $10.2 millones contra Southwest Airlines por su fracaso en llevar a cabo inspecciones obligatorias en 2008",
+              "start": 516,
+              "end": 644,
+              "type": "distractor"
+            },
+            {
+              "text": "alentar los viajes aeroespaciales y regular los viajes aeroespaciales",
+              "start": 1130,
+              "end": 1199,
+              "type": "distractor"
+            },
+            {
+              "text": "imponer una fuerte pena a una aerolínea por violar una regulación de la FAA que afectaría su capacidad de seguir operando",
+              "start": 1232,
+              "end": 1353,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El 1 de septiembre de 1870, la batalla se abrió con el Ejército de Châlons, con 202 batallones de infantería, 80 escuadrones de caballería y 564 cañones, atacando a los ejércitos prusianos. El general De Wimpffen, comandante del V Cuerpo francés en reserva, esperaba lanzar un ataque combinado de infantería y caballería contra el XI Cuerpo Prusiano. Pero a las 11: 00, la artillería prusiana tomó un peaje a los franceses, mientras que más tropas prusianas llegaron al campo de batalla. La caballería francesa, comandada por el general Marguerite, lanzó tres ataques desesperados contra el cercano pueblo de Floing, donde se concentraba el XI Cuerpo Prusiano. Marguerite fue asesinada liderando la primera carga y los dos cargos adicionales no condujeron más que a grandes pérdidas. Al final del día, sin esperanza de escapar, Napoleón III suspendió los ataques. Los franceses perdieron más de 17.000 hombres, muertos o heridos, con 21.000 capturados. Los prusianos reportaron pérdidas de 2.320 muertos, 5.980 heridos y 700 capturados o desaparecidos. Al día siguiente, el 2 de septiembre, Napoleón III se rindió y fue hecho prisionero con 104.000 de sus soldados. Fue una victoria abrumadora para los prusianos, ya que no sólo capturaron a todo un ejército francés, sino también al líder de Francia. La derrota de los franceses en Sedan había decidido la guerra a favor de Prusia. Un ejército francés estaba inmovilizado y asediado en la ciudad de Metz, y ninguna otra fuerza estaba en tierra francesa para evitar una invasión alemana. Sin embargo, la guerra continuaría.",
+      "annotations": [
+        {
+          "question": "¿Qué evento sucedió el 2 de septiembre?",
+          "choices": [
+            {
+              "text": "Napoleón III se rindió y fue hecho prisionero con 104.000 de sus soldados",
+              "start": 1091,
+              "end": 1164,
+              "type": "correct answer"
+            },
+            {
+              "text": "la artillería prusiana tomó un peaje a los franceses, mientras que más tropas prusianas llegaron al campo de batalla",
+              "start": 370,
+              "end": 486,
+              "type": "distractor"
+            },
+            {
+              "text": "la batalla se abrió con el Ejército de Châlons, con 202 batallones de infantería, 80 escuadrones de caballería y 564 cañones, atacando a los ejércitos prusianos",
+              "start": 28,
+              "end": 188,
+              "type": "distractor"
+            },
+            {
+              "text": "la caballería francesa, comandada por el general Marguerite, lanzó tres ataques desesperados contra el cercano pueblo de Floing, donde se concentraba el XI Cuerpo Prusiano",
+              "start": 488,
+              "end": 659,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A medida que avanzaba el siglo X, los jázaros ya no eran capaces de obtener tributo de los búlgaros del Volga, y su relación con los bizantinos se deterioró, ya que Bizancio se alió cada vez más con los pechenegos contra ellos. Los pechenegos estaban seguros de saquear las tierras de los jázaros desde su base entre los ríos Volga y Don, permitiéndoles expandirse hacia el oeste. Las relaciones de los rus con los pechenegos fueron complejas, ya que los grupos formaron alianzas alternativamente entre sí y entre sí. Los pechenegos eran nómadas que recorrían la estepa criando ganado que comerciaban con los rus por bienes agrícolas y otros productos. El lucrativo comercio de la Rus con el Imperio bizantino tuvo que pasar por territorio controlado por los pechenegos, por lo que la necesidad de relaciones generalmente pacíficas era esencial. Sin embargo, mientras que la Crónica de Néstor informa que los pechenegos entraron en territorio de la Rus en 915 y luego hicieron la paz, estaban librando una guerra entre ellos de nuevo en 920. Los pechenegos son reportados ayudando a los rus en campañas posteriores contra los bizantinos, pero aliados con los bizantinos contra los rus en otras ocasiones.",
+      "annotations": [
+        {
+          "question": "¿Por qué se deterioró la relación de los jázaros con los bizantinos en el siglo X?",
+          "choices": [
+            {
+              "text": "Bizancio se alió cada vez más con los pechenegos contra ellos",
+              "start": 165,
+              "end": 226,
+              "type": "correct answer"
+            },
+            {
+              "text": "los pechenegos estaban seguros de saquear las tierras de los jázaros desde su base entre los ríos Volga y Don",
+              "start": 228,
+              "end": 337,
+              "type": "distractor"
+            },
+            {
+              "text": "los grupos formaron alianzas alternativamente entre sí y entre sí",
+              "start": 451,
+              "end": 516,
+              "type": "distractor"
+            },
+            {
+              "text": "el lucrativo comercio de la Rus con el Imperio bizantino tuvo que pasar por territorio controlado por los pechenegos",
+              "start": 653,
+              "end": 769,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En su artículo de 1884 William James argumentó que los sentimientos y las emociones eran secundarios a los fenómenos fisiológicos. En su teoría, James propuso que la percepción de lo que llamó un \"hecho emocionante\" condujo directamente a una respuesta fisiológica, conocida como \"emoción\". Para explicar los diferentes tipos de experiencias emocionales, James propuso que los estímulos desencadenaran actividad en el sistema nervioso autónomo, lo que a su vez produce una experiencia emocional en el cerebro. El psicólogo danés Carl Lange también propuso una teoría similar al mismo tiempo, y por lo tanto esta teoría se conoció como la teoría de James-Lange. Como James escribió, \"la percepción de los cambios corporales, a medida que ocurren, es la emoción\". James afirma además que \"nos sentimos tristes porque lloramos, enojados porque golpeamos, temerosos porque temblamos, y ni lloramos, ni temblamos porque estamos arrepentidos, enojados o temerosos\".",
+      "annotations": [
+        {
+          "question": "¿Cuál es la propuesta principal de la teoría de James-Lange sobre las emociones?",
+          "choices": [
+            {
+              "text": "nos sentimos tristes porque lloramos, enojados porque golpeamos, temerosos porque temblamos",
+              "start": 787,
+              "end": 878,
+              "type": "distractor"
+            },
+            {
+              "text": "los estímulos desencadenaran actividad en el sistema nervioso autónomo",
+              "start": 373,
+              "end": 443,
+              "type": "distractor"
+            },
+            {
+              "text": "la percepción de lo que llamó un \"hecho emocionante\" condujo directamente a una respuesta fisiológica",
+              "start": 163,
+              "end": 264,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En el otoño de 1913, fue reclutado por el Ejército austrohúngaro. Fue enviado a una escuela para suboficiales y se convirtió en sargento, sirviendo en el 25º Regimiento croata con sede en Zagreb. En mayo de 1914, Broz ganó una medalla de plata en una competencia de esgrima del ejército en Budapest. Al estallar la Primera Guerra Mundial en 1914, fue enviado a Ruma, donde fue arrestado por propaganda contra la guerra y encarcelado en la fortaleza de Petrovaradin. En enero de 1915 fue enviado al Frente Oriental en Galicia para luchar contra Rusia. Se distinguió como un soldado capaz, convirtiéndose en el Sargento Mayor más joven del Ejército austrohúngaro. Por su valentía frente al enemigo, fue recomendado para la Medalla de la Valentía de Plata, pero fue tomado prisionero de guerra antes de que pudiera ser presentado formalmente. El 25 de marzo de 1915, mientras estaba en Bucovina, fue gravemente herido y capturado por los rusos.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedió con Broz cuando empezó la Primera Guerra Mundial?",
+          "choices": [
+            {
+              "text": "fue enviado a Ruma, donde fue arrestado por propaganda contra la guerra y encarcelado en la fortaleza de Petrovaradin",
+              "start": 347,
+              "end": 464,
+              "type": "correct answer"
+            },
+            {
+              "text": "fue gravemente herido y capturado por los rusos",
+              "start": 893,
+              "end": 940,
+              "type": "distractor"
+            },
+            {
+              "text": "fue recomendado para la Medalla de la Valentía de Plata, pero fue tomado prisionero de guerra antes de que pudiera ser presentado formalmente",
+              "start": 697,
+              "end": 838,
+              "type": "distractor"
+            },
+            {
+              "text": "se distinguió como un soldado capaz, convirtiéndose en el Sargento Mayor más joven del Ejército austrohúngaro",
+              "start": 551,
+              "end": 660,
+              "type": "distractor"
+            },
+            {
+              "text": "fue enviado a una escuela para suboficiales y se convirtió en sargento, sirviendo en el 25º Regimiento croata con sede en Zagreb",
+              "start": 66,
+              "end": 194,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Selfridges fue fundada en 1909 por el estadounidense Harry Gordon Selfridge en Oxford Street. La innovadora comercialización de la compañía promovió la idea radical de comprar por placer más que por necesidad y sus técnicas fueron adoptadas por los grandes almacenes modernos de todo el mundo. La tienda fue promovida ampliamente a través de publicidad pagada. Los pisos de la tienda estaban estructurados para que los bienes pudieran ser más accesibles a los clientes. Había restaurantes elegantes con precios modestos, una biblioteca, salas de lectura y escritura, salas de recepción especiales para clientes franceses, alemanes, americanos y coloniales, una sala de primeros auxilios y una sala silenciosa, con luces suaves, A los miembros del personal se les enseñó a estar a mano para ayudar a los clientes, pero no demasiado agresivamente, y a vender la mercancía. Selfridge atrajo compradores con exposiciones educativas y científicas; En 1909, el monoplano de Louis Blériot fue exhibido en Selfridges (Blériot fue el primero en sobrevolar el Canal de la Mancha), y la primera demostración pública de televisión tuvo lugar en 1925.",
+      "annotations": [
+        {
+          "question": "¿Qué innovadora idea promovió la comercialización de Selfridges?",
+          "choices": [
+            {
+              "text": "comprar por placer más que por necesidad",
+              "start": 168,
+              "end": 208,
+              "type": "correct answer"
+            },
+            {
+              "text": "ser más accesibles a los clientes",
+              "start": 435,
+              "end": 468,
+              "type": "distractor"
+            },
+            {
+              "text": "estar a mano para ayudar a los clientes, pero no demasiado agresivamente",
+              "start": 772,
+              "end": 844,
+              "type": "distractor"
+            },
+            {
+              "text": "vender la mercancía",
+              "start": 850,
+              "end": 869,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El empleo en el sector público y privado ha sido, en su mayor parte, capaz de ofrecer más a sus empleados que la mayoría de las agencias sin fines de lucro a lo largo de la historia. Ya sea en forma de salarios más altos, paquetes de beneficios más completos, o un trabajo menos tedioso, el sector público y privado ha disfrutado de una ventaja para atraer a los empleados sobre los suboficiales. Tradicionalmente, la NPO ha atraído a individuos que quieren ayudar a su causa elegida. La cuestión es que algunas NPOs no operan de una manera similar a la mayoría de las empresas, o sólo estacionalmente. Esto lleva a muchos empleados jóvenes e impulsados a renunciar a las NPOs en favor de un empleo más estable. Hoy en día, sin embargo, las organizaciones sin fines de lucro están adoptando métodos utilizados por sus competidores y encontrando nuevos medios para retener a sus empleados y atraer lo mejor de la fuerza laboral recién acuñada.",
+      "annotations": [
+        {
+          "question": "¿Qué ha llevado a muchos empleados jóvenes e impulsados a renunciar a las organizaciones sin fines de lucro?",
+          "choices": [
+            {
+              "text": "una ventaja para atraer a los empleados sobre los suboficiales",
+              "start": 333,
+              "end": 395,
+              "type": "distractor"
+            },
+            {
+              "text": "las organizaciones sin fines de lucro están adoptando métodos utilizados por sus competidores",
+              "start": 737,
+              "end": 830,
+              "type": "distractor"
+            },
+            {
+              "text": "algunas NPOs no operan de una manera similar a la mayoría de las empresas, o sólo estacionalmente",
+              "start": 504,
+              "end": 601,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Particularmente desde mediados de la década de 1960 ha habido avances en la comprensión de la física de los procesos fisiológicos de las plantas, como la transpiración (el transporte de agua dentro de los tejidos vegetales), la evaporación de agua. Estos desarrollos, junto con nuevos métodos para medir el tamaño de las aberturas estomatales, y la velocidad de la fotosíntesis han permitido una descripción precisa de las tasas de intercambio de gas entre las plantas y la atmósfera. Las innovaciones en el análisis estadístico de Ronald Fisher, Frank Yates y otros en Rothamsted Experimental Station facilitaron el diseño experimental racional y el análisis de datos en la investigación botánica. El descubrimiento e identificación de las auxinas hormonas vegetales por Kenneth V. Thimann en 1948 permitió la regulación del crecimiento de las plantas por productos químicos aplicados externamente. Frederick Campion Steward fue pionero en técnicas de micropropagación y cultivo de tejidos vegetales controlados por hormonas vegetales. La auxina sintética 2,4-diclorofenoxiactica o 2,4-D fue uno de los primeros herbicidas sintéticos comerciales.",
+      "annotations": [
+        {
+          "question": "¿Qué mecanismo o sustancia permite la regulación del crecimiento de las plantas por productos químicos aplicados externamente?",
+          "choices": [
+            {
+              "text": "las auxinas hormonas vegetales",
+              "start": 737,
+              "end": 767,
+              "type": "correct answer"
+            },
+            {
+              "text": "los tejidos vegetales",
+              "start": 201,
+              "end": 222,
+              "type": "distractor"
+            },
+            {
+              "text": "la transpiración",
+              "start": 151,
+              "end": 167,
+              "type": "distractor"
+            },
+            {
+              "text": "las aberturas estomatales",
+              "start": 317,
+              "end": 342,
+              "type": "distractor"
+            },
+            {
+              "text": "la velocidad de la fotosíntesis",
+              "start": 346,
+              "end": 377,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Como cualquier instrumento pulsado, las notas de mandolina decaen en silencio en lugar de sonar continuamente como con una nota en arco en un violín, y las notas de mandolina decaen más rápido que los instrumentos de cuerda más grandes como la guitarra. Esto fomenta el uso de trémolo (selección rápida de uno o más pares de cuerdas) para crear notas o acordes sostenidos. Las cuerdas pares de la mandolina facilitan esta técnica: El plectro golpea cada una de las cuerdas alternativamente, proporcionando un sonido más completo y continuo que una sola cuerda.",
+      "annotations": [
+        {
+          "question": "¿Qué hace que se facilite la técnica del trémolo?",
+          "choices": [
+            {
+              "text": "el plectro",
+              "start": 431,
+              "end": 441,
+              "type": "distractor"
+            },
+            {
+              "text": "las cuerdas pares",
+              "start": 373,
+              "end": 390,
+              "type": "correct answer"
+            },
+            {
+              "text": "el arco en un violín",
+              "start": 131,
+              "end": 148,
+              "type": "distractor"
+            },
+            {
+              "text": "la guitarra",
+              "start": 241,
+              "end": 252,
+              "type": "distractor"
+            },
+            {
+              "text": "los acordes sostenidos",
+              "start": 353,
+              "end": 371,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los primeros emperadores Qing adoptaron las estructuras e instituciones burocráticas de la dinastía Ming anterior, pero el gobierno dividido entre chinos Han y manchúes, con algunas posiciones también dadas a los mongoles. Al igual que las dinastías anteriores, los Qing reclutaron funcionarios a través del sistema de examen imperial, hasta que el sistema fue abolido en 1905. Los Qing dividieron las posiciones en posiciones civiles y militares, cada uno con nueve grados o rangos, cada uno subdividido en a y b categorías. Los nombramientos civiles iban desde el asistente al emperador o un gran secretario en la Ciudad Prohibida (la más alta) a ser recaudadores de impuestos prefecturales, subdirector de la cárcel, comisionado de policía adjunto o examinador de impuestos. Los nombramientos militares iban desde ser mariscal de campo o chambelán de la guardia imperial a sargento de tercera clase, cabo o soldado de primera o segunda clase.",
+      "annotations": [
+        {
+          "question": "¿Cómo se reclutaban los funcionarios durante la dinastía Qing?",
+          "choices": [
+            {
+              "text": "sistema de examen imperial",
+              "start": 308,
+              "end": 334,
+              "type": "correct answer"
+            },
+            {
+              "text": "posiciones civiles y militares",
+              "start": 416,
+              "end": 446,
+              "type": "distractor"
+            },
+            {
+              "text": "nombramientos civiles",
+              "start": 530,
+              "end": 551,
+              "type": "distractor"
+            },
+            {
+              "text": "recaudadores de impuestos prefecturales",
+              "start": 653,
+              "end": 692,
+              "type": "distractor"
+            },
+            {
+              "text": "estructuras e instituciones burocráticas",
+              "start": 44,
+              "end": 84,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Durante los años 1950 y 1960, los funcionarios del FBI se preocuparon cada vez más por la influencia de los líderes de los derechos civiles, que creían que tenían vínculos comunistas o estaban indebidamente influenciados por ellos. En 1956, por ejemplo, Hoover envió una carta abierta denunciando al Dr. T.R.M. Howard, un líder de derechos civiles, cirujano y rico empresario en Mississippi que había criticado la inacción del FBI en resolver los asesinatos recientes de George W. Lee, Emmett Till y otros negros en el Sur. El FBI llevó a cabo una polémica vigilancia doméstica en una operación que llamó COINTELPRO, que era corta para \"programa de contrainteligencia\". Se trataba de investigar e interrumpir las actividades de las organizaciones políticas disidentes dentro de los Estados Unidos, incluidas las organizaciones militantes y no violentas. Entre sus objetivos estaba la Conferencia Sur de Liderazgo Cristiano, una importante organización de derechos civiles con liderazgo clerical.",
+      "annotations": [
+        {
+          "question": "¿Cuándo fue que Hoover mandó una carta abierta denunciando al Dr. T.R.M. Howard?",
+          "choices": [
+            {
+              "text": "1956",
+              "start": 235,
+              "end": 239,
+              "type": "correct answer"
+            },
+            {
+              "text": "1950",
+              "start": 17,
+              "end": 21,
+              "type": "distractor"
+            },
+            {
+              "text": "1960",
+              "start": 24,
+              "end": 28,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las tensiones políticas entre Gran Bretaña y las trece colonias llegaron a una crisis en 1774 cuando los británicos pusieron a la provincia de Massachusetts bajo la ley marcial después de que los patriotas protestaron impuestos que consideraban una violación de sus derechos constitucionales como ingleses. Cuando el rodaje comenzó en Lexington y Concord en abril de 1775, unidades de la milicia de toda Nueva Inglaterra se apresuraron a Boston y embotellaron a los británicos en la ciudad. El Congreso Continental nombró a George Washington comandante en jefe del recién creado Ejército Continental, que fue aumentado durante toda la guerra por la milicia colonial. Expulsó a los británicos de Boston, pero a finales del verano de 1776 regresaron a Nueva York y casi capturaron al ejército de Washington. Mientras tanto, los revolucionarios expulsaron a los funcionarios británicos de los 13 estados, y se declararon una nación independiente el 4 de julio de 1776.",
+      "annotations": [
+        {
+          "question": "¿Cuándo se expulsaron a los funcionarios británicos de los 13 estados?",
+          "choices": [
+            {
+              "text": "1776",
+              "start": 960,
+              "end": 964,
+              "type": "correct answer"
+            },
+            {
+              "text": "1775",
+              "start": 367,
+              "end": 371,
+              "type": "distractor"
+            },
+            {
+              "text": "1774",
+              "start": 89,
+              "end": 93,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "William Adams (1564-1620) fue el primer occidental en recibir la dignidad de samurái. El Shogun Tokugawa Ieyasu le regaló dos espadas que representaban la autoridad de un samurái, y decretó que William Adams el marinero estaba muerto y que Anjin Miura, un samurái, nació. Adams también recibió el título de hatamoto (bannerman), una posición de alto prestigio como retenedor directo en la corte del Shogun. Se le proporcionaron generosos ingresos: \"Por los servicios que he hecho y hecho diariamente, siendo empleado al servicio del emperador, el emperador me ha dado la vida\" (Cartas). Se le concedió un feudo en Hemi (..) dentro de los límites de la actual ciudad de Yokosuka, \"con ochenta o noventa marido, que son mis esclavos o sirvientes\" (Cartas). Su patrimonio fue valorado en 250 koku. Finalmente escribió: \"Dios me ha proporcionado después de mi gran miseria\", (Cartas) por la que se refería al viaje plagado de desastres que inicialmente lo llevó a Japón.",
+      "annotations": [
+        {
+          "question": "¿Qué título es el retenedor directo de la corte del Shogun?",
+          "choices": [
+            {
+              "text": "emperador",
+              "start": 533,
+              "end": 542,
+              "type": "distractor"
+            },
+            {
+              "text": "samurái",
+              "start": 256,
+              "end": 263,
+              "type": "distractor"
+            },
+            {
+              "text": "hatamoto",
+              "start": 307,
+              "end": 315,
+              "type": "correct answer"
+            },
+            {
+              "text": "marinero",
+              "start": 211,
+              "end": 219,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La coronación de Carlomagno como emperador el día de Navidad de 800 se considera como un punto de inflexión en la historia medieval, marcando un regreso del Imperio romano de Occidente, ya que el nuevo emperador gobernó gran parte del área previamente controlada por los emperadores occidentales. También marca un cambio en la relación de Carlomagno con el Imperio bizantino, ya que la asunción del título imperial por los carolingios afirmaba su equivalencia con el estado bizantino. Hubo varias diferencias entre el recién establecido Imperio carolingio y el antiguo Imperio romano de Occidente y el concurrente Imperio bizantino. Las tierras francas eran de carácter rural, con sólo unas pocas ciudades pequeñas. La mayoría de la gente eran campesinos asentados en pequeñas granjas. Existía poco comercio y gran parte de eso era con las Islas Británicas y Escandinavia, en contraste con el antiguo Imperio Romano con sus redes comerciales centradas en el Mediterráneo. El imperio era administrado por una corte itinerante que viajaba con el emperador, así como aproximadamente 300 funcionarios imperiales llamados condes, que administraban los condados en los que el imperio había sido dividido. El clero y los obispos locales sirvieron como funcionarios, así como los funcionarios imperiales llamados missi dominici, que sirvieron como inspectores errantes y alborotadores.",
+      "annotations": [
+        {
+          "question": "¿Quién administraba el imperio a la par del emperador?",
+          "choices": [
+            {
+              "text": "una corte itinerante",
+              "start": 1004,
+              "end": 1024,
+              "type": "correct answer"
+            },
+            {
+              "text": "los emperadores occidentales",
+              "start": 267,
+              "end": 295,
+              "type": "distractor"
+            },
+            {
+              "text": "el estado bizantino",
+              "start": 464,
+              "end": 483,
+              "type": "distractor"
+            },
+            {
+              "text": "los obispos locales",
+              "start": 1210,
+              "end": 1229,
+              "type": "distractor"
+            },
+            {
+              "text": "los inspectores errantes y alborotadores",
+              "start": 1340,
+              "end": 1376,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los ancianos de Yale en la graduación funden pipas de arcilla para simbolizar el paso de sus \"años universitarios brillantes\", aunque en la historia reciente las tuberías han sido reemplazadas por \"tubos de burbujas\". (\"Bright College Years\", alma mater de la Universidad, fue escrita en 1881 por Henry Durand, Clase de 1881, al tono de Die Wacht am Rhein.) Los guías turísticos estudiantiles de Yale dicen a los visitantes que los estudiantes consideran buena suerte frotar el dedo de la estatua de Theodore Dwight Woolsey en Old Campus. Los estudiantes reales rara vez lo hacen. En la segunda mitad del siglo XX, el Bladderball, un juego a nivel de todo el campus jugado con una pelota inflable grande, se convirtió en una tradición popular, pero fue prohibido por la administración debido a preocupaciones de seguridad. A pesar de la oposición de la administración, los estudiantes revivieron el juego en 2009, 2011 y 2014, pero su futuro sigue siendo incierto.",
+      "annotations": [
+        {
+          "question": "¿Qué simbolizan las pipas de arcilla?",
+          "choices": [
+            {
+              "text": "sus \"años universitarios brillantes\"",
+              "start": 89,
+              "end": 125,
+              "type": "correct answer"
+            },
+            {
+              "text": "un juego a nivel de todo el campus",
+              "start": 631,
+              "end": 665,
+              "type": "distractor"
+            },
+            {
+              "text": "una tradición popular",
+              "start": 721,
+              "end": 742,
+              "type": "distractor"
+            },
+            {
+              "text": "la estatua de Theodore Dwight Woolsey",
+              "start": 486,
+              "end": 523,
+              "type": "distractor"
+            },
+            {
+              "text": "buena suerte",
+              "start": 455,
+              "end": 467,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Ha habido indicios desde 1996 de que el Everton se trasladará a un nuevo estadio. El plan original era construir un nuevo estadio de 60.000 asientos, pero en 2000 se presentó una propuesta para construir un estadio de 55.000 asientos como parte de la regeneración King 's Dock. Esto no tuvo éxito ya que el Everton no pudo generar las £30 millones necesarias para una participación media en el proyecto del estadio, con el ayuntamiento rechazando la propuesta en 2003. A finales de 2004, impulsado por el Liverpool Council y la Northwest Development Corporation, el club entró en conversaciones con el Liverpool F.C. Sobre compartir un estadio propuesto en Stanley Park. Las negociaciones se rompieron cuando el Everton no pudo aumentar el 50% de los costos. El 11 de enero de 2005, Liverpool anunció que compartir tierra no era una posibilidad, procediendo a planificar su propio Stanley Park Stadium.",
+      "annotations": [
+        {
+          "question": "¿Por qué se frustró el plan inicial del Everton de construir un estadio en King's Dock?",
+          "choices": [
+            {
+              "text": "no pudo generar las £30 millones necesarias para una participación media en el proyecto del estadio",
+              "start": 315,
+              "end": 414,
+              "type": "correct answer"
+            },
+            {
+              "text": "no pudo aumentar el 50% de los costos",
+              "start": 720,
+              "end": 757,
+              "type": "distractor"
+            },
+            {
+              "text": "Liverpool anunció que compartir tierra no era una posibilidad",
+              "start": 783,
+              "end": 844,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Durante los primeros años, MCA también fabricó discos para otras compañías, incluyendo Paramount, Disney y Warner Bros. Algunos de ellos añadieron sus propios nombres a la chaqueta de disco para indicar que la película no era propiedad de MCA. Después de que Discovision Associates cerró a principios de 1982, el sello de software de video de Universal Studio, llamado MCA Videodisc hasta 1984, comenzó a reeditar muchos títulos de DiscoVision. Desafortunadamente, algunos, como Battlestar Galactica y Tiburón, eran versiones comprimidas en el tiempo de sus originales CAV o CLV Disco Vision. La re-edición de Tiburón CLV comprimida en el tiempo ya no tenía la banda sonora original, habiendo reemplazado la música de fondo incidental para la versión del disco de vídeo debido a los costos de licencia. Una coproducción de Universal / Columbia emitida por MCA Disco Vision en ambas versiones de CAV y CLV, The Electric Horseman, todavía no está disponible en ningún otro formato de video casero con su puntuación original intacta. Incluso el lanzamiento más reciente en DVD ha tenido reemplazos sustanciales de música tanto de partitura instrumental y canciones de Willie Nelson. Un lanzamiento de MCA de Howard el pato de Universal, ve sólo los créditos de inicio mostrados en pantalla ancha antes de cambiar a 4: 3 para el resto de la película. Durante muchos años este fue el único lanzamiento basado en discos de la película, hasta que se lanzaron formatos de DVD con extras. Además, el lanzamiento de LaserDisc de E.T. El Extra-Terrestre es el único formato que incluye la escena cortada de Harrison Ford interpretando el papel del director de la escuela diciéndole a Elliott por dejar las ranas libres en la clase de biología.",
+      "annotations": [
+        {
+          "question": "¿Qué formato de película fue la versión de Howard el pato de Universal, que solo ve los créditos de inicio mostrados en pantalla ancha antes de cambiar a 4: 3 para el resto de la película?",
+          "choices": [
+            {
+              "text": "MCA",
+              "start": 1198,
+              "end": 1201,
+              "type": "correct answer"
+            },
+            {
+              "text": "DVD",
+              "start": 1464,
+              "end": 1467,
+              "type": "distractor"
+            },
+            {
+              "text": "LaserDisc",
+              "start": 1506,
+              "end": 1515,
+              "type": "distractor"
+            },
+            {
+              "text": "CLV Disco Vision",
+              "start": 575,
+              "end": 591,
+              "type": "distractor"
+            },
+            {
+              "text": "CAV",
+              "start": 569,
+              "end": 572,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A partir de 2013, West ha ganado un total de 21 premios Grammy, convirtiéndose en uno de los artistas más premiados de todos los tiempos. About.com clasificó a Kanye West No. 8 en su lista \"Top 50 Hip-Hop Producers\". El 16 de mayo de 2008, Kanye West fue coronado por MTV como No. 1 \"Hottest MC in the Game\" (en inglés). El 17 de diciembre de 2010, Kanye West fue votado como el MTV Man of the Year por MTV. Billboard clasificó a Kanye West No. 3 en su lista de los 10 mejores productores de la década. West se relaciona con Bob Dylan por haber encabezado la encuesta anual de críticos de Pazz & Jop el mayor número de veces, con cuatro álbumes número uno cada uno. West también ha sido incluido dos veces en las listas anuales Time 100 de las personas más influyentes del mundo, así como en una serie de listas anuales Forbes.",
+      "annotations": [
+        {
+          "question": "¿Qué premio recibió Kanye West en el 2008?",
+          "choices": [
+            {
+              "text": "No. 1 \"Hottest MC in the Game\"",
+              "start": 277,
+              "end": 307,
+              "type": "correct answer"
+            },
+            {
+              "text": "MTV Man of the Year",
+              "start": 379,
+              "end": 398,
+              "type": "distractor"
+            },
+            {
+              "text": "No. 8 en su lista \"Top 50 Hip-Hop Producers\"",
+              "start": 171,
+              "end": 215,
+              "type": "distractor"
+            },
+            {
+              "text": "No. 3 en su lista de los 10 mejores productores de la década",
+              "start": 441,
+              "end": 501,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En los siglos XI y XII, los príncipes y sus siervos, que eran una mezcla de élites eslavas y escandinavas, dominaron la sociedad de la Rus de Kiev. Los principales soldados y funcionarios recibieron ingresos y tierras de los príncipes a cambio de sus servicios políticos y militares. La sociedad de Kiev carecía de las instituciones de clase y ciudades autónomas que eran típicas del feudalismo de Europa occidental. Sin embargo, los comerciantes urbanos, artesanos y trabajadores a veces ejercían influencia política a través de una asamblea de la ciudad, el veche (consejo), que incluía a todos los hombres adultos en la población. En algunos casos, el veche hizo acuerdos con sus gobernantes o los expulsó e invitó a otros a tomar su lugar. En el fondo de la sociedad había un estrato de esclavos. Más importante era una clase de campesinos que pagaban tributos, que debían trabajo a los príncipes. La extensa servidumbre personal característica de Europa occidental no existía en la Rus de Kiev.",
+      "annotations": [
+        {
+          "question": "¿Quiénes ejercían influencia política a través de una asamblea de la ciudad?",
+          "choices": [
+            {
+              "text": "élites eslavas y escandinavas",
+              "start": 76,
+              "end": 105,
+              "type": "distractor"
+            },
+            {
+              "text": "los príncipes y sus siervos",
+              "start": 24,
+              "end": 51,
+              "type": "distractor"
+            },
+            {
+              "text": "los comerciantes urbanos, artesanos y trabajadores",
+              "start": 430,
+              "end": 480,
+              "type": "correct answer"
+            },
+            {
+              "text": "políticos y militares",
+              "start": 261,
+              "end": 282,
+              "type": "distractor"
+            },
+            {
+              "text": "soldados y funcionarios",
+              "start": 164,
+              "end": 187,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Josip Broz Tito (cirílico: Cyrillic оси] Бро, Тито, pronunciado [jsip sip brôːz tîto]; Nacido Josip Broz; 7 de mayo de 1892 - 4 de mayo de 1980) fue un revolucionario y estadista yugoslavo, que desempeñó diversos cargos desde 1943 hasta su muerte en 1980. Durante la Segunda Guerra Mundial fue el líder de los partisanos, a menudo considerado como el movimiento de resistencia más eficaz en la Europa ocupada. Si bien su presidencia ha sido criticada como autoritaria y se han planteado preocupaciones sobre la represión de opositores políticos, Tito fue \"visto por la mayoría como un dictador benevolente\" debido a sus políticas económicas y diplomáticas. Fue una figura pública popular tanto en Yugoslavia como en el extranjero. Visto como un símbolo unificador, sus políticas internas mantuvieron la coexistencia pacífica de las naciones de la federación yugoslava. Ganó más atención internacional como el líder del Movimiento de Países No Alineados, trabajando con Jawaharlal Nehru de la India, Gamal Abdel Nasser de Egipto y Sukarno de Indonesia.",
+      "annotations": [
+        {
+          "question": "¿De qué país fue presidente Tito?",
+          "choices": [
+            {
+              "text": "Yugoslavia",
+              "start": 697,
+              "end": 707,
+              "type": "correct answer"
+            },
+            {
+              "text": "Indonesia",
+              "start": 1041,
+              "end": 1050,
+              "type": "distractor"
+            },
+            {
+              "text": "India",
+              "start": 992,
+              "end": 997,
+              "type": "distractor"
+            },
+            {
+              "text": "Egipto",
+              "start": 1021,
+              "end": 1027,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

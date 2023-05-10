@@ -188,13 +188,13 @@ Total 350
 
 # Tuesday May 9th
 
-Dates and Numbers 0
+Dates and Numbers 2
 
-Names 0
+Names 5
 
-Phrases 0
+Phrases 23
 
-Total 0
+Total 30
 
 
 ## Comments
