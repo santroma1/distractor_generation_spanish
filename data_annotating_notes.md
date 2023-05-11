@@ -175,32 +175,48 @@ Total 50
 
 <br>
 
-# Total
+# Tuesday May 9th - Thursday May 11th
 
-Dates and Numbers 44
+Dates and Numbers 5
 
-Names 78
+Names 13
 
-Phrases 229 - 1   
+Phrases 32
 
-Total 350
-
-
-# Tuesday May 9th
-
-Dates and Numbers 2
-
-Names 5
-
-Phrases 23
-
-Total 30
+Total 50
 
 
 ## Comments
 
 
 <br>
+
+
+# Friday May 12th
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 0
+
+Total 0
+
+
+## Comments
+
+
+<br>
+
+# Total
+
+Dates and Numbers 49
+
+Names 91
+
+Phrases 261 - 1   
+
+Total 400
 
 
 # GLOBAL NOTES
