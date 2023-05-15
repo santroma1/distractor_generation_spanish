@@ -192,15 +192,15 @@ Total 50
 <br>
 
 
-# Friday May 12th
+# Friday May 12th - Monday May 15th
 
-Dates and Numbers 0
+Dates and Numbers 4
 
-Names 0
+Names 15
 
-Phrases 0
+Phrases 31
 
-Total 0
+Total 50
 
 
 ## Comments
@@ -210,13 +210,13 @@ Total 0
 
 # Total
 
-Dates and Numbers 49
+Dates and Numbers 53
 
-Names 91
+Names 106
 
-Phrases 261 - 1   
+Phrases 292 - 1   
 
-Total 400
+Total 450
 
 
 # GLOBAL NOTES
@@ -224,4 +224,4 @@ Total 400
 - For a reason, its not exporting datapoint 177. 
 - There is another text with 2 questions
 - There is now a total of 3 texts with 2 questions
-- Texts with 2 questions: 6
+- Texts with 2 questions: 9

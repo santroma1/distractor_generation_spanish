@@ -155,6 +155,41 @@
       {
         "context": "El cubismo comenzó entre 1907 y 1911. La pintura Les Demoiselles d 'Avignon de Pablo Picasso de 1907 ha sido a menudo considerada una obra proto-cubista. Las Casas de 1908 de Georges Braque en L 'Estaque (y obras relacionadas) llevaron al crítico Louis Vauxcelles a referirse a las bizarrerías cubiques (singularidades cúbicas). Gertrude Stein se refirió a los paisajes realizados por Picasso en 1909, como Reservoir at Horta de Ebro, como las primeras pinturas cubistas. La primera exposición colectiva organizada por los cubistas tuvo lugar en el Salon des Indépendants en París durante la primavera de 1911 en una habitación llamada 'Salle 41'; Incluía obras de Jean Metzinger, Albert Gleizes, Fernand Léger, Robert Delaunay y Henri Le Fauconnier, pero no se exhibieron obras de Picasso o Braque.",
         "annotations": [
+        {
+          "question": "¿Quién se refirió a los paisajes realizados por Picasso en 1909 como las primeras pinturas cubistas?",
+          "choices": [
+              {
+                "text": "Gertrude Stein",
+                "start": 329,
+                "end": 343,
+                "type": "correct answer"
+              },
+              {
+                "text": "Albert Gleizes",
+                "start": 681,
+                "end": 695,
+                "type": "distractor"
+              },
+              {
+                "text": "Robert Delaunay",
+                "start": 712,
+                "end": 727,
+                "type": "distractor"
+              },
+              {
+                "text": "Georges Braque",
+                "start": 175,
+                "end": 189,
+                "type": "distractor"
+              },
+              {
+                "text": "Henri Le Fauconnier",
+                "start": 730,
+                "end": 749,
+                "type": "distractor"
+              }
+            ]
+          },   
           {
             "question": "¿En la primavera de qué año apareció la primera exposición organizada por los cubistas?",
             "choices": [
@@ -8353,6 +8388,35 @@
       "context": "Con la esperanza de extender el Sistema Continental, Napoleón invadió Iberia y declaró a su hermano José el Rey de España en 1808. Los españoles y los portugueses se rebelaron con apoyo británico. La Guerra de la Independencia duró seis años, conocida por su brutal guerra de guerrillas, y culminó en una victoria aliada. Los combates también estallaron en Europa Central, ya que los austriacos lanzaron otro ataque contra los franceses en 1809. Napoleón los derrotó en la batalla de Wagram, disolviendo la Quinta Coalición formada contra Francia. Para 1811, Napoleón había gobernado a más de 70 millones de personas en todo un imperio que tenía dominación en Europa, que no había sido testigo de este nivel de consolidación política desde los días del Imperio romano. Mantuvo su estatus estratégico a través de una serie de alianzas y citas familiares. Creó una nueva aristocracia en Francia, permitiendo el regreso de los nobles que habían sido forzados al exilio por la Revolución.",
       "annotations": [
         {
+            "question": "¿Qué resultó con la invasión de Napoleón a Iberia?",
+            "choices": [
+              {
+                "text": "los españoles y los portugueses se rebelaron",
+                "start": 131,
+                "end": 175,
+                "type": "correct answer"
+              },
+              {
+                "text": "el regreso de los nobles que habían sido forzados al exilio por la Revolución",
+                "start": 906,
+                "end": 983,
+                "type": "distractor"
+              },
+              {
+                "text": "una nueva aristocracia en Francia",
+                "start": 859,
+                "end": 892,
+                "type": "distractor"
+              },
+              {
+                "text": "los austriacos lanzaron otro ataque contra los franceses",
+                "start": 380,
+                "end": 436,
+                "type": "distractor"
+              }
+            ]
+          },
+          {
           "question": "¿Qué permitió la nueva aristocracia creada en Francia por Napoleón?",
           "choices": [
             {
@@ -8467,6 +8531,29 @@
       "context": "En 2010, se rechazaron los proyectos de ley para abolir la pena de muerte en Kansas y en Dakota del Sur (que tenía una moratoria de facto en ese momento). Idaho terminó su moratoria de facto, durante la cual sólo un voluntario había sido ejecutado, el 18 de noviembre de 2011 ejecutando a Paul Ezra Rhoades; Dakota del Sur ejecutó a Donald Moeller el 30 de octubre de 2012, poniendo fin a una moratoria de facto durante la cual solo dos voluntarios habían sido ejecutados. De los 12 prisioneros que Nevada ha ejecutado desde 1976, 11 renunciaron a sus derechos de apelación. Kentucky y Montana han ejecutado a dos prisioneros contra su voluntad (KY: 1997 y 1999, MT: 1995 y 1998) y un voluntario, respectivamente (KY: 2008, MT: 2006). Colorado (en 1997) y Wyoming (en 1992) han ejecutado a un solo prisionero, respectivamente.",
       "annotations": [
         {
+            "question": "¿Qué sucedió en 2010 en Kansas?",
+            "choices": [
+              {
+                "text": "se rechazaron los proyectos de ley para abolir la pena de muerte",
+                "start": 9,
+                "end": 73,
+                "type": "correct answer"
+              },
+              {
+                "text": "terminó su moratoria de facto, durante la cual sólo un voluntario había sido ejecutado",
+                "start": 161,
+                "end": 247,
+                "type": "distractor"
+              },
+              {
+                "text": "ejecutó a Donald Moeller",
+                "start": 323,
+                "end": 347,
+                "type": "distractor"
+              }
+            ]
+          },
+          {
           "question": "¿Cuándo fue la única ejecución en Wyoming?",
           "choices": [
             {
@@ -14044,6 +14131,1598 @@
               "text": "Artillería de Defensa Aérea",
               "start": 187,
               "end": 214,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Además de películas, Turner Classic Movies también emite contenido original, en su mayoría documentales sobre personalidades de películas clásicas, el mundo del cine y películas particularmente notables. Una serie de meses de duración, Race and Hollywood, muestra películas de y sobre personas de razas no blancas, con discusiones sobre cómo estas imágenes influyeron en la imagen de las personas blancas de dichas razas, así como cómo las personas de esas razas se veían a sí mismas. Anteriores entregas han incluido \"Imágenes asiáticas en película\" en 2008, \"Imágenes nativas americanas en película\" en 2010, \"Imágenes negras en película\" en 2006 \"Imágenes latinas en película\" en 2009 y \"imágenes árabes\". La cadena emitió la serie de películas Screened Out (que exploró la historia y la representación de la homosexualidad en el cine) en 2007 y Religion on Film (que se centra en el papel de la religión en las obras cinematográficas) en 2005. En 2011, TCM debutó una nueva serie titulada AFI 's Master Class: The Art of Collaboration.",
+      "annotations": [
+        {
+          "question": "¿Qué entrega de Race and Hollywood se dio en 2010?",
+          "choices": [
+            {
+              "text": "Imágenes nativas americanas en película",
+              "start": 561,
+              "end": 600,
+              "type": "correct answer"
+            },
+            {
+              "text": "Imágenes negras en película",
+              "start": 612,
+              "end": 639,
+              "type": "distractor"
+            },
+            {
+              "text": "Imágenes latinas en película",
+              "start": 650,
+              "end": 678,
+              "type": "distractor"
+            },
+            {
+              "text": "Imágenes asiáticas en película",
+              "start": 520,
+              "end": 549,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El disco fonógrafo fue el medio principal utilizado para la reproducción musical hasta finales del siglo XX, reemplazando el registro de fonógrafo cilindro con el que había coexistido desde finales de 1880 hasta finales de 1920. Los registros conservaron la mayor cuota de mercado incluso cuando nuevos formatos como el casete compacto se comercializaron en masa. A finales de 1980, los medios digitales, en forma de disco compacto, habían ganado una mayor cuota de mercado, y el disco de vinilo dejó la corriente principal en 1991. Desde la década de 1990 hasta la década de 2010, los discos continuaron siendo fabricados y vendidos en una escala mucho menor, y fueron especialmente utilizados por disc jockeys, lanzados por artistas en algunos géneros y escuchados por un mercado de audiófilos. El registro fonográfico ha hecho un resurgimiento a principios del siglo XXI: 9,2 millones de discos se vendieron en los Estados Unidos en 2014, un aumento del 260% desde 2009. Del mismo modo, en el Reino Unido las ventas han aumentado cinco veces de 2009 a 2014.",
+      "annotations": [
+        {
+          "question": "¿Qué evento sucedió en el 2014?",
+          "choices": [
+            {
+              "text": "9,2 millones de discos se vendieron en los Estados Unidos",
+              "start": 875,
+              "end": 932,
+              "type": "correct answer"
+            },
+            {
+              "text": "los discos continuaron siendo fabricados y vendidos en una escala mucho menor, y fueron especialmente utilizados por disc jockeys",
+              "start": 582,
+              "end": 711,
+              "type": "distractor"
+            },
+            {
+              "text": "los medios digitales, en forma de disco compacto, habían ganado una mayor cuota de mercado",
+              "start": 383,
+              "end": 473,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Dos días después de que \"1984\" saliera al aire, el Macintosh salió a la venta, y venía incluido con dos aplicaciones diseñadas para mostrar su interfaz: MacWrite y MacPaint. Fue demostrado por primera vez por Steve Jobs en el primero de sus famosos discursos de Mac, y aunque la Mac obtuvo un seguimiento inmediato y entusiasta, algunos lo etiquetaron como un mero \"juguete\". Debido a que el sistema operativo fue diseñado en gran parte alrededor de la GUI, las aplicaciones existentes de modo texto y comandos tuvieron que ser rediseñadas y el código de programación reescrito. Esta fue una tarea que muchos desarrolladores de software decidieron no llevar a cabo, y podría considerarse como una razón de la falta inicial de software para el nuevo sistema. En abril de 1984, el MultiPlan de Microsoft emigró desde MS-DOS, con Microsoft Word siguiendo en enero de 1985. En 1985, Lotus Software introdujo Lotus Jazz para la plataforma Macintosh después del éxito de Lotus 1-2-3 para el IBM PC, aunque fue en gran parte un fracaso. Apple presentó la suite Macintosh Office el mismo año con el anuncio \"Lemmings\". Infame por insultar a sus propios clientes potenciales, el anuncio no tuvo éxito.",
+      "annotations": [
+        {
+          "question": "¿Qué aplicación fue incluida con el Macintosh para mostrar su interfaz?",
+          "choices": [
+            {
+              "text": "MacWrite",
+              "start": 153,
+              "end": 161,
+              "type": "correct answer"
+            },
+            {
+              "text": "MultiPlan",
+              "start": 779,
+              "end": 788,
+              "type": "distractor"
+            },
+            {
+              "text": "Lotus Jazz ",
+              "start": 904,
+              "end": 915,
+              "type": "distractor"
+            },
+            {
+              "text": "Lotus 1-2-3",
+              "start": 965,
+              "end": 976,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La franquicia fue creada en 1997 como una serie de mascotas virtuales, similares e influenciados en el estilo por los juguetes contemporáneos Tamagotchi o nano Giga Pet. Las criaturas fueron diseñadas para parecer lindas e icónicas incluso en las pequeñas pantallas de los dispositivos; Los desarrollos posteriores los crearon con un estilo de bordes más duros influenciado por los cómics estadounidenses. La franquicia ganó impulso con su primera encarnación de anime, Digimon Adventure, y un primer videojuego, Digimon World, ambos lanzados en 1999. Varias temporadas del anime y películas basadas en ellos se han emitido, y la serie de videojuegos se ha expandido en géneros como el rol, las carreras, la lucha y los MMORPG. También se han publicado otros medios.",
+      "annotations": [
+        {
+          "question": "¿Cuál fue el primer videojuego de la franquicia?",
+          "choices": [
+            {
+              "text": "Digimon World",
+              "start": 513,
+              "end": 526,
+              "type": "correct answer"
+            },
+            {
+              "text": "Digimon Adventure",
+              "start": 470,
+              "end": 487,
+              "type": "distractor"
+            },
+            {
+              "text": "Tamagotchi",
+              "start": 142,
+              "end": 152,
+              "type": "distractor"
+            },
+            {
+              "text": "Giga Pet",
+              "start": 160,
+              "end": 168,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El sistema de raíces y el sistema de disparo son interdependientes - el sistema de raíces generalmente no fotosintéticas depende del sistema de disparo para los alimentos, y el sistema de disparo generalmente fotosintético depende del agua y los minerales del sistema de raíces. Las células en cada sistema son capaces de crear células del otro y producir raíces adventicias. Estolones y tubérculos son ejemplos de brotes que pueden crecer raíces. Las raíces que se extienden cerca de la superficie, como las de sauces, pueden producir brotes y, en última instancia, nuevas plantas. En el caso de que uno de los sistemas se pierda, el otro puede a menudo regenerarlo. De hecho, es posible cultivar una planta entera de una sola hoja, como es el caso de Saintpaulia, o incluso una sola célula, que puede dediferenciarse en un callo (una masa de células no especializadas). En las plantas vasculares, el xilema y el floema son los tejidos conductores que transportan recursos entre brotes y raíces. Las raíces se adaptan a menudo para almacenar alimentos como azúcares o almidón, como en remolacha azucarera y zanahorias.",
+      "annotations": [
+        {
+          "question": "¿Que raíz se adapta para almacenar alimentos como el almidón?",
+          "choices": [
+            {
+              "text": "la remolacha azucarera",
+              "start": 1086,
+              "end": 1105,
+              "type": "correct answer"
+            },
+            {
+              "text": "el xilema",
+              "start": 899,
+              "end": 908,
+              "type": "distractor"
+            },
+            {
+              "text": "el floema",
+              "start": 911,
+              "end": 920,
+              "type": "distractor"
+            },
+            {
+              "text": "los tubérculos",
+              "start": 388,
+              "end": 398,
+              "type": "distractor"
+            },
+            {
+              "text": "los estolones",
+              "start": 376,
+              "end": 385,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La provincia es tradicionalmente conocida como la \"Tierra de Pez y Arroz\". Fiel a su nombre, el arroz es el cultivo principal, seguido por el trigo; Zhejiang del Norte es también un centro de acuicultura en China, y la pesquería de Zhoushan es la más grande del país. Los principales cultivos comerciales incluyen yute y algodón, y la provincia también lidera las provincias de China en la producción de té. (El renombrado té Longjing es un producto de Hangzhou.) Las ciudades de Zhejiang han sido conocidas por la producción artesanal de bienes como la seda, por lo que ocupa el segundo lugar entre las provincias. Sus muchas ciudades de mercado conectan las ciudades con el campo.",
+      "annotations": [
+        {
+          "question": "¿De qué zona es la pesca la más grande del país?",
+          "choices": [
+            {
+              "text": "Zhoushan",
+              "start": 232,
+              "end": 240,
+              "type": "correct answer"
+            },
+            {
+              "text": "Zhejiang del Norte",
+              "start": 149,
+              "end": 167,
+              "type": "distractor"
+            },
+            {
+              "text": "Hangzhou",
+              "start": 453,
+              "end": 461,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Varios de los grandes museos generales de la ciudad se encuentran cerca del Boulevard. En el Bulevar propiamente dicho están la Sociedad Histórica de Virginia y el Museo de Bellas Artes de Virginia, dando su nombre a lo que a veces se llama el Distrito de Museos. Cerca de Broad Street se encuentra el Science Museum of Virginia, ubicado en el neoclásico antiguo Broad Street Union Station de 1919. Inmediatamente al lado está el Museo Infantil de Richmond, y a dos cuadras, el Centro de Arquitectura de Virginia. Dentro del centro se encuentra la Biblioteca de Virginia y el Centro de Historia de Richmond Valentine. Otros lugares son el Museo del Holocausto de Virginia y el Museo del Ferrocarril del Viejo Dominio.",
+      "annotations": [
+        {
+          "question": "¿Qué museo se encuentra en el Bulevar?",
+          "choices": [
+            {
+              "text": "el Museo de Bellas Artes de Virginia",
+              "start": 161,
+              "end": 197,
+              "type": "correct answer"
+            },
+            {
+              "text": "el Museo Infantil de Richmond",
+              "start": 427,
+              "end": 456,
+              "type": "distractor"
+            },
+            {
+              "text": "el Museo del Holocausto de Virginia",
+              "start": 636,
+              "end": 671,
+              "type": "distractor"
+            },
+            {
+              "text": "el Museo del Ferrocarril del Viejo Dominio",
+              "start": 674,
+              "end": 716,
+              "type": "distractor"
+            },
+            {
+              "text": "el Centro de Historia de Richmond Valentine",
+              "start": 573,
+              "end": 616,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Ibn Sina posteriormente se estableció en Rey, en las cercanías de la moderna Teherán, la ciudad natal de Rhazes; Donde Majd Addaula, un hijo del último emir búyida, fue gobernante nominal bajo la regencia de su madre (Seyyedeh Khatun). Cerca de treinta de las obras cortas de Ibn Sina se dice que fueron compuestas en Rey. Sin embargo, las constantes disputas entre la regente y su segundo hijo, Shams al-Daula, obligaron al erudito a abandonar el lugar. Después de una breve estancia en Qazvin pasó hacia el sur hasta Hamadãn, donde Shams al-Daula, otro emir búyida, se había establecido. Al principio, Ibn Sina entró al servicio de una dama de alto rango; Pero el emir, al enterarse de su llegada, lo llamó asistente médico y lo envió de vuelta con regalos a su vivienda. Ibn Sina fue incluso elevado a la oficina del visir. El emir decretó que debía ser desterrado del país. Ibn Sina, sin embargo, permaneció oculto durante cuarenta días en la casa del jeque Ahmed Fadhel, hasta que un nuevo ataque de enfermedad indujo al emir a restaurarlo a su puesto. Incluso durante este tiempo perturbado, Ibn Sina perseveró con sus estudios y enseñanza. Cada tarde, extractos de sus grandes obras, el Canon y el Sanatio, eran dictadas y explicadas a sus alumnos. A la muerte del emir, Ibn Sina dejó de ser visir y se escondió en la casa de un boticario, donde, con una intensa asiduidad, continuó la composición de sus obras.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo Ibn Sina después del decreto que debía ser desterrado?",
+          "choices": [
+            {
+              "text": "dejó de ser visir y se escondió en la casa de un boticario",
+              "start": 1287,
+              "end": 1345,
+              "type": "distractor"
+            },
+            {
+              "text": " permaneció oculto durante cuarenta días en la casa del jeque Ahmed Fadhel",
+              "start": 900,
+              "end": 974,
+              "type": "correct answer"
+            },
+            {
+              "text": "fue gobernante nominal bajo la regencia de su madre",
+              "start": 165,
+              "end": 216,
+              "type": "distractor"
+            },
+            {
+              "text": "pasó hacia el sur hasta Hamadãn, donde Shams al-Daula, otro emir búyida, se había establecido",
+              "start": 495,
+              "end": 588,
+              "type": "distractor"
+            },
+            {
+              "text": "entró al servicio de una dama de alto rango",
+              "start": 613,
+              "end": 656,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 2009, IGN nombró a la Xbox 360 la sexta consola de videojuegos más grande de todos los tiempos, de un campo de 25. Aunque no es la consola más vendida de la séptima generación, la Xbox 360 fue considerada por TechRadar como la más influyente, enfatizando la distribución de medios digitales y los juegos en línea a través de Xbox Live, y popularizando los premios de juegos. PC Magazine consideró la Xbox 360 como el prototipo para los juegos en línea, ya que \"demostró que las comunidades de juegos en línea podrían prosperar en el espacio de la consola\". Cinco años después del debut original de Xbox 360, la bien recibida cámara de captura de movimiento Kinect fue lanzada, que estableció el récord de ser el dispositivo electrónico de venta más rápida en la historia, y extendió la vida de la consola. Edge clasificó a Xbox 360 como la segunda mejor consola del período 1993-2013, diciendo: \"Tenía su propia red social, charla a través del juego, nuevos juegos indie cada semana, y la mejor versión de casi todos los juegos multiformatos. Más bien, se trata de las opciones que Microsoft hizo en la vida original de Xbox. La arquitectura similar al PC significaba que los primeros títulos de EA Sports funcionaban a 60 fps en comparación con sólo 30 en PS3, Xbox Live significaba que cada jugador dedicado tenía una lista de amigos existente, y Halo significaba que Microsoft tenía el asesino exclusivo. Y cuando los desarrolladores demo juegos en PC ahora lo hacen con una libreta de 360 - otro punto de referencia de la industria, y uno crítico \".",
+      "annotations": [
+        {
+          "question": "¿Por qué TechRadar clasificó a Xbox 360 como la consola de videojuegos más influyente?",
+          "choices": [
+            {
+              "text": "los primeros títulos de EA Sports funcionaban a 60 fps en comparación con sólo 30 en PS3",
+              "start": 1175,
+              "end": 1263,
+              "type": "distractor"
+            },
+            {
+              "text": "el prototipo para los juegos en línea, ya que \"demostró que las comunidades de juegos en línea podrían prosperar en el espacio de la consola\"",
+              "start": 417,
+              "end": 558,
+              "type": "distractor"
+            },
+            {
+              "text": "la distribución de medios digitales y los juegos en línea a través de Xbox Live",
+              "start": 258,
+              "end": 337,
+              "type": "correct answer"
+            },
+            {
+              "text": "su propia red social, charla a través del juego, nuevos juegos indie cada semana, y la mejor versión de casi todos los juegos multiformatos",
+              "start": 905,
+              "end": 1044,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las lenguas iranias forman una rama de las lenguas indoiranias, que a su vez son una rama de la familia lingüística indoeuropea. Los hablantes de lenguas iranias son conocidos como pueblos iranios. Las lenguas iranias históricas se agrupan en tres etapas: El iranio antiguo (hasta el 400 a. C.), el iraní medio (400 a. C. - 900 d. C.) y el nuevo iraní (desde el 900 d. De las lenguas antiguas iraníes, las mejor entendidas y grabadas son el persa antiguo (una lengua del Irán aqueménida) y el avéstico (la lengua del avéstico). Las lenguas iranias medias incluían el persa medio (una lengua del Irán sasánida), el parto y el bactriano.",
+      "annotations": [
+        {
+          "question": "¿Qué lengua sucedió de 400 antes de Cristo a 900 después de Cristo?",
+          "choices": [
+            {
+              "text": "iranio antiguo",
+              "start": 259,
+              "end": 273,
+              "type": "distractor"
+            },
+            {
+              "text": "iraní medio",
+              "start": 299,
+              "end": 310,
+              "type": "correct answer"
+            },
+            {
+              "text": "persa antiguo",
+              "start": 441,
+              "end": 454,
+              "type": "distractor"
+            },
+            {
+              "text": "avéstico",
+              "start": 493,
+              "end": 501,
+              "type": "distractor"
+            },
+            {
+              "text": "nuevo iraní",
+              "start": 340,
+              "end": 351,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En el mundo medieval de Oriente Medio, el físico y erudito islámico Al-Farabi (Alpharabius, 872-950), llevó a cabo un pequeño experimento sobre la existencia del vacío, en el que investigó los molinos de mano. [Fuente poco fiable] Concluyó que el volumen del aire se puede expandir para llenar el espacio disponible, y sugirió que el concepto de vacío perfecto era incoherente. Sin embargo, según Nader El-Bizri, el físico Ibn al-Haytham (Alhazen, 965-1039) y los teólogos de Mu 'tazili no estaban de acuerdo con Aristóteles y Al-Farabi. Usando geometría, Ibn al-Haytham demostró matemáticamente que el lugar (al-makan) es el vacío tridimensional imaginado entre las superficies interiores de un cuerpo que contiene. Según Ahmad Dallal, Abū Rayhān al-Bīrūnī también afirma que \"no hay evidencia observable que descarta la posibilidad del vacío\". La bomba de succión apareció más tarde en Europa desde el siglo XV.",
+      "annotations": [
+        {
+          "question": "¿Qué concepto investigó Al-Farabi?",
+          "choices": [
+            {
+              "text": "la existencia del vacío",
+              "start": 144,
+              "end": 167,
+              "type": "correct answer"
+            },
+            {
+              "text": "el volumen del aire",
+              "start": 244,
+              "end": 263,
+              "type": "distractor"
+            },
+            {
+              "text": "el vacío tridimensional",
+              "start": 623,
+              "end": 646,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Albert Wendt es un importante escritor samoano cuyas novelas e historias cuentan la experiencia samoana. En 1989, su novela Flying Fox in a Freedom Tree fue llevada al cine en Nueva Zelanda, dirigida por Martyn Sanderson. Otra novela Sons for the Return Home también se había convertido en un largometraje en 1979, dirigida por Paul Maunder. John Kneubuhl, nacido en Samoa Americana, fue un dramaturgo, guionista y escritor. Sia Figiel ganó en 1997 el Commonwealth Writers 'Prize por ficción en la región sudeste de Asia / Pacífico Sur con su novela \"Where We Once Belonged\". Momoe Von Reiche es una poeta y artista reconocida internacionalmente. Tusiata Avia es una poetisa de performance. Su primer libro de poesía Wild Dogs Under My Skirt fue publicado por Victoria University Press en 2004. Dan Taulapapa McMullin es un artista y escritor. Otros poetas y escritores samoanos incluyen a Sapa 'u Ruperake Petaia, Eti Sa' aga y Savea Sano Malifa, el editor del Samoa Observer.",
+      "annotations": [
+        {
+          "question": "¿Quién escribió el libro de poesía Wild Dogs Under My Skirt?",
+          "choices": [
+            {
+              "text": "Tusiata Avia",
+              "start": 647,
+              "end": 659,
+              "type": "correct answer"
+            },
+            {
+              "text": "Momoe Von Reiche",
+              "start": 576,
+              "end": 592,
+              "type": "distractor"
+            },
+            {
+              "text": "Albert Wendt",
+              "start": 0,
+              "end": 12,
+              "type": "distractor"
+            },
+            {
+              "text": "Savea Sano Malifa",
+              "start": 929,
+              "end": 946,
+              "type": "distractor"
+            },
+            {
+              "text": "Martyn Sanderson",
+              "start": 204,
+              "end": 220,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La organización social y económica única de la isla ha evolucionado con los años, pero se basa en los principios establecidos por William Glass en 1817 cuando estableció un asentamiento basado en la igualdad. Todas las familias de Tristán son granjeros, poseyendo sus propias existencias y / o pescando. Toda la tierra es de propiedad comunal. Todos los hogares tienen parcelas de tierra en The Patches en las que cultivan papas. El número de ganado se controla estrictamente para conservar los pastos y para evitar que las familias mejores acumulen riqueza. A menos que voten por un cambio en su ley, ningún extranjero puede comprar tierras o establecerse en Tristán. Teóricamente toda la isla tendría que estar en venta. Todas las personas, incluidos los niños y los jubilados, participan en la agricultura, mientras que los adultos además han asalariado empleos que trabajan para el Gobierno, o, un pequeño número en el servicio doméstico, y muchos de los hombres están involucrados en la industria pesquera. La temporada de pesca nominal dura 90 días; Sin embargo, durante la temporada de pesca de 2013 - del 1 de julio al 30 de septiembre - sólo hubo 10 días adecuados para la pesca.",
+      "annotations": [
+        {
+          "question": "¿En qué principio está basado la organización social del asentamiento?",
+          "choices": [
+            {
+              "text": "la igualdad",
+              "start": 196,
+              "end": 207,
+              "type": "correct answer"
+            },
+            {
+              "text": "la riqueza",
+              "start": 550,
+              "end": 557,
+              "type": "distractor"
+            },
+            {
+              "text": "la agricultura",
+              "start": 794,
+              "end": 808,
+              "type": "distractor"
+            },
+            {
+              "text": "el servicio doméstico",
+              "start": 920,
+              "end": 941,
+              "type": "distractor"
+            },
+            {
+              "text": "la industria pesquera",
+              "start": 989,
+              "end": 1010,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Consistente con las ideas políticas de Calvino, los protestantes crearon tanto las democracias inglesa como estadounidense. En la Inglaterra del siglo XVII, las personas y eventos más importantes en este proceso fueron la Guerra Civil inglesa, Oliver Cromwell, John Milton, John Locke, la Revolución Gloriosa, la Carta de Derechos inglesa y el Acta de Establecimiento. Más tarde, los británicos llevaron sus ideales democráticos a sus colonias, e.g. Australia, Nueva Zelanda e India. En América del Norte, la Colonia de Plymouth (Padres peregrinos; 1620) y la Colonia de la Bahía de Massachusetts (1628) practicaron el autogobierno democrático y la separación de poderes. Estos congregacionalistas estaban convencidos de que la forma democrática de gobierno era la voluntad de Dios. El Pacto del Mayflower fue un contrato social.",
+      "annotations": [
+        {
+          "question": "¿Qué fue o representó el Pacto del Mayflower?",
+          "choices": [
+            {
+              "text": "un contrato social",
+              "start": 810,
+              "end": 828,
+              "type": "correct answer"
+            },
+            {
+              "text": "la forma democrática de gobierno",
+              "start": 725,
+              "end": 757,
+              "type": "distractor"
+            },
+            {
+              "text": "la separación de poderes",
+              "start": 646,
+              "end": 670,
+              "type": "distractor"
+            },
+            {
+              "text": "el Acta de Establecimiento",
+              "start": 341,
+              "end": 367,
+              "type": "distractor"
+            },
+            {
+              "text": "la Carta de Derechos inglesa",
+              "start": 310,
+              "end": 338,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La estructura eclesiástica del Imperio romano sobrevivió a los movimientos e invasiones en el oeste en su mayoría intactas, pero el papado fue poco considerado, y pocos obispos occidentales buscaron al obispo de Roma para el liderazgo religioso o político. Muchos de los papas anteriores a 750 estaban más preocupados por los asuntos bizantinos y las controversias teológicas orientales. El registro, o copias archivadas de las cartas, del Papa Gregorio Magno (papa 590-604) sobrevivió, y de las más de 850 cartas, la gran mayoría se preocupaba por asuntos en Italia o Constantinopla. La única parte de Europa occidental donde el papado tuvo influencia fue Gran Bretaña, donde Gregorio había enviado la misión gregoriana en 597 para convertir a los anglosajones al cristianismo. Los misioneros irlandeses estuvieron más activos en Europa Occidental entre los siglos V y VII, yendo primero a Inglaterra y Escocia y luego al continente. Bajo monjes como Columba (m. 597) y Columbano (m. 615), fundaron monasterios, enseñaron latín y griego, y escribieron obras seculares y religiosas.",
+      "annotations": [
+        {
+          "question": "¿En qué año fue que Gregorio envió la misión gregoriana a Gran Bretaña?",
+          "choices": [
+            {
+              "text": "597",
+              "start": 724,
+              "end": 727,
+              "type": "correct answer"
+            },
+            {
+              "text": "750",
+              "start": 290,
+              "end": 293,
+              "type": "distractor"
+            },
+            {
+              "text": "615",
+              "start": 985,
+              "end": 988,
+              "type": "distractor"
+            },
+            {
+              "text": "850",
+              "start": 503,
+              "end": 506,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El idioma holandés ha sido conocido bajo una variedad de nombres. En neerlandés medio, que era una colección de dialectos, el dietsc se utilizó en Flandes y Brabante, mientras que las dietas o duutsc se usaban en los Países Bajos septentrionales. Deriva de la palabra germánica antigua theudisk, uno de los primeros nombres utilizados para las lenguas no romances de Europa Occidental, que significa (perteneciente a la lengua) del pueblo, es decir, la lengua germánica nativa. El término fue utilizado en oposición al latín, la lengua no nativa de la escritura y la Iglesia católica. En el primer texto en el que se encuentra, que data de 784, se refiere a los dialectos germánicos de Britania. En los juramentos de Estrasburgo (842) aparecía como teudisca para referirse a la porción germana del juramento.",
+      "annotations": [
+        {
+          "question": "¿De qué palabra germánica deriva el nombre del idioma holandés?",
+          "choices": [
+            {
+              "text": "theudisk",
+              "start": 286,
+              "end": 294,
+              "type": "correct answer"
+            },
+            {
+              "text": "duutsc",
+              "start": 193,
+              "end": 199,
+              "type": "distractor"
+            },
+            {
+              "text": "dietsc",
+              "start": 126,
+              "end": 132,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Durante la Edad de Bronce tardía la isla experimentó dos oleadas de asentamientos griegos. La primera ola consistió en comerciantes griegos micénicos que comenzaron a visitar Chipre alrededor de 1400 a. Se cree que una ola importante de asentamientos griegos tuvo lugar después del colapso de la Edad del Bronce de la Grecia micénica desde 1100 hasta 1050 a. C., con el carácter predominantemente griego de la isla que data de este período. Chipre ocupa un papel importante en la mitología griega siendo el lugar de nacimiento de Afrodita y Adonis, y el hogar del rey Cinyras, Teucer y Pigmalión. C. Se fundaron colonias fenicias en la costa sur de Chipre, cerca de la actual Larnaca y Salamina.",
+      "annotations": [
+        {
+          "question": "¿Cuál es el tema principal del texto?",
+          "choices": [
+            {
+              "text": "Chipre",
+              "start": 175,
+              "end": 181,
+              "type": "correct answer"
+            },
+            {
+              "text": "la Edad del Bronce de la Grecia",
+              "start": 293,
+              "end": 324,
+              "type": "distractor"
+            },
+            {
+              "text": "Afrodita y Adonis",
+              "start": 530,
+              "end": 547,
+              "type": "distractor"
+            },
+            {
+              "text": "Larnaca y Salamina",
+              "start": 676,
+              "end": 694,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Hyderabad ha continuado con estas tradiciones en su Festival Literario anual Hyderabad, que se celebra desde 2010, mostrando la creatividad literaria y cultural de la ciudad. Las organizaciones que participan en el avance de la literatura incluyen la Academia Sahitya, la Academia Urdu, la Academia Telugu, el Consejo Nacional para la Promoción de la Lengua Urdu, la Asociación de Literatura Comparada de India. El desarrollo literario es ayudado por instituciones estatales como la Biblioteca Central Estatal, la biblioteca pública más grande en el estado que fue establecida en 1891, y otras bibliotecas importantes como la Biblioteca Nacional de Sri Krishna Devaraya.",
+      "annotations": [
+        {
+          "question": "¿Cuál es la biblioteca pública más grande en el estado?",
+          "choices": [
+            {
+              "text": "la Biblioteca Central Estatal",
+              "start": 480,
+              "end": 509,
+              "type": "correct answer"
+            },
+            {
+              "text": "la Academia Urdu",
+              "start": 269,
+              "end": 285,
+              "type": "distractor"
+            },
+            {
+              "text": "la Academia Sahitya",
+              "start": 248,
+              "end": 267,
+              "type": "distractor"
+            },
+            {
+              "text": "la Asociación de Literatura Comparada de India",
+              "start": 364,
+              "end": 410,
+              "type": "distractor"
+            },
+            {
+              "text": "la Biblioteca Nacional de Sri Krishna Devaraya",
+              "start": 623,
+              "end": 669,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "General en jefe He Jin (d. 189 dC), medio hermano de la emperatriz He (d. 189 dC), conspiró con Yuan Shao (d. 202 dC) para derrocar a los eunucos. Allí, en una petición escrita a la emperatriz He, exigieron la ejecución de los eunucos. Después de un período de vacilación, la emperatriz él aceptó. Cuando los eunucos descubrieron esto, sin embargo, hicieron que su hermano He Miao (..) rescindiera la orden. Los eunucos asesinaron a He Jin el 22 de septiembre de 189. Yuan Shao asedió el Palacio del Norte de Luoyang mientras su hermano Yuan Shu (fallecido en 199) sitiaba el Palacio del Sur. El 25 de septiembre ambos palacios fueron violados y aproximadamente dos mil eunucos murieron. Zhang Rang había huido previamente con el emperador Shao (r. 189 dC) y su hermano Liu Xie - el futuro emperador Xian de Han (r. 189-220 dC). Mientras era perseguido por los hermanos Yuan, Zhang se suicidó saltando hacia el río Amarillo.",
+      "annotations": [
+        {
+          "question": "¿Qué evento se desencadenó el 25 de septiembre después de que los palacios fueran violados?",
+          "choices": [
+            {
+              "text": "aproximadamente dos mil eunucos murieron",
+              "start": 646,
+              "end": 686,
+              "type": "correct answer"
+            },
+            {
+              "text": "exigieron la ejecución de los eunucos",
+              "start": 197,
+              "end": 234,
+              "type": "distractor"
+            },
+            {
+              "text": "los eunucos asesinaron a He Jin",
+              "start": 408,
+              "end": 439,
+              "type": "distractor"
+            },
+            {
+              "text": "Zhang se suicidó saltando hacia el río Amarillo",
+              "start": 876,
+              "end": 923,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El gobierno colapsó después de sólo nueve meses cuando los liberales votaron por una investigación del Comité Selecto sobre el caso Campbell, una votación que MacDonald había declarado como un voto de confianza. Las siguientes elecciones generales de 1924 vieron la publicación, cuatro días antes del día de la votación, de la carta de Zinóviev, en la que Moscú habló de una revolución comunista en Gran Bretaña. La carta tuvo poco impacto en el voto laborista, que se mantuvo. Fue el colapso del partido liberal lo que llevó al derrumbe conservador. Los conservadores volvieron al poder, aunque los laboristas aumentaron su voto de 30,7% a un tercio del voto popular, la mayoría de los beneficios conservadores fueron a expensas de los liberales. Sin embargo, muchos Labouritas durante años culparon su derrota al juego sucio (la Carta Zinóviev), de acuerdo con A. J. P. Taylor malentendiendo las fuerzas políticas en el trabajo y retrasando las reformas necesarias en el partido.",
+      "annotations": [
+        {
+          "question": "¿Por qué colapsó el gobierno después de sólo nueve meses?",
+          "choices": [
+            {
+              "text": "los liberales votaron por una investigación del Comité Selecto sobre el caso Campbell",
+              "start": 55,
+              "end": 140,
+              "type": "correct answer"
+            },
+            {
+              "text": "los laboristas aumentaron su voto de 30,7% a un tercio del voto popular",
+              "start": 596,
+              "end": 667,
+              "type": "distractor"
+            },
+            {
+              "text": "una revolución comunista en Gran Bretaña",
+              "start": 371,
+              "end": 411,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Inmediatamente después de leer el sermón de Price, Burke escribió un borrador de lo que finalmente se convirtió, Reflexiones sobre la Revolución en Francia. El 13 de febrero de 1790, un aviso en la prensa dijo que en breve, Burke publicaría un panfleto sobre la Revolución y sus partidarios británicos, sin embargo, pasó el año revisándolo y expandiéndolo. El 1 de noviembre finalmente publicó Las Reflexiones y fue un best-seller inmediato. Con un precio de cinco chelines, era más caro que la mayoría de los panfletos políticos, pero a finales de 1790, había pasado por diez ediciones y había vendido aproximadamente 17.500 copias. Una traducción francesa apareció el 29 de noviembre y el 30 de noviembre el traductor, Pierre-Gaëton Dupont, escribió a Burke diciendo que ya se habían vendido 2.500 copias. La traducción francesa llegó a diez ediciones en junio de 1791.",
+      "annotations": [
+        {
+          "question": "¿Qué día se publicó Las Reflexiones?",
+          "choices": [
+            {
+              "text": "1 de noviembre",
+              "start": 360,
+              "end": 374,
+              "type": "correct answer"
+            },
+            {
+              "text": "30 de noviembre",
+              "start": 691,
+              "end": 706,
+              "type": "distractor"
+            },
+            {
+              "text": "29 de noviembre",
+              "start": 670,
+              "end": 685,
+              "type": "distractor"
+            },
+            {
+              "text": "13 de febrero",
+              "start": 160,
+              "end": 173,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En Brasil, la caída de la monarquía en 1889 por un golpe de estado militar llevó al surgimiento del sistema presidencial, encabezado por Deodoro da Fonseca. Ayudado por el conocido jurista Ruy Barbosa, Fonseca estableció el federalismo en Brasil por decreto, pero este sistema de gobierno sería confirmado por cada constitución brasileña desde 1891, aunque algunos de ellos distorsionarían algunos de los principios federalistas. La Constitución de 1937, por ejemplo, otorgó al gobierno federal la autoridad para nombrar a los gobernadores estatales (llamados interventores) a voluntad, centralizando así el poder en manos del presidente Getúlio Vargas. Brasil también utiliza el sistema Fonseca para regular el comercio interestatal. Brasil es uno de los gobiernos federales más grandes.",
+      "annotations": [
+        {
+          "question": "¿Qué fue el resultado de la caída de la monarquía?",
+          "choices": [
+            {
+              "text": "un golpe de estado militar",
+              "start": 48,
+              "end": 74,
+              "type": "distractor"
+            },
+            {
+              "text": "surgimiento del sistema presidencial",
+              "start": 84,
+              "end": 120,
+              "type": "correct answer"
+            },
+            {
+              "text": "constitución brasileña",
+              "start": 315,
+              "end": 337,
+              "type": "distractor"
+            },
+            {
+              "text": "el comercio interestatal",
+              "start": 709,
+              "end": 733,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El problema del cuerpo negro fue revisado en 1905, cuando Rayleigh y Jeans (por un lado) y Einstein (por otro lado) probaron independientemente que el electromagnetismo clásico nunca podría explicar el espectro observado. Estas pruebas se conocen comúnmente como la \"catástrofe ultravioleta\", un nombre acuñado por Paul Ehrenfest en 1911. Contribuyeron en gran medida (junto con el trabajo de Einstein sobre el efecto fotoeléctrico) a convencer a los físicos de que el postulado de Planck de los niveles de energía cuantizados era más que un mero formalismo matemático. La primera Conferencia de Solvay en 1911 se dedicó a \"la teoría de la radiación y los cuantos\". Max Planck recibió en 1918 el Premio Nobel de Física \"en reconocimiento a los servicios que prestó al avance de la Física por su descubrimiento de los cuantos de energía\".",
+      "annotations": [
+        {
+          "question": "¿Quién recibió el Premio Nobel de Física en 1918?",
+          "choices": [
+            {
+              "text": "Max Planck",
+              "start": 666,
+              "end": 676,
+              "type": "correct answer"
+            },
+            {
+              "text": "Einstein",
+              "start": 91,
+              "end": 99,
+              "type": "distractor"
+            },
+            {
+              "text": "Paul Ehrenfest",
+              "start": 315,
+              "end": 329,
+              "type": "distractor"
+            },
+            {
+              "text": "Rayleigh y Jeans",
+              "start": 58,
+              "end": 74,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El ejercicio puede provocar broncoconstricción tanto en personas con o sin asma. Ocurre en la mayoría de las personas con asma y hasta el 20% de las personas sin asma. La broncoconstricción inducida por el ejercicio es común en atletas profesionales. Las tasas más altas están entre los ciclistas (hasta el 45%), los nadadores y los esquiadores. Si bien puede ocurrir con cualquier condición meteorológica, es más común cuando está seco y frío. Los beta2-agonistas inhalados no parecen mejorar el rendimiento atlético entre aquellos sin asma, sin embargo las dosis orales pueden mejorar la resistencia y la fuerza.",
+      "annotations": [
+        {
+          "question": "¿Cuál es el tipo de atleta que hasta 45% de ellos experimentan la broncoconstricción?",
+          "choices": [
+            {
+              "text": "los ciclistas",
+              "start": 283,
+              "end": 296,
+              "type": "correct answer"
+            },
+            {
+              "text": "los nadadores",
+              "start": 313,
+              "end": 326,
+              "type": "distractor"
+            },
+            {
+              "text": "los esquiadores",
+              "start": 329,
+              "end": 344,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Seattle anualmente envía un equipo de la palabra hablada Slammers al National Poetry Slam y se considera el hogar de poetas como Buddy Wakefield, dos veces Individual World Poetry Slam Champ; Anis Mojgani, dos veces National Poetry Slam Champ; Y Danny Sherrard, 2007 National Poetry Slam Champ y 2008 Individual World Poetry Slam Champ. Seattle también fue sede del torneo nacional de Poetry Slam de 2001. El Seattle Poetry Festival es un festival de poesía bienal que (lanzado primero como el Poetry Circus en 1997) ha presentado nombres locales, regionales, nacionales e internacionales en poesía.",
+      "annotations": [
+        {
+          "question": "¿Quién ganó el Individual World Poetry Slam Champ en 2008?",
+          "choices": [
+            {
+              "text": "Danny Sherrard",
+              "start": 246,
+              "end": 260,
+              "type": "correct answer"
+            },
+            {
+              "text": "Anis Mojgani",
+              "start": 192,
+              "end": 204,
+              "type": "distractor"
+            },
+            {
+              "text": "Buddy Wakefield",
+              "start": 129,
+              "end": 144,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Hay varias teorías sobre el proceso de islamización en el sudeste asiático. Otra teoría es el comercio. La expansión del comercio entre el oeste de Asia, la India y el sudeste de Asia ayudó a la propagación de la religión como comerciantes musulmanes del sur de Yemen (Hadramout) llevaron el Islam a la región con su gran volumen de comercio. Muchos se establecieron en Indonesia, Singapur y Malasia. Esto es evidente en las poblaciones árabe-indonesia, árabe-singapurense y árabe-malaya que fueron en un momento muy prominentes en cada uno de sus países. La segunda teoría es el papel de los misioneros o sufíes. Los misioneros sufíes desempeñaron un papel importante en la difusión de la fe introduciendo ideas islámicas en la región. Finalmente, las clases dominantes abrazaron el Islam y eso ayudó a la permeación de la religión en toda la región. El gobernante del puerto más importante de la región, el Sultanato de Malaca, abrazó el Islam en el siglo XV, anunciando un período de conversión acelerada del Islam en toda la región.",
+      "annotations": [
+        {
+          "question": "¿Cuál es uno de los factores que permitió la propagación de la religión islámica?",
+          "choices": [
+            {
+              "text": "la expansión del comercio",
+              "start": 104,
+              "end": 129,
+              "type": "correct answer"
+            },
+            {
+              "text": "el gobernante del puerto",
+              "start": 852,
+              "end": 876,
+              "type": "distractor"
+            },
+            {
+              "text": "el Sultanato de Malaca",
+              "start": 906,
+              "end": 928,
+              "type": "distractor"
+            },
+            {
+              "text": "las poblaciones árabe-indonesia",
+              "start": 421,
+              "end": 452,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La reaparición del cubismo coincidió con la aparición de un cuerpo coherente de escritura teórica por Pierre Reverdy, Maurice Raynal y Daniel-Henry Kahnweiler y, entre los artistas, por Gris, Léger. El regreso ocasional al clasicismo - trabajo figurativo, ya sea exclusivamente o junto al trabajo cubista - experimentado por muchos artistas durante este período (llamado Neoclasicismo) se ha relacionado con la tendencia a evadir las realidades de la guerra. El cubismo después de 1918 puede ser visto como parte de un amplio cambio ideológico hacia el conservadurismo tanto en la sociedad francesa como en la cultura. Sin embargo, el cubismo se mantuvo evolutivo tanto dentro de la obra de artistas individuales, como Gris y Metzinger, y a través del trabajo de artistas tan diferentes entre sí como Braque, Léger y Gleizes. El cubismo como movimiento debatido públicamente se volvió relativamente unificado y abierto a la definición. Su pureza teórica la convirtió en un indicador contra el que se podían comparar tendencias tan diversas como el realismo o el naturalismo, el dadaísmo, el surrealismo y la abstracción.",
+      "annotations": [
+        {
+          "question": "¿Qué tendencia se le asocia con el regreso del clasicismo?",
+          "choices": [
+            {
+              "text": "evadir las realidades de la guerra",
+              "start": 423,
+              "end": 457,
+              "type": "correct answer"
+            },
+            {
+              "text": "la aparición de un cuerpo coherente de escritura teórica",
+              "start": 41,
+              "end": 97,
+              "type": "distractor"
+            },
+            {
+              "text": "comparar tendencias tan diversas como el realismo o el naturalismo",
+              "start": 1007,
+              "end": 1073,
+              "type": "distractor"
+            },
+            {
+              "text": "el conservadurismo tanto en la sociedad francesa como en la cultura",
+              "start": 550,
+              "end": 617,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La convergencia de estas diversas fuentes en una teoría uniforme de grupos comenzó con Traité des sustitutions et des équations algébriques de Camille Jordan (1870). Walther von Dyck (1882) introdujo la idea de especificar un grupo por medio de generadores y relaciones, y también fue el primero en dar una definición axiomática de un \"grupo abstracto\", en la terminología de la época. A partir del siglo XX, los grupos ganaron amplio reconocimiento por el trabajo pionero de Ferdinand Georg Frobenius y William Burnside, que trabajó en la teoría de representación de grupos finitos, la teoría de representación modular de Richard Brauer. La teoría de los grupos de Lie, y más generalmente los grupos compactos locales fue estudiada por Hermann Weyl, Élie Cartan y muchos otros. Su contraparte algebraica, la teoría de grupos algebraicos, fue modelada por primera vez por Claude Chevalley (desde finales de 1930) y más tarde por el trabajo de Armand Borel y Jacques Tits.",
+      "annotations": [
+        {
+          "question": "¿Quién modeló por primera vez la teoría de grupos algebraicos?",
+          "choices": [
+            {
+              "text": "Claude Chevalley",
+              "start": 872,
+              "end": 888,
+              "type": "correct answer"
+            },
+            {
+              "text": "Walther von Dyck",
+              "start": 166,
+              "end": 182,
+              "type": "distractor"
+            },
+            {
+              "text": "Camille Jordan",
+              "start": 143,
+              "end": 157,
+              "type": "distractor"
+            },
+            {
+              "text": "Ferdinand Georg Frobenius",
+              "start": 476,
+              "end": 501,
+              "type": "distractor"
+            },
+            {
+              "text": "Hermann Weyl",
+              "start": 737,
+              "end": 749,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Otro tema ambiental reciente en Melbourne fue el proyecto del gobierno victoriano de canal profundizando Melbourne Ports dragando Port Phillip Bay - el Port Phillip Channel Deepening Project. Fue objeto de controversia y regulaciones estrictas entre los temores de que las playas y la fauna marina pudieran verse afectadas por la perturbación de metales pesados y otros sedimentos industriales. Otros problemas de contaminación importantes en Melbourne incluyen niveles de bacterias, incluyendo E. coli en el río Yarra y sus afluentes causados por sistemas sépticos, así como basura. Hasta 350.000 colillas de cigarrillos entran en la escorrentía de agua de tormenta todos los días. Se están implementando varios programas para minimizar la contaminación de la playa y el río. En febrero de 2010, la década de transición, una iniciativa para la transición de la sociedad humana, la economía y el medio ambiente hacia la sostenibilidad, se lanzó en Melbourne.",
+      "annotations": [
+        {
+          "question": "¿Qué son afectadas en el río Yarra por la contaminación causado por sistemas sépticos?",
+          "choices": [
+            {
+              "text": "los niveles de bacterias",
+              "start": 462,
+              "end": 482,
+              "type": "correct answer"
+            },
+            {
+              "text": "las colillas de cigarrillos",
+              "start": 598,
+              "end": 621,
+              "type": "distractor"
+            },
+            {
+              "text": "las playas",
+              "start": 269,
+              "end": 279,
+              "type": "distractor"
+            },
+            {
+              "text": "la fauna marina",
+              "start": 282,
+              "end": 297,
+              "type": "distractor"
+            },
+            {
+              "text": "la perturbación de metales pesados",
+              "start": 327,
+              "end": 361,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El área del Gran Richmond fue nombrada la tercera mejor ciudad para los negocios por MarketWatch en septiembre de 2007, detrás de las áreas de Minneapolis y Denver y justo por encima de Boston. El área es el hogar de seis empresas de Fortune 500: Electric utility Dominion Resources; ¡CarMax! Owens & Minor? (En inglés). Genworth Financial; ¡MeadWestvaco! McKesson Medical-Surgical and Altria Group (en inglés). Sin embargo, sólo Dominion Resources y MeadWestvaco tienen su sede dentro de la ciudad de Richmond; Los otros se encuentran en los condados vecinos de Henrico y Hanover. En 2008, Altria trasladó su sede corporativa de la ciudad de Nueva York al condado de Henrico, añadiendo otra corporación Fortune 500 a la lista de Richmond. En febrero de 2006, MeadWestvaco anunció que se trasladaría de Stamford, Connecticut a Richmond en 2008 con la ayuda de Greater Richmond Partnership, una organización regional de desarrollo económico que también ayudó a localizar Aditya Birla Minacs.",
+      "annotations": [
+        {
+          "question": "¿A qué ciudad se cambiaría MeadWestvaco en 2008?",
+          "choices": [
+            {
+              "text": "Richmond",
+              "start": 827,
+              "end": 835,
+              "type": "correct answer"
+            },
+            {
+              "text": "Boston",
+              "start": 186,
+              "end": 192,
+              "type": "distractor"
+            },
+            {
+              "text": "Denver",
+              "start": 157,
+              "end": 163,
+              "type": "distractor"
+            },
+            {
+              "text": "Minneapolis",
+              "start": 143,
+              "end": 154,
+              "type": "distractor"
+            },
+            {
+              "text": "Nueva York",
+              "start": 643,
+              "end": 653,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La presentación de \"Summertime\" por Barrino, más tarde conocido simplemente como \"Fantasia\", en el Top 8 fue ampliamente elogiado, y Simon Cowell lo consideró como su momento ídolo favorito en las nueve temporadas que estuvo en el show. Fantasia y Diana DeGarmo fueron las dos últimas finalistas, y Fantasia fue coronada como la ganadora. Fantasia lanzó su sencillo de coronación \"I Believe\", una canción co-escrita por la finalista de la primera temporada Tamyra Gray, y DeGarmo lanzó \"Dreams\". Fantasia obtuvo algunos éxitos como artista de grabación, mientras que Hudson, que quedó en séptimo lugar, se convirtió en el único concursante de Idol hasta el momento en ganar un Premio de la Academia y un Grammy.",
+      "annotations": [
+        {
+          "question": "¿Qué nombre originalmente tenía \"Fantasia\"?",
+          "choices": [
+            {
+              "text": "Summertime",
+              "start": 20,
+              "end": 30,
+              "type": "correct answer"
+            },
+            {
+              "text": "Dreams",
+              "start": 487,
+              "end": 493,
+              "type": "distractor"
+            },
+            {
+              "text": "I Believe",
+              "start": 381,
+              "end": 390,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los Testigos de Jehová es una denominación cristiana restauracionista con creencias no trinitarias distintas de la corriente principal del cristianismo. El grupo reclama una membresía mundial de más de 8,2 millones de adherentes involucrados en el evangelismo, las cifras de asistencia a las convenciones de más de 15 millones, y una asistencia anual de más de 19,9 millones. Los Testigos de Jehová son dirigidos por el Cuerpo Rector de los Testigos de Jehová, un grupo de ancianos en Brooklyn, Nueva York, que establece todas las doctrinas basadas en sus interpretaciones de la Biblia. Prefieren usar su propia traducción, la Traducción del Nuevo Mundo de las Sagradas Escrituras, aunque su literatura ocasionalmente cita y cita otras traducciones. Creen que la destrucción del sistema mundial actual en Armagedón es inminente, y que el establecimiento del reino de Dios sobre la tierra es la única solución para todos los problemas que enfrenta la humanidad.",
+      "annotations": [
+        {
+          "question": "¿Qué es el Cuerpo Rector de los Testigos de Jehová?",
+          "choices": [
+            {
+              "text": "un grupo de ancianos en Brooklyn",
+              "start": 461,
+              "end": 493,
+              "type": "correct answer"
+            },
+            {
+              "text": "una membresía mundial de más de 8,2 millones de adherentes",
+              "start": 170,
+              "end": 228,
+              "type": "distractor"
+            },
+            {
+              "text": "una denominación cristiana restauracionista con creencias no trinitarias",
+              "start": 26,
+              "end": 98,
+              "type": "distractor"
+            },
+            {
+              "text": "el establecimiento del reino de Dios sobre la tierra",
+              "start": 835,
+              "end": 887,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La fuente de almidón en una cerveza proporciona el material fermentable y es un determinante clave de la fuerza y el sabor de la cerveza. La fuente de almidón más común utilizada en la cerveza es el grano malteado. El grano es malteado sumergiéndolo en agua, lo que le permite comenzar la germinación, y luego secar el grano parcialmente germinado en un horno. La malteada del grano produce enzimas que convierten almidones en azúcares fermentables. Diferentes tiempos de tostado y temperaturas se utilizan para producir diferentes colores de malta del mismo grano. Las maltas más oscuras producen cervezas más oscuras.",
+      "annotations": [
+        {
+          "question": "¿Qué elemento en la cerveza determina la fuerza y el sabor de la cerveza?",
+          "choices": [
+            {
+              "text": "almidón",
+              "start": 13,
+              "end": 20,
+              "type": "correct answer"
+            },
+            {
+              "text": "agua",
+              "start": 253,
+              "end": 257,
+              "type": "distractor"
+            },
+            {
+              "text": "azúcares fermentables",
+              "start": 427,
+              "end": 448,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El uranio es un elemento químico con símbolo U y número atómico 92. Es un metal blanco plateado en la serie actínido de la tabla periódica. Un átomo de uranio tiene 92 protones y 92 electrones, de los cuales 6 son electrones de valencia. El uranio es débilmente radiactivo porque todos sus isótopos son inestables (con vidas medias de los seis isótopos naturales conocidos, uranio-233 a uranio-238, que varían entre 69 años y 4,5 mil millones de años). Los isótopos más comunes del uranio son el uranio-238 (que tiene 146 neutrones y representa casi el 99,3% del uranio encontrado en la naturaleza) y el uranio-235 (que tiene 143 neutrones). El uranio tiene el segundo peso atómico más alto de los elementos que ocurren primordialmente, más ligero que el plutonio. Su densidad es aproximadamente un 70% superior a la de plomo, pero ligeramente inferior a la de oro o wolframio. Se produce naturalmente en bajas concentraciones de unas pocas partes por millón en suelo, roca y agua, y se extrae comercialmente de minerales que contienen uranio como la uraninita.",
+      "annotations": [
+        {
+          "question": "¿Qué tipo de uranio representa casi el 99,3% del uranio en la naturaleza?",
+          "choices": [
+            {
+              "text": "uranio-238",
+              "start": 496,
+              "end": 506,
+              "type": "correct answer"
+            },
+            {
+              "text": "uranio-233",
+              "start": 374,
+              "end": 384,
+              "type": "distractor"
+            },
+            {
+              "text": "uranio-235",
+              "start": 604,
+              "end": 614,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La historia genética de los pueblos indígenas de América se centra principalmente en los haplogrupos de ADN del cromosoma Y humano y haplogrupos de ADN mitocondrial humano. El \"ADN-Y\" se pasa únicamente a lo largo de la línea patrilineal, de padre a hijo, mientras que el \"ADNmt\" se pasa por la línea matrilineal, de madre a descendencia de ambos sexos. Ni se recombina, y por lo tanto el ADN-Y y ADNmt cambian sólo por mutación casual en cada generación sin intermezcla entre el material genético de los padres. También se utilizan marcadores autosómicos de \"ADNt\", pero difieren del ADNmt o ADN-Y en que se superponen significativamente. El ADNato se utiliza generalmente para medir la mezcla genética continental de ascendencia genética en todo el genoma humano y poblaciones aisladas relacionadas.",
+      "annotations": [
+        {
+          "question": "¿Qué ADN se pasa de madre a hijos?",
+          "choices": [
+            {
+              "text": "ADNmt",
+              "start": 273,
+              "end": 278,
+              "type": "correct answer"
+            },
+            {
+              "text": "ADN-Y",
+              "start": 177,
+              "end": 182,
+              "type": "distractor"
+            },
+            {
+              "text": "ADNt",
+              "start": 560,
+              "end": 564,
+              "type": "distractor"
+            },
+            {
+              "text": "ADNato",
+              "start": 643,
+              "end": 649,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El gobierno de Idris fue cada vez más impopular en la década de 1960; Había exacerbado las divisiones regionales y tribales tradicionales de Libia centralizando el sistema federal del país con el fin de aprovechar la riqueza petrolera del país, mientras que la corrupción y los sistemas arraigados de patrocinio se generalizaron en toda la industria petrolera. El nacionalismo árabe fue cada vez más popular, y las protestas estallaron después de la derrota de Egipto en 1967 en la Guerra de los Seis Días con Israel; Aliado con las potencias occidentales, la administración de Idris fue vista como pro-israelí. Los disturbios antioccidentales estallaron en Trípoli y Bengasi, mientras que los trabajadores libios cerraron terminales de petróleo en solidaridad con Egipto. En 1969, la Agencia Central de Inteligencia de Estados Unidos esperaba segmentos de las fuerzas armadas de Libia para lanzar un golpe de Estado. Aunque se han hecho afirmaciones de que conocían el Movimiento de Oficiales Libres de Gadafi, desde entonces han afirmado ignorancia, afirmando que estaban monitoreando el grupo revolucionario de Abdelaziz Shalhi.",
+      "annotations": [
+        {
+          "question": "¿Qué esperaba la Agencia Central de Inteligencia de Estados Unidos en 1969?",
+          "choices": [
+            {
+              "text": "segmentos de las fuerzas armadas de Libia para lanzar un golpe de Estado",
+              "start": 844,
+              "end": 916,
+              "type": "correct answer"
+            },
+            {
+              "text": "las divisiones regionales y tribales tradicionales de Libia",
+              "start": 87,
+              "end": 146,
+              "type": "distractor"
+            },
+            {
+              "text": "el sistema federal del país con el fin de aprovechar la riqueza petrolera del país",
+              "start": 161,
+              "end": 243,
+              "type": "distractor"
+            },
+            {
+              "text": "que los trabajadores libios cerraron terminales de petróleo en solidaridad con Egipto",
+              "start": 686,
+              "end": 771,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Desde mediados de la década de 1980, Spielberg ha aumentado su papel como productor de cine. Dirigió el equipo de producción de varios dibujos animados, incluyendo los éxitos de Warner Bros. Tiny Toon Adventures, Animaniacs, Pinky and the Brain, Toonsylvania, y Freakazoid!, para la que colaboró. Debido a su trabajo en estas series, en los títulos oficiales, la mayoría de ellos dicen, \"Steven Spielberg presenta\", así como hacer numerosos cameos en los espectáculos. Spielberg también produjo los dibujos animados de Don Bluth, An American Tail y The Land Before Time, que fueron lanzados por Universal Studios. También se desempeñó como uno de los productores ejecutivos de Who Framed Roger Rabbit y sus tres cortos relacionados (Tummy Trouble, Roller Coaster Rabbit, Trail Mix-Up), que fueron lanzados por Disney, bajo las pancartas de Walt Disney. Fue además, por un corto tiempo, el productor ejecutivo del drama médico ER. En 1989, llevó el concepto de The Dig to LucasArts. Contribuyó al proyecto desde entonces hasta 1995, cuando el juego fue lanzado. También colaboró con los editores de software Knowledge Adventure en el juego multimedia Director 's Chair de Steven Spielberg, que fue lanzado en 1996. Spielberg aparece, como él mismo, en el juego para dirigir al jugador. El nombre de Spielberg proporcionó la marca para un kit de Lego Moviemaker, cuyos ingresos fueron a la Fundación Starbright.",
+      "annotations": [
+        {
+          "question": "¿Cómo contribuyó Spielberg a los videojuegos en los años 90?",
+          "choices": [
+            {
+              "text": "proporcionó la marca para un kit de Lego Moviemaker",
+              "start": 1308,
+              "end": 1359,
+              "type": "distractor"
+            },
+            {
+              "text": "colaboró con los editores de software Knowledge Adventure",
+              "start": 1069,
+              "end": 1126,
+              "type": "correct answer"
+            },
+            {
+              "text": "se desempeñó como uno de los productores ejecutivos de Who Framed Roger Rabbit",
+              "start": 622,
+              "end": 700,
+              "type": "distractor"
+            },
+            {
+              "text": "produjo los dibujos animados de Don Bluth, An American Tail y The Land Before Time",
+              "start": 487,
+              "end": 569,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Existe una relación directa entre las caídas en la riqueza y las caídas en el consumo y la inversión empresarial, que junto con el gasto público, representan el motor económico. Entre junio de 2007 y noviembre de 2008, los estadounidenses perdieron un promedio estimado de más de un cuarto de su valor neto colectivo. A principios de noviembre de 2008, un amplio índice bursátil de Estados Unidos, el S & P 500, se redujo un 45% de su máximo de 2007. Los precios de la vivienda habían caído un 20% desde su pico de 2006, con los mercados de futuros señalando una caída potencial del 30-35%. El capital inmobiliario total en los Estados Unidos, que fue valorado en 13 billones de dólares en su punto máximo en 2006, había caído a 8,8 billones de dólares a mediados de 2008 y todavía estaba cayendo a finales de 2008. El total de activos de retiro, el segundo mayor activo de los hogares estadounidenses, cayó un 22%, de $10.3 billones en 2006 a $8 billones a mediados de 2008. Durante el mismo período, los activos de ahorro e inversión (aparte de los ahorros de jubilación) perdieron 1,2 billones de dólares y los activos de pensiones perdieron 1,3 billones de dólares. En conjunto, esas pérdidas suman un total asombroso de 8,3 billones de dólares. Desde que llegó a su punto máximo en el segundo trimestre de 2007, la riqueza de los hogares ha bajado 14 billones de dólares.",
+      "annotations": [
+        {
+          "question": "¿En qué porcentaje se redujo en el 2008 el índice S & P 500 de su máximo de 2007?",
+          "choices": [
+            {
+              "text": "45%",
+              "start": 425,
+              "end": 428,
+              "type": "correct answer"
+            },
+            {
+              "text": "20%",
+              "start": 494,
+              "end": 497,
+              "type": "distractor"
+            },
+            {
+              "text": "22%",
+              "start": 911,
+              "end": 914,
+              "type": "distractor"
+            },
+            {
+              "text": "35%",
+              "start": 586,
+              "end": 589,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Jeffries y Ryan argumentan que la posición de no ayuda obtuvo el apoyo de una coalición de opinión separacionista. Lo más importante fue el \"laicismo generalizado que llegó a dominar la vida pública estadounidense\", que buscaba confinar la religión a una esfera privada. Además, la prohibición de la ayuda del gobierno a las escuelas religiosas fue apoyada antes de 1970 por la mayoría de los protestantes (y la mayoría de los judíos), que se oponían a la ayuda a las escuelas religiosas, que eran en su mayoría católicas. Después de 1980, sin embargo, el sentimiento anticatólico ha disminuido entre los protestantes principales, y la crucial coalición de secularistas públicos e iglesias protestantes se ha derrumbado. Si bien las principales denominaciones protestantes están más inclinadas a una estricta separación de la iglesia y el estado, gran parte de la opinión evangélica ha abandonado en gran medida esa posición. Como consecuencia, el separacionismo estricto se opone hoy en día por miembros de muchas religiones protestantes, incluso tal vez eclipsando la oposición de los católicos. [Cita requerida]",
+      "annotations": [
+        {
+          "question": "¿Qué cambio se dio en la opinión protestante después de 1980?",
+          "choices": [
+            {
+              "text": "el sentimiento anticatólico ha disminuido",
+              "start": 553,
+              "end": 594,
+              "type": "correct answer"
+            },
+            {
+              "text": "la posición de no ayuda obtuvo el apoyo de una coalición de opinión separacionista",
+              "start": 31,
+              "end": 113,
+              "type": "distractor"
+            },
+            {
+              "text": "el \"laicismo generalizado que llegó a dominar la vida pública estadounidense\"",
+              "start": 137,
+              "end": 214,
+              "type": "distractor"
+            },
+            {
+              "text": "se oponían a la ayuda a las escuelas religiosas, que eran en su mayoría católicas",
+              "start": 440,
+              "end": 521,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Nueva Delhi tiene uno de los sistemas de transporte de autobuses más grandes de la India. Los autobuses son operados por la empresa estatal Delhi Transport Corporation (DTC), que posee la mayor flota de autobuses alimentados con gas natural comprimido en el mundo. Los vehículos personales, especialmente los automóviles, también forman una gran cantidad de vehículos que se encuentran en las carreteras de Nueva Delhi. Nueva Delhi tiene el mayor número de coches registrados en comparación con cualquier otra ciudad metropolitana de la India. Los taxis y los rickshaws de auto también cubren las carreteras de Nueva Delhi en grandes cantidades. Nueva Delhi tiene una de las más altas densidad de carreteras de la India.",
+      "annotations": [
+        {
+          "question": "¿Qué vehículos tiene la Delhi Transport Corporation?",
+          "choices": [
+            {
+              "text": "autobuses",
+              "start": 94,
+              "end": 103,
+              "type": "correct answer"
+            },
+            {
+              "text": "taxis",
+              "start": 548,
+              "end": 553,
+              "type": "distractor"
+            },
+            {
+              "text": "coches",
+              "start": 457,
+              "end": 463,
+              "type": "distractor"
+            },
+            {
+              "text": "vehículos personales",
+              "start": 269,
+              "end": 289,
+              "type": "distractor"
+            },
+            {
+              "text": "rickshaws",
+              "start": 560,
+              "end": 569,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los puertos USB de sueño y carga se pueden utilizar para cargar dispositivos electrónicos incluso cuando la computadora se apaga. Normalmente, cuando una computadora es alimentada desde los puertos USB es apagada, evitando que los teléfonos y otros dispositivos carguen. Los puertos USB de carga y sueño permanecen alimentados incluso cuando la computadora está apagada. En las computadoras portátiles, dispositivos de carga desde el puerto USB cuando no está siendo alimentado desde AC drena la batería de portátiles más rápido; La mayoría de los portátiles tienen una instalación para detener la carga si su propio nivel de carga de batería se hace demasiado bajo.",
+      "annotations": [
+        {
+          "question": "¿Qué se utiliza para cargar dispositivos electrónicos cuando ya se apagó la computadora?",
+          "choices": [
+            {
+              "text": "los puertos USB",
+              "start": 186,
+              "end": 201,
+              "type": "correct answer"
+            },
+            {
+              "text": "los teléfonos",
+              "start": 227,
+              "end": 240,
+              "type": "distractor"
+            },
+            {
+              "text": "las baterías de portátiles",
+              "start": 493,
+              "end": 517,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Sichuan es uno de los principales centros industriales de China. Además de las industrias pesadas como el carbón, la energía, el hierro y el acero, la provincia también ha establecido un sector industrial ligero que comprende materiales de construcción, procesamiento de madera, alimentos y procesamiento de seda. Chengdu y Mianyang son los centros de producción de textiles y productos electrónicos. Deyang, Panzhihua y Yibin son los centros de producción de maquinaria, industrias metalúrgicas y vino, respectivamente. La producción de vino de Sichuan representó el 21,9% de la producción total del país en 2000.",
+      "annotations": [
+        {
+          "question": "¿Cómo se llama la región en Sichuan que produce vino?",
+          "choices": [
+            {
+              "text": "Yibin",
+              "start": 421,
+              "end": 426,
+              "type": "correct answer"
+            },
+            {
+              "text": "Chengdu",
+              "start": 314,
+              "end": 321,
+              "type": "distractor"
+            },
+            {
+              "text": "Mianyang",
+              "start": 324,
+              "end": 332,
+              "type": "distractor"
+            },
+            {
+              "text": "Deyang",
+              "start": 401,
+              "end": 407,
+              "type": "distractor"
+            },
+            {
+              "text": "Panzhihua",
+              "start": 409,
+              "end": 418,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los ordenadores conectados a la ARPANET incluían máquinas que ejecutaban sistemas operativos como TOPS-10 y TENEX usando terminaciones de línea CR-LF, máquinas que ejecutaban sistemas operativos como Multics. El protocolo Telnet define un ASCII \"Network Virtual Terminal\" (NVT), de modo que las conexiones entre hosts con diferentes convenciones de terminación de línea y conjuntos de caracteres podrían ser soportados transmitiendo un formato de texto estándar sobre la red. Telnet utiliza ASCII junto con los finales de línea CR-LF, y el software que utiliza otras convenciones se traduciría entre las convenciones locales y el NVT. El protocolo de transferencia de archivos adoptó el protocolo Telnet, incluyendo el uso de la terminal virtual de red, para su uso cuando se transmiten comandos y se transfieren datos en el modo ASCII predeterminado. Esto añade complejidad a las implementaciones de esos protocolos, y a otros protocolos de red, como los utilizados para E-mail y la World Wide Web, en sistemas que no utilizan la convención de line-ending CR-LF de NVT.",
+      "annotations": [
+        {
+          "question": "¿Qué terminaciones de línea usan los ordenadores ARPANET?",
+          "choices": [
+            {
+              "text": "CR-LF",
+              "start": 144,
+              "end": 149,
+              "type": "correct answer"
+            },
+            {
+              "text": "ASCII",
+              "start": 239,
+              "end": 244,
+              "type": "distractor"
+            },
+            {
+              "text": "NVT",
+              "start": 630,
+              "end": 633,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El 21 de octubre de 2008, Apple informó que sólo el 14,21% de los ingresos totales para el trimestre fiscal 4 del año 2008 provenían de iPods. El 9 de septiembre de 2009, Phil Schiller anunció que las ventas acumuladas de iPods superaban los 220 millones. El declive continuo de las ventas de iPod desde 2009 no ha sido una tendencia sorprendente para la corporación Apple, como explicó Peter Oppenheimer en junio de 2009: \"Esperamos que nuestros reproductores de MP3 tradicionales declinen con el tiempo mientras nos canibalizamos. Desde 2009, las ventas de iPod de la compañía han disminuido continuamente cada trimestre financiera y en 2013 un nuevo modelo no se introdujo en el mercado.",
+      "annotations": [
+        {
+          "question": "¿Cuándo anunció Phil Schiller que las ventas acumuladas de iPods estaban superando los 220 millones?",
+          "choices": [
+            {
+              "text": "septiembre de 2009",
+              "start": 151,
+              "end": 169,
+              "type": "correct answer"
+            },
+            {
+              "text": "octubre de 2008",
+              "start": 9,
+              "end": 24,
+              "type": "distractor"
+            },
+            {
+              "text": "junio de 2009",
+              "start": 408,
+              "end": 421,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A finales de los años 80, House se había mudado al oeste, particularmente a San Francisco, Oakland, Los Ángeles, Fresno, San Diego y Seattle. Los Ángeles vio una enorme explosión de raves subterráneos y DJs, en particular los DJs Marques Wyatt y Billy Long, que giraron en Jewel 's Catch One, el club de baile más antiguo de Estados Unidos. En 1989, el ex cantante y rapero de EBN-OZN, Robert OZN, comenzó con el sello independiente One Voice Records, lanzando el remix de Mike \"Hitman\" Wilson de Dada Nada \"Haunted House\". El disco alcanzó el número cinco en el Billboard Club Chart, siendo el primer disco de House de un artista blanco en ingresar al Dada Nada, el nombre del grupo en solitario de OZN, Frankie Acick.",
+      "annotations": [
+        {
+          "question": "¿En qué ciudad tocaban DJs como Marques Wyatt y Billy Long?",
+          "choices": [
+            {
+              "text": "Los Ángeles",
+              "start": 142,
+              "end": 153,
+              "type": "correct answer"
+            },
+            {
+              "text": "San Diego",
+              "start": 121,
+              "end": 130,
+              "type": "distractor"
+            },
+            {
+              "text": "Seattle",
+              "start": 133,
+              "end": 140,
+              "type": "distractor"
+            },
+            {
+              "text": "San Francisco",
+              "start": 76,
+              "end": 89,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El 25 de junio de 2006, Warren Buffett (entonces la persona más rica del mundo, con un valor estimado de US $62 mil millones para el 16 de abril de 2008) se comprometió a donar a la fundación aproximadamente 10 millones. Buffett establece las condiciones para que estas contribuciones no solo aumenten la dotación de la fundación, sino que efectivamente trabajan como una contribución complementaria, duplicando la donación anual de la Fundación. Debe seguir calificando como caridad; Y cada año debe donar una cantidad igual al regalo del año anterior en Berkshire, más una cantidad adicional igual al 5% de los activos netos. Buffett dio a la fundación dos años para cumplir con el tercer requisito \". La Fundación Gates recibió el 5% (500.000) de las acciones en julio de 2006 y recibirá el 5% de las acciones restantes en el mes de julio de cada año siguiente (475.000 en 2007, 451.250 en 2008). En julio de 2013, Buffet anunció otra donación de la clase B de su compañía, esta vez en la cantidad de $2 mil millones, va a la Fundación Bill y Melinda Gates.",
+      "annotations": [
+        {
+          "question": "¿Cuántas acciones recibirá la Fundación Gates en el 2008?",
+          "choices": [
+            {
+              "text": "451.250",
+              "start": 882,
+              "end": 889,
+              "type": "correct answer"
+            },
+            {
+              "text": "475.000",
+              "start": 865,
+              "end": 872,
+              "type": "distractor"
+            },
+            {
+              "text": "500.000",
+              "start": 738,
+              "end": 745,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La compañía continuó revisando cuidadosamente los títulos presentados, dándoles puntuaciones utilizando una escala de 40 puntos y asignando los recursos de marketing de Nintendo en consecuencia. Cada región realizó evaluaciones separadas. Nintendo of America también mantuvo una política que, entre otras cosas, limitaba la cantidad de violencia en los juegos en sus sistemas. Un juego, Mortal Kombat, desafiaría esta política. Un golpe sorpresa en las arcadas en 1992, Mortal Kombat cuenta con salpicaduras de sangre y movimientos finales que a menudo representan a un personaje desmembrando al otro. Debido a que la versión Genesis conservó el gore mientras que la versión SNES no lo hizo, vendió más que la versión SNES por una proporción de tres o cuatro a uno.",
+      "annotations": [
+        {
+          "question": "¿Qué tenía la versión Genesis que no tenía la versión SNES?",
+          "choices": [
+            {
+              "text": "el gore",
+              "start": 643,
+              "end": 650,
+              "type": "correct answer"
+            },
+            {
+              "text": "recursos de marketing",
+              "start": 144,
+              "end": 165,
+              "type": "distractor"
+            },
+            {
+              "text": "violencia",
+              "start": 336,
+              "end": 345,
+              "type": "distractor"
+            },
+            {
+              "text": "una escala de 40 puntos",
+              "start": 104,
+              "end": 127,
               "type": "distractor"
             }
           ]
