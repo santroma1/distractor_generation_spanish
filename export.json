@@ -16755,6 +16755,710 @@
           ]
         }
       ]
+    },
+    {
+      "context": "Kublai preparó el traslado de la capital mongola de Karakorum en Mongolia a Khanbaliq en 1264, construyendo una nueva ciudad cerca de la antigua capital Jurchen, Zhongdu, hoy Pekín, en 1266. En 1271, Kublai reclamó formalmente el Mandato del Cielo y declaró que 1272 fue el primer año del Gran Yuan (en chino: 大.) al estilo de una dinastía tradicional china. El nombre de la dinastía se originó a partir del I Ching y describe el \"origen del universo\" o una \"fuerza primordial\". Kublai proclamó Khanbaliq la \"Gran Capital\" o Daidu (Dadu, chino: 大.) de la dinastía. El nombre de la era fue cambiado a Zhiyuan para anunciar una nueva era de la historia china. La adopción de un nombre dinástico legitimó el gobierno mongol integrando el gobierno en la narrativa de la sucesión política tradicional china. Khublai evocó su imagen pública como un emperador sabio al seguir los rituales de la propiedad confuciana y la veneración de antepasados, al tiempo que conserva sus raíces como un líder de las estepas.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo Kublai en 1264?",
+          "choices": [
+            {
+              "text": "preparó el traslado de la capital mongola de Karakorum en Mongolia a Khanbaliq",
+              "start": 7,
+              "end": 85,
+              "type": "correct answer"
+            },
+            {
+              "text": "reclamó formalmente el Mandato del Cielo",
+              "start": 207,
+              "end": 247,
+              "type": "distractor"
+            },
+            {
+              "text": "evocó su imagen pública como un emperador sabio al seguir los rituales de la propiedad confuciana y la veneración de antepasados",
+              "start": 811,
+              "end": 939,
+              "type": "distractor"
+            },
+            {
+              "text": "legitimó el gobierno mongol integrando el gobierno en la narrativa de la sucesión política tradicional china",
+              "start": 693,
+              "end": 801,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "HT no participa en la yihad armada o trabaja para un sistema democrático, pero trabaja para tomar el poder a través de la \"lucha ideológica\" para cambiar la opinión pública musulmana, y en particular a través de élites que \"facilitarán\". Supuestamente intentó y fracasó tales golpes en 1968 y 1969 en Jordania, y en 1974 en Egipto, y ahora está prohibido en ambos países. Pero muchos miembros de la HT se han unido a grupos terroristas y muchos terroristas jihadistas han citado a HT como su influencia clave.",
+      "annotations": [
+        {
+          "question": "¿Cuándo fue el fallido golpe en Egipto?",
+          "choices": [
+            {
+              "text": "1974",
+              "start": 316,
+              "end": 320,
+              "type": "correct answer"
+            },
+            {
+              "text": "1969",
+              "start": 293,
+              "end": 297,
+              "type": "distractor"
+            },
+            {
+              "text": "1968",
+              "start": 286,
+              "end": 290,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Harvard tiene la mayor dotación universitaria del mundo. En septiembre de 2011, casi recuperó la pérdida sufrida durante la recesión de 2008. Valía $32 mil millones en 2011, frente a $28 mil millones en septiembre de 2010 y $26 mil millones en 2009. Sufrió una pérdida del 30% en 2008-09. En diciembre de 2008, Harvard anunció que su dotación había perdido el 22% (aproximadamente $8 mil millones) de julio a octubre de 2008, lo que requirió recortes presupuestarios. Informes posteriores sugieren que la pérdida fue en realidad más del doble de esa cifra, una reducción de casi el 50% de su dotación sólo en los primeros cuatro meses. Forbes en marzo de 2009 estimó que la pérdida estaba en el rango de $12 mil millones. Uno de los resultados más visibles del intento de Harvard de reequilibrar su presupuesto fue su paralización de la construcción del Complejo Científico Allston de $1.200 millones que había sido programado para ser completado en 2011, resultando en protestas de residentes locales. A partir de 2012, la Universidad de Harvard tenía una reserva de ayuda financiera total de $159 millones para los estudiantes, y una reserva de Pell Grant de $4.093 millones disponibles para el desembolso.",
+      "annotations": [
+        {
+          "question": "¿Qué cantidad representa el 22% que perdió Harvard en 2008?",
+          "choices": [
+            {
+              "text": "$8 mil millones",
+              "start": 381,
+              "end": 396,
+              "type": "correct answer"
+            },
+            {
+              "text": "$12 mil millones",
+              "start": 704,
+              "end": 720,
+              "type": "distractor"
+            },
+            {
+              "text": "$28 mil millones ",
+              "start": 183,
+              "end": 200,
+              "type": "distractor"
+            },
+            {
+              "text": "$32 mil millones",
+              "start": 148,
+              "end": 164,
+              "type": "distractor"
+            },
+            {
+              "text": "$26 mil millones",
+              "start": 224,
+              "end": 240,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los estudiosos de la Universidad de Chicago han desempeñado un papel importante en el desarrollo de diversas disciplinas académicas, incluyendo: La escuela de Chicago de la economía, la escuela de Chicago de la sociología, el movimiento de derecho y economía en el análisis legal. El departamento de física de Chicago ayudó a desarrollar la primera reacción nuclear hecha por el hombre, autosuficiente bajo el Stagg Field de la universidad. Las actividades de investigación de Chicago han sido ayudadas por afiliaciones únicas con instituciones de renombre mundial como el cercano Fermilab y el Laboratorio Nacional Argonne, así como el Laboratorio de Biología Marina. La universidad es también el hogar de la University of Chicago Press, la prensa universitaria más grande de los Estados Unidos. Con una fecha de finalización estimada de 2020, el Centro Presidencial de Barack Obama se alojará en la universidad e incluirá tanto la biblioteca presidencial de Obama como las oficinas de la Fundación Obama.",
+      "annotations": [
+        {
+          "question": "¿Qué se finalizará en la Universidad de Chicago en 2020?",
+          "choices": [
+            {
+              "text": "el Centro Presidencial de Barack Obama",
+              "start": 845,
+              "end": 883,
+              "type": "correct answer"
+            },
+            {
+              "text": "el Laboratorio de Biología Marina",
+              "start": 634,
+              "end": 667,
+              "type": "distractor"
+            },
+            {
+              "text": "el Laboratorio Nacional Argonne",
+              "start": 592,
+              "end": 623,
+              "type": "distractor"
+            },
+            {
+              "text": "la University of Chicago Press",
+              "start": 707,
+              "end": 737,
+              "type": "distractor"
+            },
+            {
+              "text": "la escuela de Chicago de la sociología",
+              "start": 183,
+              "end": 221,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los primeros Estados Unidos expresaron su oposición al imperialismo, al menos en una forma distinta de su propio destino manifiesto, a través de políticas como la Doctrina Monroe. Sin embargo, a partir de finales del siglo XIX y principios del siglo XX, políticas como el intervencionismo de Theodore Roosevelt en América Central y la misión de Woodrow Wilson de \"hacer el mundo seguro para la democracia\" cambiaron todo esto. A menudo estaban respaldados por la fuerza militar, pero se vieron más afectados desde detrás de escena. Esto es consistente con la noción general de hegemonía e imperium de imperios históricos. En 1898, los estadounidenses que se oponían al imperialismo crearon la Liga Antiimperialista para oponerse a la anexión estadounidense de Filipinas y Cuba. Un año más tarde, estalló una guerra en Filipinas causando que los líderes empresariales, laborales y de gobierno en los Estados Unidos condenaran la ocupación estadounidense en las Filipinas, ya que también los denunciaron por causar la muerte de muchos filipinos. La política exterior estadounidense fue denunciada como una \"raqueta\" por Smedley Butler, un general estadounidense. Dijo: \"Mirando atrás, podría haber dado a Al Capone algunas pistas. Lo mejor que podía hacer era operar su negocio en tres distritos. Operé en tres continentes \".",
+      "annotations": [
+        {
+          "question": "¿Cuál era la misión de Woodrow Wilson que marcó un cambio en la política estadounidense?",
+          "choices": [
+            {
+              "text": "hacer el mundo seguro para la democracia",
+              "start": 364,
+              "end": 404,
+              "type": "correct answer"
+            },
+            {
+              "text": "la noción general de hegemonía e imperium de imperios históricos",
+              "start": 556,
+              "end": 620,
+              "type": "distractor"
+            },
+            {
+              "text": "la anexión estadounidense de Filipinas y Cuba",
+              "start": 731,
+              "end": 776,
+              "type": "distractor"
+            },
+            {
+              "text": "el intervencionismo",
+              "start": 269,
+              "end": 288,
+              "type": "distractor"
+            },
+            {
+              "text": "su oposición al imperialismo",
+              "start": 39,
+              "end": 67,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Varsovia, especialmente su centro de la ciudad (Śródmieście), es el hogar no sólo de muchas instituciones nacionales y agencias gubernamentales, sino también de muchas empresas nacionales e internacionales. En 2006, 304.016 empresas se registraron en la ciudad. La creciente comunidad empresarial de Varsovia ha sido vista a nivel mundial, regional y nacional. MasterCard Emerging Market Index ha señalado la fortaleza económica y el centro comercial de Varsovia. Además, Varsovia fue clasificada como el séptimo mayor mercado emergente. La participación financiera de los inversores extranjeros en el desarrollo de la ciudad se estimó en 2002 en más de 650 millones de euros. Varsovia produce el 12% de la renta nacional de Polonia, que en 2008 era el 305,1% de la media polaca, per cápita (o el 160% de la media de la Unión Europea). El PIB per cápita en Varsovia ascendió a PLN 94 000 en 2008 (c. 23 800, USD 33 000). El PIB nominal total de la ciudad en 2010 ascendió a 191.766 millones de PLN, 111696 PLN per cápita, que era 301.1% de la media polaca. Varsovia lidera la región de Europa centro-oriental en inversión extranjera y en 2006, el crecimiento del PIB cumplió con expectativas de un nivel del 6,1%. También tiene una de las economías de más rápido crecimiento, con un crecimiento del PIB del 6,5 por ciento en 2007 y del 6,1 por ciento en el primer trimestre de 2008.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedió con el PIB nominal de Varsovia en 2010?",
+          "choices": [
+            {
+              "text": "ascendió a 191.766 millones de PLN",
+              "start": 963,
+              "end": 997,
+              "type": "correct answer"
+            },
+            {
+              "text": "cumplió con expectativas de un nivel del 6,1%",
+              "start": 1167,
+              "end": 1212,
+              "type": "distractor"
+            },
+            {
+              "text": "un crecimiento del PIB del 6,5 por ciento",
+              "start": 1280,
+              "end": 1321,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La mayor parte del curso actual del Rin no estaba bajo el hielo durante la última Edad de Hielo; Aunque su fuente debe haber sido todavía un glaciar. Una tundra, con flora y fauna de la Edad de Hielo, se extendía a través de Europa media, desde Asia hasta el océano Atlántico. Tal fue el caso durante el último Máximo Glacial, ca. 22.000-14.000 años BP, cuando las capas de hielo cubrían Escandinavia, los países bálticos, Escocia y los Alpes, pero dejaron el espacio entre la tundra abierta. El loess o polvo soplado por el viento sobre esa tundra, se asentó en y alrededor del valle del Rin, contribuyendo a su actual utilidad agrícola.",
+      "annotations": [
+        {
+          "question": "¿En dónde se asentó el polvo soplado de la tundra para convertirlo en una zona agrícola actual?",
+          "choices": [
+            {
+              "text": "el valle del Rin",
+              "start": 579,
+              "end": 592,
+              "type": "correct answer"
+            },
+            {
+              "text": "Escandinavia",
+              "start": 388,
+              "end": 400,
+              "type": "distractor"
+            },
+            {
+              "text": "Escocia",
+              "start": 423,
+              "end": 430,
+              "type": "distractor"
+            },
+            {
+              "text": "los países bálticos",
+              "start": 402,
+              "end": 421,
+              "type": "distractor"
+            },
+            {
+              "text": "los Alpes",
+              "start": 433,
+              "end": 442,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La hipersensibilidad es una respuesta inmune que daña los propios tejidos del cuerpo. Se dividen en cuatro clases (Tipo I - IV) basadas en los mecanismos involucrados y el curso de tiempo de la reacción hipersensible. La hipersensibilidad de tipo I es una reacción inmediata o anafiláctica, a menudo asociada con la alergia. Los síntomas pueden variar de malestar leve a muerte. La hipersensibilidad de tipo I es mediada por la IgE, que desencadena la degranulación de las células del mástil y los basófilos cuando son entrecruzados por el antígeno. La hipersensibilidad de tipo II ocurre cuando los anticuerpos se unen a antígenos en las propias células del paciente, marcándolos para su destrucción. Esto también se llama hipersensibilidad dependiente de anticuerpo (o citotóxica), y es mediada por anticuerpos IgG e IgM. Complejos inmunes (agregaciones de antígenos, proteínas de complemento y anticuerpos IgG e IgM) depositados en varios tejidos desencadenan reacciones de hipersensibilidad tipo III. La hipersensibilidad de tipo IV (también conocida como hipersensibilidad de tipo retardado o mediada por células) suele tardar entre dos y tres días en desarrollarse. Las reacciones de tipo IV están implicadas en muchas enfermedades autoinmunes e infecciosas, pero también pueden implicar dermatitis de contacto (hiedra venenosa). Estas reacciones son mediadas por células T, monocitos y macrófagos.",
+      "annotations": [
+        {
+          "question": "¿Qué característica tiene la hipersensibilidad de tipo II?",
+          "choices": [
+            {
+              "text": "ocurre cuando los anticuerpos se unen a antígenos en las propias células del paciente",
+              "start": 582,
+              "end": 667,
+              "type": "correct answer"
+            },
+            {
+              "text": "es una reacción inmediata o anafiláctica, a menudo asociada con la alergia",
+              "start": 249,
+              "end": 323,
+              "type": "distractor"
+            },
+            {
+              "text": "es mediada por la IgE, que desencadena la degranulación de las células del mástil y los basófilos cuando son entrecruzados por el antígeno",
+              "start": 410,
+              "end": 548,
+              "type": "distractor"
+            },
+            {
+              "text": "son mediadas por células T, monocitos y macrófagos",
+              "start": 1353,
+              "end": 1403,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Al final de la Primera Guerra Mundial, Renania estaba sujeta al Tratado de Versalles. Esto decretó que sería ocupada por los aliados, hasta 1935 y después de eso, sería una zona desmilitarizada, con el ejército alemán prohibido entrar. El Tratado de Versalles y esta disposición en particular, en general, causaron mucho resentimiento en Alemania y se cita a menudo como ayuda al ascenso al poder de Adolf Hitler. Los aliados abandonaron Renania, en 1930 y el ejército alemán la volvió a ocupar en 1936, que fue enormemente popular en Alemania. Aunque los aliados probablemente podrían haber evitado la re-ocupación, Gran Bretaña y Francia no estaban dispuestos a hacerlo, una característica de su política de apaciguamiento con Hitler.",
+      "annotations": [
+        {
+          "question": "¿Qué país tenía prohibido entrar a Renania por el Tratado de Versalles?",
+          "choices": [
+            {
+              "text": "Alemania",
+              "start": 338,
+              "end": 346,
+              "type": "correct answer"
+            },
+            {
+              "text": "Gran Bretaña",
+              "start": 617,
+              "end": 629,
+              "type": "distractor"
+            },
+            {
+              "text": "Francia",
+              "start": 632,
+              "end": 639,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Fundada por la American Baptist Education Society con una donación del magnate petrolero y hombre más rico de la historia John D. Rockefeller, la Universidad de Chicago se incorporó en 1890; William Rainey Harper se convirtió en el primer presidente de la universidad en 1891, y las primeras clases se celebraron en 1892. Tanto Harper como el futuro presidente Robert Maynard Hutchins abogaron por que el plan de estudios de Chicago se basara en cuestiones teóricas y perennes en lugar de en las ciencias aplicadas y la utilidad comercial. Con la visión de Harper en mente, la Universidad de Chicago también se convirtió en uno de los 14 miembros fundadores de la Asociación de Universidades Americanas, una organización internacional de universidades de investigación líderes, en 1900.",
+      "annotations": [
+        {
+          "question": "¿Qué evento sucedió en 1891?",
+          "choices": [
+            {
+              "text": "William Rainey Harper se convirtió en el primer presidente de la universidad",
+              "start": 191,
+              "end": 267,
+              "type": "correct answer"
+            },
+            {
+              "text": "las primeras clases se celebraron",
+              "start": 279,
+              "end": 312,
+              "type": "distractor"
+            },
+            {
+              "text": "la Universidad de Chicago también se convirtió en uno de los 14 miembros fundadores de la Asociación de Universidades Americanas",
+              "start": 574,
+              "end": 702,
+              "type": "distractor"
+            },
+            {
+              "text": "con una donación del magnate petrolero y hombre más rico de la historia John D. Rockefeller, la Universidad de Chicago se incorporó",
+              "start": 50,
+              "end": 181,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El concepto de certeza jurídica es reconocido como uno de los principios generales del derecho de la Unión Europea por el Tribunal Europeo de Justicia desde la década de 1960. Es un principio general importante del derecho internacional y el derecho público, que es anterior al derecho de la Unión Europea. Como principio general en el derecho de la Unión Europea significa que la ley debe ser cierta, ya que es clara y precisa, y sus implicaciones legales previsibles, especialmente cuando se aplica a las obligaciones financieras. La adopción de leyes que tengan efecto legal en la Unión Europea debe tener una base legal adecuada. La legislación en los Estados miembros que implementa el derecho de la Unión Europea debe ser redactada para que sea claramente comprensible por aquellos que están sujetos a la ley. En la legislación de la Unión Europea, el principio general de la certeza legal prohíbe las leyes Ex post facto, i.e. Las leyes no deberían tener efecto antes de ser publicadas. La doctrina de la expectativa legítima, que tiene sus raíces en los principios de la certeza jurídica y la buena fe, es también un elemento central del principio general de la certeza jurídica en el derecho de la Unión Europea. La doctrina expectativa legítima sostiene que \"aquellos que actúan de buena fe sobre la base de la ley como es o parece ser no deberían ser frustrados en sus expectativas\".",
+      "annotations": [
+        {
+          "question": "¿Qué elemento de la legislación de la Unión Europea prohíbe las leyes Ex post facto?",
+          "choices": [
+            {
+              "text": "el principio general de la certeza legal",
+              "start": 855,
+              "end": 895,
+              "type": "correct answer"
+            },
+            {
+              "text": "la doctrina expectativa legítima",
+              "start": 1222,
+              "end": 1254,
+              "type": "distractor"
+            },
+            {
+              "text": "el concepto de certeza jurídica",
+              "start": 0,
+              "end": 31,
+              "type": "distractor"
+            },
+            {
+              "text": "el derecho público",
+              "start": 239,
+              "end": 257,
+              "type": "distractor"
+            },
+            {
+              "text": "el derecho internacional",
+              "start": 215,
+              "end": 236,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Varsovia fue ocupada por Alemania desde el 4 de agosto de 1915 hasta noviembre de 1918. Los términos del Armisticio Aliado requeridos en el artículo 12 que Alemania se retiró de las áreas controladas por Rusia en 1914, que incluía Varsovia. Alemania lo hizo, y el líder clandestino Piłsudski regresó a Varsovia el 11 de noviembre y estableció lo que se convirtió en la Segunda República Polaca, con Varsovia como capital. En el curso de la Guerra Polaco-Bolchevique de 1920, la gran Batalla de Varsovia se libró en las afueras orientales de la ciudad en la que la capital fue defendida con éxito y el Ejército Rojo derrotado. Polonia detuvo por sí sola la peor parte del Ejército Rojo y derrotó una idea de la \"exportación de la revolución\".",
+      "annotations": [
+        {
+          "question": "¿Cuándo sucedió la Guerra Polaco-Bolchevique?",
+          "choices": [
+            {
+              "text": "1920",
+              "start": 469,
+              "end": 473,
+              "type": "correct answer"
+            },
+            {
+              "text": "1915",
+              "start": 58,
+              "end": 62,
+              "type": "distractor"
+            },
+            {
+              "text": "1918",
+              "start": 82,
+              "end": 86,
+              "type": "distractor"
+            },
+            {
+              "text": "1914",
+              "start": 213,
+              "end": 217,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En contraste, durante los períodos de vigilia diferenciaron células efectoras, como las citotóxicas células asesinas naturales y las CTLs (linfocitos T citotóxicos), con el fin de obtener una respuesta efectiva contra cualquier agente. Además, durante los tiempos activos despiertos, las moléculas antiinflamatorias, como cortisol y catecolaminas, alcanzan su pico. Hay dos teorías sobre por qué el estado proinflamatorio está reservado para el tiempo de sueño. En primer lugar, la inflamación causaría graves discapacidades cognitivas y físicas si ocurriera durante los momentos de vigilia. En segundo lugar, la inflamación puede ocurrir durante el sueño debido a la presencia de melatonina. La inflamación causa una gran cantidad de estrés oxidativo y la presencia de melatonina durante los tiempos del sueño podría contrarrestar activamente la producción de radicales libres durante este tiempo.",
+      "annotations": [
+        {
+          "question": "¿Qué causa la inflamación que puede ocurrir durante el sueño?",
+          "choices": [
+            {
+              "text": "melatonina",
+              "start": 681,
+              "end": 691,
+              "type": "correct answer"
+            },
+            {
+              "text": "citotóxicas células asesinas naturales",
+              "start": 88,
+              "end": 126,
+              "type": "distractor"
+            },
+            {
+              "text": "linfocitos T citotóxicos",
+              "start": 139,
+              "end": 163,
+              "type": "distractor"
+            },
+            {
+              "text": "cortisol ",
+              "start": 322,
+              "end": 331,
+              "type": "distractor"
+            },
+            {
+              "text": "catecolaminas",
+              "start": 333,
+              "end": 346,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A diferencia de los animales, las plantas carecen de células fagocíticas, pero muchas respuestas inmunitarias de las plantas implican señales químicas sistémicas que se envían a través de una planta. Las células vegetales individuales responden a las moléculas asociadas con patógenos conocidos como patrones moleculares asociados a patógenos o PAMPs. Cuando una parte de una planta se infecta, la planta produce una respuesta hipersensible localizada, donde las células en el sitio de la infección sufren una rápida apoptosis para evitar la propagación de la enfermedad a otras partes de la planta. Resistencia sistémica adquirida (SAR) es un tipo de respuesta defensiva utilizada por las plantas que hace que toda la planta sea resistente a un agente infeccioso particular. Los mecanismos de silenciamiento del ARN son particularmente importantes en esta respuesta sistémica ya que pueden bloquear la replicación del virus.",
+      "annotations": [
+        {
+          "question": "¿Qué elemento es el que bloquea la replicación del virus?",
+          "choices": [
+            {
+              "text": "los mecanismos de silenciamiento del ARN",
+              "start": 776,
+              "end": 816,
+              "type": "correct answer"
+            },
+            {
+              "text": "una respuesta hipersensible localizada",
+              "start": 413,
+              "end": 451,
+              "type": "distractor"
+            },
+            {
+              "text": "las células fagocíticas",
+              "start": 53,
+              "end": 72,
+              "type": "distractor"
+            },
+            {
+              "text": "los patrones moleculares asociados a patógenos",
+              "start": 300,
+              "end": 342,
+              "type": "distractor"
+            },
+            {
+              "text": "la resistencia sistémica adquirida",
+              "start": 600,
+              "end": 631,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los primeros hugonotes que abandonaron Francia buscaron la libertad de persecución en Suiza y los Países Bajos. Un grupo de hugonotes fue parte de los colonizadores franceses que llegaron a Brasil en 1555 para fundar la Francia Antártica. Un par de barcos con alrededor de 500 personas llegaron a la bahía de Guanabara, actual Río de Janeiro, y se establecieron en una pequeña isla. Un fuerte, llamado Fort Coligny, fue construido para protegerlos del ataque de las tropas portuguesas y los nativos americanos brasileños. Fue un intento de establecer una colonia francesa en América del Sur. El fuerte fue destruido en 1560 por los portugueses, que capturaron parte de los hugonotes. Los portugueses amenazaron a los prisioneros con la muerte si no se convertían al catolicismo. Los hugonotes de Guanabara produjeron una declaración de fe para expresar sus creencias a los portugueses. Esta fue su sentencia de muerte. Este documento, la Confesión de Fe de Guanabara, se convirtió en la primera confesión protestante de fe en toda América. [Cita requerida]",
+      "annotations": [
+        {
+          "question": "¿Qué hicieron los primeros hugonotes que abandonaron Francia?",
+          "choices": [
+            {
+              "text": "buscaron la libertad de persecución en Suiza y los Países Bajos",
+              "start": 47,
+              "end": 110,
+              "type": "correct answer"
+            },
+            {
+              "text": "establecer una colonia francesa en América del Sur",
+              "start": 540,
+              "end": 590,
+              "type": "distractor"
+            },
+            {
+              "text": "fue parte de los colonizadores franceses que llegaron a Brasil en 1555 para fundar la Francia Antártica",
+              "start": 134,
+              "end": 237,
+              "type": "distractor"
+            },
+            {
+              "text": "amenazaron a los prisioneros con la muerte si no se convertían al catolicismo",
+              "start": 700,
+              "end": 777,
+              "type": "distractor"
+            },
+            {
+              "text": "produjeron una declaración de fe para expresar sus creencias a los portugueses",
+              "start": 806,
+              "end": 884,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Hay tres tipos principales de roca: Ígnea, sedimentaria y metamórfica. El ciclo rocoso es un concepto importante en geología, que ilustra las relaciones entre estos tres tipos de roca y magma. Cuando una roca cristaliza por fusión (magma y / o lava), es una roca ígnea. Esta roca puede ser erosionada y erosionada, y luego redepositada y litificada en una roca sedimentaria, o convertirse en una roca metamórfica debido al calor y la presión que cambian el contenido mineral de la roca. La roca sedimentaria se puede convertir posteriormente en una roca metamórfica debido al calor y la presión y luego se desgasta, erosiona, deposita y litifica, convirtiéndose en una roca sedimentaria. La roca sedimentaria también puede ser reerosionada y redepositada, y la roca metamórfica también puede sufrir un metamorfismo adicional. Los tres tipos de rocas pueden ser refundidas. Cuando esto sucede, se forma un nuevo magma, del cual una roca ígnea puede cristalizar una vez más.",
+      "annotations": [
+        {
+          "question": "¿Qué tipo de roca es cuando cristaliza por fusión?",
+          "choices": [
+            {
+              "text": "roca ígnea",
+              "start": 258,
+              "end": 268,
+              "type": "correct answer"
+            },
+            {
+              "text": "roca sedimentaria",
+              "start": 490,
+              "end": 507,
+              "type": "distractor"
+            },
+            {
+              "text": "roca metamórfica",
+              "start": 761,
+              "end": 777,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los Alpes victorianos en el noreste son la parte más fría de Victoria. Los Alpes son parte del sistema montañoso de la Gran Cordillera Divisoria que se extiende de este a oeste a través del centro de Victoria. Las temperaturas medias son inferiores a 9 ° C en invierno y por debajo de 0 ° C en las partes más altas de las sierras. La temperatura mínima más baja del estado de -11,7 ° C se registró en Omeo el 13 de junio de 1965, y nuevamente en Falls Creek el 3 de julio de 1970. Las temperaturas extremas para el estado se enumeran en la siguiente tabla:",
+      "annotations": [
+        {
+          "question": "¿Cuál es la temperatura media en las partes más altas de las sierras?",
+          "choices": [
+            {
+              "text": "0 ° C",
+              "start": 285,
+              "end": 290,
+              "type": "correct answer"
+            },
+            {
+              "text": "9 ° C",
+              "start": 251,
+              "end": 256,
+              "type": "distractor"
+            },
+            {
+              "text": "-11,7 ° C",
+              "start": 376,
+              "end": 385,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La liberalización del comercio puede cambiar la desigualdad económica de una escala global a una nacional. Cuando los países ricos comercian con los países pobres, los trabajadores poco calificados en los países ricos pueden ver salarios reducidos como resultado de la competencia, mientras que los trabajadores poco calificados en los países pobres pueden ver aumentos de salarios. El economista Paul Krugman estima que la liberalización del comercio ha tenido un efecto mensurable en la creciente desigualdad en los Estados Unidos. Atribuye esta tendencia al aumento del comercio con los países pobres y la fragmentación de los medios de producción, lo que hace que los empleos poco calificados se vuelvan más comercializables. Sin embargo, admite que el efecto del comercio sobre la desigualdad en Estados Unidos es menor en comparación con otras causas, como la innovación tecnológica, una visión compartida por otros expertos. Los economistas empíricos Max Roser y Jesus Crespo-Cuaresma encuentran apoyo en los datos de que el comercio internacional está aumentando la desigualdad de ingresos. Confirman empíricamente las predicciones del teorema de Stolper-Samuelson sobre los efectos del comercio internacional en la distribución de los ingresos. Lawrence Katz estima que el comercio sólo ha representado el 5-15% de la creciente desigualdad de ingresos. Robert Lawrence argumenta que la innovación tecnológica y la automatización ha significado que los empleos poco calificados han sido reemplazados por el trabajo automático en las naciones más ricas, y que los países más ricos ya no tienen un número significativo de trabajadores manufactureros poco calificados.",
+      "annotations": [
+        {
+          "question": "¿Qué dice el economista Paul Krugman de la economía de los Estados Unidos?",
+          "choices": [
+            {
+              "text": "la liberalización del comercio ha tenido un efecto mensurable en la creciente desigualdad",
+              "start": 421,
+              "end": 510,
+              "type": "correct answer"
+            },
+            {
+              "text": "el comercio internacional está aumentando la desigualdad de ingresos",
+              "start": 1029,
+              "end": 1097,
+              "type": "distractor"
+            },
+            {
+              "text": "la innovación tecnológica y la automatización ha significado que los empleos poco calificados han sido reemplazados por el trabajo automático en las naciones más ricas",
+              "start": 1392,
+              "end": 1559,
+              "type": "distractor"
+            },
+            {
+              "text": "los países más ricos ya no tienen un número significativo de trabajadores manufactureros poco calificados",
+              "start": 1567,
+              "end": 1672,
+              "type": "distractor"
+            },
+            {
+              "text": "el comercio sólo ha representado el 5-15% de la creciente desigualdad de ingresos",
+              "start": 1279,
+              "end": 1360,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Victoria es el centro de la industria láctea en Australia. Es el hogar del 60% de los 3 millones de vacas lecheras de Australia y produce casi dos tercios de la leche de la nación, casi 6,4 mil millones de litros. El estado también tiene 2,4 millones de vacas, con más de 2,2 millones de vacas y terneros sacrificados cada año. En 2003-04, las tripulaciones de pesca comercial y la industria de la acuicultura victoriana produjeron 11.634 toneladas de pescado valuadas en casi 109 millones de dólares. Blacklipped abalone es el pilar de la captura, trayendo A $46 millones, seguido por langosta de roca del sur por un valor de A $13.7 millones. La mayor parte del abulón y la langosta de roca se exportan a Asia.",
+      "annotations": [
+        {
+          "question": "¿Qué animal es el más importante para la industria en Victoria?",
+          "choices": [
+            {
+              "text": "vacas lecheras",
+              "start": 100,
+              "end": 114,
+              "type": "correct answer"
+            },
+            {
+              "text": "langostas de roca",
+              "start": 586,
+              "end": 602,
+              "type": "distractor"
+            },
+            {
+              "text": "pescados",
+              "start": 452,
+              "end": 459,
+              "type": "distractor"
+            },
+            {
+              "text": "abulónes",
+              "start": 664,
+              "end": 670,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En la década de 1890, la Universidad de Chicago, temerosa de que sus vastos recursos dañaran a las escuelas más pequeñas, alejando a los buenos estudiantes, afiliados a varias universidades regionales: Des Moines College, Kalamazoo University. En 1896, la universidad se afilió al Shimer College en Mount Carroll, Illinois. Bajo los términos de la afiliación, las escuelas tenían que tener cursos de estudio comparables a los de la universidad, para notificar a la universidad antes de cualquier nombramiento de facultad o despido, para no hacer nombramientos de la facultad. La Universidad de Chicago acordó otorgar un título a cualquier graduado senior de una escuela afiliada que hiciera un grado de A durante los cuatro años, y a cualquier otro graduado que tomara doce semanas de estudio adicional en la Universidad de Chicago. Un estudiante o miembro de la facultad de una escuela afiliada tenía derecho a la matrícula gratuita en la Universidad de Chicago, y los estudiantes de Chicago eran elegibles para asistir a una escuela afiliada en los mismos términos y recibir crédito por su trabajo. La Universidad de Chicago también acordó proporcionar a las escuelas afiliadas libros y aparatos científicos y suministros a costa; Instructores especiales y conferenciantes sin costo excepto gastos de viaje; Y una copia de cada libro y revista publicada por la University of Chicago Press sin costo alguno. El acuerdo establecía que cualquiera de las partes podría terminar la afiliación con el aviso adecuado. A varios profesores de la Universidad de Chicago no les gustaba el programa, ya que implicaba trabajo adicional por su parte, y creían que abarataba la reputación académica de la universidad. El programa pasó a la historia en 1910.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo que varios profesores de la Universidad de Chicago no les gustara el programa?",
+          "choices": [
+            {
+              "text": "que sus vastos recursos dañaran a las escuelas más pequeñas, alejando a los buenos estudiantes",
+              "start": 61,
+              "end": 155,
+              "type": "distractor"
+            },
+            {
+              "text": "trabajo adicional por su parte, y creían que abarataba la reputación académica de la universidad",
+              "start": 1607,
+              "end": 1703,
+              "type": "correct answer"
+            },
+            {
+              "text": "la Universidad de Chicago acordó otorgar un título a cualquier graduado senior de una escuela afiliada que hiciera un grado de A durante los cuatro años",
+              "start": 576,
+              "end": 728,
+              "type": "distractor"
+            },
+            {
+              "text": "la Universidad de Chicago también acordó proporcionar a las escuelas afiliadas libros y aparatos científicos y suministros a costa",
+              "start": 1101,
+              "end": 1231,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

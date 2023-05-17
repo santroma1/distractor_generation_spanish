@@ -209,13 +209,13 @@ Total 50
 
 # Wednesday May 17th
 
-Dates and Numbers 5
+Dates and Numbers 9
 
-Names 7
+Names 10
 
-Phrases 18
+Phrases 31
 
-Total 30
+Total 50
 
 
 ## Comments
@@ -225,18 +225,37 @@ Total 30
 468. Change too
 477. Change
 480. Change 
+487. articles
+491. Check plis
+494. Check Plis
+495. Also check
+
+
+# Thursday May 18th
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 0
+
+Total 0
+
+
+## Comments
+
 
 <br>
 
 # Total
 
-Dates and Numbers 53
+Dates and Numbers 62
 
-Names 106
+Names 116
 
-Phrases 292 - 1   
+Phrases 323 - 1   
 
-Total 450
+Total 500
 
 
 # GLOBAL NOTES
