@@ -211,11 +211,11 @@ Total 50
 
 Dates and Numbers 5
 
-Names 5
+Names 7
 
-Phrases 10
+Phrases 18
 
-Total 20
+Total 30
 
 
 ## Comments
@@ -223,6 +223,8 @@ Total 20
 458. Change a bunch of stuff so that it makes sense 
 467. Change please 
 468. Change too
+477. Change
+480. Change 
 
 <br>
 

@@ -16403,6 +16403,358 @@
           ]
         }
       ]
+    },
+    {
+      "context": "La Iglesia protestante francesa de Londres fue establecida por la Carta Real en 1550. Actualmente se encuentra en Soho Square. Refugiados hugonotes acudieron a Shoreditch, Londres. Establecieron una importante industria textil en y alrededor de Spitalfields (ver Petticoat Lane y el Tenterground) en el este de Londres. En Wandsworth, sus habilidades de jardinería beneficiaron a los jardines del mercado de Battersea. La Old Truman Brewery, entonces conocida como la Black Eagle Brewery, fue fundada en 1724. La huida de refugiados hugonotes de Tours, Francia sacó a la mayoría de los trabajadores de sus grandes fábricas de seda que habían construido. Algunos de estos inmigrantes se trasladaron a Norwich, que había alojado un asentamiento anterior de tejedores valones. Los franceses se sumaron a la población inmigrante existente, que comprendía alrededor de un tercio de la población de la ciudad.",
+      "annotations": [
+        {
+          "question": "¿Qué se estableció en Spitalfields por los refugiados?",
+          "choices": [
+            {
+              "text": "industria textil",
+              "start": 210,
+              "end": 226,
+              "type": "correct answer"
+            },
+            {
+              "text": "jardines del mercado",
+              "start": 384,
+              "end": 404,
+              "type": "distractor"
+            },
+            {
+              "text": "tejedores valones",
+              "start": 755,
+              "end": 772,
+              "type": "distractor"
+            },
+            {
+              "text": "Old Truman Brewery",
+              "start": 422,
+              "end": 440,
+              "type": "distractor"
+            },
+            {
+              "text": "Black Eagle Brewery",
+              "start": 468,
+              "end": 487,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Jardín Sajón, que cubría el área de 15,5 ha, era formalmente un jardín real. Hay más de 100 especies diferentes de árboles y las avenidas son un lugar para sentarse y relajarse. En el extremo este del parque se encuentra la Tumba del Soldado Desconocido. En el siglo XIX el Palacio Krasiński fue remodelado por Franciszek Szanior. Dentro de la zona central del parque todavía se pueden encontrar árboles viejos que datan de ese período: Árbol de maidenhair, nogal negro, avellano turco y alevines caucásicos. Con sus bancos, alfombras de flores, un estanque con patos y un parque de juegos para niños, el Krasiński Palace Garden es un popular destino de paseo para los varsovianos. El Monumento al Levantamiento del Gueto de Varsovia también se encuentra aquí. El Parque Łazienki cubre un área de 76 hectáreas. El carácter único y la historia del parque se reflejan en su arquitectura paisajística (pabellones, esculturas, puentes, cascadas, estanques) y vegetación (especies domésticas y extranjeras de árboles y arbustos). Lo que hace a este parque diferente de otros espacios verdes de Varsovia es la presencia de pavos reales y faisanes, que se pueden ver aquí caminando libremente, y carpas reales en el estanque. El Parque del Palacio Wilanów, data de la segunda mitad del siglo XVII. Cubre un área de 43 hectáreas. Su área central de estilo francés corresponde a las formas antiguas y barrocas del palacio. La sección oriental del parque, más cercana al Palacio, es el jardín de dos niveles con una terraza frente al estanque. El parque alrededor del Palacio de Królikarnia está situado en la antigua escarpa del Vístula. El parque tiene carriles que corren en unos pocos niveles profundos en los barrancos a ambos lados del palacio.",
+      "annotations": [
+        {
+          "question": "¿Qué hace diferente al Parque Łazienki de otros espacios verdes de Varsovia?",
+          "choices": [
+            {
+              "text": "la presencia de pavos reales y faisanes",
+              "start": 1104,
+              "end": 1143,
+              "type": "correct answer"
+            },
+            {
+              "text": "el jardín de dos niveles con una terraza frente al estanque",
+              "start": 1476,
+              "end": 1535,
+              "type": "distractor"
+            },
+            {
+              "text": "alfombras de flores, un estanque con patos y un parque de juegos para niños",
+              "start": 528,
+              "end": 603,
+              "type": "distractor"
+            },
+            {
+              "text": "más de 100 especies diferentes de árboles",
+              "start": 84,
+              "end": 125,
+              "type": "distractor"
+            },
+            {
+              "text": "carriles que corren en unos pocos niveles profundos en los barrancos a ambos lados del palacio",
+              "start": 1648,
+              "end": 1742,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las respuestas inmunes sobreactivas comprenden el otro extremo de la disfunción inmune, particularmente los trastornos autoinmunes. Aquí, el sistema inmune no distingue adecuadamente entre uno mismo y otro, y ataca parte del cuerpo. En circunstancias normales, muchas células T y anticuerpos reaccionan con péptidos \"propios\". Una de las funciones de las células especializadas (ubicadas en el timo y la médula ósea) es presentar linfocitos jóvenes con antígenos propios producidos en todo el cuerpo y eliminar aquellas células que reconocen autoantígenos, evitando la autoinmunidad.",
+      "annotations": [
+        {
+          "question": "¿Qué proporciona las células especializadas que están ubicadas en el timo y la médula ósea?",
+          "choices": [
+            {
+              "text": "linfocitos jóvenes",
+              "start": 430,
+              "end": 448,
+              "type": "correct answer"
+            },
+            {
+              "text": "células T",
+              "start": 268,
+              "end": 277,
+              "type": "distractor"
+            },
+            {
+              "text": "anticuerpos",
+              "start": 280,
+              "end": 291,
+              "type": "distractor"
+            },
+            {
+              "text": "respuestas inmunes sobreactivas",
+              "start": 4,
+              "end": 35,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En cuanto a las empresas, el Tribunal de Justicia celebrado en R (Daily Mail and General Trust plc) v HM Treasury que los estados miembros podrían restringir a una empresa moviendo su sede de negocios, sin infringir el artículo 49 de TFEU. Esto significaba que la empresa matriz del periódico Daily Mail no podía evadir impuestos al cambiar su residencia a los Países Bajos sin resolver primero sus impuestos en el Reino Unido. El Reino Unido no necesitaba justificar su acción, ya que las reglas sobre los asientos de la compañía aún no estaban armonizadas. Por el contrario, en Centros Ltd v Erhversus-og Selkabssyrelsen el Tribunal de Justicia encontró que una compañía limitada del Reino Unido que operaba en Dinamarca no podía ser requerida para cumplir con las normas de capital mínimo compartido. La legislación del Reino Unido solo requería £1 de capital para iniciar una empresa, mientras que la legislatura de Dinamarca tomó las compañías de opinión solo deberían iniciarse si tenían 200,000 coronas danesas (alrededor de €27,000) para proteger a los acreedores. El Tribunal de Justicia sostuvo que la ley de capital mínimo de Dinamarca infringía la libertad de establecimiento de Centros Ltd y no podía ser justificada, porque una compañía en el Reino Unido podía proporcionar servicios en Dinamarca sin ser establecida allí. Este enfoque fue criticado por abrir potencialmente la UE a una competencia regulatoria injustificada, y una carrera hacia abajo en los estándares, como en Estados Unidos, donde el estado Delaware atrae a la mayoría de las empresas y a menudo se argumenta que Del mismo modo en Überseering BV v Nordic Construction GmbH el Tribunal de Justicia sostuvo que un tribunal alemán no podía negar a una empresa constructora holandesa el derecho de hacer cumplir un contrato en Alemania sobre la base de que no fue válidamente incorporado en Alemania. Aunque las restricciones a la libertad de establecimiento podían ser justificadas por la protección del acreedor, los derechos laborales para participar en el trabajo o el interés público en recaudar impuestos, la negación de la capacidad fue demasiado lejos: Era una \"negación abierta\". Sin embargo, en Cartesio Oktató és Szolgáltató bt el Tribunal de Justicia afirmó de nuevo que debido a que las corporaciones son creadas por ley, están en principio sujetas a cualquier regla para la formación. Esto significaba que las autoridades húngaras podían impedir que una compañía cambiara su administración central a Italia mientras aún operaba y se incorporaba a Hungría. Así, el tribunal hace una distinción entre el derecho de establecimiento de empresas extranjeras (donde las restricciones deben ser justificadas), y el derecho del Estado a determinar las condiciones para las empresas incorporadas en su territorio, aunque no está del todo claro por qué.",
+      "annotations": [
+        {
+          "question": "¿Por qué el Tribunal de Justicia encontró que las normas de capital mínimo compartido de Dinamarca infringían la libertad de establecimiento de Centros Ltd?",
+          "choices": [
+            {
+              "text": "una compañía en el Reino Unido podía proporcionar servicios en Dinamarca sin ser establecida allí",
+              "start": 1238,
+              "end": 1335,
+              "type": "correct answer"
+            },
+            {
+              "text": "los derechos laborales para participar en el trabajo o el interés público en recaudar impuestos, la negación de la capacidad fue demasiado lejos",
+              "start": 1995,
+              "end": 2139,
+              "type": "distractor"
+            },
+            {
+              "text": "el tribunal hace una distinción entre el derecho de establecimiento de empresas extranjeras (donde las restricciones deben ser justificadas), y el derecho del Estado a determinar las condiciones para las empresas incorporadas en su territorio, aunque no está del todo claro por qué",
+              "start": 2555,
+              "end": 2836,
+              "type": "distractor"
+            },
+            {
+              "text": "las reglas sobre los asientos de la compañía aún no estaban armonizadas",
+              "start": 486,
+              "end": 557,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El sur de California es también el hogar de una gran cultura de surf y patineta. Compañías como Volcom, Quiksilver, No Fear, RVCA y Body Glove tienen su sede aquí. El skater profesional Tony Hawk, los surfistas profesionales Rob Machado, Tim Curran, Bobby Martinez, Pat O 'Connell, Dane Reynolds y Chris Ward, y el snowboarder profesional Shaun White viven en el sur de California. Algunos de los sitios de surf legendarios del mundo también están en el sur de California, incluyendo Trestles, Rincon, The Wedge, Huntington Beach y Malibu, y es el segundo lugar sólo a la isla de Oahu. Algunos de los mayores eventos deportivos extremos del mundo, incluyendo los X Games, Boost Mobile Pro, y el U.S. Open of Surfing están todos en el sur de California. El sur de California es también importante para el mundo de la navegación a vela. La Transpacific Yacht Race, o Transpac, desde Los Ángeles hasta Hawaii, es uno de los principales eventos de yate. El San Diego Yacht Club celebró la Copa América, el premio más prestigioso en yate, de 1988 a 1995 y fue sede de tres carreras de la Copa América durante ese tiempo.",
+      "annotations": [
+        {
+          "question": "¿Qué premio prestigioso en yate se celebra en el San Diego Yacht Club?",
+          "choices": [
+            {
+              "text": "U.S. Open of Surfing",
+              "start": 695,
+              "end": 715,
+              "type": "distractor"
+            },
+            {
+              "text": "Copa América",
+              "start": 985,
+              "end": 997,
+              "type": "correct answer"
+            },
+            {
+              "text": "Transpacific Yacht Race",
+              "start": 838,
+              "end": 861,
+              "type": "distractor"
+            },
+            {
+              "text": "X Games",
+              "start": 663,
+              "end": 670,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Algunos estudiosos modernos, como Fielding H. Garrison, opinan que el origen de la ciencia de la geología se remonta a Persia después de que las conquistas musulmanas hubieran llegado a su fin. Abu al-Rayhan al-Biruni (973-1048) fue uno de los primeros geólogos persas, cuyas obras incluyen los primeros escritos sobre la geología de la India, hipotetizando que el subcontinente indio fue una vez un mar. Basándose en la literatura científica griega e india que no fueron destruidas por las conquistas musulmanas, el erudito persa Ibn Sina (Avicena, 981-1037) propuso explicaciones detalladas para la formación de montañas, el origen de los terremotos. En China, el polímata Shen Kuo (1031-1095) formuló una hipótesis para el proceso de formación de la tierra: Basado en su observación de conchas de animales fósiles en un estrato geológico de una montaña.",
+      "annotations": [
+        {
+          "question": "¿Qué tuvo Abu al-Rayhan al-Biruni como aportación a la ciencia?",
+          "choices": [
+            {
+              "text": "el subcontinente indio fue una vez un mar",
+              "start": 362,
+              "end": 403,
+              "type": "correct answer"
+            },
+            {
+              "text": "explicaciones detalladas para la formación de montañas",
+              "start": 568,
+              "end": 622,
+              "type": "distractor"
+            },
+            {
+              "text": "el origen de los terremotos",
+              "start": 624,
+              "end": 651,
+              "type": "distractor"
+            },
+            {
+              "text": "su observación de conchas de animales fósiles",
+              "start": 771,
+              "end": 816,
+              "type": "distractor"
+            },
+            {
+              "text": "el proceso de formación de la tierra",
+              "start": 723,
+              "end": 759,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La memoria activa a largo plazo se adquiere después de la infección por la activación de las células B y T. La inmunidad activa también se puede generar artificialmente, a través de la vacunación. El principio detrás de la vacunación (también llamado inmunización) es introducir un antígeno de un patógeno con el fin de estimular el sistema inmunitario y desarrollar inmunidad específica contra ese patógeno particular sin causar enfermedades asociadas con ese organismo. Esta inducción deliberada de una respuesta inmune es exitosa porque explota la especificidad natural del sistema inmune, así como su inducibilidad. Con las enfermedades infecciosas siendo una de las principales causas de muerte en la población humana, la vacunación representa la manipulación más efectiva del sistema inmunitario que la humanidad ha desarrollado.",
+      "annotations": [
+        {
+          "question": "¿Qué se considera como la manipulación más efectiva del sistema inmunitario que la humanidad ha desarrollado?",
+          "choices": [
+            {
+              "text": "la infección por la activación de las células B y T",
+              "start": 55,
+              "end": 106,
+              "type": "distractor"
+            },
+            {
+              "text": "la vacunación",
+              "start": 724,
+              "end": 737,
+              "type": "correct answer"
+            },
+            {
+              "text": "la inducibilidad",
+              "start": 605,
+              "end": 618,
+              "type": "distractor"
+            },
+            {
+              "text": "la memoria activa a largo plazo",
+              "start": 0,
+              "end": 31,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Estos estudios fueron ampliamente presentados como una demostración de que el período de calentamiento actual es excepcional en comparación con las temperaturas entre 1000 y 1900, y el gráfico basado en MBH99 aparece en la publicidad. En mayo de 2000, el Proyecto de Ciencia y Política Ambiental de Fred Singer celebró un evento de prensa en Capitol Hill, Washington, D.C., con comentarios sobre el gráfico Wibjörn Karlén y Singer. El contrarista John Lawrence Daly presentó una versión modificada del esquema de 1990 del IPCC, que él mal identificó como apareciendo en el informe del IPCC 1995, y argumentó que \"revertir su propia visión anterior en el informe de 1995, el IPCC presentó la disculpa. Las críticas a la reconstrucción del MBH99 en un artículo de revisión, que fue rápidamente desacreditada en la controversia de Soon y Baliunas, fueron recogidas por la administración Bush, y un discurso del senador republicano James Inhofe alegó que \". Los datos y la metodología utilizados para producir el \"gráfico de palo de hockey\" fueron criticados en artículos de Stephen McIntyre y Ross McKitrick, y a su vez las críticas en estos artículos fueron examinadas por otros estudios.",
+      "annotations": [
+        {
+          "question": "¿Qué se presentó en el evento de prensa del Proyecto de Ciencia y Política Ambiental de Fred Singer en el 2000?",
+          "choices": [
+            {
+              "text": "el informe del IPCC ",
+              "start": 570,
+              "end": 590,
+              "type": "distractor"
+            },
+            {
+              "text": "la reconstrucción del MBH99 en un artículo de revisión",
+              "start": 716,
+              "end": 770,
+              "type": "distractor"
+            },
+            {
+              "text": "comentarios sobre el gráfico Wibjörn Karlén y Singer",
+              "start": 378,
+              "end": 430,
+              "type": "correct answer"
+            },
+            {
+              "text": "el \"gráfico de palo de hockey\"",
+              "start": 1006,
+              "end": 1036,
+              "type": "distractor"
+            },
+            {
+              "text": "artículos de Stephen McIntyre y Ross McKitrick",
+              "start": 1058,
+              "end": 1104,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Tras la masacre de Peterloo de 1819, el poeta Percy Shelley escribió el poema político La máscara de la anarquía a finales de ese año, que comienza con las imágenes de las formas injustas de autoridad de su tiempo. Tal vez sea la primera declaración moderna del principio de protesta no violenta. Una versión fue tomada por el autor Henry David Thoreau en su ensayo Civil Disobedience, y más tarde por Gandhi en su doctrina de Satyagraha. El satyagraha de Gandhi fue parcialmente influenciado e inspirado por la no violencia de Shelley en protesta y acción política. En particular, se sabe que Gandhi a menudo citaba la Máscara de la Anarquía de Shelley a grandes audiencias durante la campaña por una India libre.",
+      "annotations": [
+        {
+          "question": "¿En dónde presenta Gandhi el principio de protesta no violenta?",
+          "choices": [
+            {
+              "text": "el poema político La máscara de la anarquía",
+              "start": 69,
+              "end": 112,
+              "type": "distractor"
+            },
+            {
+              "text": "su ensayo Civil Disobedience",
+              "start": 356,
+              "end": 384,
+              "type": "distractor"
+            },
+            {
+              "text": "su doctrina de Satyagraha",
+              "start": 412,
+              "end": 437,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Normandía fue el escenario de varios desarrollos importantes en la historia de la música clásica en el siglo XI. La abadía de Fécamp y la abadía de Saint-Evroul fueron centros de producción musical y educación. En Fécamp, bajo dos abades italianos, Guillermo de Volpiano y Juan de Rávena, el sistema de denotación de notas por letras fue desarrollado y enseñado. Sigue siendo la forma más común de representación de tono en los países de habla inglesa y alemana de hoy. También en Fécamp, el personal, alrededor del cual se orientaban los neumáticos, fue desarrollado y enseñado por primera vez en el siglo XI. Bajo el abad alemán Isembard, La Trinité-du-Mont se convirtió en un centro de composición musical.",
+      "annotations": [
+        {
+          "question": "¿En dónde se desarrolló el sistema de denotación de notas por letra?",
+          "choices": [
+            {
+              "text": "la abadía de Saint-Evroul",
+              "start": 135,
+              "end": 160,
+              "type": "distractor"
+            },
+            {
+              "text": "la Trinité-du-Mont",
+              "start": 641,
+              "end": 659,
+              "type": "distractor"
+            },
+            {
+              "text": "la abadía de Fécamp",
+              "start": 113,
+              "end": 132,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
