@@ -206,6 +206,24 @@ Total 50
 ## Comments
 
 
+
+# Wednesday May 17th
+
+Dates and Numbers 5
+
+Names 5
+
+Phrases 10
+
+Total 20
+
+
+## Comments
+451. Verb tenses
+458. Change a bunch of stuff so that it makes sense 
+467. Change please 
+468. Change too
+
 <br>
 
 # Total
@@ -224,4 +242,4 @@ Total 450
 - For a reason, its not exporting datapoint 177. 
 - There is another text with 2 questions
 - There is now a total of 3 texts with 2 questions
-- Texts with 2 questions: 9
+- Texts with 2 questions: 10

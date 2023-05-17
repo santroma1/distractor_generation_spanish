@@ -15728,6 +15728,681 @@
           ]
         }
       ]
+    },
+    {
+      "context": "La expedición de Johnson estaba mejor organizada que la de Shirley, que fue descubierta por el gobernador de Nueva Francia, el marqués de Vaudreuil. Había estado principalmente preocupado por la línea de suministro extendida a los fuertes en el Ohio, y había enviado al Barón Dieskau para dirigir las defensas en Frontenac contra el ataque esperado de Shirley. Cuando Johnson fue visto como la amenaza más grande, Vaudreuil envió a Dieskau a Fort St. Frédéric para enfrentar esa amenaza. Dieskau planeaba atacar el campamento británico en Fort Edward en el extremo superior de la navegación en el río Hudson, pero Johnson lo había fortificado fuertemente, y el apoyo indio de Dieskau era reacio a atacar. Las dos fuerzas finalmente se encontraron en la sangrienta batalla del lago George entre Fort Edward y Fort William Henry. La batalla terminó de manera inconclusa, con ambas partes retirándose del campo de batalla. El avance de Johnson se detuvo en Fort William Henry, y los franceses se retiraron a Ticonderoga Point, donde comenzaron la construcción de Fort Carillon (más tarde renombrado Fort Ticonderoga después de la captura británica en 1759).",
+      "annotations": [
+        {
+          "question": "¿Qué hicieron los franceses después de la batalla del lago George?",
+          "choices": [
+            {
+              "text": "se retiraron a Ticonderoga Point, donde comenzaron la construcción de Fort Carillon",
+              "start": 990,
+              "end": 1073,
+              "type": "correct answer"
+            },
+            {
+              "text": "dirigieron las defensas en Frontenac contra el ataque esperado de Shirley",
+              "start": 289,
+              "end": 359,
+              "type": "distractor"
+            },
+            {
+              "text": "atacar el campamento británico en Fort Edward en el extremo superior de la navegación en el río Hudson",
+              "start": 505,
+              "end": 607,
+              "type": "distractor"
+            },
+            {
+              "text": "enviar a Dieskau a Fort St. Frédéric",
+              "start": 424,
+              "end": 459,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de la revocación del Edicto de Nantes, la República Holandesa recibió el mayor grupo de refugiados hugonotes, un total estimado de 75.000 a 100.000 personas. Entre ellos había 200 clérigos. Muchos provenían de la región de Cévennes, por ejemplo, del pueblo de Fraissinet-de-Lozère. Esta fue una gran afluencia ya que toda la población de la República Holandesa ascendía a ca. 2 millones en ese momento. Alrededor de 1700, se estima que casi el 25% de la población de Ámsterdam era hugonote. En 1705, Ámsterdam y el área de Frisia Occidental fueron las primeras áreas en proporcionar derechos de ciudadanos a los inmigrantes hugonotes, seguidos por la República Holandesa en 1715. Los hugonotes se casaron con holandeses desde el principio.",
+      "annotations": [
+        {
+          "question": "¿Cuándo proporcionó la República Holandesa derechos de ciudadano a los inmigrantes hugonotes?",
+          "choices": [
+            {
+              "text": "1715",
+              "start": 682,
+              "end": 686,
+              "type": "correct answer"
+            },
+            {
+              "text": "1705",
+              "start": 502,
+              "end": 506,
+              "type": "distractor"
+            },
+            {
+              "text": "1700",
+              "start": 424,
+              "end": 428,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A partir de abril de 2014, hay 88 escuelas privadas en Nueva Zelanda, que atienden a alrededor de 28.000 estudiantes o el 3,7% de toda la población estudiantil. El número de escuelas privadas ha estado en declive desde mediados de la década de 1970 como resultado de que muchas escuelas privadas optan por convertirse en escuelas integradas por el estado, principalmente debido a las dificultades financieras derivadas de los cambios en el número de estudiantes. Las escuelas integradas en el Estado mantienen su carácter especial de la escuela privada y reciben fondos estatales a cambio de tener que operar como una escuela estatal. Deben enseñar el plan de estudios del estado, deben emplear profesores registrados, y no pueden cobrar cuotas de matrícula (pueden cobrar \"cuotas de asistencia\" para el mantenimiento de la escuela todavía privada y los edificios). La mayor disminución en el número de escuelas privadas se produjo entre 1979 y 1984, cuando el sistema escolar católico privado de la nación se integró. Como resultado, las escuelas privadas en Nueva Zelanda ahora están restringidas en gran medida a las ciudades más grandes (Auckland, Hamilton, Wellington y Christchurch) y los nichos de mercado.",
+      "annotations": [
+        {
+          "question": "¿A qué se debe principalmente el declive de las escuelas privadas desde la década de 1970?",
+          "choices": [
+            {
+              "text": "optan por convertirse en escuelas integradas por el estado",
+              "start": 296,
+              "end": 354,
+              "type": "correct answer"
+            },
+            {
+              "text": "el sistema escolar católico privado de la nación se integró",
+              "start": 958,
+              "end": 1017,
+              "type": "distractor"
+            },
+            {
+              "text": "están restringidas en gran medida a las ciudades más grandes",
+              "start": 1080,
+              "end": 1140,
+              "type": "distractor"
+            },
+            {
+              "text": "deben emplear profesores registrados",
+              "start": 681,
+              "end": 717,
+              "type": "distractor"
+            }
+          ]
+        },
+        {
+          "question": "¿En qué año se puede decir que hay 88 escuelas privadas en Nueva Zelanda?",
+          "choices": [
+            {
+              "text": "2014",
+              "start": 21,
+              "end": 25,
+              "type": "correct answer"
+            },
+            {
+              "text": "1970",
+              "start": 244,
+              "end": 248,
+              "type": "distractor"
+            },
+            {
+              "text": "1979",
+              "start": 938,
+              "end": 942,
+              "type": "distractor"
+            },
+            {
+              "text": "1984",
+              "start": 945,
+              "end": 949,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Jacksonville ha sufrido menos daños por huracanes que la mayoría de las otras ciudades de la costa este, aunque la amenaza existe para un impacto directo de un huracán mayor. La ciudad sólo ha recibido un impacto directo de un huracán desde 1871; Sin embargo, Jacksonville ha experimentado condiciones de huracán más de una docena de veces debido a las tormentas que cruzan el estado desde el Golfo de México hasta el Océano Atlántico, o pasando al norte o al sur en el Atlántico y cepillando la zona. El efecto más fuerte en Jacksonville fue el huracán Dora en 1964, la única tormenta registrada en golpear la Primera Costa con vientos sostenidos de fuerza de huracán. El ojo cruzó San Agustín con vientos que apenas habían disminuido a 110 mph (180 km / h), por lo que es una fuerte categoría 2 en la escala Saffir-Simpson. Jacksonville también sufrió daños por la tormenta tropical Fay de 2008 que cruzó el estado, llevando partes de Jacksonville bajo la oscuridad durante cuatro días. Del mismo modo, cuatro años antes de esto, Jacksonville fue inundado por el huracán Frances y el huracán Jeanne, que tocó tierra al sur de la zona. Estos ciclones tropicales fueron los más costosos golpes indirectos a Jacksonville. El huracán Floyd en 1999 causó daños principalmente a Jacksonville Beach. Durante Floyd, el muelle de Jacksonville Beach fue severamente dañado y posteriormente demolido. El muelle reconstruido fue dañado más tarde por Fay, pero no destruido. La tormenta tropical Bonnie causaría daños menores en 2004, generando un tornado menor en el proceso. El 28 de mayo de 2012, Jacksonville fue golpeado por la tormenta tropical Beryl, empacando vientos de hasta 113 km / h que tocaron tierra cerca de Jacksonville Beach.",
+      "annotations": [
+        {
+          "question": "¿Qué característica tuvo la tormenta tropical Beryl?",
+          "choices": [
+            {
+              "text": "vientos de hasta 113 km / h",
+              "start": 1657,
+              "end": 1684,
+              "type": "correct answer"
+            },
+            {
+              "text": "una fuerte categoría 2 en la escala Saffir-Simpson",
+              "start": 774,
+              "end": 824,
+              "type": "distractor"
+            },
+            {
+              "text": "el muelle de Jacksonville Beach fue severamente dañado y posteriormente demolido",
+              "start": 1310,
+              "end": 1390,
+              "type": "distractor"
+            },
+            {
+              "text": "partes de Jacksonville bajo la oscuridad durante cuatro días",
+              "start": 927,
+              "end": 987,
+              "type": "distractor"
+            },
+            {
+              "text": "vientos que apenas habían disminuido a 110 mph (180 km / h)",
+              "start": 699,
+              "end": 758,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En la China de la era Yuan, o Mongol, varios desarrollos importantes en las artes ocurrieron o continuaron en su desarrollo, incluyendo las áreas de pintura, matemáticas, caligrafía, poesía y teatro, con muchos grandes artistas y escritores siendo famosos hoy. Debido a la unión de la pintura, la poesía y la caligrafía en este momento muchos de los artistas que practicaban estas diferentes actividades eran los mismos individuos, aunque quizás más famosos por un área de sus logros que otros. A menudo en términos del desarrollo posterior de la pintura de paisajes, así como la unión clásica de las artes de la pintura, la poesía y la caligrafía, la dinastía Song y la dinastía Yuan están unidas. En el área de la pintura china durante la dinastía Yuan había muchos pintores famosos. En el área de la caligrafía muchos de los grandes calígrafos eran de la dinastía Yuan. En la poesía Yuan, el principal desarrollo fue el qu, que fue utilizado entre otras formas poéticas por la mayoría de los poetas famosos Yuan. Muchos de los poetas también estuvieron involucrados en los principales desarrollos en el teatro durante este tiempo, y al revés, con personas importantes en el teatro haciéndose famosas a través del desarrollo del tipo sanqu de qu. Uno de los factores clave en la mezcla de la variedad zaju fue la incorporación de la poesía tanto clásica como de la nueva forma qu. Uno de los desarrollos culturales importantes durante la era Yuan fue la consolidación de la poesía, la pintura y la caligrafía en una pieza unificada del tipo que tiende a venir a la mente cuando la gente piensa en el arte chino clásico. Otro aspecto importante de la época Yuan es la incorporación cada vez mayor de los chinos vernáculos en la forma de poesía qu y el espectáculo de variedades zaju. Otra consideración importante con respecto a las artes y la cultura de la dinastía Yuan es que gran parte de ella ha sobrevivido en China, relativamente a las obras de la dinastía Tang y la dinastía Song, que a menudo se han conservado mejor en Japón.",
+      "annotations": [
+        {
+          "question": "¿En qué dinastía los poetas también estaban involucrados en el teatro, e igual, personas de teatro participando a través del desarrollo del tipo sanqu de qu?",
+          "choices": [
+            {
+              "text": "la dinastía Song",
+              "start": 649,
+              "end": 665,
+              "type": "distractor"
+            },
+            {
+              "text": "la dinastía Yuan",
+              "start": 668,
+              "end": 684,
+              "type": "correct answer"
+            },
+            {
+              "text": "la dinastía Tang",
+              "start": 1953,
+              "end": 1969,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los comisionados tienen varios privilegios, como estar exentos de los impuestos estatales miembros (pero no de los impuestos de la UE), y tener inmunidad judicial por hacer actos oficiales. A veces se ha encontrado que los comisionados abusaron de sus cargos, particularmente desde que la Comisión Santer fue censurada por el Parlamento en 1999, y finalmente renunció debido a acusaciones de corrupción. Esto dio lugar a un caso principal, la Comisión v Edith Cresson, donde la Corte Europea de Justicia sostuvo que un Comisionado que le dio un trabajo al dentista, por el que estaba claramente descalificado, de hecho no violó ninguna ley. En contraste con el enfoque relajado de la ECJ, un Comité de Expertos Independientes encontró que una cultura se había desarrollado donde pocos Comisionados tenían \"incluso el menor sentido de responsabilidad\". Esto llevó a la creación de la Oficina Europea de Antifraude. En 2012 investigó al Comisionado de Salud de Malta, John Dalli, quien rápidamente renunció después de las acusaciones de que recibió un soborno de 60 millones de euros en relación con una Directiva de Productos Tobacco. Más allá de la Comisión, el Banco Central Europeo tiene relativa autonomía ejecutiva en su conducta de política monetaria con el propósito de administrar el euro. Tiene una junta de seis personas nombrada por el Consejo Europeo, por recomendación del Consejo. El Presidente del Consejo y un Comisionado pueden sentarse en las reuniones del BCE, pero no tienen derechos de voto.",
+      "annotations": [
+        {
+          "question": "¿Qué cuerpo fue censurado por el Parlamento en 1999?",
+          "choices": [
+            {
+              "text": "la Comisión Santer",
+              "start": 286,
+              "end": 304,
+              "type": "correct answer"
+            },
+            {
+              "text": "la Comisión v Edith Cresson",
+              "start": 440,
+              "end": 467,
+              "type": "distractor"
+            },
+            {
+              "text": "la Corte Europea de Justicia",
+              "start": 475,
+              "end": 503,
+              "type": "distractor"
+            },
+            {
+              "text": "el Banco Central Europeo",
+              "start": 1159,
+              "end": 1183,
+              "type": "distractor"
+            },
+            {
+              "text": "la Oficina Europea de Antifraude",
+              "start": 880,
+              "end": 912,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El récord oficial de temperatura alta para Fresno es de 115 ° F (46.1 ° C), establecido el 8 de julio de 1905, mientras que el récord oficial de baja temperatura es de 17 ° F (-8 ° C). Las ventanas promedio para 100 ° F (37.8 ° C) +, 90 ° F (32.2 ° C) +, y las temperaturas de congelación son 1 de junio de 1984. La precipitación anual osciló entre 23,57 pulgadas (598,7 mm) en el \"año de lluvia\" de julio de 1982 a junio de 1983 hasta 4,43 pulgadas (112,5 mm) de julio de 1933 a junio de 1934. La mayor cantidad de lluvia en un mes fue de 242,3 mm en noviembre de 1885 y la mayor cantidad de lluvia en 24 horas y 90,2 mm el 18 de noviembre de 1885. La precipitación mensurable cae en un promedio de 48 días al año. La nieve es una rareza. La mayor nevada en el aeropuerto fue de 0,06 m el 21 de enero de 1962.",
+      "annotations": [
+        {
+          "question": "¿Cuál es el récord de temperatura alta para Fresno?",
+          "choices": [
+            {
+              "text": "115 ° F",
+              "start": 56,
+              "end": 63,
+              "type": "correct answer"
+            },
+            {
+              "text": "17 ° F",
+              "start": 168,
+              "end": 174,
+              "type": "distractor"
+            },
+            {
+              "text": "100 ° F",
+              "start": 212,
+              "end": 219,
+              "type": "distractor"
+            },
+            {
+              "text": "90 ° F",
+              "start": 234,
+              "end": 240,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los mecanismos utilizados para evadir el sistema inmunitario adaptativo son más complicados. El enfoque más simple es cambiar rápidamente los epítopos no esenciales (aminoácidos y / o azúcares) en la superficie del patógeno, manteniendo los epítopos esenciales ocultos. Esto se llama variación antigénica. Un ejemplo es el VIH, que muta rápidamente, por lo que las proteínas en su envoltura viral que son esenciales para la entrada en su célula huésped está cambiando constantemente. Estos cambios frecuentes en los antígenos pueden explicar los fallos de las vacunas dirigidas a este virus. El parásito Trypanosoma brucei utiliza una estrategia similar, cambiando constantemente un tipo de proteína superficial por otro, permitiéndole mantenerse un paso por delante de la respuesta anticuerpo. Enmascarar antígenos con moléculas huésped es otra estrategia común para evitar la detección por el sistema inmune. En el VIH, la envoltura que cubre el virión se forma a partir de la membrana más externa de la célula huésped; Tales virus \"autoencapuchados\" dificultan al sistema inmunitario identificarlos como estructuras \"no propias\".",
+      "annotations": [
+        {
+          "question": "¿Qué estrategia utiliza el parásito Trypanosoma brucei para evadir la respuesta anticuerpo?",
+          "choices": [
+            {
+              "text": "cambiando constantemente un tipo de proteína superficial por otro, permitiéndole mantenerse un paso por delante de la respuesta anticuerpo",
+              "start": 655,
+              "end": 793,
+              "type": "correct answer"
+            },
+            {
+              "text": "enmascarar antígenos con moléculas huésped",
+              "start": 795,
+              "end": 837,
+              "type": "distractor"
+            },
+            {
+              "text": "la envoltura que cubre el virión se forma a partir de la membrana más externa de la célula huésped",
+              "start": 922,
+              "end": 1020,
+              "type": "distractor"
+            },
+            {
+              "text": "cambiar rápidamente los epítopos no esenciales (aminoácidos y / o azúcares) en la superficie del patógeno",
+              "start": 118,
+              "end": 223,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Además de la hipótesis de Riemann, se han planteado muchas más conjeturas que giran sobre primos. A menudo con una formulación elemental, muchas de estas conjeturas han resistido una prueba durante décadas: Los cuatro problemas de Landau de 1912 siguen sin resolverse. Una de ellas es la conjetura de Goldbach, que afirma que cada entero par n mayor que 2 puede ser escrito como una suma de dos primos. A partir de febrero de 2011 [actualización], esta conjetura ha sido verificada para todos los números hasta n = 2 · 1017. Declaraciones más débiles que esto han sido probadas, por ejemplo el teorema de Vinogradov dice que cada entero impar suficientemente grande puede ser escrito como una suma de tres primos. El teorema de Chen dice que cada número par suficientemente grande se puede expresar como la suma de un primo y un semiprimo, el producto de dos primos. Además, cualquier entero par puede ser escrito como la suma de seis primos. La rama de la teoría de números que estudia tales preguntas se llama teoría aditiva de números.",
+      "annotations": [
+        {
+          "question": "¿Qué afirma el teorema de Chen?",
+          "choices": [
+            {
+              "text": "cada número par suficientemente grande se puede expresar como la suma de un primo y un semiprimo",
+              "start": 742,
+              "end": 838,
+              "type": "correct answer"
+            },
+            {
+              "text": "cada entero par n mayor que 2 puede ser escrito como una suma de dos primos",
+              "start": 326,
+              "end": 401,
+              "type": "distractor"
+            },
+            {
+              "text": "cada entero impar suficientemente grande puede ser escrito como una suma de tres primos",
+              "start": 625,
+              "end": 712,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Cuarto Informe de Evaluación del IPCC (AR4) publicado en 2007 presentó un gráfico que muestra 12 reconstrucciones de temperatura basadas en proxy, incluyendo los tres destacados en el Tercer Informe de Evaluación de 2001 (TAR); Mann, Bradley & Hughes 1999 como antes, Jones et al. 1998 y Briffa 2000 habían sido calibrados por nuevos estudios. Además, el análisis del período de calor medieval citó reconstrucciones por Crowley & Lowery 2000 (como se cita en el TAR) y Osborn & Briffa 2006. Diez de estas 14 reconstrucciones cubrieron 1000 años o más. La mayoría de las reconstrucciones compartieron algunas series de datos, particularmente datos de anillo de árbol, pero las reconstrucciones más nuevas utilizaron datos adicionales y cubrieron un área más amplia, utilizando una variedad de métodos estadísticos. La sección discute el problema de divergencia que afecta a ciertos datos de anillo de árbol.",
+      "annotations": [
+        {
+          "question": "¿Cuándo se publicó el Cuarto Informe de Evaluación del IPCC?",
+          "choices": [
+            {
+              "text": "2007",
+              "start": 60,
+              "end": 64,
+              "type": "correct answer"
+            },
+            {
+              "text": "2006",
+              "start": 488,
+              "end": 492,
+              "type": "distractor"
+            },
+            {
+              "text": "1999",
+              "start": 254,
+              "end": 258,
+              "type": "distractor"
+            },
+            {
+              "text": "2000",
+              "start": 440,
+              "end": 444,
+              "type": "distractor"
+            },
+            {
+              "text": "2001",
+              "start": 219,
+              "end": 223,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Harvard es una gran universidad de investigación residencial. El costo nominal de asistencia es alto, pero la gran dotación de la Universidad le permite ofrecer generosos paquetes de ayuda financiera. Opera varios museos de artes, culturales y científicos, junto con la Biblioteca de Harvard, que es el sistema de bibliotecas académicas y privadas más grande del mundo, que comprende 79 bibliotecas individuales con más de 18 millones de volúmenes. Los ex alumnos de Harvard incluyen ocho presidentes de Estados Unidos, varios jefes de Estado extranjeros, 62 multimillonarios vivos, 335 Rhodes Scholars y 242 Marshall Scholars. Hasta la fecha, unos 150 premios Nobel, 18 medallas Fields y 13 ganadores del Premio Turing han sido afiliados como estudiantes, profesores o personal.",
+      "annotations": [
+        {
+          "question": "¿Cuántos receptores del premio Turing son afiliados a Harvard?",
+          "choices": [
+            {
+              "text": "13",
+              "start": 689,
+              "end": 691,
+              "type": "correct answer"
+            },
+            {
+              "text": "150",
+              "start": 649,
+              "end": 652,
+              "type": "distractor"
+            },
+            {
+              "text": "18",
+              "start": 668,
+              "end": 670,
+              "type": "distractor"
+            },
+            {
+              "text": "79",
+              "start": 384,
+              "end": 386,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El área de la moderna ciudad de Jacksonville ha estado habitada desde hace miles de años. En Black Hammock Island, un equipo de la Universidad del Norte de Florida descubrió algunos de los restos más antiguos de cerámica en los Estados Unidos, que datan del 2500 a. En el siglo XVI, el comienzo de la era histórica, la región estaba habitada por los Mocama, un subgrupo costero del pueblo timucua. En el momento del contacto con los europeos, todas las aldeas Mocama en el actual Jacksonville eran parte del poderoso cacicazgo conocido como Saturiwa, centrado alrededor de la desembocadura del río San Juan. Un mapa temprano muestra un pueblo llamado Ossachite en el sitio de lo que ahora es el centro de Jacksonville; Este puede ser el nombre más antiguo registrado para esa zona.",
+      "annotations": [
+        {
+          "question": "¿Qué había en Jacksonville en un mapa temprano?",
+          "choices": [
+            {
+              "text": "Ossachite",
+              "start": 651,
+              "end": 660,
+              "type": "correct answer"
+            },
+            {
+              "text": "Saturiwa",
+              "start": 541,
+              "end": 549,
+              "type": "distractor"
+            },
+            {
+              "text": "aldeas Mocama",
+              "start": 453,
+              "end": 466,
+              "type": "distractor"
+            },
+            {
+              "text": "el pueblo timucua",
+              "start": 382,
+              "end": 396,
+              "type": "distractor"
+            },
+            {
+              "text": "Black Hammock Island",
+              "start": 93,
+              "end": 113,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Newcastle lo reemplazó en enero de 1756 con Lord Loudoun, con el general James Abercrombie como su segundo al mando. Ninguno de estos hombres tuvo tanta experiencia de campaña como el trío de oficiales que Francia envió a América del Norte. Refuerzos regulares del ejército francés llegaron a Nueva Francia en mayo de 1756, dirigidos por el general Louis-Joseph de Montcalm y secundados por el Caballero de Lévis y el coronel François-Charles de Bourlamaque, todos veteranos de la Guerra de Austria. Durante ese tiempo en Europa, el 18 de mayo de 1756, Inglaterra declaró formalmente la guerra a Francia, que amplió la guerra a Europa, que más tarde fue conocida como la Guerra de los Siete Años.",
+      "annotations": [
+        {
+          "question": "¿Quién era el segundo al mando en Newcastle?",
+          "choices": [
+            {
+              "text": "James Abercrombie",
+              "start": 73,
+              "end": 90,
+              "type": "correct answer"
+            },
+            {
+              "text": "Lord Loudoun",
+              "start": 44,
+              "end": 56,
+              "type": "distractor"
+            },
+            {
+              "text": "Louis-Joseph de Montcalm",
+              "start": 349,
+              "end": 373,
+              "type": "distractor"
+            },
+            {
+              "text": "François-Charles de Bourlamaque",
+              "start": 426,
+              "end": 457,
+              "type": "distractor"
+            },
+            {
+              "text": "el Caballero de Lévis",
+              "start": 391,
+              "end": 412,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La forma del delta del Rin está determinada por dos bifurcaciones: Primero, en Millingen aan de Rijn, el Rin se divide en ramas Waal y Pannerdens Kanaal, que cambia su nombre a Nederrijn. Esto crea tres flujos principales, dos de los cuales cambian nombres con bastante frecuencia. La rama principal más grande y meridional comienza como Waal y continúa como Boven Merwede (\"Alto Merwede\"), Beneden Merwede (\"Bajo Merwede\"), Noord (\"Río Norte\"). El flujo medio comienza como Nederrijn, luego cambia a Lek, luego se une al Noord, formando Nieuwe Maas. El flujo norte mantiene el nombre de IJssel hasta que desemboca en el lago IJsselmeer. Tres flujos más llevan cantidades significativas de agua: El Nieuwe Merwede (\"Nuevo Merwede\"), que se ramifica desde la rama sur donde cambia de Boven a Beneden Merwede; El Oude Maas (\"Viejo Mosa\"), que se ramifica desde la rama sur donde cambia de Beneden Merwede a Noord, y Dordtse Kil, que se ramifica de Oude Maas.",
+      "annotations": [
+        {
+          "question": "¿Cómo continua la rama principal de Waal?",
+          "choices": [
+            {
+              "text": "Boven Merwede",
+              "start": 359,
+              "end": 372,
+              "type": "correct answer"
+            },
+            {
+              "text": "Nieuwe Maas",
+              "start": 538,
+              "end": 549,
+              "type": "distractor"
+            },
+            {
+              "text": "Nieuwe Merwede",
+              "start": 699,
+              "end": 713,
+              "type": "distractor"
+            },
+            {
+              "text": "Oude Maas",
+              "start": 811,
+              "end": 820,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En las artes visuales, los normandos no tenían las ricas y distintivas tradiciones de las culturas que conquistaron. Sin embargo, a principios del siglo XI los duques comenzaron un programa de reforma eclesiástica, fomentando la reforma cluniaca de monasterios y patrocinando actividades intelectuales, especialmente la proliferación de scriptoria y la reconstitución de una compilación de manuscritos iluminados perdidos. La iglesia fue utilizada por los duques como una fuerza unificadora para su desigual ducado. Los principales monasterios que tomaron parte en este \"renacimiento\" del arte normando fueron Mont-Saint-Michel, Fécamp, Jumièges, Bec, Saint-Ouen, Saint-Evroul y Saint-Wandrille. Estos centros estaban en contacto con la llamada \"Escuela de Winchester\", que canalizó una tradición artística carolingia a Normandía. En la última década del siglo XI y la primera del XII, Normandía experimentó una edad de oro de manuscritos ilustrados, pero fue breve y el mayor scriptoria de Normandía dejó de funcionar después del punto medio del siglo.",
+      "annotations": [
+        {
+          "question": "¿Qué paso en la última década del siglo XI y la primera del XI?",
+          "choices": [
+            {
+              "text": "Normandía experimentó una edad de oro de manuscritos ilustrados",
+              "start": 886,
+              "end": 949,
+              "type": "correct answer"
+            },
+            {
+              "text": "los duques comenzaron un programa de reforma eclesiástica, fomentando la reforma cluniaca de monasterios y patrocinando actividades intelectuales",
+              "start": 156,
+              "end": 301,
+              "type": "distractor"
+            },
+            {
+              "text": "la proliferación de scriptoria y la reconstitución de una compilación de manuscritos iluminados perdidos",
+              "start": 317,
+              "end": 421,
+              "type": "distractor"
+            },
+            {
+              "text": "una tradición artística carolingia a Normandía",
+              "start": 783,
+              "end": 829,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El programa de cuatro años, a tiempo completo, comprende una minoría de matriculaciones en la universidad y enfatiza la instrucción con un \"enfoque de las artes y las ciencias\". Entre 1978 y 2008, los estudiantes que ingresan fueron obligados a completar un plan de estudios básico de siete clases fuera de su concentración. Desde 2008, los estudiantes de pregrado han sido obligados a completar cursos en ocho categorías de educación general: Comprensión estética e interpretativa, Cultura y creencia, razonamiento empírico y matemático, razonamiento ético, ciencia de los sistemas de ciencia física. Harvard ofrece un amplio programa de postgrado doctoral y hay un alto nivel de coexistencia entre grados de postgrado y licenciatura. La Carnegie Foundation for the Advancement of Teaching, The New York Times, y algunos estudiantes han criticado a Harvard por su dependencia de la enseñanza de los profesores para algunos aspectos de la educación de pregrado; Consideran que esto afecta negativamente a la calidad de la educación.",
+      "annotations": [
+        {
+          "question": "¿En qué programa es obligatorio completar cursos en ocho categorías de educación general?",
+          "choices": [
+            {
+              "text": "licenciatura",
+              "start": 722,
+              "end": 734,
+              "type": "distractor"
+            },
+            {
+              "text": "pregrado",
+              "start": 356,
+              "end": 364,
+              "type": "correct answer"
+            },
+            {
+              "text": "postgrado doctoral",
+              "start": 639,
+              "end": 657,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Establecida originalmente por la legislatura de Massachusetts y poco después nombrada por John Harvard (su primer benefactor), Harvard es la institución de educación superior más antigua de los Estados Unidos, y la Harvard Corporation (formalmente, el presidente y becarios de Harvard). Aunque nunca se afilió formalmente a ninguna denominación, la primera universidad entrenó principalmente al clero congregacionalista y unitario. Su currículum y cuerpo estudiantil fueron secularizados gradualmente durante el siglo XVIII, y en el siglo XIX Harvard había surgido como el establecimiento cultural central entre las élites de Boston. Después de la Guerra de Secesión, el presidente Charles W. Eliot (1869-1909) transformó la universidad y las escuelas profesionales afiliadas a una universidad de investigación moderna; Harvard fue miembro fundador de la Asociación de Universidades Americanas en 1900. James Bryant Conant dirigió la universidad a través de la Gran Depresión y la Segunda Guerra Mundial y comenzó a reformar el plan de estudios y liberalizar las admisiones después de la guerra. La universidad de pregrado se convirtió en coeducacional después de su fusión en 1977 con Radcliffe College.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedió con Harvard después de la Guerra de Secesión?",
+          "choices": [
+            {
+              "text": "el presidente Charles W. Eliot (1869-1909) transformó la universidad y las escuelas profesionales afiliadas a una universidad de investigación moderna",
+              "start": 668,
+              "end": 818,
+              "type": "correct answer"
+            },
+            {
+              "text": "la universidad de pregrado se convirtió en coeducacional",
+              "start": 1096,
+              "end": 1152,
+              "type": "distractor"
+            },
+            {
+              "text": "se reformó el plan de estudios y liberalizar las admisiones después de la guerra",
+              "start": 1016,
+              "end": 1094,
+              "type": "distractor"
+            },
+            {
+              "text": "su currículum y cuerpo estudiantil fueron secularizados",
+              "start": 432,
+              "end": 487,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "New Rochelle, situada en el condado de Westchester en la orilla norte del Long Island Sound, parecía ser la gran ubicación de los hugonotes en Nueva York. Se dice que desembarcaron en la península costera de Davenports Neck llamado \"Bauffet 's Point\" después de viajar desde Inglaterra, donde se habían refugiado previamente a causa de la persecución religiosa, cuatro años antes de la revocación. Compraron a John Pell, Señor de la Mansión Pelham, una extensión de tierra que consta de seis mil cien acres con la ayuda de Jacob Leisler. Se llamaba New Rochelle por La Rochelle, su antigua fortaleza en Francia. Una pequeña iglesia de madera fue erigida por primera vez en la comunidad, seguida de una segunda iglesia que se construyó de piedra. Antes de la construcción, los hombres fuertes a menudo caminaban 23 millas el sábado por la noche, la distancia por la carretera de Nueva Rochelle a Nueva York, para asistir al servicio dominical. La iglesia fue reemplazada por una tercera, la Iglesia Episcopal de San Pablo, que contiene reliquias que incluyen la campana original de la iglesia Hugonote de Nueva York. El cementerio hugonote, o \"Cementerio hugonote\", ha sido reconocido como un cementerio histórico que es el lugar de descanso final para una amplia gama de fundadores hugonotes, primeros pobladores y ciudadanos prominentes que datan de siglos atrás.",
+      "annotations": [
+        {
+          "question": "¿En qué está inspirado el nombre de New Rochelle?",
+          "choices": [
+            {
+              "text": "una antigua fortaleza en Francia",
+              "start": 582,
+              "end": 610,
+              "type": "correct answer"
+            },
+            {
+              "text": "la campana original de la iglesia Hugonote de Nueva York",
+              "start": 1058,
+              "end": 1114,
+              "type": "distractor"
+            },
+            {
+              "text": "la península costera de Davenports Neck",
+              "start": 184,
+              "end": 223,
+              "type": "distractor"
+            },
+            {
+              "text": "la Iglesia Episcopal de San Pablo",
+              "start": 987,
+              "end": 1020,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Hay indicios en los registros supervivientes de los antiguos egipcios de que tenían algún conocimiento de los números primos: Las expansiones de fracción egipcia en el papiro Rhind, por ejemplo, tienen formas muy diferentes para los primos y para los compuestos. Sin embargo, los primeros registros supervivientes del estudio explícito de los números primos provienen de los antiguos griegos. Los Elementos de Euclides (circa 300 a. C.) contienen importantes teoremas sobre primos, incluyendo la infinitud de primos y el teorema fundamental de la aritmética. Euclides también mostró cómo construir un número perfecto a partir de un primo de Mersenne. La criba de Eratóstenes, atribuida a Eratóstenes, es un método simple para calcular primos, aunque los números primos grandes encontrados hoy en día con computadoras no se generan de esta manera.",
+      "annotations": [
+        {
+          "question": "¿Quién escribió la teoría de la infinitud de primos?",
+          "choices": [
+            {
+              "text": "Euclides",
+              "start": 410,
+              "end": 418,
+              "type": "correct answer"
+            },
+            {
+              "text": "Mersenne",
+              "start": 641,
+              "end": 649,
+              "type": "distractor"
+            },
+            {
+              "text": "Eratóstenes",
+              "start": 688,
+              "end": 699,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
