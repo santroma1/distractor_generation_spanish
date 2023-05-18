@@ -17459,6 +17459,723 @@
           ]
         }
       ]
+    },
+    {
+      "context": "Aunque la Unión Europea no tiene una constitución codificada, como todos los cuerpos políticos, tiene leyes que \"constituyen\" su estructura de gobernanza básica. Las principales fuentes constitucionales de la UE son el Tratado de Unión Europea (TEU) y el Tratado de Funcionamiento de la Unión Europea (TFEU). Los Tratados establecen las instituciones de la UE, enumeran sus poderes y responsabilidades y explican las áreas en las que la UE puede legislar con Directivas o Reglamentos. La Comisión Europea tiene la iniciativa de proponer legislación. Durante el procedimiento legislativo ordinario, el Consejo (que son ministros de los gobiernos de los estados miembros) y el Parlamento Europeo (elegido por los ciudadanos) pueden hacer enmiendas y deben dar su consentimiento para que las leyes pasen. La Comisión supervisa los departamentos y varias agencias que ejecutan o hacen cumplir la ley de la UE. El \"Consejo Europeo\" (más que el Consejo, compuesto por diferentes ministros de gobierno) está compuesto por los primeros ministros o presidentes ejecutivos de los estados miembros. Designa a los Comisionados y a la junta directiva del Banco Central Europeo. El Tribunal Europeo de Justicia es el órgano judicial supremo que interpreta el derecho de la UE y lo desarrolla a través de precedentes. El Tribunal puede revisar la legalidad de las acciones de las instituciones de la UE, en cumplimiento de los Tratados. También puede decidir sobre las reclamaciones de violación de las leyes de la UE de los estados miembros y los ciudadanos.",
+      "annotations": [
+        {
+          "question": "¿Qué cuerpo actúa como poder legislativo de la Unión Europea?",
+          "choices": [
+            {
+              "text": "Tratado de Funcionamiento de la Unión Europea ",
+              "start": 255,
+              "end": 301,
+              "type": "distractor"
+            },
+            {
+              "text": "Comisión Europea",
+              "start": 488,
+              "end": 504,
+              "type": "correct answer"
+            },
+            {
+              "text": "Tribunal Europeo de Justicia",
+              "start": 1168,
+              "end": 1196,
+              "type": "distractor"
+            },
+            {
+              "text": "Parlamento Europeo",
+              "start": 675,
+              "end": 693,
+              "type": "distractor"
+            },
+            {
+              "text": "Consejo Europeo",
+              "start": 910,
+              "end": 925,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Desde finales de la década de 1340 en adelante, la gente en el campo sufrió frecuentes desastres naturales como sequías, inundaciones y hambrunas resultantes, y la falta de política efectiva del gobierno llevó a una pérdida de apoyo popular. En 1351, la Rebelión de los Turbantes Rojos comenzó y se convirtió en un levantamiento nacional. En 1354, cuando Toghtogha dirigió un gran ejército para aplastar a los rebeldes turbantes rojos, Toghun Temür de repente lo despidió por miedo a la traición. Esto resultó en la restauración de Toghun Temür del poder por un lado y un rápido debilitamiento del gobierno central por el otro. No tuvo más remedio que confiar en el poder militar de los señores de la guerra locales, y poco a poco perdió su interés en la política y dejó de intervenir en las luchas políticas. Huyó al norte de Shangdu desde Khanbaliq (actual Beijing) en 1368 después de la aproximación de las fuerzas de la dinastía Míng (1368-1644), fundada por Zhu Yuanzhang en el sur. Había intentado recuperar Khanbaliq, que finalmente fracasó. Murió en Yingchang (actual Mongolia Interior) dos años más tarde (1370). Yingchang fue capturado por los Ming poco después de su muerte. Algunos miembros de la familia real todavía vivían en Henan hoy.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedió en 1351?",
+          "choices": [
+            {
+              "text": "la Rebelión de los Turbantes Rojos comenzó",
+              "start": 251,
+              "end": 293,
+              "type": "correct answer"
+            },
+            {
+              "text": "Toghtogha dirigió un gran ejército para aplastar a los rebeldes turbantes rojos",
+              "start": 355,
+              "end": 434,
+              "type": "distractor"
+            },
+            {
+              "text": "Yingchang fue capturado por los Ming",
+              "start": 1122,
+              "end": 1158,
+              "type": "distractor"
+            },
+            {
+              "text": "la restauración de Toghun Temür del poder por un lado",
+              "start": 513,
+              "end": 566,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Junto con los avances en la comunicación, Europa también continuó avanzando en la tecnología militar. Los químicos europeos fabricaron explosivos mortales que podían ser utilizados en combate, y con innovaciones en maquinaria fueron capaces de fabricar armas de fuego mejoradas. En la década de 1880, la ametralladora se había convertido en un arma efectiva en el campo de batalla. Esta tecnología dio a los ejércitos europeos una ventaja sobre sus oponentes, ya que los ejércitos en los países menos desarrollados seguían luchando con flechas, espadas y escudos de cuero (e.g. The Zulus in Southern Africa during the Anglo-Zulu War of 1879 (en inglés).",
+      "annotations": [
+        {
+          "question": "¿Qué arma se popularizó en la década de 1880?",
+          "choices": [
+            {
+              "text": "ametralladora",
+              "start": 304,
+              "end": 317,
+              "type": "correct answer"
+            },
+            {
+              "text": "explosivos mortales",
+              "start": 135,
+              "end": 154,
+              "type": "distractor"
+            },
+            {
+              "text": "espadas",
+              "start": 545,
+              "end": 552,
+              "type": "distractor"
+            },
+            {
+              "text": "escudos de cuero",
+              "start": 555,
+              "end": 571,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los grandes almacenes de cadenas crecieron rápidamente después de 1920, y proporcionaron competencia para los grandes almacenes del centro de la ciudad, así como los grandes almacenes locales en las pequeñas ciudades. Penney tenía cuatro tiendas en 1908, 312 en 1920 y 1452 en 1930. Sears, Roebuck & Company, una gigantesca casa de venta por correo, abrió sus primeras ocho tiendas en 1925, y operó 338 en 1930, y 595 en 1940. Las cadenas llegaron a un público de clase media, que estaba más interesado en el valor que en las modas de lujo. Sears fue un pionero en la creación de grandes almacenes que abastecían a hombres y mujeres, especialmente con líneas de hardware y materiales de construcción. Desenfatizó las últimas modas en favor de la practicidad y la durabilidad, y permitió a los clientes seleccionar mercancías sin la ayuda de un empleado. Sus tiendas estaban orientadas a los automovilistas, aparte de los distritos comerciales existentes en medio de áreas residenciales ocupadas por su público objetivo. Tenía estacionamiento amplio, libre, fuera de la calle. Y comunicó una clara identidad corporativa. En la década de 1930, la compañía diseñó tiendas \"sin ventanas\" totalmente climatizadas, cuyo diseño fue impulsado por las preocupaciones de comercialización.",
+      "annotations": [
+        {
+          "question": "¿En qué año Sears, Roebuck & Company abrió sus primeras tiendas?",
+          "choices": [
+            {
+              "text": "1925",
+              "start": 385,
+              "end": 389,
+              "type": "correct answer"
+            },
+            {
+              "text": "1930",
+              "start": 406,
+              "end": 410,
+              "type": "distractor"
+            },
+            {
+              "text": "1940",
+              "start": 421,
+              "end": 425,
+              "type": "distractor"
+            },
+            {
+              "text": "1920",
+              "start": 262,
+              "end": 266,
+              "type": "distractor"
+            },
+            {
+              "text": "1908",
+              "start": 249,
+              "end": 253,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Tras la derrota de la Alemania nazi en la Segunda Guerra Mundial en 1945, Prusia Oriental fue dividida entre Polonia y la Unión Soviética de acuerdo con la Conferencia de Potsdam. El sur de Prusia Oriental fue puesto bajo administración polaca, mientras que el norte de Prusia Oriental fue dividido entre las repúblicas soviéticas de Rusia (el óblast de Kaliningrado) y Lituania (los condados constituyentes de la región de Klaipėda). La ciudad de Königsberg pasó a llamarse Kaliningrado en 1946. La población alemana de la provincia fue evacuada en gran parte durante la guerra, pero varios cientos de miles murieron durante los años 1944-46 y el resto fueron posteriormente expulsados.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedió en 1946 en Prusia?",
+          "choices": [
+            {
+              "text": "Königsberg pasó a llamarse Kaliningrado",
+              "start": 448,
+              "end": 487,
+              "type": "correct answer"
+            },
+            {
+              "text": "Prusia Oriental fue puesto bajo administración polaca",
+              "start": 190,
+              "end": 243,
+              "type": "distractor"
+            },
+            {
+              "text": "la derrota de la Alemania nazi en la Segunda Guerra Mundial",
+              "start": 5,
+              "end": 64,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La educación superior europea tuvo lugar durante cientos de años en escuelas catedrales cristianas o en escuelas monásticas (scholae monasticae), en las que monjes y monjas impartían clases; La evidencia de estos precursores inmediatos de la universidad en muchos lugares se remonta al siglo VI. Las primeras universidades fueron desarrolladas bajo la égida de la Iglesia latina por bula papal studia generalia y quizás de escuelas catedralicias. Es posible, sin embargo, que el desarrollo de escuelas catedralicias en universidades fuera bastante raro, con la Universidad de París siendo una excepción. Más tarde también fueron fundados por los reyes (Universidad de Nápoles Federico II, Universidad Carolina en Praga, Universidad Jaguelónica en Cracovia) o administraciones municipales (Universidad de Colonia, Universidad de Erfurt). En el período medieval temprano, la mayoría de las nuevas universidades se fundaron a partir de escuelas preexistentes, por lo general cuando se consideró que estas escuelas se han convertido principalmente en sitios de educación superior. Muchos historiadores afirman que las universidades y las escuelas catedralicias fueron una continuación del interés en el aprendizaje promovido por los monasterios.",
+      "annotations": [
+        {
+          "question": "¿Quién impartía las clases en la educación superior europea en escuelas catedrales cristianas?",
+          "choices": [
+            {
+              "text": "monjes y monjas",
+              "start": 157,
+              "end": 172,
+              "type": "correct answer"
+            },
+            {
+              "text": "reyes",
+              "start": 646,
+              "end": 651,
+              "type": "distractor"
+            },
+            {
+              "text": "historiadores",
+              "start": 1084,
+              "end": 1097,
+              "type": "distractor"
+            },
+            {
+              "text": "la Iglesia latina",
+              "start": 361,
+              "end": 378,
+              "type": "distractor"
+            }
+          ]
+        },
+        {
+          "question": "¿Qué universidad fue fundada por administraciones municipales?",
+          "choices": [
+            {
+              "text": "Universidad de Colonia",
+              "start": 789,
+              "end": 811,
+              "type": "correct answer"
+            },
+            {
+              "text": "Universidad Carolina en Praga",
+              "start": 689,
+              "end": 718,
+              "type": "distractor"
+            },
+            {
+              "text": "Universidad de París",
+              "start": 561,
+              "end": 581,
+              "type": "distractor"
+            },
+            {
+              "text": "Universidad Jaguelónica en Cracovia",
+              "start": 720,
+              "end": 755,
+              "type": "distractor"
+            },
+            {
+              "text": "Universidad de Nápoles Federico II",
+              "start": 653,
+              "end": 687,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La genética de islas proporciona una explicación propuesta para la aparición repentina y completamente desarrollada de las plantas con flores. Se cree que la genética de islas es una fuente común de especiación en general, especialmente cuando se trata de adaptaciones radicales que parecen haber requerido formas de transición inferiores. Las plantas con flores pueden haber evolucionado en un entorno aislado como una isla o una cadena de islas, donde las plantas que las llevan fueron capaces de desarrollar una relación altamente especializada con algún animal específico (una avispa, por ejemplo). Tal relación, con una avispa hipotética que transportaba polen de una planta a otra de la manera que las avispas de higo hoy en día, podría resultar en el desarrollo de un alto grado de especialización tanto en la planta. Tenga en cuenta que el ejemplo de avispa no es accidental; Las abejas, que se postula, evolucionaron específicamente debido a las relaciones mutualistas con las plantas, descienden de las avispas.",
+      "annotations": [
+        {
+          "question": "¿De qué es la aparición repentina que se explica por la genética de islas?",
+          "choices": [
+            {
+              "text": "las plantas con flores",
+              "start": 119,
+              "end": 141,
+              "type": "correct answer"
+            },
+            {
+              "text": "las avispas",
+              "start": 708,
+              "end": 715,
+              "type": "distractor"
+            },
+            {
+              "text": "las abejas",
+              "start": 888,
+              "end": 894,
+              "type": "distractor"
+            },
+            {
+              "text": "el polen",
+              "start": 660,
+              "end": 665,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A diferencia del dólar ordeñado español, el dólar estadounidense se basa en un sistema decimal de valores. Además del dólar, el acto de acuñación estableció oficialmente unidades monetarias de molino o una milésima de un dólar (símbolo,), céntimo o centésima de un dólar (símbolo ¢), diez dólares prescritos, Se propuso a mediados del siglo XIX que cien dólares fueran conocidos como una unión, pero nunca se acuñaron monedas sindicales y sólo existen patrones para la unión de $50. Sin embargo, sólo los centavos están en uso diario como divisiones del dólar; \"Dime\" se utiliza únicamente como el nombre de la moneda con el valor de 10 ¢, mientras que \"águila\" y \"molino\" son en gran parte desconocidos para el público en general, aunque los molinos se utilizan a veces en impuestos. Cuando se emite actualmente en forma circular, las denominaciones iguales o menores a un dólar se emiten como monedas estadounidenses, mientras que las denominaciones iguales o mayores a un dólar se emiten como billetes de la Reserva Federal. Tanto monedas de un dólar como billetes se producen hoy en día, aunque la forma de la nota es significativamente más común. En el pasado, el \"papel moneda\" se emitía ocasionalmente en denominaciones de menos de un dólar (moneda fraccionaria) y se emitieron monedas de oro hasta el valor de $20 (conocido como el \"doble águila\"). El término águila fue utilizado en la Ley de monedas de 1792 para la denominación de diez dólares, y posteriormente se utilizó para nombrar monedas de oro. El papel moneda de menos de un dólar en la denominación, conocido como \"moneda fraccionaria\", también se llamaba a veces peyorativamente \"shinplasters\". En 1854, James Guthrie, entonces Secretario del Tesoro, propuso la creación de monedas de oro de $100, $50 y $25, que fueron referidas como una \"Unión\", \"Media Unión\", y \"Quarter Union\".",
+      "annotations": [
+        {
+          "question": "¿Cómo se emiten actualmente las denominaciones iguales o menores a un dólar en los Estados Unidos?",
+          "choices": [
+            {
+              "text": "monedas estadounidenses",
+              "start": 895,
+              "end": 918,
+              "type": "correct answer"
+            },
+            {
+              "text": "billetes de la Reserva Federal",
+              "start": 996,
+              "end": 1026,
+              "type": "distractor"
+            },
+            {
+              "text": "papel moneda",
+              "start": 1170,
+              "end": 1182,
+              "type": "distractor"
+            },
+            {
+              "text": "monedas de oro",
+              "start": 1285,
+              "end": 1299,
+              "type": "distractor"
+            },
+            {
+              "text": "moneda fraccionaria",
+              "start": 1585,
+              "end": 1604,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los Testigos de Jehová creen que su religión es una restauración del cristianismo del siglo I. Las doctrinas de los Testigos de Jehová son establecidas por el Cuerpo de Gobierno, que asume la responsabilidad de interpretar y aplicar las escrituras. El Cuerpo de Gobierno no emite ninguna \"declaración de fe\" integral, pero prefiere expresar su posición doctrinal de varias maneras a través de publicaciones publicadas por la Sociedad Watch Tower. Sus publicaciones enseñan que los cambios doctrinales y los refinamientos son el resultado de un proceso de revelación progresiva, en el que Dios gradualmente revela su voluntad y propósito, y que tal iluminación o \"nueva luz\" es resultado de la aplicación. La Sociedad también enseña que los miembros del Cuerpo de Gobierno son ayudados por el espíritu santo para discernir \"verdades profundas\", que luego son consideradas por todo el Cuerpo de Gobierno antes de tomar decisiones doctrinales. Se dice que el liderazgo de la religión, aunque rechaza la inspiración divina e infalibilidad, proporciona \"orientación divina\" a través de sus enseñanzas descritas como \"basadas en la Palabra de Dios... no de los hombres, sino de Jehová\".",
+      "annotations": [
+        {
+          "question": "¿Qué hace el Cuerpo de Gobierno de los Testigos de Jehová?",
+          "choices": [
+            {
+              "text": "interpretar y aplicar las escrituras",
+              "start": 211,
+              "end": 247,
+              "type": "correct answer"
+            },
+            {
+              "text": "expresar su posición doctrinal de varias maneras a través de publicaciones",
+              "start": 332,
+              "end": 406,
+              "type": "distractor"
+            },
+            {
+              "text": "rechazar la inspiración divina e infalibilidad",
+              "start": 989,
+              "end": 1034,
+              "type": "distractor"
+            },
+            {
+              "text": "revelar su voluntad y propósito, y que tal iluminación o \"nueva luz\" es resultado de la aplicación",
+              "start": 606,
+              "end": 703,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En los 18 años bajo la presidencia de Edward Malloy, C.S.C., (1987-2005), hubo un rápido crecimiento en la reputación, la facultad y los recursos de la escuela. Aumentó la facultad de más de 500 profesores; La calidad académica del cuerpo estudiantil ha mejorado dramáticamente, con el puntaje promedio de SAT aumentando de 1240 a 1360; El número de estudiantes de minorías se duplicó más que el doble. La dotación creció de $350 millones a más de $3 mil millones; El presupuesto anual de operación aumentó de $177 millones a más de $650 millones; Y el financiamiento anual de la investigación mejoró de $15 millones a más de $70 millones. ¿El más reciente de Notre Dame? La campaña de capital recaudó $1,1 mil millones, muy superior a su objetivo de $767 millones, y es el más grande en la historia de la educación superior católica.",
+      "annotations": [
+        {
+          "question": "¿Cuál fue la mejora en el financiamiento anual de la investigación bajo Edward Malloy?",
+          "choices": [
+            {
+              "text": "$70 millones",
+              "start": 626,
+              "end": 638,
+              "type": "correct answer"
+            },
+            {
+              "text": "$1,1 mil millones",
+              "start": 702,
+              "end": 719,
+              "type": "distractor"
+            },
+            {
+              "text": "$177 millones",
+              "start": 510,
+              "end": 523,
+              "type": "distractor"
+            },
+            {
+              "text": "$767 millones",
+              "start": 751,
+              "end": 764,
+              "type": "distractor"
+            },
+            {
+              "text": "$15 millones",
+              "start": 604,
+              "end": 616,
+              "type": "distractor"
+            },
+            {
+              "text": "$350 millones",
+              "start": 425,
+              "end": 438,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La inmigración de checos de Europa a los Estados Unidos ocurrió principalmente de 1848 a 1914. El checo es un Less Commonly Taught Language en las escuelas estadounidenses, y se enseña en los centros de patrimonio checo. Grandes comunidades de checos estadounidenses viven en los estados de Texas, Nebraska y Wisconsin. En el censo de 2000, el checo fue el idioma más común hablado en casa (además del inglés) en los condados de Valley, Butler y Saunders, Nebraska y el condado de Republic, Kansas. Con la excepción del español, el checo fue la lengua materna más común en más de una docena de condados adicionales en Nebraska, Kansas, Texas, Dakota del Norte y Minnesota. A partir de 2009, 70.500 estadounidenses hablaban checo como su primera lengua (49º lugar a nivel nacional, detrás del turco y por delante del sueco).",
+      "annotations": [
+        {
+          "question": "¿En qué estado se encuentra el estado de Republic?",
+          "choices": [
+            {
+              "text": "Kansas",
+              "start": 491,
+              "end": 497,
+              "type": "correct answer"
+            },
+            {
+              "text": "Nebraska",
+              "start": 456,
+              "end": 464,
+              "type": "distractor"
+            },
+            {
+              "text": "Texas",
+              "start": 636,
+              "end": 641,
+              "type": "distractor"
+            },
+            {
+              "text": "Minnesota",
+              "start": 662,
+              "end": 671,
+              "type": "distractor"
+            },
+            {
+              "text": "Wisconsin",
+              "start": 309,
+              "end": 318,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los láseres que emiten en la parte verde del espectro están ampliamente disponibles para el público en general en una amplia gama de potencias de salida. Los punteros láser verdes que salen a 532 nm (563,5 THz) son relativamente baratos en comparación con otras longitudes de onda de la misma potencia, y son muy populares debido a su buena calidad de haz y muy alto brillo aparente. Los láseres verdes más comunes utilizan tecnología de diodo de estado sólido bombeado (DPSS) para crear la luz verde. Un diodo láser infrarrojo a 808 nm se utiliza para bombear un cristal de óxido de uranio dopado con neodimio de itrio vanadio (Nd: YVO4) o aluminio dopado con neodimio. Esta luz infrarroja profunda se pasa a través de otro cristal que contiene potasio, titanio y fósforo (KTP), cuyas propiedades no lineales generan luz a una frecuencia que es el doble que la del haz incidente (563.5 THz). En este caso corresponde a la longitud de onda de 532 nm (\"verde\"). Otras longitudes de onda verdes también están disponibles usando tecnología DPSS que va desde 501 nm a 543 nm. Las longitudes de onda verdes también están disponibles en los láseres de gas, incluyendo el láser de helio-neón (543 nm), el láser de Argon-ion (514 nm) y el láser de Krypton ion (531 nm). Los láseres verdes tienen una amplia variedad de aplicaciones, incluyendo señalamiento, iluminación, cirugía, luces láser, espectroscopia, interferometría, fluorescencia, holografía, visión de máquina, armas no letales y control de aves.",
+      "annotations": [
+        {
+          "question": "¿Qué láser tiene una longitud de onda de 531 nm?",
+          "choices": [
+            {
+              "text": "el láser de helio-neón",
+              "start": 1162,
+              "end": 1184,
+              "type": "distractor"
+            },
+            {
+              "text": "el láser de Argon-ion",
+              "start": 1195,
+              "end": 1216,
+              "type": "distractor"
+            },
+            {
+              "text": "el láser de Krypton ion",
+              "start": 1228,
+              "end": 1251,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El original alemán de los protocolos secretos fue presumiblemente destruido en el bombardeo de Alemania, pero a finales de 1943, Ribbentrop había ordenado que los registros más secretos del Ministerio de Asuntos Exteriores alemán de 1933 se filmaran a unas 9.800 páginas. Cuando los diversos departamentos del Foreign Office en Berlín fueron evacuados a Turingia al final de la guerra, Karl von Loesch, un funcionario civil que había trabajado para el intérprete jefe Paul Otto Schmidt, fue confiado con estas copias de microfilm. Finalmente recibió órdenes de destruir los documentos secretos, pero decidió enterrar el contenedor de metal con los microfilms como un seguro personal para su bienestar futuro. En mayo de 1945, von Loesch se acercó al teniente coronel británico Robert C. Thomson con la solicitud de transmitir una carta personal a Duncan Sandys, yerno de Churchill. En la carta, von Loesch reveló que tenía conocimiento del paradero de los documentos, pero esperaba un tratamiento preferencial a cambio. El coronel Thomson y su homólogo estadounidense Ralph Collins acordaron transferir von Loesch a Marburg en la zona americana si él produciría los microfilmes. Los microfilmes contenían una copia del Tratado de No Agresión así como el Protocolo Secreto. Ambos documentos fueron descubiertos como parte de los registros microfilmados en agosto de 1945 por el empleado del Departamento de Estado Wendell B. Blancke, jefe de una unidad especial llamada \"Exploitation German Archives\" (EGA).",
+      "annotations": [
+        {
+          "question": "¿Qué tenía von Loesch que le dio a Robert C. Thomson?",
+          "choices": [
+            {
+              "text": "la solicitud de transmitir una carta personal a Duncan Sandys",
+              "start": 799,
+              "end": 860,
+              "type": "correct answer"
+            },
+            {
+              "text": "los registros más secretos del Ministerio de Asuntos Exteriores alemán",
+              "start": 159,
+              "end": 229,
+              "type": "distractor"
+            },
+            {
+              "text": "una copia del Tratado de No Agresión",
+              "start": 1205,
+              "end": 1241,
+              "type": "distractor"
+            },
+            {
+              "text": "el contenedor de metal con los microfilms",
+              "start": 617,
+              "end": 658,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Fundación Bill & Melinda Gates (abreviada como BMGF) es la mayor fundación privada del mundo, fundada por Bill Gates y Melinda Gates. Fue lanzado en 2000 y se dice que es la fundación privada más grande operada de forma transparente en el mundo. Los objetivos principales de la fundación son, globalmente, mejorar la salud y reducir la pobreza extrema, y en Estados Unidos, ampliar las oportunidades educativas y el acceso a la tecnología de la información. La fundación, con sede en Seattle, Washington, está controlada por sus tres administradores: Bill Gates, Melinda Gates y Warren Buffett. Otros oficiales principales son el copresidente William H. Gates, Sr. y la directora ejecutiva Susan Desmond-Hellmann.",
+      "annotations": [
+        {
+          "question": "¿Quién actúa como director ejecutivo o directora ejecutiva de la Fundación Bill & Melinda Gates?",
+          "choices": [
+            {
+              "text": "Susan Desmond-Hellmann",
+              "start": 693,
+              "end": 715,
+              "type": "correct answer"
+            },
+            {
+              "text": "Melinda Gates",
+              "start": 566,
+              "end": 579,
+              "type": "distractor"
+            },
+            {
+              "text": "Warren Buffet",
+              "start": 582,
+              "end": 595,
+              "type": "distractor"
+            },
+            {
+              "text": "William H. Gates",
+              "start": 646,
+              "end": 662,
+              "type": "distractor"
+            },
+            {
+              "text": "Bill Gates",
+              "start": 554,
+              "end": 564,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El método de densidad cristalina de rayos X es principalmente un método para determinar la constante de Avogadro, pero como la constante de Avogadro está relacionada con la constante de Planck también determina un valor de h. Se utilizan cristales de silicio, ya que están disponibles en alta calidad y pureza por la tecnología desarrollada para la industria de semiconductores. El volumen de la celda unitaria se calcula a partir de la separación entre dos planos de cristal conocidos como d220. El volumen molar Vm (Si) requiere un conocimiento de la densidad del cristal y el peso atómico del silicio utilizado. La constante de Planck es dada por",
+      "annotations": [
+        {
+          "question": "¿Qué se determina principalmente con el método de densidad cristalina de rayos X?",
+          "choices": [
+            {
+              "text": "el volumen de la celda unitaria",
+              "start": 379,
+              "end": 410,
+              "type": "distractor"
+            },
+            {
+              "text": "el volumen molar Vm",
+              "start": 497,
+              "end": 516,
+              "type": "distractor"
+            },
+            {
+              "text": "el peso atómico del silicio",
+              "start": 576,
+              "end": 603,
+              "type": "distractor"
+            },
+            {
+              "text": "la constante de Planck",
+              "start": 170,
+              "end": 192,
+              "type": "distractor"
+            },
+            {
+              "text": "la constante de Avogadro",
+              "start": 88,
+              "end": 112,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La historia de GE de trabajar con turbinas en el campo de la generación de energía les dio el conocimiento de ingeniería para moverse al nuevo campo de los turbosobrealimentadores de aviones. Liderado por Sanford Alexander Moss, GE introdujo los primeros supercargadores durante la Primera Guerra Mundial, y continuó desarrollándolos durante el período de entreguerras. Los supercargadores se volvieron indispensables en los años inmediatamente anteriores a la Segunda Guerra Mundial, y GE era el líder mundial en la sobrecarga impulsada por el agotamiento cuando comenzó la guerra. Esta experiencia, a su vez, hizo de GE una selección natural para desarrollar el motor a reacción Whittle W.1 que se demostró en los Estados Unidos en 1941. GE ocupó el noveno lugar entre las corporaciones de los Estados Unidos en el valor de los contratos de producción en tiempos de guerra. Aunque sus primeros trabajos con los diseños de Whittle fueron posteriormente entregados a Allison Engine Company, GE Aviation emergió como uno de los mayores fabricantes de motores del mundo, solo superado por la compañía británica, Rolls-Royce plc.",
+      "annotations": [
+        {
+          "question": "¿Qué contribuyó a que GE fuera seleccionada para desarrollar el motor a reacción Whittle W.1?",
+          "choices": [
+            {
+              "text": "era el líder mundial en la sobrecarga impulsada por el agotamiento cuando comenzó la guerra",
+              "start": 490,
+              "end": 581,
+              "type": "correct answer"
+            },
+            {
+              "text": "los diseños de Whittle fueron posteriormente entregados a Allison Engine Company",
+              "start": 909,
+              "end": 989,
+              "type": "distractor"
+            },
+            {
+              "text": "la historia de GE de trabajar con turbinas en el campo de la generación de energía",
+              "start": 0,
+              "end": 82,
+              "type": "distractor"
+            },
+            {
+              "text": "el valor de los contratos de producción en tiempos de guerra",
+              "start": 814,
+              "end": 874,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Lanzado en todo el mundo entre 2005-2006, la Xbox 360 fue inicialmente escasa en muchas regiones, incluyendo América del Norte y Europa. Las primeras versiones de la consola sufrieron una alta tasa de fallos, indicada por el llamado \"Anillo Rojo de la Muerte\", lo que requirió una extensión del período de garantía del dispositivo. Microsoft lanzó dos modelos rediseñados de la consola: El Xbox 360 S en 2010, y el Xbox 360 E en 2013. A partir de junio de 2014, 84 millones de consolas Xbox 360 se han vendido en todo el mundo, por lo que es la sexta consola de videojuegos más vendida en la historia, y la consola más vendida hecha por una empresa estadounidense. Aunque no es la consola más vendida de su generación, la Xbox 360 fue considerada por TechRadar como la más influyente a través de su énfasis en la distribución de medios digitales y juegos multijugador en Xbox Live. El sucesor de Xbox 360, el Xbox One, fue lanzado el 22 de noviembre de 2013. Microsoft ha declarado que planean apoyar la Xbox 360 hasta 2016. La Xbox One también es compatible con la Xbox 360.",
+      "annotations": [
+        {
+          "question": "¿Qué modelo sufrió el fallo llamado \"Anillo Rojo de la Muerte\"?",
+          "choices": [
+            {
+              "text": "Xbox 360",
+              "start": 45,
+              "end": 53,
+              "type": "correct answer"
+            },
+            {
+              "text": "Xbox 360 S",
+              "start": 390,
+              "end": 400,
+              "type": "distractor"
+            },
+            {
+              "text": "Xbox 360 E",
+              "start": 415,
+              "end": 425,
+              "type": "distractor"
+            },
+            {
+              "text": "Xbox One",
+              "start": 909,
+              "end": 917,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después del Concilio, Pablo VI contribuyó de dos maneras al continuo crecimiento del diálogo ecuménico. Los hermanos y hermanas separados, como él los llamaba, no pudieron contribuir al Consejo como observadores invitados. Después del Concilio, muchos de ellos tomaron la iniciativa de buscar a sus homólogos católicos y al Papa en Roma, que recibieron tales visitas. Pero la propia Iglesia católica reconoció a partir de los muchos encuentros ecuménicos anteriores, que mucho era necesario hacer dentro, para ser un socio abierto para el ecumenismo. A los que se les confió la verdad más profunda y, por lo tanto, Pablo VI, creía que tenía la parte más difícil de comunicar. El diálogo ecuménico, en opinión de Pablo VI, requiere de un católico a toda la persona: Toda la razón, voluntad y corazón. Pablo VI, como Pío XII antes que él, era reacio a ceder en un punto más bajo posible. Y, sin embargo, Pablo se sintió obligado a admitir su ardiente deseo basado en Gospel de ser todo para todos y ayudar a toda la gente Siendo el sucesor de Pedro, sintió las palabras de Cristo: \"Me amas más\". Estas palabras significaron que Pablo VI ama sin límites, y subrayan el enfoque fundamental de la Iglesia al ecumenismo.",
+      "annotations": [
+        {
+          "question": "¿Qué requiere el diálogo ecuménico, según Pablo VI?",
+          "choices": [
+            {
+              "text": "la razón, voluntad y corazón",
+              "start": 770,
+              "end": 798,
+              "type": "correct answer"
+            },
+            {
+              "text": "las palabras de Cristo: \"Me amas más\"",
+              "start": 1055,
+              "end": 1092,
+              "type": "distractor"
+            },
+            {
+              "text": "hermanos y hermanas",
+              "start": 108,
+              "end": 127,
+              "type": "distractor"
+            },
+            {
+              "text": "al Papa en Roma",
+              "start": 321,
+              "end": 336,
+              "type": "distractor"
+            },
+            {
+              "text": "la verdad más profunda",
+              "start": 575,
+              "end": 597,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Universal poseía los derechos del personaje \"Oswald the Lucky Rabbit\", aunque Walt Disney y Ub Iwerks habían creado a Oswald, y sus películas habían disfrutado de una exitosa carrera teatral. Después de que Charles Mintz exigió sin éxito que Disney aceptara una tarifa más baja para producir la propiedad, Mintz produjo las películas con su propio grupo de animadores. En cambio, Disney e Iwerks crearon a Mickey Mouse que en 1928 vio el primer corto animado con sonido sincronizado, Steamboat Willie. Este momento lanzó efectivamente el punto de apoyo de Walt Disney Studios, mientras que Universal se convirtió en un jugador menor en la animación cinematográfica. Universal posteriormente cortó su vínculo con Mintz y formó su propio estudio de animación interno para producir caricaturas de Oswald dirigidas por Walter Lantz.",
+      "annotations": [
+        {
+          "question": "¿Qué personaje creó Disney e Iwerks en 1928?",
+          "choices": [
+            {
+              "text": "Mickey Mouse",
+              "start": 406,
+              "end": 418,
+              "type": "correct answer"
+            },
+            {
+              "text": "Steamboat Willie",
+              "start": 484,
+              "end": 500,
+              "type": "distractor"
+            },
+            {
+              "text": "Oswald the Lucky Rabbit",
+              "start": 45,
+              "end": 68,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

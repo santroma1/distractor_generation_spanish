@@ -233,17 +233,19 @@ Total 50
 
 # Thursday May 18th
 
-Dates and Numbers 0
+Dates and Numbers 2
 
-Names 0
+Names 6
 
-Phrases 0
+Phrases 12
 
-Total 0
+Total 20
 
 
 ## Comments
-
+510. Infinitive
+516. Cases
+517. Cases
 
 <br>
 
@@ -263,4 +265,4 @@ Total 500
 - For a reason, its not exporting datapoint 177. 
 - There is another text with 2 questions
 - There is now a total of 3 texts with 2 questions
-- Texts with 2 questions: 10
+- Texts with 2 questions: 11
