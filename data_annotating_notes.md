@@ -231,33 +231,49 @@ Total 50
 495. Also check
 
 
-# Thursday May 18th
+# Thursday May 18th - Friday May 19th
 
-Dates and Numbers 2
+Dates and Numbers 6
 
-Names 6
+Names 12
 
-Phrases 12
+Phrases 32
 
-Total 20
+Total 50
 
 
 ## Comments
 510. Infinitive
 516. Cases
 517. Cases
+525. "los"
+540. Articles     
+545. Check
+548. Cases
 
 <br>
 
+# Friday May 19th - Saturday May 20th
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 1
+
+Total 1
+
+## Comments
+
 # Total
 
-Dates and Numbers 62
+Dates and Numbers 68
 
-Names 116
+Names 128
 
-Phrases 323 - 1   
+Phrases 355 - 1   
 
-Total 500
+Total 550
 
 
 # GLOBAL NOTES

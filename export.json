@@ -3524,6 +3524,41 @@
       "context": "Tras su elección al papado, Montini tomó el nombre pontificio de Pablo VI (el primero en tomar el nombre de Pablo desde 1605) para indicar una renovada misión mundial para difundir el mensaje de Cristo, siguiendo el ejemplo del Apóstol. Paul. Volvió a convocar el Concilio Vaticano II, que se cerró automáticamente con la muerte de Juan XXIII, y le dio prioridad y dirección. Después de que el consejo hubiera concluido su trabajo, Pablo VI se hizo cargo de la interpretación e implementación de sus mandatos, a menudo caminando en una delgada línea entre las expectativas conflictivas de varios grupos dentro del catolicismo. La magnitud y la profundidad de las reformas que afectaron a todos los campos de la vida de la Iglesia durante su pontificado excedieron las políticas de reforma similares de sus predecesores y sucesores. Pablo VI era un devoto mariano, hablando repetidamente a congresos marianos y reuniones mariológicas, visitando santuarios marianos y emitiendo tres encíclicas marianas. Después de su famoso predecesor San Ambrosio de Milán, nombró a María como la Madre de la Iglesia durante el Concilio Vaticano II. Pablo VI buscó el diálogo con el mundo, con otros cristianos, otras religiones y ateos, excluyendo a nadie. Se vio a sí mismo como un humilde servidor de una humanidad que sufre y exigió cambios significativos de los ricos en América del Norte y Europa a favor de los pobres en el Tercer Mundo. Sus posiciones sobre el control de la natalidad, promulgadas sobre todo en la encíclica de 1968 Humanae vitae, y otras cuestiones políticas, fueron a menudo controvertidas, especialmente en Europa Occidental y América del Norte.",
       "annotations": [
         {
+            "question": "¿Qué posturas de la encíclia de 1968 Humanae vitae de Pablo VI fueron vistas como controversiales?",
+            "choices": [
+                {
+                "text": "el control de la natalidad",
+                "start": 1449,
+                "end": 1475,
+                "type": "correct answer"
+                },
+                {
+                "text": "las políticas de reforma",
+                "start": 764,
+                "end": 788,
+                "type": "distractor"
+                },
+                {
+                "text": "las expectativas conflictivas de varios grupos dentro del catolicismo",
+                "start": 556,
+                "end": 625,
+                "type": "distractor"
+                },
+                {
+                "text": "los congresos marianos y reuniones mariológicas",
+                "start": 889,
+                "end": 932,
+                "type": "distractor"
+                },
+                {
+                "text": "los ricos en América del Norte y Europa",
+                "start": 1346,
+                "end": 1385,
+                "type": "distractor"
+                }
+            ]
+        },
+        {
           "question": "¿Qué nombre pontificio tomó Montini después de su elección al papado?",
           "choices": [
             {
@@ -18171,6 +18206,1026 @@
               "text": "Oswald the Lucky Rabbit",
               "start": 45,
               "end": 68,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Jean-Jacques Rousseau fue el primero de muchos en presentar los Alpes como un lugar de encanto y belleza, desterrando la concepción predominante de las montañas como un páramo infernal habitado por demonios. La concepción de Rousseau de la pureza alpina fue más tarde enfatizada con la publicación del poema de Albrecht von Haller Die Alpen que describía las montañas como un área de pureza mítica. A finales del siglo XVIII, la primera ola de románticos como Goethe y Turner llegó a admirar el paisaje; Wordsworth visitó la zona en 1790, escribiendo sobre sus experiencias en The Prelude. Schiller más tarde escribió la obra teatral William Tell romanticising Swiss independence. Después del final de las Guerras Napoleónicas, los países alpinos comenzaron a ver una afluencia de poetas, artistas y músicos, ya que los visitantes llegaron a experimentar los efectos sublimes de la naturaleza monumental.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedió después de las Guerras Napoleónicas?",
+          "choices": [
+            {
+              "text": "la primera ola de románticos como Goethe y Turner llegó a admirar el paisaje",
+              "start": 426,
+              "end": 502,
+              "type": "distractor"
+            },
+            {
+              "text": "Jean-Jacques Rousseau fue el primero de muchos en presentar los Alpes como un lugar de encanto y belleza",
+              "start": 0,
+              "end": 104,
+              "type": "distractor"
+            },
+            {
+              "text": "la publicación del poema de Albrecht von Haller Die Alpen que describía las montañas como un área de pureza mítica",
+              "start": 283,
+              "end": 397,
+              "type": "distractor"
+            },
+            {
+              "text": "los países alpinos comenzaron a ver una afluencia de poetas, artistas y músicos",
+              "start": 728,
+              "end": 807,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Innocent dio algunas dispensaciones a medida que avanzaba la crisis. A las comunidades monásticas se les permitió celebrar la misa en privado a partir de 1209, y a finales de 1212 se autorizó al Santo Viaticum para los moribundos. Las reglas sobre enterramientos y el acceso laico a las iglesias parecen haber sido constantemente eludidas, al menos extraoficialmente. Aunque el interdicto era una carga para gran parte de la población, no resultó en rebelión contra Juan. En 1213, sin embargo, Juan estaba cada vez más preocupado por la amenaza de una invasión francesa. Algunos cronistas contemporáneos sugirieron que en enero Felipe II de Francia había sido acusado de deponer a Juan en nombre del papado, aunque parece que Inocencio simplemente preparó cartas secretas en caso de que Inocencio necesitara reclamar el crédito.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedió a finales del 1212 en las comunidades monásticas?",
+          "choices": [
+            {
+              "text": "se autorizó al Santo Viaticum para los moribundos",
+              "start": 180,
+              "end": 229,
+              "type": "correct answer"
+            },
+            {
+              "text": "se les permitió celebrar la misa en privado",
+              "start": 98,
+              "end": 141,
+              "type": "distractor"
+            },
+            {
+              "text": "Juan estaba cada vez más preocupado por la amenaza de una invasión francesa",
+              "start": 494,
+              "end": 569,
+              "type": "distractor"
+            },
+            {
+              "text": "cronistas contemporáneos sugirieron que en enero Felipe II de Francia había sido acusado de deponer a Juan en nombre del papado",
+              "start": 579,
+              "end": 706,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Edward Hallett Carr, un defensor frecuente de la política soviética, declaró: \"A cambio de la\" no intervención \", Stalin aseguró un respiro de inmunidad frente a los ataques alemanes. Según Carr, el bastión creado por medio del Pacto era y sólo podía ser una línea de defensa contra un posible ataque alemán. Según Carr, una ventaja importante era que \"si la Rusia soviética tuviera eventualmente que luchar contra Hitler, las potencias occidentales ya estarían involucradas. Sin embargo, durante las últimas décadas, este punto de vista ha sido discutido. El historiador Werner Maser declaró que \"la afirmación de que la Unión Soviética estaba en ese momento amenazada por Hitler, como suponía Stalin... es una leyenda, a cuyos creadores pertenecía Stalin. En opinión de Maser, \"ni Alemania ni Japón estaban en una situación de invasión de la URSS incluso con la menor perspectiva [sic] de éxito\", y esto no podría haber sido desconocido para Stalin. Carr declaró además que, durante mucho tiempo, el motivo principal del repentino cambio de rumbo de Stalin se asumió que era el miedo a las intenciones agresivas alemanas.",
+      "annotations": [
+        {
+          "question": "¿A qué le tenía miedo Stalin, según Edward Hallet Carr?",
+          "choices": [
+            {
+              "text": "las intenciones agresivas alemanas",
+              "start": 1088,
+              "end": 1122,
+              "type": "correct answer"
+            },
+            {
+              "text": "la política soviética",
+              "start": 46,
+              "end": 67,
+              "type": "distractor"
+            },
+            {
+              "text": "las potencias occidentales",
+              "start": 423,
+              "end": 449,
+              "type": "distractor"
+            },
+            {
+              "text": "Japón",
+              "start": 795,
+              "end": 800,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Con el ejemplo de la relación de la corte Ming con el quinto Karmapa y otros líderes tibetanos, Norbu afirma que los historiadores comunistas chinos no se han dado cuenta de la importancia del aspecto religioso de la relación Ming-Tibetana. Escribe que las reuniones de lamas con el emperador de China eran intercambios de tributo entre \"el patrón y el sacerdote\" y no eran meramente instancias de un subordinado político que pagaba tributo a un superior. También señala que los elementos de tributo eran artefactos budistas que simbolizaban \"la naturaleza religiosa de la relación\". Josef Kolmaš escribe que la dinastía Ming no ejercía ningún control político directo sobre el Tíbet, contento con sus relaciones tributarias que eran \"casi enteramente de carácter religioso\". Patricia Ann Berger escribe que la corte del emperador Yongle y la concesión de títulos a lamas fue su intento de \"resucitar la relación entre China y Tíbet establecida anteriormente por el fundador de la dinastía Yuan Khubilai Khan y su guru Phagpa\". También escribe que los últimos emperadores Qing y sus asociados mongoles vieron la relación del emperador Yongle con el Tíbet como \"parte de una cadena de reencarnación que vio a este emperador chino Han como otra emanación de Manjusri\".",
+      "annotations": [
+        {
+          "question": "¿Qué escribió Josef Kolmaš acerca de la dinastía Ming?",
+          "choices": [
+            {
+              "text": "no ejercía ningún control político directo sobre el Tíbet",
+              "start": 626,
+              "end": 683,
+              "type": "correct answer"
+            },
+            {
+              "text": "no se han dado cuenta de la importancia del aspecto religioso de la relación Ming-Tibetana",
+              "start": 149,
+              "end": 239,
+              "type": "distractor"
+            },
+            {
+              "text": "las reuniones de lamas con el emperador de China eran intercambios de tributo entre \"el patrón y el sacerdote\"",
+              "start": 253,
+              "end": 363,
+              "type": "distractor"
+            },
+            {
+              "text": "vieron la relación del emperador Yongle con el Tíbet como \"parte de una cadena de reencarnación que vio a este emperador chino Han como otra emanación de Manjusri\"",
+              "start": 1102,
+              "end": 1265,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los bautistas, al igual que otros cristianos, se definen por la doctrina, algo común a todos los grupos ortodoxos y evangélicos y una porción de ella distintiva a los bautistas. A través de los años, diferentes grupos baptistas han emitido confesiones de fe - sin considerar que son credos - para expresar sus distinciones doctrinales particulares en comparación con otros cristianos, así como en comparación con otros bautistas. La mayoría de los bautistas son evangélicos en la doctrina, pero las creencias bautistas pueden variar debido al sistema de gobierno congregacional que da autonomía a las iglesias bautistas locales individuales. Históricamente, los bautistas han desempeñado un papel clave en el fomento de la libertad religiosa y la separación de la iglesia y el estado.",
+      "annotations": [
+        {
+          "question": "¿De qué trata el texto principalmente?",
+          "choices": [
+            {
+              "text": "los bautistas",
+              "start": 163,
+              "end": 176,
+              "type": "correct answer"
+            },
+            {
+              "text": "los grupos ortodoxos",
+              "start": 93,
+              "end": 113,
+              "type": "distractor"
+            },
+            {
+              "text": "confesiones de fe",
+              "start": 240,
+              "end": 257,
+              "type": "distractor"
+            },
+            {
+              "text": "las iglesias bautistas",
+              "start": 597,
+              "end": 619,
+              "type": "distractor"
+            },
+            {
+              "text": "cristianos",
+              "start": 373,
+              "end": 383,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Ilustración se afianzó en la mayoría de los países europeos, a menudo con un énfasis local específico. Por ejemplo, en Francia se asoció con el radicalismo antigubernamental y anti-Iglesia mientras que en Alemania llegó a las clases medias y donde expresó un tono espiritualista y nacionalista sin amenazar a gobiernos o iglesias establecidas. Las respuestas del gobierno variaron ampliamente. En Francia, el gobierno era hostil, y los philosophes lucharon contra su censura, a veces siendo encarcelados o recluidos en el exilio. El gobierno británico en su mayor parte ignoró a los líderes de la Ilustración en Inglaterra y Escocia, aunque le dio a Isaac Newton un título de caballero y una oficina gubernamental muy lucrativa.",
+      "annotations": [
+        {
+          "question": "¿En qué país se asoció la Ilustración con el radicalismo antigubernamental?",
+          "choices": [
+            {
+              "text": "Francia",
+              "start": 122,
+              "end": 129,
+              "type": "correct answer"
+            },
+            {
+              "text": "Alemania",
+              "start": 208,
+              "end": 216,
+              "type": "distractor"
+            },
+            {
+              "text": "Inglaterra",
+              "start": 615,
+              "end": 625,
+              "type": "distractor"
+            },
+            {
+              "text": "Escocia",
+              "start": 628,
+              "end": 635,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Aunque a menudo se percibe como una solución óptima para los estados que comprenden diferentes comunidades culturales o étnicas, el modelo federalista parece funcionar mejor en estados ampliamente homogéneos como los Estados Unidos, Alemania o Australia, pero también hay evidencia al contrario. Las tensiones entre los territorios todavía se pueden encontrar en países federalistas como Canadá y la federación como una manera de apaciguar y sofocar el conflicto militar ha fracasado recientemente en lugares como Libia o Irak, mientras que la fórmula se propone y rechaza. Federaciones como Yugoslavia o Checoslovaquia colapsaron tan pronto como fue posible poner el modelo a prueba.",
+      "annotations": [
+        {
+          "question": "¿En qué país ha fracasado la federación para arreglar el conflicto militar?",
+          "choices": [
+            {
+              "text": "Irak",
+              "start": 522,
+              "end": 526,
+              "type": "correct answer"
+            },
+            {
+              "text": "Alemania",
+              "start": 233,
+              "end": 241,
+              "type": "distractor"
+            },
+            {
+              "text": "Australia",
+              "start": 244,
+              "end": 253,
+              "type": "distractor"
+            },
+            {
+              "text": "Estados Unidos",
+              "start": 217,
+              "end": 231,
+              "type": "distractor"
+            },
+            {
+              "text": "Canadá",
+              "start": 388,
+              "end": 394,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Según una encuesta del Pew Research Center de 2011, había 2.200 millones de cristianos en todo el mundo en 2010, frente a los 600 millones en 1910. Para 2050, se espera que la población cristiana supere los 3 mil millones. Según una encuesta de 2012 del Pew Research Center, el cristianismo seguirá siendo la religión más grande del mundo en 2050, si las tendencias actuales continúan.",
+      "annotations": [
+        {
+          "question": "¿En qué año se estimó que hay 2.200 millones de cristianos en el mundo?",
+          "choices": [
+            {
+              "text": "2010",
+              "start": 107,
+              "end": 111,
+              "type": "correct answer"
+            },
+            {
+              "text": "2011",
+              "start": 46,
+              "end": 50,
+              "type": "distractor"
+            },
+            {
+              "text": "1910",
+              "start": 142,
+              "end": 146,
+              "type": "distractor"
+            },
+            {
+              "text": "2012",
+              "start": 245,
+              "end": 249,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Investigadores de la Universidad de Massachusetts Amherst estimaron que de 1970 a 1996, la fuga de capitales de 30 países subsaharianos ascendía a 187bn, superando las deudas externas de esas naciones. (Los resultados, expresados en un desarrollo retrasado o suprimido, han sido modelados en teoría por el economista Mancur Olson.) En el caso de África, uno de los factores de este comportamiento fue la inestabilidad política y el hecho de que los nuevos gobiernos a menudo confiscaron los activos obtenidos corruptamente por el gobierno anterior. Esto alentó a los funcionarios a esconder su riqueza en el extranjero, fuera del alcance de cualquier futura expropiación. Por el contrario, las administraciones asiáticas como el Nuevo Orden de Suharto a menudo tomaban un recorte en las transacciones comerciales o proporcionaban condiciones para el desarrollo, a través de inversión en infraestructura, ley y orden, etc.",
+      "annotations": [
+        {
+          "question": "¿Qué estimó la Universidad de Massachusetts Amherst que sucedió entre 1970 y 1996?",
+          "choices": [
+            {
+              "text": "la fuga de capitales de 30 países subsaharianos ascendía a 187bn",
+              "start": 88,
+              "end": 152,
+              "type": "correct answer"
+            },
+            {
+              "text": "los nuevos gobiernos a menudo confiscaron los activos obtenidos corruptamente",
+              "start": 445,
+              "end": 522,
+              "type": "distractor"
+            },
+            {
+              "text": "las administraciones asiáticas como el Nuevo Orden de Suharto a menudo tomaban un recorte en las transacciones comerciales o proporcionaban condiciones para el desarrollo",
+              "start": 690,
+              "end": 860,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El 8 de julio de 2007 The Washington Post publicó extractos del libro de la profesora Amy Zegart de UCLA Spying Blind: The CIA, the FBI, and the Origins of 9 / 11. The Post informó en el libro de Zegart que documentos del gobierno muestran que la CIA y el FBI perdieron 23 posibilidades potenciales de interrumpir los ataques terroristas del 11 de septiembre de 2001. Las principales razones de los fracasos incluyeron: Cultivos de agencias resistentes al cambio y nuevas ideas; Incentivos inapropiados para la promoción; Y falta de cooperación entre el FBI, la CIA y el resto de la Comunidad de Inteligencia de Estados Unidos. El libro culpó a la estructura descentralizada del FBI, que impidió una comunicación y cooperación eficaces entre las diferentes oficinas del FBI. El libro sugiere que el FBI no se ha convertido en una agencia eficaz de contraterrorismo o contrainteligencia, debido en gran parte a la resistencia cultural de la agencia profundamente arraigada al cambio. Por ejemplo, las prácticas del personal del FBI continúan tratando a todo el personal que no sean agentes especiales como personal de apoyo, clasificando analistas de inteligencia junto a los mecánicos y empleados de limpieza del FBI.",
+      "annotations": [
+        {
+          "question": "¿Por qué razón el FBI no es una agencia eficaz de contraterrorismo, según el libro?",
+          "choices": [
+            {
+              "text": "la resistencia cultural de la agencia profundamente arraigada al cambio",
+              "start": 910,
+              "end": 981,
+              "type": "correct answer"
+            },
+            {
+              "text": "las prácticas del personal del FBI continúan tratando a todo el personal que no sean agentes especiales como personal de apoyo",
+              "start": 996,
+              "end": 1122,
+              "type": "distractor"
+            },
+            {
+              "text": "la falta de cooperación entre el FBI, la CIA y el resto de la Comunidad de Inteligencia de Estados Unidos",
+              "start": 524,
+              "end": 626,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Ejército de los Estados Unidos se compone actualmente de 10 divisiones activas, así como varias unidades independientes. La fuerza está en proceso de contracción después de varios años de crecimiento. En junio de 2013, el Ejército anunció planes para reducir el tamaño a 32 equipos de brigada de combate activos para 2015 para que coincida con una reducción en la fuerza del servicio activo a 490.000 soldados. El Jefe de Estado Mayor del Ejército Raymond Odierno ha proyectado que para 2018 el Ejército eventualmente se reducirá a \"450.000 en el componente activo, 335.000 en la Guardia Nacional y 195.000 en la Reserva del Ejército de los Estados Unidos\".",
+      "annotations": [
+        {
+          "question": "¿En qué parte del ejército habrá 335.000 soldados?",
+          "choices": [
+            {
+              "text": "en la Guardia Nacional",
+              "start": 577,
+              "end": 599,
+              "type": "correct answer"
+            },
+            {
+              "text": "en el componente activo",
+              "start": 544,
+              "end": 567,
+              "type": "distractor"
+            },
+            {
+              "text": "en la Reserva del Ejército de los Estados Unidos",
+              "start": 610,
+              "end": 658,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Una bombilla incandescente, lámpara incandescente o globo ligero incandescente es una luz eléctrica con un filamento de alambre calentado a alta temperatura, pasando una corriente eléctrica a través de ella. El filamento caliente está protegido de la oxidación con una bombilla de cristal o cuarzo que está llena de gas inerte o evacuada. En una lámpara halógena, la evaporación de filamentos es prevenida por un proceso químico que deposita vapor de metal en el filamento, extendiendo su vida. La bombilla eléctrica se suministra con corriente eléctrica por terminales de alimentación o cables incrustados en el vidrio. La mayoría de los bulbos se utilizan en un socket que proporciona soporte mecánico y conexiones eléctricas.",
+      "annotations": [
+        {
+          "question": "¿Qué tipo se suministra con corriente eléctrica por terminales de alimentación?",
+          "choices": [
+            {
+              "text": "bombilla eléctrica",
+              "start": 498,
+              "end": 516,
+              "type": "correct answer"
+            },
+            {
+              "text": "lámpara halógena",
+              "start": 346,
+              "end": 362,
+              "type": "distractor"
+            },
+            {
+              "text": "bombilla incandescente",
+              "start": 4,
+              "end": 26,
+              "type": "distractor"
+            },
+            {
+              "text": "globo ligero incandescente",
+              "start": 52,
+              "end": 78,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Trabajó en la construcción de la calle durante un corto período de tiempo, pero fue incapaz de hacer frente al trabajo pesado. Continuó asistiendo a la universidad como estudiante invitado, comenzó un aprendizaje como ebanista, que completó como oficial. Estaba soñando en ese momento con comenzar una instalación de guardería infantil para los niños, por lo que asumió que la capacidad de hacer muebles podría ser útil. Después hizo un servicio voluntario en una de las clínicas del psicoanalista Alfred Adler para niños. En 1922, hizo su matura a través de una educación de segunda oportunidad y finalmente se unió a la Universidad como estudiante ordinario. Completó su examen como profesor en 1924 y comenzó a trabajar en un club de cuidado para niños en peligro social. En 1925, fue al recién fundado Pädagogisches Institut y continuó estudiando filosofía y psicología. Alrededor de ese tiempo comenzó a cortejar a Josefine Anna Henninger, quien más tarde se convirtió en su esposa.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo después de completar su examen como profesor en 1924?",
+          "choices": [
+            {
+              "text": "comenzó a trabajar en un club de cuidado para niños en peligro social",
+              "start": 704,
+              "end": 773,
+              "type": "correct answer"
+            },
+            {
+              "text": "continuó estudiando filosofía y psicología",
+              "start": 831,
+              "end": 873,
+              "type": "distractor"
+            },
+            {
+              "text": "comenzó a cortejar a Josefine Anna Henninger, quien más tarde se convirtió en su esposa",
+              "start": 899,
+              "end": 986,
+              "type": "distractor"
+            },
+            {
+              "text": "comenzó un aprendizaje como ebanista, que completó como oficial",
+              "start": 190,
+              "end": 253,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los primeros ejércitos musulmanes se quedaron en campamentos fuera de las ciudades porque Umar temía que pudieran sentirse atraídos por la riqueza y el lujo. En el proceso, podrían alejarse de la adoración de Dios y comenzar a acumular riqueza y establecer dinastías. Cuando Uthman ibn al-Affan se hizo muy viejo, Marwan I, un pariente de Muawiya I, se deslizó al vacío, se convirtió en su secretario, asumió lentamente más control y relajó algunas de estas restricciones. Marwan I había sido previamente excluido de las posiciones de responsabilidad. En 656, Muhammad ibn Abi Bakr, el hijo de Abu Bakr, el hijo adoptivo de Ali ibn Abi Talib, y el bisabuelo de Ja 'far al-Sadiq, mostraron a algunos egipcios la casa. Más tarde los egipcios terminaron matando a Uthman ibn al-Affan.",
+      "annotations": [
+        {
+          "question": "¿Quién es el bisabuelo de Ja 'far al-Sadiq?",
+          "choices": [
+            {
+              "text": "Ali ibn Abi Talib",
+              "start": 624,
+              "end": 641,
+              "type": "distractor"
+            },
+            {
+              "text": "Abu Bakr",
+              "start": 594,
+              "end": 602,
+              "type": "distractor"
+            },
+            {
+              "text": "Muhammad ibn Abi Bakr",
+              "start": 560,
+              "end": 581,
+              "type": "correct answer"
+            },
+            {
+              "text": "Uthman ibn al-Affan",
+              "start": 275,
+              "end": 294,
+              "type": "distractor"
+            },
+            {
+              "text": "Marwan I",
+              "start": 314,
+              "end": 322,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1926 Joseph P. Maxwell y Henry C. Harrison de Bell Telephone Laboratories revelaron que el patrón de grabación del cortador de disco magnético de \"línea de goma\" de Western Electric tenía una velocidad constante característica. Esto significaba que a medida que la frecuencia aumentaba en el límite, la amplitud de grabación disminuyó. Por el contrario, en el bajo como la frecuencia disminuyó, la amplitud de grabación aumentó. Por lo tanto, era necesario atenuar las frecuencias de bajo por debajo de 250 Hz, el punto de rotación del bajo, en la señal de micrófono amplificado alimentado a la cabeza de grabación. De lo contrario, la modulación de bajo se hizo excesiva y el corte excesivo tuvo lugar en el siguiente groove del disco. Cuando se reproduce eléctricamente con una pastilla magnética que tiene una respuesta suave en la región del bajo, un impulso complementario en la amplitud en el punto de rotación del bajo era necesario. G. H. Miller en 1934 informó que cuando el impulso complementario en el punto de inflexión se utilizó en las emisiones de radio de los registros, la reproducción era más realista y muchos de los instrumentos musicales destacaron en su verdadera forma.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedía a medida que la frecuencia aumentaba en el límite con el patrón de grabación del cortador de disco magnético de \"línea de goma\" de Western Electric?",
+          "choices": [
+            {
+              "text": "la amplitud de grabación disminuyó",
+              "start": 303,
+              "end": 337,
+              "type": "correct answer"
+            },
+            {
+              "text": "la amplitud de grabación aumentó",
+              "start": 398,
+              "end": 430,
+              "type": "distractor"
+            },
+            {
+              "text": "un impulso complementario en la amplitud en el punto de rotación del bajo era necesario",
+              "start": 855,
+              "end": 942,
+              "type": "distractor"
+            },
+            {
+              "text": "la reproducción era más realista",
+              "start": 1090,
+              "end": 1122,
+              "type": "distractor"
+            },
+            {
+              "text": "la modulación de bajo se hizo excesiva",
+              "start": 636,
+              "end": 674,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El empirismo de Mill sostenía que el conocimiento de cualquier tipo no es de la experiencia directa, sino una inferencia inductiva de la experiencia directa. Los problemas que otros filósofos han tenido con el centro de posiciones de Mill en torno a los siguientes temas: En primer lugar, la formulación de Mill encuentra dificultades cuando describe lo que la experiencia directa es diferenciando sólo entre sensaciones reales y posibles. Esto evita una discusión clave sobre las condiciones bajo las cuales tales \"grupos de posibilidades permanentes de sensación\" podrían existir en primer lugar. Berkeley puso a Dios en esa brecha; Los fenomenalistas, incluido Mill, esencialmente dejaron la pregunta sin respuesta. Al final, al carecer de un reconocimiento de un aspecto de \"realidad\" que va más allá de meras \"posibilidades de sensación\", tal posición conduce a una versión del idealismo subjetivo. Las preguntas de cómo las vigas de piso continúan soportando un piso mientras no se observan, cómo los árboles continúan creciendo mientras no son observados y no tocados por las manos humanas, etc., permanecen sin respuesta, y quizás sin respuesta en estos términos. En segundo lugar, la formulación de Mill deja abierta la posibilidad inquietante de que las \"entidades que llenan de información son puramente posibilidades y no actualidades\". Tercero, la posición de Mill, llamando a las matemáticas simplemente otra especie de inferencia inductiva, malinterpreta las matemáticas. No considera plenamente la estructura y el método de la ciencia matemática, cuyos productos se llegan a través de un conjunto deductivo internamente consistente de procedimientos que no, ya sea hoy o en el momento en que Mill escribió, caen bajo el significado acordado de inducción.",
+      "annotations": [
+        {
+          "question": "¿Qué es el conocimiento según el emprisimo de Mill?",
+          "choices": [
+            {
+              "text": "una inferencia inductiva de la experiencia directa",
+              "start": 106,
+              "end": 156,
+              "type": "correct answer"
+            },
+            {
+              "text": "sensaciones reales y posibles",
+              "start": 409,
+              "end": 438,
+              "type": "distractor"
+            },
+            {
+              "text": "un reconocimiento de un aspecto de \"realidad\" que va más allá de meras \"posibilidades de sensación\",",
+              "start": 743,
+              "end": 843,
+              "type": "distractor"
+            },
+            {
+              "text": "entidades que llenan de información",
+              "start": 1265,
+              "end": 1300,
+              "type": "distractor"
+            },
+            {
+              "text": "el significado acordado de inducción",
+              "start": 1733,
+              "end": 1769,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Bobby Kotick, CEO de Activision Blizzard, ha criticado los altos costos de desarrollo de PS3 y la tasa de apego inferior y el regreso a la de Xbox 360 y Wii. Él cree que estos factores están alejando a los desarrolladores de trabajar en la consola. En una entrevista con The Times Kotick declaró: \"Me estoy preocupando por Sony; La PlayStation 3 está perdiendo un poco de impulso y no me hacen fácil apoyar la plataforma \". Continuó: \"Es caro desarrollarse para la consola, y la Wii y la Xbox están simplemente vendiendo mejor. Games generate a better return on invested capital (ROIC) on the Xbox than on the PlayStation \"(en inglés). Kotick también afirmó que Activision Blizzard podría dejar de apoyar el sistema si no se aborda la situación. \"[Sony tiene] para reducir el precio de [PS3 al por menor], porque si no lo hacen, es probable que las tasas de unión se desaceleren. Si estamos siendo realistas, podríamos tener que dejar de apoyar a Sony \". Kotick recibió fuertes críticas por la declaración, especialmente del desarrollador BioWare que cuestionó la sabiduría de la medida amenazada, y se refirió a la declaración como \"tonta\".",
+      "annotations": [
+        {
+          "question": "¿Qué consola tiene altos costos de desarrollo según Bobby Kotick?",
+          "choices": [
+            {
+              "text": "PS3",
+              "start": 89,
+              "end": 92,
+              "type": "correct answer"
+            },
+            {
+              "text": "Xbox 360",
+              "start": 142,
+              "end": 150,
+              "type": "distractor"
+            },
+            {
+              "text": "Wii",
+              "start": 153,
+              "end": 156,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A partir de la década de 1940 y hasta la década de 1970, la oficina investigó casos de espionaje contra los Estados Unidos y sus aliados. Ocho agentes nazis que habían planeado operaciones de sabotaje contra objetivos estadounidenses fueron arrestados, y seis fueron ejecutados (Ex parte Quirin) bajo sus sentencias. También durante este tiempo, un esfuerzo conjunto entre Estados Unidos y el Reino Unido (el proyecto Venona) - con el que el FBI estaba muy involucrado - rompió los códigos de comunicaciones diplomáticas y de inteligencia soviéticos, permitiendo a los gobiernos de Estados Unidos y Reino Unido leer las comunicaciones soviéticas. Este esfuerzo confirmó la existencia de estadounidenses trabajando en los Estados Unidos para la inteligencia soviética. Hoover administraba este proyecto pero no notificó a la CIA hasta 1952. Otro caso notable es el arresto del espía soviético Rudolf Abel en 1957. El descubrimiento de espías soviéticos que operaban en los Estados Unidos permitió a Hoover perseguir su larga obsesión con la amenaza que percibía de la izquierda americana, desde el Partido Comunista de los Estados Unidos de América (CPUSA) organizadores sindicales.",
+      "annotations": [
+        {
+          "question": "¿En qué año se arrestó al espía soviético Rudolf Abel?",
+          "choices": [
+            {
+              "text": "1957",
+              "start": 907,
+              "end": 911,
+              "type": "correct answer"
+            },
+            {
+              "text": "1970",
+              "start": 51,
+              "end": 55,
+              "type": "distractor"
+            },
+            {
+              "text": "1940",
+              "start": 25,
+              "end": 29,
+              "type": "distractor"
+            },
+            {
+              "text": "1952",
+              "start": 834,
+              "end": 838,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los sumerios desarrollaron un complejo sistema de metrología alrededor del 4000 a. Esta metrología avanzada resultó en la creación de aritmética, geometría y álgebra. Desde c. 2600 a. C. en adelante, los sumerios escribieron tablas de multiplicación en tablillas de arcilla y trataron con ejercicios geométricos y problemas de división. Los primeros rastros de los numerales babilonios también se remontan a este período. El período c. 2700 - 2300 a. C. vio la primera aparición del ábaco, y una tabla de columnas sucesivas que delimitaron los sucesivos órdenes de magnitud de su sistema de numeración sexagesimal. Los sumerios fueron los primeros en utilizar un sistema de numeración de valor de lugar. También hay evidencia anecdótica de que los sumerios pudieron haber usado un tipo de regla de cálculo en cálculos astronómicos. Fueron los primeros en encontrar el área de un triángulo y el volumen de un cubo.",
+      "annotations": [
+        {
+          "question": "¿Qué fue lo que utilizaron los sumerios antes que todos?",
+          "choices": [
+            {
+              "text": "un sistema de numeración de valor de lugar",
+              "start": 660,
+              "end": 702,
+              "type": "correct answer"
+            },
+            {
+              "text": "el ábaco",
+              "start": 483,
+              "end": 488,
+              "type": "distractor"
+            },
+            {
+              "text": "las tablas de multiplicación en tablillas de arcilla",
+              "start": 225,
+              "end": 273,
+              "type": "distractor"
+            },
+            {
+              "text": "el área de un triángulo",
+              "start": 865,
+              "end": 888,
+              "type": "distractor"
+            },
+            {
+              "text": "el volumen de un cubo",
+              "start": 891,
+              "end": 912,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En casi toda Oklahoma, el invierno es la temporada más seca. La precipitación media mensual aumenta dramáticamente en la primavera a un pico en mayo, el mes más lluvioso en la mayor parte del estado, con su frecuente y no muy frecuente actividad de tormentas eléctricas. A principios de junio todavía puede estar húmedo, pero la mayoría de los años ve una marcada disminución de las precipitaciones durante junio y principios de julio. A mediados del verano (julio y agosto) representa una estación seca secundaria en gran parte de Oklahoma, con largos períodos de tiempo caliente con sólo actividad esporádica de tormenta no poco común muchos años. La sequía severa es común en los veranos más calurosos, como los de 1934, 1954, 1980 y 2011, todos los cuales presentaban semanas al final de la falta de lluvia virtual y altas temperaturas más de 38 ° C. La precipitación media aumenta de nuevo de septiembre a mediados de octubre, lo que representa una temporada secundaria más húmeda, luego declina de finales de octubre a diciembre.",
+      "annotations": [
+        {
+          "question": "¿Cuál es el mes más lluvioso en la mayor parte de Oklahoma?",
+          "choices": [
+            {
+              "text": "mayo",
+              "start": 144,
+              "end": 148,
+              "type": "correct answer"
+            },
+            {
+              "text": "julio",
+              "start": 459,
+              "end": 464,
+              "type": "distractor"
+            },
+            {
+              "text": "agosto",
+              "start": 467,
+              "end": 473,
+              "type": "distractor"
+            },
+            {
+              "text": "junio",
+              "start": 287,
+              "end": 292,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La cerámica verde hecha de celadón se había hecho en la zona desde la dinastía Jin del siglo III, pero volvió a la prominencia - particularmente en Longquan - durante los Song del Sur y Yuan. La cerámica verde de Longquan se caracteriza por un grueso esmalte untuoso de un tinte azul-verde particular sobre un cuerpo de porcelana gris claro que por lo demás no está decorado, delicadamente podado. Los celadones Yuan Longquan presentan un esmalte más delgado y verde en vasos cada vez más grandes con decoración y formas derivadas de cerámica y metalurgia de Oriente Medio. Estos fueron producidos en grandes cantidades para el comercio de exportación chino al sudeste asiático, Oriente Medio y (durante la dinastía Ming) Europa. Sin embargo, para los Ming la producción era notablemente deficiente en calidad. Es en este período que los hornos Longquan declinaron, para ser finalmente reemplazado en popularidad y producción de cerámica por los hornos de Jingdezhen en Jiangxi.",
+      "annotations": [
+        {
+          "question": "¿De qué color es el grueso esmalte untuoso de la cerámica?",
+          "choices": [
+            {
+              "text": "azul-verde",
+              "start": 279,
+              "end": 289,
+              "type": "correct answer"
+            },
+            {
+              "text": "verde",
+              "start": 204,
+              "end": 209,
+              "type": "distractor"
+            },
+            {
+              "text": "gris",
+              "start": 330,
+              "end": 334,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La carrera de su padre como profesor universitario influyó en los objetivos de Friedrich más adelante en su vida. Sus dos abuelos, que vivieron lo suficiente como para que Federico los conociera, eran eruditos. Franz von Juraschek fue un destacado economista de Austria-Hungría y un amigo cercano de Eugen Böhm von Bawerk, uno de los fundadores de la Escuela Austriaca de Economía. Von Juraschek fue un estadístico y más tarde fue empleado por el gobierno austriaco. El abuelo paterno de Friedrich, Gustav Edler von Hayek, enseñó ciencias naturales en el Realobergymnasium (escuela secundaria) imperial de Viena. Escribió trabajos sistemáticos en biología, algunos de los cuales son relativamente bien conocidos.",
+      "annotations": [
+        {
+          "question": "¿Quién enseñó ciencias naturales en el Realobergymnasium imperial de Viena?",
+          "choices": [
+            {
+              "text": "Gustav Edler von Hayek",
+              "start": 499,
+              "end": 521,
+              "type": "correct answer"
+            },
+            {
+              "text": "Eugen Böhm von Bawerk",
+              "start": 300,
+              "end": 321,
+              "type": "distractor"
+            },
+            {
+              "text": "Franz von Juraschek",
+              "start": 211,
+              "end": 230,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Sobre la base de informes transmitidos anteriormente, en el año 632, después de la desaparición de Mahoma, varios de sus compañeros que sabían que el Corán de memoria habían muerto en una batalla de Musaylimah. Zayd ibn Thabit (m. 655) fue la persona que recogió el Corán ya que \"solía escribir la Inspiración Divina para el Apóstol de Alá\". Así, un grupo de escribas, el más importante Zayd, recopiló los versos y produjo un manuscrito escrito a mano del libro completo. El manuscrito según Zayd permaneció con Abu Bakr hasta su muerte. La reacción de Zayd a la tarea y las dificultades para recolectar el material coránico de pergaminos, tallos de hoja de palma, piedras delgadas y de hombres que lo conocían de memoria se registran en narraciones anteriores. Después de Abu Bakr, Hafsa bint Umar, la viuda de Mahoma, se encargó del manuscrito. Alrededor de 650, el tercer califa Uthman ibn Affan (m. 656) comenzó a notar ligeras diferencias en la pronunciación del Corán cuando el Islam se expandió más allá de la península arábiga hacia Persia, el Levante y el Norte de África. Para preservar la santidad del texto, ordenó a un comité encabezado por Zayd utilizar la copia de Abu Bakr y preparar una copia estándar del Corán. Así, dentro de los 20 años de la muerte de Mahoma, el Corán estaba comprometido con la forma escrita. Ese texto se convirtió en el modelo del cual se hicieron copias y se promulgaron en los centros urbanos del mundo musulmán, y se cree que otras versiones han sido destruidas. La forma actual del texto del Corán es aceptada por los eruditos musulmanes como la versión original compilada por Abu Bakr.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo el comité para preservar la santidad del Corán?",
+          "choices": [
+            {
+              "text": "se expandió más allá de la península arábiga hacia Persia",
+              "start": 990,
+              "end": 1047,
+              "type": "distractor"
+            },
+            {
+              "text": "utilizar la copia de Abu Bakr y preparar una copia estándar del Corán",
+              "start": 1159,
+              "end": 1228,
+              "type": "correct answer"
+            },
+            {
+              "text": "recolectar el material coránico de pergaminos, tallos de hoja de palma, piedras delgadas y de hombres que lo conocían de memoria",
+              "start": 593,
+              "end": 721,
+              "type": "distractor"
+            },
+            {
+              "text": "Hafsa bint Umar, la viuda de Mahoma, se encargó del manuscrito",
+              "start": 783,
+              "end": 845,
+              "type": "distractor"
+            },
+            {
+              "text": "escribir la Inspiración Divina para el Apóstol de Alá",
+              "start": 286,
+              "end": 339,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Todo el canon protestante de las escrituras se considera la inspiración, la palabra de Dios. Los Testigos de Jehová consideran que la Biblia es científica e históricamente exacta y fiable e interpretan mucho de ella literalmente, pero aceptan partes de ella como simbólicas. Consideran que la Biblia es la autoridad final para todas sus creencias, aunque el estudio etnográfico de la religión del sociólogo Andrew Holden concluyó que los pronunciamientos del cuerpo gobernante, a través de publicaciones de Watch Tower Society, llevan casi tanto peso. Se recomienda con frecuencia la lectura de la Biblia personal regular. Los testigos son disuadidos de formular doctrinas y \"ideas privadas\" alcanzadas a través de la investigación bíblica independiente de las publicaciones de Watch Tower Society, y son advertidos contra la lectura de otra literatura religiosa. Se dice que los adherentes tienen \"total confianza\" en el liderazgo, evitan el escepticismo sobre lo que se enseña en la literatura de la Watch Tower Society, y \"no abogan o insisten opiniones personales o albergan ideas privadas\". La religión no prevé que los miembros critiquen o contribuyan a las enseñanzas oficiales y todos los Testigos deben cumplir con sus doctrinas y requisitos organizativos.",
+      "annotations": [
+        {
+          "question": "¿Cómo piensan los Testigos de Jehová que es la Biblia?",
+          "choices": [
+            {
+              "text": "históricamente exacta",
+              "start": 157,
+              "end": 178,
+              "type": "correct answer"
+            },
+            {
+              "text": "religiosa",
+              "start": 853,
+              "end": 862,
+              "type": "distractor"
+            },
+            {
+              "text": "privada",
+              "start": 682,
+              "end": 690,
+              "type": "distractor"
+            },
+            {
+              "text": "simbólica",
+              "start": 263,
+              "end": 273,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El programa Agua, Saneamiento e Higiene (WSH) de la Fundación Gates fue lanzado a mediados de 2005 como una \"Iniciativa de Aprendizaje\", y se convirtió en un programa de pleno derecho bajo la División de Desarrollo Global a principios de 2010. La Fundación ha emprendido desde 2005 una amplia gama de esfuerzos en el sector WASH que involucran investigación, experimentación, reflexión, defensa e implementación de campo. En 2009, la Fundación decidió reorientar su esfuerzo WASH principalmente en servicios de saneamiento sostenible para los pobres, utilizando servicios de saneamiento no regulados (i.e. Sin el uso de alcantarillas), y menos en el suministro de agua. Esto se debió a que el sector sanitario generalmente recibía menos atención de otros donantes y de gobiernos, y porque la Fundación creía que tenía el potencial de hacer una diferencia real a través de inversiones estratégicas.",
+      "annotations": [
+        {
+          "question": "¿En qué año se lanzó el programa Agua, Saneamiento e Higiene?",
+          "choices": [
+            {
+              "text": "2005",
+              "start": 94,
+              "end": 98,
+              "type": "correct answer"
+            },
+            {
+              "text": "2010",
+              "start": 238,
+              "end": 242,
+              "type": "distractor"
+            },
+            {
+              "text": "2009",
+              "start": 425,
+              "end": 429,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El anuncio de la nacionalización fue recibido emocionalmente por la audiencia y, en todo el mundo árabe, miles de personas entraron en las calles gritando consignas de apoyo. El embajador estadounidense Henry A. Byroade declaró: \"No puedo enfatizar la popularidad de la nacionalización de la Compañía del Canal dentro de Egipto, incluso entre los enemigos de Nasser\". El científico político egipcio Mahmoud Hamad escribió que, antes de 1956, Nasser había consolidado el control sobre las burocracias militares y civiles de Egipto, pero fue sólo después de la nacionalización del canal que obtuvo una legitimidad popular casi total. Según Aburish, este fue el mayor triunfo pan-árabe de Nasser en ese momento y \"pronto sus cuadros se encontrarían en las tiendas de Yemen, las calzadas de Marrakech y las villas de Siria\". La razón oficial dada para la nacionalización fue que los fondos del canal se utilizarían para la construcción de la presa en Asuán. Ese mismo día, Egipto cerró el canal a los barcos israelíes.",
+      "annotations": [
+        {
+          "question": "¿A qué país pertenece el científico político Mahmoud Hamad?",
+          "choices": [
+            {
+              "text": "Egipto",
+              "start": 321,
+              "end": 327,
+              "type": "correct answer"
+            },
+            {
+              "text": "Siria",
+              "start": 813,
+              "end": 818,
+              "type": "distractor"
+            },
+            {
+              "text": "Marrakech",
+              "start": 787,
+              "end": 796,
+              "type": "distractor"
+            },
+            {
+              "text": "Yemen",
+              "start": 764,
+              "end": 769,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En la madrugada del 10 de abril, elementos líderes del ejército austriaco cruzaron el río Eno e invadieron Baviera. Los primeros ataques austriacos sorprendieron a los franceses; Napoleón estaba todavía en París cuando se enteró de la invasión. Llegó a Donauwörth el 17 para encontrar la Grande Armée en una posición peligrosa, con sus dos alas separadas por 121 km y unidas por un delgado cordón de tropas bávaras. Carlos presionó el ala izquierda del ejército francés y lanzó a sus hombres hacia el III Cuerpo del mariscal Davout. En respuesta, Napoleón ideó un plan para cortar a los austriacos en el celebrado Maneuver Landshut. Hizo realidad el eje de su ejército y marchó con sus soldados hacia la ciudad de Eckmühl. Los franceses obtuvieron una victoria convincente en la batalla de Eckmühl, obligando a Carlos a retirar sus fuerzas sobre el Danubio y Bohemia. El 13 de mayo, Viena cayó por segunda vez en cuatro años, aunque la guerra continuó ya que la mayor parte del ejército austriaco había sobrevivido a los enfrentamientos iniciales en el sur de Alemania.",
+      "annotations": [
+        {
+          "question": "¿Qué evento de la guerra sucedió el 13 de mayo?",
+          "choices": [
+            {
+              "text": "Viena cayó por segunda vez en cuatro años",
+              "start": 883,
+              "end": 924,
+              "type": "correct answer"
+            },
+            {
+              "text": "elementos líderes del ejército austriaco cruzaron el río Eno e invadieron Baviera",
+              "start": 33,
+              "end": 114,
+              "type": "distractor"
+            },
+            {
+              "text": "Napoleón ideó un plan para cortar a los austriacos en el celebrado Maneuver Landshut",
+              "start": 547,
+              "end": 631,
+              "type": "distractor"
+            },
+            {
+              "text": "los franceses obtuvieron una victoria convincente en la batalla de Eckmühl",
+              "start": 723,
+              "end": 797,
+              "type": "distractor"
+            },
+            {
+              "text": "los enfrentamientos iniciales en el sur de Alemania",
+              "start": 1017,
+              "end": 1068,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1938 Otto Hahn y Fritz Strassmann descubrieron la fisión nuclear con métodos radioquímicos, y en 1939 Lise Meitner y Otto Robert Frisch escribieron la primera interpretación teórica del proceso de fisión, que más tarde fue mejorada por A. Niels Bohr. Otros desarrollos tuvieron lugar durante la Segunda Guerra Mundial, lo que llevó a la aplicación práctica del radar y el desarrollo y uso de la bomba atómica. Aunque el proceso había comenzado con la invención del ciclotrón por Ernest O. Lawrence en la década de 1930, la física en la posguerra entró en una fase de lo que los historiadores han llamado \"Ciencia Grande\", requiriendo máquinas masivas, presupuestos y laboratorios. El principal patrocinador de la física se convirtió en los gobiernos estatales, que reconocieron que el apoyo a la investigación \"básica\" a menudo podría conducir a tecnologías útiles tanto para aplicaciones militares como industriales. Actualmente, la relatividad general y la mecánica cuántica son inconsistentes entre sí, y se están llevando a cabo esfuerzos para unificar los dos.",
+      "annotations": [
+        {
+          "question": "¿Qué descubrieron Otto Hahn y Fritz Strassmann en 1938?",
+          "choices": [
+            {
+              "text": "la fisión nuclear con métodos radioquímicos",
+              "start": 50,
+              "end": 93,
+              "type": "correct answer"
+            },
+            {
+              "text": "la primera interpretación teórica del proceso de fisión",
+              "start": 151,
+              "end": 206,
+              "type": "distractor"
+            },
+            {
+              "text": "la aplicación práctica del radar",
+              "start": 337,
+              "end": 369,
+              "type": "distractor"
+            },
+            {
+              "text": "el desarrollo y uso de la bomba atómica",
+              "start": 372,
+              "end": 411,
+              "type": "distractor"
+            },
+            {
+              "text": "la relatividad general y la mecánica cuántica",
+              "start": 934,
+              "end": 979,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El primer uniforme de vestir de la USAF, en 1947, fue apodado y patentado \"Uxbridge Blue\" después de \"Uxbridge 1683 Blue\", desarrollado en la antigua Bachman-Uxbridge Worsted Company. El actual uniforme de Gala de Servicio, que fue adoptado en 1993 y estandarizado en 1995, consta de un abrigo azul de tres botones, similar al de una \"chaqueta deportiva\" masculina (con pines de plata en el sombrero). Esto se usa con una camisa azul claro (Shade 1550) y la corbata de hueso de la cerradura de Shade 1620. Los miembros alistados usan insignias de camisa tanto en la chaqueta como en la camisa, mientras que los oficiales usan insignias de rango de metal clavadas en el abrigo, y los lazos de piel de la Fuerza Aérea Azul en la camisa. Personal de la USAF asignado a la Guardia de Honor usan, para ciertas ocasiones, una versión modificada del uniforme de gala estándar, pero con adornos plateados en las mangas y pantalones, con la adición de un cinturón ceremonial de plata.",
+      "annotations": [
+        {
+          "question": "¿En qué año se estandarizó el uniforme de Gala de Servicio?",
+          "choices": [
+            {
+              "text": "1995",
+              "start": 268,
+              "end": 272,
+              "type": "correct answer"
+            },
+            {
+              "text": "1993",
+              "start": 244,
+              "end": 248,
+              "type": "distractor"
+            },
+            {
+              "text": "1947",
+              "start": 44,
+              "end": 48,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Estonia fue miembro de la Sociedad de Naciones desde el 22 de septiembre de 1921, ha sido miembro de las Naciones Unidas desde el 17 de septiembre de 1991, y de la OTAN desde el 29 de marzo de 2004, así como de la Unión Europea. Estonia es también miembro de la Organización para la Seguridad y la Cooperación en Europa (OSCE), la Organización para la Cooperación y el Desarrollo Económicos (OCDE), el Consejo de los Estados del Mar Báltico (CBSS) y el Banco Nórdico. Como Estado participante de la OSCE, los compromisos internacionales de Estonia están sujetos a supervisión bajo el mandato de la Comisión de Helsinki de los Estados Unidos. Estonia también ha firmado el Protocolo de Kyoto.",
+      "annotations": [
+        {
+          "question": "¿En qué día se unió Estonia a las Naciones Unidas?",
+          "choices": [
+            {
+              "text": "el 17 de septiembre de 1991",
+              "start": 127,
+              "end": 154,
+              "type": "correct answer"
+            },
+            {
+              "text": "el 22 de septiembre de 1921",
+              "start": 53,
+              "end": 80,
+              "type": "distractor"
+            },
+            {
+              "text": "el 29 de marzo de 2004",
+              "start": 175,
+              "end": 197,
               "type": "distractor"
             }
           ]
