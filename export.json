@@ -19231,6 +19231,1028 @@
           ]
         }
       ]
+    },
+    {
+      "context": "El zinc es un metal blanco azulado, brillante y diamagnético, aunque los grados comerciales más comunes del metal tienen un acabado opaco. Es algo menos denso que el hierro y tiene una estructura cristalina hexagonal, con una forma distorsionada de empaquetamiento hexagonal, en la que cada átomo tiene seis vecinos más cercanos en su propio plano y otros seis a una distancia mayor. El metal es duro y frágil a la mayoría de las temperaturas, pero se vuelve maleable entre 100 y 150 ° C. Por encima de 210 ° C, el metal se vuelve quebradizo de nuevo y puede ser pulverizado golpeando. El zinc es un buen conductor de la electricidad. Para un metal, el zinc tiene una fusión relativamente baja (419,5 ° C) y puntos de ebullición (907 ° C). Su punto de fusión es el más bajo de todos los metales de transición aparte del mercurio y el cadmio.",
+      "annotations": [
+        {
+          "question": "¿A qué temperatura se vuelve quebradizo el zinc, después de pasar la temperatura de maleabilidad?",
+          "choices": [
+            {
+              "text": "210 ° C",
+              "start": 503,
+              "end": 510,
+              "type": "correct answer"
+            },
+            {
+              "text": "150 ° C",
+              "start": 480,
+              "end": 487,
+              "type": "distractor"
+            },
+            {
+              "text": "419,5 ° C",
+              "start": 695,
+              "end": 704,
+              "type": "distractor"
+            },
+            {
+              "text": "907 ° C",
+              "start": 730,
+              "end": 737,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En la Universidad de Viena, Hayek obtuvo doctorados en derecho y ciencias políticas en 1921 y 1923 respectivamente; También estudió filosofía, psicología y economía. Por un corto tiempo, cuando la Universidad de Viena cerró, Hayek estudió en el Instituto de Anatomía Cerebral de Constantin von Monakow, donde pasó gran parte de su tiempo coloreando células cerebrales. El tiempo de Hayek en el laboratorio de Monakow, y su profundo interés en el trabajo de Ernst Mach, inspiraron el primer proyecto intelectual de Hayek, finalmente publicado como The Sensory Order (1952). Localizó el aprendizaje conectivo a niveles físicos y neurológicos, rechazando el asociacionismo de los \"datos sensoriales\" de los empiristas y los positivistas lógicos. Hayek presentó su trabajo al seminario privado que había creado con Herbert Furth llamado Geistkreis.",
+      "annotations": [
+        {
+          "question": "¿Qué estudió Hayek en el Instituto de Anatomía Cerebral de Constantin von Monakow?",
+          "choices": [
+            {
+              "text": "células cerebrales",
+              "start": 349,
+              "end": 367,
+              "type": "correct answer"
+            },
+            {
+              "text": "ciencias políticas",
+              "start": 65,
+              "end": 83,
+              "type": "distractor"
+            },
+            {
+              "text": "derecho",
+              "start": 55,
+              "end": 62,
+              "type": "distractor"
+            },
+            {
+              "text": "el aprendizaje conectivo",
+              "start": 582,
+              "end": 606,
+              "type": "distractor"
+            },
+            {
+              "text": "niveles físicos",
+              "start": 609,
+              "end": 624,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Guerra hispano-estadounidense fue una corta guerra decisiva marcada por rápidas y abrumadoras victorias estadounidenses en el mar y en tierra contra España. La Armada estaba bien preparada y ganó laureles, incluso cuando los políticos intentaron (y fracasaron) redesplegarla para defender ciudades de la Costa Este contra amenazas potenciales de la débil flota española. El Ejército tuvo un buen desempeño en combate en Cuba. Sin embargo, estaba demasiado orientado a pequeños puestos en Occidente y no estaba tan bien preparado para un conflicto de ultramar. Se basó en voluntarios y unidades de la milicia estatal, que se enfrentaron a problemas logísticos, de entrenamiento y de alimentos en las áreas de preparación en Florida. Los Estados Unidos liberaron a Cuba (después de una ocupación por el Ejército de los Estados Unidos). Por el tratado de paz España cedió a los Estados Unidos sus colonias de Puerto Rico, Guam y Filipinas. La Armada estableció estaciones de carbón allí y en Hawái (que voluntariamente se unió a los Estados Unidos en 1898). La Armada de los Estados Unidos ahora tenía una presencia importante a través del Pacífico y (con el arrendamiento de la Base Naval de la Bahía de Guantánamo en Cuba) una base importante en el Caribe que guarda los accesos a la costa del Golfo y el Canal de Panamá.",
+      "annotations": [
+        {
+          "question": "¿Quién se unió voluntariamente a los Estados Unidos?",
+          "choices": [
+            {
+              "text": "Hawái",
+              "start": 992,
+              "end": 997,
+              "type": "correct answer"
+            },
+            {
+              "text": "Filipinas",
+              "start": 929,
+              "end": 938,
+              "type": "distractor"
+            },
+            {
+              "text": "Puerto Rico",
+              "start": 909,
+              "end": 920,
+              "type": "distractor"
+            },
+            {
+              "text": "Cuba",
+              "start": 423,
+              "end": 427,
+              "type": "distractor"
+            },
+            {
+              "text": "Panamá",
+              "start": 1316,
+              "end": 1322,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Durante los dos primeros años las fuerzas confederadas lo hicieron bien en las batallas establecidas, pero perdieron el control de los estados fronterizos. Los confederados tenían la ventaja de defender un país muy grande en un área donde la enfermedad causó el doble de muertes que el combate. La Unión siguió una estrategia de tomar la costa, bloquear los puertos y tomar el control de los sistemas fluviales. En 1863 la Confederación estaba siendo estrangulada. Sus ejércitos orientales lucharon bien, pero los ejércitos occidentales fueron derrotados uno tras otro hasta que las fuerzas de la Unión capturaron Nueva Orleans en 1862 junto con el río Tennessee. En la famosa campaña de Vicksburg de 1862-63, Ulysses Grant tomó el río Mississippi y cortó el suroeste. Grant tomó el mando de las fuerzas de la Unión en 1864 y después de una serie de batallas con muchas bajas, tuvo a Lee bajo asedio en Richmond cuando William T. Sherman capturó Atlanta y marchó a través de Georgia y las Carolinas. La capital confederada fue abandonada en abril de 1865 y Lee posteriormente rindió su ejército en Appomattox Court House. Todos los demás ejércitos confederados se rindieron en pocos meses.",
+      "annotations": [
+        {
+          "question": "¿Qué evento de la guerra sucedió en 1862?",
+          "choices": [
+            {
+              "text": "las fuerzas de la Unión capturaron Nueva Orleans",
+              "start": 579,
+              "end": 627,
+              "type": "correct answer"
+            },
+            {
+              "text": "Ulysses Grant tomó el río Mississippi y cortó el suroeste",
+              "start": 710,
+              "end": 767,
+              "type": "distractor"
+            },
+            {
+              "text": "Grant tomó el mando de las fuerzas de la Unión",
+              "start": 769,
+              "end": 815,
+              "type": "distractor"
+            },
+            {
+              "text": "William T. Sherman capturó Atlanta y marchó a través de Georgia y las Carolinas",
+              "start": 919,
+              "end": 998,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Comúnmente llamadas \"bombillas de luz\", las lámparas son la parte extraíble y reemplazable de un accesorio de luz, que convierte la energía eléctrica en radiación electromagnética. Mientras que las lámparas han sido tradicionalmente clasificadas y comercializadas principalmente en términos de su consumo de energía, expresadas en vatios, la proliferación de tecnología de iluminación más allá de la bombilla incandescente ha eliminado la correspondencia. Por ejemplo, una bombilla incandescente de 60 W produce aproximadamente la misma cantidad de luz que una lámpara fluorescente compacta de 13 W. Cada una de estas tecnologías tiene una eficacia diferente en la conversión de energía eléctrica a luz visible. La salida de luz visible se mide típicamente en lúmenes. Esta unidad solo cuantifica la radiación visible, y excluye la luz infrarroja y ultravioleta invisible. Una vela de cera produce en el orden de 13 lúmenes, una lámpara incandescente de 60 vatios hace alrededor de 700 lúmenes, y una lámpara fluorescente compacta de 15 vatios produce unos 800 lúmenes. La calificación y el énfasis de marketing se está alejando de la soldadura y hacia la producción de lumen, para dar al comprador una base directamente aplicable sobre la cual seleccionar una lámpara.",
+      "annotations": [
+        {
+          "question": "¿Cuántos lúmenes produce una lámpara fluorescente compacta de 15 vatios?",
+          "choices": [
+            {
+              "text": "800",
+              "start": 1057,
+              "end": 1060,
+              "type": "correct answer"
+            },
+            {
+              "text": "700",
+              "start": 982,
+              "end": 985,
+              "type": "distractor"
+            },
+            {
+              "text": "60",
+              "start": 954,
+              "end": 956,
+              "type": "distractor"
+            },
+            {
+              "text": "13",
+              "start": 913,
+              "end": 915,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "CNET dio a Super Slim 4 de 5 estrellas (\"Excelente\"), diciendo: \"La PlayStation 3 de Super Slim reduce una poderosa máquina de juegos en un paquete aún más pequeño, manteniendo las mismas características que sus predecesores. En resumen, se siente barato. No te das cuenta de lo conveniente que son las bandejas de discos hasta que se van. Ya sea para reducir costos o ahorrar espacio, este movimiento es en última instancia un paso atrás \". La crítica también se debió al precio, afirmando que el modelo más barato de Super Slim era todavía más caro que el modelo más barato Slim, y que el tamaño más pequeño y el disco duro más grande no deberían considerarse una mejora cuando el disco duro se elimina fácilmente. Ellos elogiaron que el disco duro del modelo Super Slim es \"el más fácil todavía. Simplemente deslizándose por el panel lateral revela la bahía de la unidad, que se puede desatornillar rápidamente \". También declararon que si bien el modelo Super Slim no es de ninguna manera una actualización, podría ser un indicador de lo que está por venir. \"Puede no ser revolucionario, pero el Super Slim PS3 es la misma máquina impresionante en un paquete mucho más pequeño. No parece haber ninguna razón para que los propietarios de PS3 actualicen, pero para el posible comprador de PS3, el Super Slim es probablemente la manera de ir si se puede tratar de no tener una unidad de disco de carga \".",
+      "annotations": [
+        {
+          "question": "¿Por qué elemento faltante CNET considera que el cambio a la PS3 Super Slim es un paso atrás?",
+          "choices": [
+            {
+              "text": "las bandejas de discos",
+              "start": 299,
+              "end": 321,
+              "type": "correct answer"
+            },
+            {
+              "text": "el disco duro",
+              "start": 612,
+              "end": 625,
+              "type": "distractor"
+            },
+            {
+              "text": "el panel lateral",
+              "start": 828,
+              "end": 844,
+              "type": "distractor"
+            },
+            {
+              "text": "la bahía de la unidad",
+              "start": 852,
+              "end": 873,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El equipo nacional femenino de waterpolo de Grecia ha surgido como una de las principales potencias en el mundo, convirtiéndose en campeona del mundo después de su medalla de oro contra los anfitriones de China en el Campeonato Mundial de 2011. También han ganado la medalla de plata en los Juegos Olímpicos de 2004, la medalla de oro en la Liga Mundial de 2005 y las medallas de plata en los Campeonatos de Europa de 2010 y 2012. El equipo nacional de waterpolo masculino de Grecia se convirtió en el tercer mejor equipo de waterpolo del mundo en 2005, después de su victoria contra Croacia en el partido por la medalla de bronce en el Campeonato Mundial de Natación de 2005 en Canadá. Las ligas nacionales de waterpolo, Greek Men 's Water Polo League y Greek Women' s Water Polo League se consideran entre las mejores ligas nacionales de waterpolo europeo, ya que sus clubes han tenido un éxito significativo en las competiciones europeas. En las competiciones europeas, el Olympiacos ha ganado la Liga de Campeones, la Supercopa de Europa y la Triple Corona en 2002 convirtiéndose en el primer club en ganar cada título en el que ha competido en un solo año. En las competiciones europeas, los equipos de waterpolo griego (NC Vouliagmeni, Glyfada NSC, Olympiacos, Ethnikos Piraeus) se encuentran entre los más exitosos en competiciones europeas.",
+      "annotations": [
+        {
+          "question": "¿Qué medalla obtuvo el equipo nacional femenino de waterpolo de Grecia en el Campeonato Mundial de 2011?",
+          "choices": [
+            {
+              "text": "medalla de oro",
+              "start": 164,
+              "end": 178,
+              "type": "correct answer"
+            },
+            {
+              "text": "medalla de plata",
+              "start": 267,
+              "end": 283,
+              "type": "distractor"
+            },
+            {
+              "text": "medalla de bronce",
+              "start": 613,
+              "end": 630,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En el otoño de 2009, Glee presentó el coro ficticio de la escuela secundaria cantando \"Somebody to Love\" como su segunda actuación en el episodio \"The Rhodes Not Taken\". La actuación fue incluida en el álbum Volume 1. En junio de 2010, el coro interpretó \"Another One Bites the Dust\" en el episodio \"Funk\". El episodio de la semana siguiente, \"Journey to Regionals\", cuenta con un coro rival interpretando \"Bohemian Rhapsody\" en su totalidad. La canción fue incluida en el EP del episodio. En mayo de 2012, el coro interpretó \"We Are the Champions\" en el episodio \"Nationals\", y las características de la canción en The Graduation Album.",
+      "annotations": [
+        {
+          "question": "¿Qué canción apareció en el episodio \"The Rhodes Not Taken\"?",
+          "choices": [
+            {
+              "text": "Somebody to Love",
+              "start": 87,
+              "end": 103,
+              "type": "correct answer"
+            },
+            {
+              "text": "Another One Bites the Dust",
+              "start": 256,
+              "end": 282,
+              "type": "distractor"
+            },
+            {
+              "text": "Bohemian Rhapsody",
+              "start": 407,
+              "end": 424,
+              "type": "distractor"
+            },
+            {
+              "text": "We Are the Champions",
+              "start": 527,
+              "end": 547,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1954, los principales escritores serbios y croatas, lingüistas y críticos literarios, respaldados por Matica srpska y Matica hrvatska firmaron el Acuerdo de Novi Sad, que en su primera conclusión declaró: \"Serbios, croatas. El acuerdo insistió en la igualdad de condiciones de las escrituras cirílicas y latinas, y de las pronunciaciones Ekavian e Ijekavian. También especificó que el serbocroata debía ser el nombre de la lengua en contextos oficiales, mientras que en el uso no oficial se conservarían los tradicionales serbios y el croata. Matica hrvatska y Matica srpska debían trabajar juntos en un diccionario, y se pidió a un comité de lingüistas serbios y croatas que prepararan un pravopis. Durante los años sesenta ambos libros fueron publicados simultáneamente en latín ijekavio en Zagreb y cirílico ekaviano en Novi Sad. Sin embargo, los lingüistas croatas afirman que fue un acto de unitarismo. La evidencia que apoya esta afirmación es irregular: El lingüista croata Stjepan Babić se quejó de que la transmisión de televisión desde Belgrado siempre utilizó el alfabeto latino - que era cierto, pero no era prueba de derechos desiguales. Babić se quejó además de que el Diccionario Novi Sad (1967) se enumeraba de lado a lado tanto de las variantes croatas y serbias donde se diferían, lo que se puede ver como una prueba de respeto cuidadoso. Además, los lingüistas croatas criticaron aquellas partes del Diccionario por ser unitarios que fueron escritos por lingüistas croatas. Y finalmente, los lingüistas croatas ignoraron el hecho de que el material para el Pravopisni rječnik provenía de la Sociedad Filológica Croata. Independientemente de estos hechos, los intelectuales croatas presentaron la Declaración sobre el Estado y el nombre del lenguaje literario croata en 1967. En ocasión del 45 aniversario de la publicación, el semanario croata Forum publicó la Declaración de nuevo en 2012, acompañado de un análisis crítico.",
+      "annotations": [
+        {
+          "question": "¿Por qué los lingüistas croatas criticaron el Diccionario Novi Sad?",
+          "choices": [
+            {
+              "text": "utilizar el alfabeto latino",
+              "start": 1066,
+              "end": 1092,
+              "type": "distractor"
+            },
+            {
+              "text": "ser unitarios que fueron escritos por lingüistas croatas",
+              "start": 1438,
+              "end": 1494,
+              "type": "correct answer"
+            },
+            {
+              "text": "las pronunciaciones Ekavian e Ijekavian",
+              "start": 321,
+              "end": 360,
+              "type": "distractor"
+            },
+            {
+              "text": "se enumeraba de lado a lado tanto de las variantes croatas y serbias donde se diferían",
+              "start": 1214,
+              "end": 1300,
+              "type": "distractor"
+            },
+            {
+              "text": "el nombre de la lengua en contextos oficiales",
+              "start": 410,
+              "end": 455,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La tecnología HDTV se introdujo en los Estados Unidos a finales de la década de 1980 y se hizo oficial en 1993 por la Digital HDTV Grand Alliance, un grupo de televisión, equipos electrónicos, compañías de comunicaciones que consisten en AT & T Bell Labs, Las pruebas de campo de HDTV en 199 sitios en los Estados Unidos se completaron el 14 de agosto de 1994. La primera emisión pública de HDTV en los Estados Unidos se produjo el 23 de julio de 1996, cuando la estación de televisión de Raleigh comenzó a emitir desde la torre existente de WRAL-TV al sureste de Raleigh. El American Advanced Television Systems Committee (ATSC) tuvo su lanzamiento público el 29 de octubre de 1998, durante la cobertura en vivo de la misión de regreso del astronauta John Glenn al espacio a bordo del transbordador espacial Discovery. La señal era transmitida de costa a costa, y era vista por el público en centros científicos, y otros teatros públicos especialmente equipados para recibir y mostrar la transmisión.",
+      "annotations": [
+        {
+          "question": "¿Cuándo se completaron las pruebas de campo de HDTV en sus 199 sitios?",
+          "choices": [
+            {
+              "text": "el 14 de agosto de 1994",
+              "start": 336,
+              "end": 359,
+              "type": "correct answer"
+            },
+            {
+              "text": "el 23 de julio de 1996",
+              "start": 429,
+              "end": 451,
+              "type": "distractor"
+            },
+            {
+              "text": "el 29 de octubre de 1998",
+              "start": 658,
+              "end": 682,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Detroit y el resto del sureste de Michigan tienen un clima continental húmedo (Köppen Dfa) que está influenciado por los Grandes Lagos; La ciudad y los suburbios cercanos son parte de la zona 6b del USDA Hardiness, con los suburbios del norte y oeste más alejados generalmente cayendo en la zona 6a. Los inviernos son fríos, con nevadas moderadas y temperaturas que no se elevan por encima de cero en un promedio de 44 días al año, mientras que caen a o por debajo de 0 ° F (− 18 ° C). Los veranos son cálidos o calientes con temperaturas superiores a 90 ° F (32 ° C) en 12 días. La temporada cálida va de mayo a septiembre. La temperatura media mensual varía de 25,6 ° F (− 3,6 ° C) en enero a 73,6 ° F (23,1 ° C) en julio. Las temperaturas extremas oficiales oscilan entre los 105 ° F (41 ° C) el 24 de julio de 1934 hasta los -21 ° F (− 29 ° C) el 21 de enero de 1984. El récord máximo bajo es de -20 ° C el 19 de enero de 1994, mientras que, por el contrario, el mínimo máximo récord es de 80 ° F el 1 de agosto de 2006, el más reciente de cinco casos. Una o dos décadas pueden pasar entre lecturas de 38 ° C o más, lo cual ocurrió el 17 de julio de 2012. La ventana media para temperaturas de congelación es de 20 de octubre a 22 de abril, lo que permite una temporada de crecimiento de 180 días.",
+      "annotations": [
+        {
+          "question": "¿Cuál es la temperatura media en Detroit en julio?",
+          "choices": [
+            {
+              "text": "73,6 ° F",
+              "start": 695,
+              "end": 703,
+              "type": "correct answer"
+            },
+            {
+              "text": "25,6 ° F",
+              "start": 663,
+              "end": 671,
+              "type": "distractor"
+            },
+            {
+              "text": "90 ° F",
+              "start": 552,
+              "end": 558,
+              "type": "distractor"
+            },
+            {
+              "text": "105 ° F",
+              "start": 779,
+              "end": 786,
+              "type": "distractor"
+            },
+            {
+              "text": "80 ° F",
+              "start": 994,
+              "end": 1000,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Mientras tanto, con el advenimiento y la popularidad de la distribución por Internet de archivos en formatos de audio comprimidos con pérdida como MP3, las ventas de CD comenzaron a disminuir en la década de 2000. Por ejemplo, entre 2000 y 2008, a pesar del crecimiento general en las ventas de música y un año de aumento anómalo, las ventas de CD de etiqueta mayor disminuyeron en un 20%. A partir de 2012, los CD y DVD representan sólo el 34 por ciento de las ventas de música en los Estados Unidos. En Japón, sin embargo, más del 80 por ciento de la música se compró en CD y otros formatos físicos a partir de 2015.",
+      "annotations": [
+        {
+          "question": "¿A partir de qué año el CD representa más del 80 por ciento de la música que se compró en Japón?",
+          "choices": [
+            {
+              "text": "2015",
+              "start": 613,
+              "end": 617,
+              "type": "correct answer"
+            },
+            {
+              "text": "2000",
+              "start": 233,
+              "end": 237,
+              "type": "distractor"
+            },
+            {
+              "text": "2008",
+              "start": 240,
+              "end": 244,
+              "type": "distractor"
+            },
+            {
+              "text": "2012",
+              "start": 402,
+              "end": 406,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1966, Shmuel Yosef Agnon compartió el Premio Nobel de Literatura con la autora judía alemana Nelly Sachs. Los principales poetas israelíes han sido Yehuda Amichai, Nathan Alterman y Rachel Bluwstein. Famosos novelistas israelíes contemporáneos incluyen a Amos Oz, Etgar Keret y David Grossman. El satirista israelí-árabe Sayed Kashua (que escribe en hebreo) también es internacionalmente conocido. Israel también ha sido el hogar de dos destacados poetas y escritores palestinos: Emile Habibi, cuya novela La vida secreta de Saeed el ensayista, y otros escritos, le ganó el premio de literatura árabe. Y Mahmoud Darwish, considerado por muchos como \"el poeta nacional palestino\". Darwish nació y creció en el norte de Israel, pero vivió su vida adulta en el extranjero después de unirse a la Organización para la Liberación de Palestina. [Cita requerida]",
+      "annotations": [
+        {
+          "question": "¿Con quién compartió Shmuel Yosef Agnon el Premio Nobel de Literatura en 1966?",
+          "choices": [
+            {
+              "text": "Nelly Sachs",
+              "start": 96,
+              "end": 107,
+              "type": "correct answer"
+            },
+            {
+              "text": "Rachel Bluwstein",
+              "start": 185,
+              "end": 201,
+              "type": "distractor"
+            },
+            {
+              "text": "David Grossman",
+              "start": 281,
+              "end": 295,
+              "type": "distractor"
+            },
+            {
+              "text": "Emile Habibi",
+              "start": 483,
+              "end": 495,
+              "type": "distractor"
+            },
+            {
+              "text": "Yehuda Amichai",
+              "start": 151,
+              "end": 165,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La evidencia epigráfica esporádica en excavaciones de tumbas, particularmente en Brigetio (Szőny), Aquincum (Óbuda), Intercisa (Dunaújváros), Triccinae. Las tropas judías se encontraban entre los soldados sirios transferidos allí, y repuestos desde Oriente Medio, después de 175 EC. Judíos y especialmente sirios provenían de Antioquía, Tarso y Capadocia. Otros vinieron de Italia y las partes helenizadas del imperio romano. Las excavaciones sugieren que vivieron primero en enclaves aislados adjuntos a campamentos de legión romana, y se casaron entre otras familias orientales similares dentro de las órdenes militares de la región. Y era especialmente difícil diferenciar a los judíos de los sirios. Después de que Panonia fuera cedida a los hunos en 433, las poblaciones de la guarnición fueron retiradas a Italia, y sólo unos pocos, enigmáticos restos de una posible presencia judía en la zona algunos siglos más tarde.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedió con las poblaciones de la guarnición después del 433?",
+          "choices": [
+            {
+              "text": "fueron retiradas a Italia",
+              "start": 793,
+              "end": 818,
+              "type": "correct answer"
+            },
+            {
+              "text": "vivieron primero en enclaves aislados",
+              "start": 456,
+              "end": 493,
+              "type": "distractor"
+            },
+            {
+              "text": "se casaron entre otras familias orientales similares",
+              "start": 537,
+              "end": 589,
+              "type": "distractor"
+            },
+            {
+              "text": "se encontraban entre los soldados sirios",
+              "start": 171,
+              "end": 211,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Cuatro días después de su nacimiento, Apolo mató al dragón ctónico Python, que vivía en Delfos al lado de la Primavera de Castalián. Esta fue la primavera que emitió vapores que causaron que el oráculo de Delfos le diera profecías. Hera envió a la serpiente para cazar a Leto a su muerte en todo el mundo. Para proteger a su madre, Apolo rogó a Hefesto por un arco y flechas. Después de recibirlos, Apolo arrinconó Python en la cueva sagrada de Delfos. Apollo mató a Python pero tuvo que ser castigado por ello, ya que Python era hijo de Gaia.",
+      "annotations": [
+        {
+          "question": "¿Quién mandó a la serpiente para cazar a Leto?",
+          "choices": [
+            {
+              "text": "Hera",
+              "start": 232,
+              "end": 236,
+              "type": "correct answer"
+            },
+            {
+              "text": "Hefesto",
+              "start": 345,
+              "end": 352,
+              "type": "distractor"
+            },
+            {
+              "text": "Apolo",
+              "start": 399,
+              "end": 404,
+              "type": "distractor"
+            },
+            {
+              "text": "Python",
+              "start": 415,
+              "end": 421,
+              "type": "distractor"
+            },
+            {
+              "text": "Gaia",
+              "start": 538,
+              "end": 542,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La corriente de onda es el componente AC de una fuente aplicada (a menudo una fuente de alimentación en modo conmutado) cuya frecuencia puede ser constante o variable. La corriente de onda hace que el calor sea generado dentro del condensador debido a las pérdidas dieléctricas causadas por el campo de fuerza cambiante junto con el flujo de corriente a través de las líneas de suministro ligeramente resistivas o el electrolito en el condensador. La resistencia de serie equivalente (ESR) es la cantidad de resistencia de serie interna que se agregaría a un condensador perfecto para modelar esto. Algunos tipos de condensadores, principalmente de tántalo y condensadores electrolíticos de aluminio, así como algunos condensadores de película tienen un valor de calificación especificado para la máxima corriente de impulsos.",
+      "annotations": [
+        {
+          "question": "¿Cuál es el componente AC de una fuente aplicada cuya frecuencia puede ser constante o variable?",
+          "choices": [
+            {
+              "text": "el campo de fuerza",
+              "start": 291,
+              "end": 309,
+              "type": "distractor"
+            },
+            {
+              "text": "la corriente de onda",
+              "start": 168,
+              "end": 188,
+              "type": "correct answer"
+            },
+            {
+              "text": "las pérdidas dieléctricas",
+              "start": 252,
+              "end": 277,
+              "type": "distractor"
+            },
+            {
+              "text": "los condensadores",
+              "start": 718,
+              "end": 731,
+              "type": "distractor"
+            },
+            {
+              "text": "la resistencia de serie equivalente",
+              "start": 448,
+              "end": 483,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La reflexión de la señal original también ocurre cuando golpea una superficie conductiva extendida, de una manera similar a un espejo. Este efecto también se puede utilizar para aumentar la señal a través del uso de un reflector, normalmente colocado detrás del elemento activo y espaciado para que la señal reflejada alcance el elemento en fase. En general, el reflector seguirá siendo altamente reflectante incluso si no es sólido; Las lagunas menos de 1 / 10 generalmente tienen poco efecto en el resultado. Por esta razón, los reflectores a menudo toman la forma de mallas de alambre o filas de elementos pasivos, lo que los hace más ligeros y menos sujetos al viento. El reflector parabólico es quizás el ejemplo más conocido de una antena basada en reflector, que tiene un área efectiva mucho mayor que el elemento activo solo.",
+      "annotations": [
+        {
+          "question": "¿Qué característica es producto que los reflectores tengan forma de mallas de alambre?",
+          "choices": [
+            {
+              "text": "ligero",
+              "start": 638,
+              "end": 645,
+              "type": "correct answer"
+            },
+            {
+              "text": "sólido",
+              "start": 426,
+              "end": 432,
+              "type": "distractor"
+            },
+            {
+              "text": "activo",
+              "start": 271,
+              "end": 277,
+              "type": "distractor"
+            },
+            {
+              "text": "conductivo",
+              "start": 78,
+              "end": 88,
+              "type": "distractor"
+            },
+            {
+              "text": "reflectante",
+              "start": 397,
+              "end": 408,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Una unión P-N puede convertir la energía de luz absorbida en una corriente eléctrica proporcional. El mismo proceso se invierte aquí (i.e. La unión P-N emite luz cuando se le aplica energía eléctrica). Este fenómeno es generalmente llamado electroluminiscencia, que puede definirse como la emisión de luz de un semicelconductor bajo la influencia de un campo eléctrico. Los portadores de carga se recombinan en una unión P-N polarizada hacia adelante a medida que los electrones cruzan desde la región n y se recombinan con los agujeros existentes en la región p. Los electrones libres están en la banda de conducción de los niveles de energía, mientras que los agujeros están en la banda de energía de valencia. Así, el nivel de energía de los agujeros será menor que los niveles de energía de los electrones. Parte de la energía debe disiparse para recombinar los electrones y los agujeros. Esta energía se emite en forma de calor y luz.",
+      "annotations": [
+        {
+          "question": "¿Cómo se llama la emisión de luz de un semicelconductor bajo la influencia de un campo eléctrico?",
+          "choices": [
+            {
+              "text": "electroluminiscencia",
+              "start": 240,
+              "end": 260,
+              "type": "correct answer"
+            },
+            {
+              "text": "unión P-N",
+              "start": 4,
+              "end": 13,
+              "type": "distractor"
+            },
+            {
+              "text": "calor",
+              "start": 927,
+              "end": 932,
+              "type": "distractor"
+            },
+            {
+              "text": "energía de valencia",
+              "start": 692,
+              "end": 711,
+              "type": "distractor"
+            },
+            {
+              "text": "corriente eléctrica proporcional",
+              "start": 65,
+              "end": 97,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1913 el mosaico de Zliten, un mosaico romano famoso por sus muchas escenas de concursos de gladiadores, caza y vida cotidiana, fue descubierto en la ciudad libia de Zliten. En 2000 arqueólogos que trabajaban en Leptis Magna, Libia, descubrieron un mosaico de 30 pies de largo creado durante los siglos I y II. Los mosaicos muestran a un guerrero en combate con un ciervo, cuatro jóvenes luchando contra un toro salvaje hasta el suelo, y un gladiador descansando en un estado de fatiga, mirando a su oponente muerto. Los mosaicos decoraban las paredes de una piscina fría en una casa de baños dentro de una villa romana. El mosaico del gladiador es señalado por los estudiosos como uno de los mejores ejemplos de mosaico jamás vistos - una \"obra maestra comparable en calidad con el Mosaico de Alejandro en Pompeya\".",
+      "annotations": [
+        {
+          "question": "¿Contra qué luchan los cuatro jóvenes en el mosaico?",
+          "choices": [
+            {
+              "text": "un guerrero",
+              "start": 337,
+              "end": 348,
+              "type": "distractor"
+            },
+            {
+              "text": "un ciervo",
+              "start": 364,
+              "end": 373,
+              "type": "distractor"
+            },
+            {
+              "text": "un toro salvaje",
+              "start": 406,
+              "end": 421,
+              "type": "correct answer"
+            },
+            {
+              "text": "un gladiador",
+              "start": 440,
+              "end": 452,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A pesar de su descendencia de lobos y su clasificación como Carnivora, los perros son descritos en escritos académicos y otros como carnívoros u omnívoros. A diferencia de los carnívoros obligados, como la familia gato con su intestino delgado más corto, los perros se pueden adaptar a una dieta amplia, y no dependen de la proteína específica de la carne ni de un alto nivel de proteína. Los perros digieren saludablemente una variedad de alimentos, incluyendo verduras y granos, y pueden consumir una gran proporción de estos en su dieta. Comparando perros y lobos, los perros tienen adaptaciones en genes involucrados en la digestión de almidón que contribuyen a una mayor capacidad de prosperar con una dieta rica en estrellas.",
+      "annotations": [
+        {
+          "question": "¿Qué alimento es la diferencia entre perros y lobos en cuánto a los genes involucrados para la digestión?",
+          "choices": [
+            {
+              "text": "almidón",
+              "start": 640,
+              "end": 647,
+              "type": "correct answer"
+            },
+            {
+              "text": "verduras",
+              "start": 462,
+              "end": 470,
+              "type": "distractor"
+            },
+            {
+              "text": "granos",
+              "start": 473,
+              "end": 479,
+              "type": "distractor"
+            },
+            {
+              "text": "proteína",
+              "start": 379,
+              "end": 387,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La historia antigua de Katmandú se describe en sus mitos y leyendas tradicionales. Según Swayambhu Purana, en la actualidad Katmandú fue una vez un enorme y profundo nombre del lago \"Nagdaha\", ya que estaba lleno de serpientes. El lago fue cortado drenado por Bodhisatwa Manjusri con su espada y el agua fue evacuada de allí y estableció una ciudad llamada Manjupattan e hizo de Dharmakar el gobernante de la tierra del valle. Después de algunas veces, un demonio llamado Banasur cerró la salida y el valle era de nuevo un lago. Luego Krisná fue a Nepal, mató a Banasur y de nuevo drenó agua. Ha traído algunos GOPS con él e hizo Bhuktaman el rey de Nepal.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo Krisná en Nepal?",
+          "choices": [
+            {
+              "text": "mató a Banasur",
+              "start": 555,
+              "end": 569,
+              "type": "correct answer"
+            },
+            {
+              "text": "estableció una ciudad llamada Manjupattan",
+              "start": 327,
+              "end": 368,
+              "type": "distractor"
+            },
+            {
+              "text": "hizo de Dharmakar el gobernante de la tierra del valle",
+              "start": 371,
+              "end": 425,
+              "type": "distractor"
+            },
+            {
+              "text": "cerró la salida",
+              "start": 480,
+              "end": 495,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El establecimiento de la Indian Drugs and Pharmaceuticals Limited (IDPL), una empresa del sector público, en 1961 fue seguido a lo largo de las décadas por muchas empresas nacionales y globales que abrieron instalaciones de fabricación e investigación en la ciudad. A partir de 2010 [actualización], la ciudad fabricó un tercio de los medicamentos a granel de la India y el 16% de los productos de biotecnología, contribuyendo a su reputación como \"capital farmacéutico de la India\". Hyderabad es un centro global de tecnología de la información, para la que se conoce como Cyberabad (Ciudad Cibernética). A partir de 2013, contribuyó con el 15% de India y el 98% de las exportaciones de Andhra Pradesh en sectores IT y ITES y el 22% de la membresía total del NASSCOM es de la ciudad. El desarrollo de HITEC City, un municipio con amplia infraestructura tecnológica, llevó a las empresas multinacionales a establecer instalaciones en Hyderabad. La ciudad es el hogar de más de 1.300 empresas de TI y ITES, incluyendo conglomerados globales como Microsoft (que opera su campus más grande de I + D fuera de los EE.UU.), Google, IBM, Yahoo! : 3 En 2009 el Grupo del Banco Mundial clasificó a la ciudad como la segunda mejor ciudad india por hacer negocios. La ciudad y sus suburbios contienen el mayor número de zonas económicas especiales de cualquier ciudad india.",
+      "annotations": [
+        {
+          "question": "¿Qué porcentaje representa Huberabad en cuanto a la membresía total del NASSCOM?",
+          "choices": [
+            {
+              "text": "22%",
+              "start": 730,
+              "end": 733,
+              "type": "correct answer"
+            },
+            {
+              "text": "15%",
+              "start": 642,
+              "end": 645,
+              "type": "distractor"
+            },
+            {
+              "text": "98%",
+              "start": 660,
+              "end": 663,
+              "type": "distractor"
+            },
+            {
+              "text": "16%",
+              "start": 374,
+              "end": 377,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Durante la ceremonia de Trooping the Colour de 1981 y sólo seis semanas antes de la boda de Carlos, Príncipe de Gales y Lady Diana Spencer, seis tiros fueron disparados a la Reina desde corta distancia mientras cabalgaba por el Mall. La policía más tarde descubrió que los disparos eran en blanco. El agresor de 17 años, Marcus Sarjeant, fue sentenciado a cinco años de prisión y liberado después de tres. La compostura y la habilidad de la Reina para controlar su montura fueron ampliamente elogiadas. De abril a septiembre de 1982, la reina permaneció ansiosa pero orgullosa de su hijo, el príncipe Andrés, que estaba sirviendo con las fuerzas británicas durante la Guerra de las Malvinas. El 9 de julio, la Reina se despertó en su dormitorio del Palacio de Buckingham para encontrar a un intruso, Michael Fagan, en la habitación con ella. Permaneciendo en calma y a través de dos llamadas a la centralita policial del Palacio, ella habló con Fagan mientras él se sentaba al pie de su cama hasta que la asistencia llegó siete minutos después. Aunque fue anfitriona del presidente estadounidense Ronald Reagan en el Castillo de Windsor en 1982 y visitó su rancho de California en 1983, se enojó cuando su administración ordenó la invasión de Granada, uno de sus reinos del Caribe, sin informarla.",
+      "annotations": [
+        {
+          "question": "¿Qué evento sucedió seis semanas antes de la boda de Carlos y Lady Diana con respecto a la Reina?",
+          "choices": [
+            {
+              "text": "seis tiros fueron disparados a la Reina desde corta distancia mientras cabalgaba por el Mall",
+              "start": 140,
+              "end": 232,
+              "type": "correct answer"
+            },
+            {
+              "text": "la Reina se despertó en su dormitorio del Palacio de Buckingham para encontrar a un intruso, Michael Fagan, en la habitación con ella",
+              "start": 707,
+              "end": 840,
+              "type": "distractor"
+            },
+            {
+              "text": "fue anfitriona del presidente estadounidense Ronald Reagan en el Castillo de Windsor",
+              "start": 1052,
+              "end": 1136,
+              "type": "distractor"
+            },
+            {
+              "text": "se enojó cuando su administración ordenó la invasión de Granada, uno de sus reinos del Caribe, sin informarla",
+              "start": 1187,
+              "end": 1296,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de los eventos catastróficos en Asia Menor, la monarquía fue abolida a través de un referéndum en 1924 y la Segunda República Helénica fue declarada. El primer ministro Georgios Kondylis tomó el poder en 1935 y efectivamente abolió la república mediante un referéndum en 1935. Un golpe de estado siguió en 1936 e instaló a Ioannis Metaxas como jefe de un régimen dictatorial conocido como el 4 de agosto. Aunque fue una dictadura, Grecia permaneció en buenos términos con Gran Bretaña y no se alió con el Eje.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedió en 1936 en Grecia?",
+          "choices": [
+            {
+              "text": "un golpe de estado",
+              "start": 285,
+              "end": 303,
+              "type": "correct answer"
+            },
+            {
+              "text": "la monarquía fue abolida",
+              "start": 52,
+              "end": 76,
+              "type": "distractor"
+            },
+            {
+              "text": "el primer ministro Georgios Kondylis tomó el poder",
+              "start": 158,
+              "end": 208,
+              "type": "distractor"
+            },
+            {
+              "text": "la Segunda República Helénica fue declarada",
+              "start": 113,
+              "end": 156,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Antes de la aparición del Rus de Kiev en el siglo IX, las tierras entre el mar Báltico y el mar Negro estaban pobladas principalmente por tribus eslavas orientales. En la región septentrional alrededor de Nóvgorod estaban los eslavos ilmanos y los vecinos Krivichi, que ocuparon territorios que rodeaban las cabeceras de los ríos Dvina, Dniéper y Volga. Al norte, en las regiones de Ládoga y Carelia, estaban la tribu chud finesa. En el sur, en el área alrededor de Kiev, estaban los Poliane, un grupo de tribus eslavas con orígenes iraníes, los Drevliane al oeste del Dnieper y los Severiane al este. Al norte y al este estaban los Vyatichi, y al sur había tierras boscosas colonizadas por granjeros eslavos, dando paso a las estepas pobladas por pastores nómadas.",
+      "annotations": [
+        {
+          "question": "¿En qué dirección en Kiev estaban los Poliane?",
+          "choices": [
+            {
+              "text": "sur",
+              "start": 437,
+              "end": 440,
+              "type": "correct answer"
+            },
+            {
+              "text": "oeste",
+              "start": 559,
+              "end": 564,
+              "type": "distractor"
+            },
+            {
+              "text": "este",
+              "start": 596,
+              "end": 600,
+              "type": "distractor"
+            },
+            {
+              "text": "norte",
+              "start": 605,
+              "end": 610,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Un gran porcentaje de expertos en el Medio Oriente moderno comenzó su formación en departamentos universitarios nombrados por el Cercano Oriente. Del mismo modo, las revistas asociadas con estos campos de experiencia incluyen las palabras Cercano Oriente o Cercano Oriente. El significado de Oriente Próximo en estos numerosos establecimientos y publicaciones es Oriente Medio. La experiencia en el Medio Oriente moderno casi nunca se mezcla o confunde con los estudios del Antiguo Oriente Próximo, aunque a menudo se abrevia \"Cercano Oriente\" sin ninguna implicación de los tiempos modernos. Por ejemplo, \"Lenguas del Cercano Oriente\" en el sentido antiguo incluye lenguas tales como el sumerio y el acadio. En el sentido moderno, es probable que signifique cualquiera o todas las lenguas árabes.",
+      "annotations": [
+        {
+          "question": "¿A dónde pertenecen lenguas como el sumerio y el acadio en el sentido antiguo?",
+          "choices": [
+            {
+              "text": "Cercano Oriente",
+              "start": 129,
+              "end": 144,
+              "type": "correct answer"
+            },
+            {
+              "text": "Medio Oriente",
+              "start": 37,
+              "end": 50,
+              "type": "distractor"
+            },
+            {
+              "text": "Oriente Próximo",
+              "start": 292,
+              "end": 307,
+              "type": "distractor"
+            },
+            {
+              "text": "Antiguo Oriente Próximo",
+              "start": 474,
+              "end": 497,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El color de piel más ligero y el vestuario de Beyoncé ha sido criticado por algunos de la comunidad afroamericana. Emmett Price, un profesor de música de la Universidad Northeastern, escribió en 2007 que piensa que la raza juega un papel en muchas de estas críticas, diciendo que las celebridades blancas que se visten de manera similar no atraen tantos comentarios. En 2008, L 'Oréal fue acusada de blanquear su piel en sus anuncios de color de pelo de Feria, respondiendo que \"es categóricamente falso\", y en 2013, Beyoncé criticó a H & M por su propuesta.",
+      "annotations": [
+        {
+          "question": "¿En qué año criticó Beyoncé a H & M?",
+          "choices": [
+            {
+              "text": "2013",
+              "start": 511,
+              "end": 515,
+              "type": "correct answer"
+            },
+            {
+              "text": "2008",
+              "start": 370,
+              "end": 374,
+              "type": "distractor"
+            },
+            {
+              "text": "2007",
+              "start": 195,
+              "end": 199,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "William Pitt, quien entró en el gabinete en 1756, tuvo una gran visión de la guerra que la hizo completamente diferente de las guerras anteriores con Francia. Como primer ministro Pitt comprometió a Gran Bretaña a una gran estrategia de apoderarse de todo el Imperio francés, especialmente sus posesiones en América del Norte y la India. El arma principal de Gran Bretaña era la Royal Navy, que podía controlar los mares y traer tantas tropas de invasión como fuera necesario. También planeó utilizar las fuerzas coloniales de las Trece colonias americanas, trabajando bajo el mando de regulares británicos, para invadir Nueva Francia. Con el fin de atar al ejército francés, subsidió a sus aliados europeos. Pitt Head del gobierno de 1756 a 1761, e incluso después de eso los británicos continuaron su estrategia. Resultó completamente exitoso. Pitt tenía una clara apreciación del enorme valor de las posesiones imperiales, y se dio cuenta de lo vulnerable que era el Imperio francés.",
+      "annotations": [
+        {
+          "question": "¿A qué se comprometió Pitt con Gran Bretaña como primer ministro?",
+          "choices": [
+            {
+              "text": "una gran estrategia de apoderarse de todo el Imperio francés",
+              "start": 214,
+              "end": 274,
+              "type": "correct answer"
+            },
+            {
+              "text": "una gran visión de la guerra",
+              "start": 55,
+              "end": 83,
+              "type": "distractor"
+            },
+            {
+              "text": "la Royal Navy, que podía controlar los mares y traer tantas tropas de invasión como fuera necesario",
+              "start": 376,
+              "end": 475,
+              "type": "distractor"
+            },
+            {
+              "text": "atar al ejército francés",
+              "start": 650,
+              "end": 674,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los bashi-bazouks otomanos reprimieron brutalmente el levantamiento búlgaro de 1876, masacrando a más de 100.000 personas en el proceso. La guerra ruso-turca (1877-1878) terminó con una victoria decisiva para Rusia. Como resultado, las tenencias otomanas en Europa disminuyeron marcadamente; Bulgaria se estableció como un principado independiente dentro del Imperio Otomano, Rumania logró la independencia total. Serbia y Montenegro finalmente obtuvieron la independencia completa, pero con territorios más pequeños. En 1878, Austria-Hungría ocupó unilateralmente las provincias otomanas de Bosnia-Herzegovina y Novi Pazar.",
+      "annotations": [
+        {
+          "question": "¿Qué país logró independencia total como resultado de la guerra ruso-turca?",
+          "choices": [
+            {
+              "text": "Rumania",
+              "start": 376,
+              "end": 383,
+              "type": "correct answer"
+            },
+            {
+              "text": "Bulgaria",
+              "start": 292,
+              "end": 300,
+              "type": "distractor"
+            },
+            {
+              "text": "Bosnia-Herzegovina",
+              "start": 592,
+              "end": 610,
+              "type": "distractor"
+            },
+            {
+              "text": "Serbia y Montenegro",
+              "start": 414,
+              "end": 433,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

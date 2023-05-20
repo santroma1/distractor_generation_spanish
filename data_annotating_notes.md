@@ -255,15 +255,19 @@ Total 50
 
 # Friday May 19th - Saturday May 20th
 
-Dates and Numbers 0
+Dates and Numbers 6
 
-Names 0
+Names 6
 
-Phrases 1
+Phrases 18
 
-Total 1
+Total 30
 
 ## Comments
+560. Check infinitive and verbs
+567. Check cases 
+568. Plural and correct person
+575. Cases
 
 # Total
 
