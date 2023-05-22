@@ -253,31 +253,48 @@ Total 50
 
 <br>
 
-# Friday May 19th - Saturday May 20th
+# Friday May 19th - Sunday May 20th
 
-Dates and Numbers 6
+Dates and Numbers 8
 
-Names 6
+Names 12
 
-Phrases 18
+Phrases 30
 
-Total 30
+Total 50
 
 ## Comments
 560. Check infinitive and verbs
 567. Check cases 
 568. Plural and correct person
 575. Cases
+583. 
+590. Cases
+594. Cases
+59. 
+
+# Monday May 22th
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 0
+
+Total 0
+
+## Comments
+
 
 # Total
 
-Dates and Numbers 68
+Dates and Numbers 76
 
-Names 128
+Names 140
 
-Phrases 355 - 1   
+Phrases 385 - 1   
 
-Total 550
+Total 600
 
 
 # GLOBAL NOTES
@@ -285,4 +302,4 @@ Total 550
 - For a reason, its not exporting datapoint 177. 
 - There is another text with 2 questions
 - There is now a total of 3 texts with 2 questions
-- Texts with 2 questions: 11
+- Texts with 2 questions: 13
