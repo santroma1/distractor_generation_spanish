@@ -20940,6 +20940,1080 @@
           ]
         }
       ]
+    },
+    {
+      "context": "La mayor obra de mosaico del renacimiento paleólogo en el arte es la decoración de la Iglesia Chora en Constantinopla. Aunque los mosaicos de la naos no han sobrevivido excepto tres paneles, la decoración del exonártex y el esonártex constituyen el más importante ciclo de mosaico a gran escala en Constantinopla después de la Hagia Sophia. Fueron ejecutados alrededor de 1320 por el mando de Teodoro Metoquites. El esonártex tiene dos cúpulas estriadas, especialmente creadas para proporcionar el entorno ideal para las imágenes de mosaico de los antepasados de Cristo. La del sur se llama la Cúpula del Pantocrátor, mientras que la del norte es la Cúpula del Theotokos. El panel más importante del esonártex representa a Teodoro Metoquites llevando un enorme turbante, ofreciendo el modelo de la iglesia a Cristo. Las paredes de ambos narcóticos están decoradas con ciclos de mosaico de la vida de la Virgen y la vida de Cristo. Estos paneles muestran la influencia del trecento italiano en el arte bizantino, especialmente los entornos, paisajes y figuras más naturales.",
+      "annotations": [
+        {
+          "question": "¿Cuál es la característica principal del esonártex?",
+          "choices": [
+            {
+              "text": "tiene dos cúpulas estriadas, especialmente creadas para proporcionar el entorno ideal para las imágenes de mosaico de los antepasados de Cristo",
+              "start": 426,
+              "end": 569,
+              "type": "correct answer"
+            },
+            {
+              "text": "muestran la influencia del trecento italiano en el arte bizantino, especialmente los entornos, paisajes y figuras más naturales",
+              "start": 945,
+              "end": 1072,
+              "type": "distractor"
+            },
+            {
+              "text": "están decoradas con ciclos de mosaico de la vida de la Virgen y la vida de Cristo",
+              "start": 848,
+              "end": 929,
+              "type": "distractor"
+            },
+            {
+              "text": "representa a Teodoro Metoquites llevando un enorme turbante, ofreciendo el modelo de la iglesia a Cristo",
+              "start": 710,
+              "end": 814,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La universidad está afiliada a la Congregación de Santa Cruz (latín: Congregatio a Sancta Cruce, abreviado postnominals: \"CSC\"). Si bien la afiliación religiosa no es un criterio para la admisión, más del 93% de los estudiantes se identifican como cristianos, con más del 80% del total siendo católicos. Colectivamente, la misa católica se celebra más de 100 veces por semana en el campus, y un gran programa de ministerio del campus proporciona las necesidades de la fe de la comunidad. Hay multitud de estatuas religiosas y obras de arte alrededor del campus, la más prominente de las cuales son la estatua de María en el Edificio Principal, la Gruta de Notre Dame, y la Palabra de Vida que representa a Cristo como profesor. Además, cada aula muestra un crucifijo. Hay muchos clubes religiosos (católicos y no católicos) en la escuela, incluyendo el Consejo # 1477 de los Caballeros de Colón (KOC), el Ministerio Colegial Bautista (BCM), el Club Judío, la Asociación Cristiana. El Notre Dame KofC es conocido por ser el primer consejo colegial de KofC, que opera un puesto de concesión de caridad durante cada partido de fútbol en casa y poseer su propio edificio en el campus que puede ser utilizado como salón de cigarros. Cincuenta y siete capillas se encuentran en todo el campus.",
+      "annotations": [
+        {
+          "question": "¿Qué realiza y administra el Consejo # 1477 de los Caballeros de Colón durante los partidos de fútbol en casa?",
+          "choices": [
+            {
+              "text": "un puesto de concesión de caridad",
+              "start": 1066,
+              "end": 1099,
+              "type": "correct answer"
+            },
+            {
+              "text": "la misa católica",
+              "start": 320,
+              "end": 336,
+              "type": "distractor"
+            },
+            {
+              "text": "un gran programa de ministerio del campus",
+              "start": 392,
+              "end": 433,
+              "type": "distractor"
+            },
+            {
+              "text": "clubes religiosos (católicos y no católicos)",
+              "start": 779,
+              "end": 823,
+              "type": "distractor"
+            },
+            {
+              "text": "la Congregación de Santa Cruz",
+              "start": 31,
+              "end": 60,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 2004, West tuvo su primera de una serie de incidentes públicos durante su asistencia a los eventos de premios musicales. En los American Music Awards de 2004, West salió del auditorio después de perder al Mejor Artista Nuevo de la cantante de country Gretchen Wilson. Más tarde comentó: \"Sentí que definitivamente me robaron [...] fui el mejor artista nuevo este año\". Después de que las nominaciones a los Grammy de 2006 fueran publicadas, West dijo que \"realmente tendría un problema\" si no ganaba el Álbum del Año, diciendo: \"No me importa lo que haga, no me importa lo que haga. No quiero escuchar todas esas cosas políticamente correctas \". El 2 de noviembre de 2006, cuando su \"Touch the Sky\" no ganó el premio al Mejor Video en los MTV Europe Music Awards, West subió al escenario ya que el premio estaba siendo entregado a Justice y Simian por \"We Are Your Friends\". Cientos de medios de comunicación en todo el mundo criticaron el estallido. El 7 de noviembre de 2006, West se disculpó por este estallido públicamente durante su actuación como acto de apoyo para U2 para su concierto de Vertigo en Brisbane. Más tarde falsificó el incidente en el estreno de la temporada 33 de Saturday Night Live en septiembre de 2007.",
+      "annotations": [
+        {
+          "question": "¿Cómo respondió West a las nominaciones a los Grammy de 2006?",
+          "choices": [
+            {
+              "text": "dijo que \"realmente tendría un problema\" si no ganaba el Álbum del Año",
+              "start": 444,
+              "end": 519,
+              "type": "correct answer"
+            },
+            {
+              "text": "falsificó el incidente en el estreno de la temporada 33 de Saturday Night Live",
+              "start": 1130,
+              "end": 1208,
+              "type": "distractor"
+            },
+            {
+              "text": "subió al escenario ya que el premio estaba siendo entregado a Justice y Simian por \"We Are Your Friends\"",
+              "start": 772,
+              "end": 876,
+              "type": "distractor"
+            },
+            {
+              "text": "salió del auditorio después de perder al Mejor Artista Nuevo",
+              "start": 167,
+              "end": 227,
+              "type": "distractor"
+            },
+            {
+              "text": "comentó: \"Sentí que definitivamente me robaron [...] fui el mejor artista nuevo este año\"",
+              "start": 281,
+              "end": 370,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Oskar Luts fue el más prominente escritor en prosa de la literatura estonia temprana, que todavía es ampliamente leído hoy en día, especialmente su novela de escuela lírica Kevade (Primavera). La pentalogía Verdad y justicia del realista psicológico de Anton Hansen Tammsaare capturó la evolución de la sociedad estonia de una comunidad campesina a una nación independiente. Jaan Kross y Jaan Kaplinski son los escritores más conocidos y traducidos de Estonia. Entre los escritores más populares de finales del siglo XX y principios del siglo XXI se encuentran Tõnu. Nnepalu y Andrus Kivirähk, que utiliza elementos del folclore y la mitología estonia.",
+      "annotations": [
+        {
+          "question": "¿Quién escribió la pentalogía de la Verdad y Justicia?",
+          "choices": [
+            {
+              "text": "Anton Hansen Tammsaare",
+              "start": 253,
+              "end": 275,
+              "type": "correct answer"
+            },
+            {
+              "text": "Jaan Kross",
+              "start": 375,
+              "end": 385,
+              "type": "distractor"
+            },
+            {
+              "text": "Jaan Kaplinski",
+              "start": 388,
+              "end": 402,
+              "type": "distractor"
+            },
+            {
+              "text": "Oskar Luts",
+              "start": 0,
+              "end": 10,
+              "type": "distractor"
+            },
+            {
+              "text": "Andrus Kivirähk",
+              "start": 577,
+              "end": 592,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En La edad de la razón, los tratados filosóficos y las especulaciones sobre la historia y la naturaleza humana integraron la literatura con los desarrollos sociales y políticos. La reacción inevitable fue la explosión del Romanticismo a finales del siglo XVIII que recuperó el sesgo imaginativo y fantástico de los viejos romances y la literatura popular y afirmó la primacía de la experiencia individual y la emoción. Pero a medida que avanzaba el siglo XIX, la ficción europea evolucionó hacia el realismo y el naturalismo, la documentación meticulosa de la vida real y las tendencias sociales. Gran parte de la producción del naturalismo fue implícitamente polémica e influenció el cambio social y político, pero la ficción y el drama del siglo XX retrocedieron hacia lo subjetivo, enfatizando las motivaciones inconscientes y las presiones sociales. Escritores como Proust, Eliot, Joyce, Kafka y Pirandello ejemplifican la tendencia de documentar realidades internas más que externas.",
+      "annotations": [
+        {
+          "question": "¿En qué época hubo un cambio del naturalismo hacia lo subjetivo, con un énfasis en las presiones sociales y las motivaciones inconscientes?",
+          "choices": [
+            {
+              "text": "siglo XX",
+              "start": 742,
+              "end": 750,
+              "type": "correct answer"
+            },
+            {
+              "text": "siglo XIX",
+              "start": 449,
+              "end": 458,
+              "type": "distractor"
+            },
+            {
+              "text": "siglo XVIII",
+              "start": 249,
+              "end": 260,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los instrumentos de metal en el Renacimiento eran tocados tradicionalmente por profesionales que eran miembros de los gremios e incluían la trompeta de varas, la corneta de madera, la trompeta sin válvulas y el sacabuche. Los instrumentos de cuerda incluían la viola, la lira en forma de arpa, la zanfona, el cítara y el laúd. Los instrumentos de teclado con cuerdas incluyen el clavicordio y la virginal. Los instrumentos de percusión incluyen el triángulo, el arpa del judío, la pandereta, las campanas, la rumbera y varios tipos de tambores. Los instrumentos de viento incluyeron el shawm de doble lengüeta, la cañería, la gaita, la flauta travesera y la flauta.",
+      "annotations": [
+        {
+          "question": "¿Cuál es un ejemplo de un instrumento de cuerda en el Renacimiento?",
+          "choices": [
+            {
+              "text": "la rumbera",
+              "start": 506,
+              "end": 516,
+              "type": "distractor"
+            },
+            {
+              "text": "la pandereta",
+              "start": 478,
+              "end": 490,
+              "type": "distractor"
+            },
+            {
+              "text": "la corneta de madera",
+              "start": 159,
+              "end": 179,
+              "type": "distractor"
+            },
+            {
+              "text": "la trompeta de varas",
+              "start": 137,
+              "end": 157,
+              "type": "distractor"
+            },
+            {
+              "text": "la viola",
+              "start": 258,
+              "end": 266,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El hard rock entró en la década de 1990 como una de las formas dominantes de la música comercial. The Razors Edge (1990), Use Your Illusion I y Use Your Illusion II (ambas en 1991), No More Tears (1991) de Ozzy Osbourne. Además, The Black Crowes lanzaron su álbum debut, Shake Your Money Maker (1990), que contenía un sonido de rock clásico y vendió cinco millones de copias. En 1992, Def Leppard siguió Hysteria with Adrenalize de 1987, que fue multi-platino, generó cuatro sencillos Top 40 y ocupó el primer lugar en la lista de álbumes de Estados Unidos durante cinco semanas.",
+      "annotations": [
+        {
+          "question": "¿Qué álbum de Def Leppard fue anterior a Adrenalize?",
+          "choices": [
+            {
+              "text": "Hysteria",
+              "start": 404,
+              "end": 412,
+              "type": "correct answer"
+            },
+            {
+              "text": "No More Tears",
+              "start": 182,
+              "end": 195,
+              "type": "distractor"
+            },
+            {
+              "text": "Shake Your Money Maker",
+              "start": 271,
+              "end": 293,
+              "type": "distractor"
+            },
+            {
+              "text": "Use Your Illusion II",
+              "start": 144,
+              "end": 164,
+              "type": "distractor"
+            },
+            {
+              "text": "The Razors Edge",
+              "start": 98,
+              "end": 113,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1961, Nasser buscó establecer firmemente Egipto como el líder del mundo árabe y promover una segunda revolución en Egipto con el propósito de fusionar el pensamiento islámico y socialista. Para lograr esto, inició varias reformas para modernizar al-Azhar, que sirve como la principal autoridad de facto en el Islam suní, y para asegurar su prominencia sobre la Hermandad Musulmana y el wahabismo más conservador promovido por Arabia Saudita. Nasser había utilizado a los ulema (eruditos) más dispuestos de al-Azhar como un contrapeso a la influencia islámica de la Hermandad, a partir de 1953.",
+      "annotations": [
+        {
+          "question": "¿De qué rama es al-Azhar la autoridad principal?",
+          "choices": [
+            {
+              "text": "Islam suní",
+              "start": 312,
+              "end": 322,
+              "type": "correct answer"
+            },
+            {
+              "text": "ulema",
+              "start": 474,
+              "end": 479,
+              "type": "distractor"
+            },
+            {
+              "text": "wahabismo",
+              "start": 389,
+              "end": 398,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El cine apareció por primera vez en Grecia en 1896, pero el primer teatro real fue inaugurado en 1907. En 1914 se fundó la asty Films Company y comenzó la producción de películas largas. Golfo (Γκόλφω), una conocida historia de amor tradicional, es considerada la primera película griega, aunque hubo varias producciones menores como noticieros antes de esto. En 1931 Orestis Laskos dirigió Daphnis and Chloe (Δάφνις και Χλόη), que contenía la primera escena desnuda en la historia del cine europeo; También fue la primera película griega que se estrenó en el extranjero. En 1944 Katina Paxinou fue honrada con el Premio de la Academia a la Mejor Actriz de Reparto por For Whom the Bell Tolls.",
+      "annotations": [
+        {
+          "question": "¿Qué evento sucedió en 1944 para el teatro y cine griego?",
+          "choices": [
+            {
+              "text": "el primer teatro real fue inaugurado",
+              "start": 57,
+              "end": 93,
+              "type": "distractor"
+            },
+            {
+              "text": "se fundó la asty Films Company y comenzó la producción de películas largas",
+              "start": 111,
+              "end": 185,
+              "type": "distractor"
+            },
+            {
+              "text": "Orestis Laskos dirigió Daphnis and Chloe (Δάφνις και Χλόη), que contenía la primera escena desnuda en la historia del cine europeo",
+              "start": 368,
+              "end": 498,
+              "type": "distractor"
+            },
+            {
+              "text": "Katina Paxinou fue honrada con el Premio de la Academia a la Mejor Actriz de Reparto por For Whom the Bell Tolls",
+              "start": 580,
+              "end": 692,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de cruzar en secreto el río Yalu el 19 de octubre, el 13 ° Grupo de Ejércitos del EPV lanzó la primera ofensiva de fase el 25 de octubre, atacando a las fuerzas de la ONU que avanzaban cerca de la frontera sino-coreana. Esta decisión militar tomada únicamente por China cambió la actitud de la Unión Soviética. Doce días después de que las tropas chinas entraran en la guerra, Stalin permitió a la Fuerza Aérea Soviética proporcionar cobertura aérea, y apoyó más ayuda a China. Después de diezmar al II Cuerpo de la RC en la batalla de Onjong, el primer enfrentamiento entre los militares chinos y estadounidenses ocurrió el 1 de noviembre de 1950; En las profundidades de Corea del Norte, miles de soldados del 39º Ejército del EPV rodearon y atacaron al 8º Regimiento de Caballería con tres ataques - desde el norte, noroeste y oeste - y invadieron los flancos defensivos. El asalto sorpresa resultó en que las fuerzas de la ONU se retiraran al río Ch 'ongch' on, mientras que los chinos desaparecieron inesperadamente en escondites de montaña después de la victoria. No está claro por qué los chinos no presionaron el ataque y siguieron su victoria.",
+      "annotations": [
+        {
+          "question": "¿Qué día, después de la batalla de Onjong, fue el primer enfrentamiento entre los militares chinos y estadounidenses?",
+          "choices": [
+            {
+              "text": "el 1 de noviembre",
+              "start": 630,
+              "end": 647,
+              "type": "correct answer"
+            },
+            {
+              "text": "el 19 de octubre",
+              "start": 41,
+              "end": 57,
+              "type": "distractor"
+            },
+            {
+              "text": "el 25 de octubre",
+              "start": 128,
+              "end": 144,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La historia del Imperio otomano durante la Primera Guerra Mundial comenzó con el compromiso otomano en el teatro de Oriente Medio. Hubo varias victorias otomanas importantes en los primeros años de la guerra, como la batalla de Galípoli y el asedio de Kut. La revuelta árabe que comenzó en 1916 volvió la marea contra los otomanos en el frente de Oriente Medio, donde inicialmente parecían tener ventaja durante los dos primeros años de la guerra. El Armisticio de Mudros fue firmado el 30 de octubre de 1918, y estableció la partición del Imperio otomano bajo los términos del Tratado de Sèvres. Este tratado, diseñado en la conferencia de Londres, permitió al sultán conservar su posición y título. La ocupación de Constantinopla e Esmirna llevó al establecimiento de un movimiento nacional turco, que ganó la Guerra de Independencia Turca (1919-22) bajo el liderazgo de Mustafa Kemal (más tarde se le dio el apellido \"Atatürk\"). El sultanato fue abolido el 1 de noviembre de 1922, y el último sultán, Mehmed VI (reinó 1918-22), abandonó el país el 17 de noviembre de 1922. El califato fue abolido el 3 de marzo de 1924.",
+      "annotations": [
+        {
+          "question": "¿En qué fecha fue abolido el califato?",
+          "choices": [
+            {
+              "text": "el 3 de marzo de 1924",
+              "start": 1100,
+              "end": 1121,
+              "type": "correct answer"
+            },
+            {
+              "text": "el 17 de noviembre de 1922",
+              "start": 1048,
+              "end": 1074,
+              "type": "distractor"
+            },
+            {
+              "text": "el 1 de noviembre de 1922",
+              "start": 957,
+              "end": 982,
+              "type": "distractor"
+            },
+            {
+              "text": "el 30 de octubre de 1918",
+              "start": 484,
+              "end": 508,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La ley portuguesa aplicada en las antiguas colonias y territorios y sigue siendo la principal influencia para esos países. Las principales organizaciones policiales de Portugal son la Guarda Nacional Republicana - GNR (Guardia Nacional Republicana), una gendarmería; La Policía de Segurança Pública - PSP (Policía de Seguridad Pública), una fuerza policial civil que trabaja en áreas urbanas; Y la Policía Judicial - PJ (Policía Judicial), una policía de investigación criminal altamente especializada que es supervisada por el Ministerio Público.",
+      "annotations": [
+        {
+          "question": "¿Qué organización de policías es supervisada por el Ministerio Público?",
+          "choices": [
+            {
+              "text": "Policía Judicial",
+              "start": 398,
+              "end": 414,
+              "type": "correct answer"
+            },
+            {
+              "text": "Guarda Nacional Republicana",
+              "start": 184,
+              "end": 211,
+              "type": "distractor"
+            },
+            {
+              "text": "Policía de Segurança Pública",
+              "start": 270,
+              "end": 298,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los principales idiomas oficiales (alemán, francés e italiano) tienen términos, no utilizados fuera de Suiza, conocidos como helvetismos. Los helvetismos alemanes son, aproximadamente hablando, un gran grupo de palabras típicas del alemán estándar suizo, que no aparecen en el alemán estándar, ni en otros dialectos alemanes. Estos incluyen términos de las culturas lingüísticas circundantes de Suiza (alemán Billette del francés), de un término similar en otra lengua (la azione italiana no sólo se utiliza como acto, sino también como descuento del alemán Aktion). El francés hablado en Suiza tiene términos similares, que son igualmente conocidos como helvetismos. Las características más frecuentes de los helvetismos están en vocabulario, frases y pronunciación, pero ciertos helvetismos se denotan a sí mismos como especiales en sintaxis y ortografía. Duden, una de las fuentes prescriptivas para el alemán estándar, es consciente de unos 3000 helvetismos. Los diccionarios franceses actuales, como el Petit Larousse, incluyen varios cientos de Helvetisms.",
+      "annotations": [
+        {
+          "question": "¿De qué idioma es la fuente Duden, que contiene unos 3000 helvetismos?",
+          "choices": [
+            {
+              "text": "francés",
+              "start": 570,
+              "end": 577,
+              "type": "distractor"
+            },
+            {
+              "text": "italiano",
+              "start": 53,
+              "end": 61,
+              "type": "distractor"
+            },
+            {
+              "text": "alemán",
+              "start": 232,
+              "end": 238,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Casi al mismo tiempo, Charles Coffin, líder de la Thomson-Houston Electric Company, adquirió una serie de competidores y obtuvo acceso a sus patentes clave. General Electric se formó a través de la fusión de 1892 de Edison General Electric Company de Schenectady, Nueva York, y Thomson-Houston Electric Company de Lynn, Massachusetts, con el apoyo de Drexel, Morgan & Co. Ambas plantas continúan operando bajo la bandera de GE hasta el día de hoy. La compañía fue incorporada en Nueva York, con la planta Schenectady utilizada como sede muchos años después. Al mismo tiempo, se formó la contraparte canadiense de General Electric, Canadian General Electric.",
+      "annotations": [
+        {
+          "question": "¿De qué compañía era el líder Charles Coffin?",
+          "choices": [
+            {
+              "text": "Thomson-Houston Electric Company",
+              "start": 50,
+              "end": 82,
+              "type": "correct answer"
+            },
+            {
+              "text": "Edison General Electric Company de Schenectady",
+              "start": 216,
+              "end": 262,
+              "type": "distractor"
+            },
+            {
+              "text": "Drexel, Morgan & Co",
+              "start": 351,
+              "end": 370,
+              "type": "distractor"
+            },
+            {
+              "text": "Canadian General Electric",
+              "start": 631,
+              "end": 656,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las teorías temporales ofrecen una alternativa que apela a la estructura temporal de los potenciales de acción, principalmente el bloqueo de fase y el bloqueo de código de potenciales de acción a las frecuencias en un estímulo. La forma precisa en que esta estructura temporal ayuda a codificar para el tono en niveles más altos todavía se debate, pero el procesamiento parece estar basado en una autocorrelación de los potenciales de acción en el nervio auditivo. Sin embargo, se ha observado durante mucho tiempo que un mecanismo neuronal que puede lograr un retraso - una operación necesaria de una verdadera autocorrelación - no se ha encontrado. Al menos un modelo muestra que un retraso temporal es innecesario para producir un modelo de autocorrelación de la percepción del tono, apelando a cambios de fase entre los filtros cocleares; Sin embargo, trabajos anteriores han demostrado que ciertos sonidos con un pico prominente en su función de autocorrelación no provocan una percepción de tono correspondiente, y que ciertos sonidos sin un pico en su función de autocorrelación provocan un tono. Para ser un modelo más completo, la autocorrelación debe, por lo tanto, aplicarse a señales que representan la salida de la cóclea, como a través de histogramas de intervalo interpico entre los nervios auditivos. Algunas teorías de la percepción del tono sostienen que el tono tiene ambigüedades inherentes a la octava, y por lo tanto se descompone en un tono cromático, un valor periódico alrededor de la octava, como los nombres de las notas.",
+      "annotations": [
+        {
+          "question": "¿Qué codifica el método de procesamiento que parece estar basado en la autocorrelación de los potenciales de acción en el nervio auditivo?",
+          "choices": [
+            {
+              "text": "el tono en niveles más altos",
+              "start": 300,
+              "end": 328,
+              "type": "correct answer"
+            },
+            {
+              "text": "la estructura temporal de los potenciales de acción",
+              "start": 59,
+              "end": 110,
+              "type": "distractor"
+            },
+            {
+              "text": "la cóclea",
+              "start": 1225,
+              "end": 1234,
+              "type": "distractor"
+            },
+            {
+              "text": "la percepción del tono",
+              "start": 1336,
+              "end": 1358,
+              "type": "distractor"
+            },
+            {
+              "text": "el tono cromático",
+              "start": 1459,
+              "end": 1473,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1763, la guerra en Europa Central era esencialmente un punto muerto. Federico había retomado la mayor parte de Silesia y Sajonia, pero no la capital de este último, Dresde. Su situación financiera no era grave, pero su reino fue devastado y su ejército severamente debilitado. Su mano de obra había disminuido dramáticamente, y había perdido tantos oficiales y generales efectivos que una nueva ofensiva era quizás imposible. Los subsidios británicos habían sido detenidos por el nuevo Primer Ministro Lord Bute, y el emperador ruso había sido derrocado por su esposa, Catalina, que puso fin a la alianza de Rusia con Prusia y se retiró de la guerra. Austria, sin embargo, como la mayoría de los participantes, se enfrentaba a una grave crisis financiera y tuvo que disminuir el tamaño de su ejército, algo que afectó en gran medida su poder ofensivo. De hecho, después de haber sostenido efectivamente una larga guerra, su administración estaba en desorden. En ese momento, todavía tenía Dresde, la parte sureste de Sajonia, el condado de Glatz y el sur de Silesia, pero la perspectiva de la victoria era escasa sin el apoyo ruso. En 1763 se llegó a un acuerdo de paz en el Tratado de Hubertusburg, poniendo fin a la guerra en Europa central.",
+      "annotations": [
+        {
+          "question": "¿Qué trajo el Tratado de Hubertusburg?",
+          "choices": [
+            {
+              "text": "fin a la guerra en Europa central",
+              "start": 1212,
+              "end": 1245,
+              "type": "correct answer"
+            },
+            {
+              "text": "fin a la alianza de Rusia con Prusia",
+              "start": 591,
+              "end": 627,
+              "type": "distractor"
+            },
+            {
+              "text": "subsidios británicos",
+              "start": 433,
+              "end": 453,
+              "type": "distractor"
+            },
+            {
+              "text": "una grave crisis financiera",
+              "start": 730,
+              "end": 757,
+              "type": "distractor"
+            },
+            {
+              "text": "el apoyo ruso",
+              "start": 1120,
+              "end": 1133,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En la última era imperial, el entierro y las prácticas conmemorativas de cristianos y no cristianos se superponían. Las tumbas eran compartidas por miembros de la familia cristiana y no cristiana, y los ritos funerarios tradicionales y la fiesta de novemdialis encontraron un partido en la Constitución Apostólica Cristiana. Las ofertas habituales de vino y comida a los muertos continuaron. San Agustín (después de San Ambrosio) temía que esto invitara a las prácticas \"borrachos\" de Parentalia, pero elogió las fiestas funerarias como una oportunidad cristiana para dar limosnas de comida a los pobres. Los cristianos asistieron a Parentalia y su acompañamiento Feralia y Caristia en cantidades suficientes para que el Concilio de Tours los prohibiera en el año 567. Otras prácticas funerarias y conmemorativas fueron muy diferentes. La práctica tradicional romana rechazó el cadáver como una contaminación ritual; Las inscripciones observaron el día del nacimiento y la duración de la vida. La Iglesia cristiana fomentó la veneración de reliquias santificadas, y las inscripciones marcaron el día de la muerte como una transición a la \"nueva vida\".",
+      "annotations": [
+        {
+          "question": "¿Qué hizo la Iglesia cristiana diferente a la práctica tradicional romana en cuanto a prácticas funerarias y conmemorativas?",
+          "choices": [
+            {
+              "text": "fomentó la veneración de reliquias santificadas",
+              "start": 1015,
+              "end": 1062,
+              "type": "correct answer"
+            },
+            {
+              "text": "rechazó el cadáver como una contaminación ritual",
+              "start": 867,
+              "end": 915,
+              "type": "distractor"
+            },
+            {
+              "text": "ofertas habituales de vino y comida a los muertos",
+              "start": 329,
+              "end": 378,
+              "type": "distractor"
+            },
+            {
+              "text": "elogió las fiestas funerarias como una oportunidad cristiana para dar limosnas de comida a los pobres",
+              "start": 502,
+              "end": 603,
+              "type": "distractor"
+            },
+            {
+              "text": "la fiesta de novemdialis",
+              "start": 236,
+              "end": 260,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La ley y las finanzas llevan mucho tiempo impulsando la economía. La ciudad es hogar de la Corte de Apelaciones del Cuarto Circuito de Estados Unidos, uno de los 13 tribunales de apelaciones de Estados Unidos, y el Banco de la Reserva Federal de Richmond, uno de los 12 bancos de la Reserva Federal. Richmond es también el hogar de cuatro de las firmas de abogados más grandes de los Estados Unidos: Hunton & Williams, McGuireWoods, Williams Mullen, y LeClairRyan. Otro bufete de abogados con una importante presencia en Richmond es Troutman Sanders, que se fusionó con Mays & Valentine LLP con sede en Richmond en 2001.",
+      "annotations": [
+        {
+          "question": "¿Qué firma de abogados se unió con Troutman Sanders?",
+          "choices": [
+            {
+              "text": "Hunton & Williams",
+              "start": 400,
+              "end": 417,
+              "type": "distractor"
+            },
+            {
+              "text": "Williams Mullen",
+              "start": 433,
+              "end": 448,
+              "type": "distractor"
+            },
+            {
+              "text": "Mays & Valentine LLP",
+              "start": 570,
+              "end": 590,
+              "type": "correct answer"
+            },
+            {
+              "text": "McGuireWoods",
+              "start": 419,
+              "end": 431,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Bohemia (como se conocía entonces la civilización checa) aumentó en el poder a lo largo de los siglos, como su lengua lo hizo en importancia regional. Este crecimiento se aceleró durante el siglo XIV por el emperador Carlos IV, que fundó la Universidad Carolina en Praga en 1348. Aquí, la literatura checa temprana (una traducción bíblica, himnos y hagiografía) floreció. También se produjeron textos antiguos checos, incluyendo poesía y libros de cocina fuera de la universidad. Más tarde en el siglo Jan Hus contribuyó significativamente a la estandarización de la ortografía checa, abogó por la alfabetización generalizada entre los plebeyos checos (particularmente en la religión) e hizo esfuerzos tempranos para modelar checo.",
+      "annotations": [
+        {
+          "question": "¿A qué contribuyó Jan Hus en checo?",
+          "choices": [
+            {
+              "text": "ortografía",
+              "start": 567,
+              "end": 577,
+              "type": "correct answer"
+            },
+            {
+              "text": "poesía",
+              "start": 429,
+              "end": 435,
+              "type": "distractor"
+            },
+            {
+              "text": "libros de cocina",
+              "start": 438,
+              "end": 454,
+              "type": "distractor"
+            },
+            {
+              "text": "literatura",
+              "start": 289,
+              "end": 299,
+              "type": "distractor"
+            },
+            {
+              "text": "religión",
+              "start": 675,
+              "end": 683,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Otros filósofos musulmanes influyentes incluyen al-Jahiz, un pionero en el pensamiento evolutivo; Ibn al-Haytham (Alhazen), un pionero de la fenomenología y la filosofía de la ciencia y un crítico de la filosofía natural aristotélica y el concepto de lugar de Aristóteles (topos); Al-Biruni, un crítico de la filosofía natural aristotélica; Ibn Tufail e Ibn al-Nafis, pioneros de la novela filosófica; Shahab al-Din Suhrawardi, fundador de la filosofía ilustracionista; Fakhr al-Din al-Razi, crítico de la lógica aristotélica y pionero de la lógica inductiva; Y Ibn Jaldún, un pionero en la filosofía de la historia.",
+      "annotations": [
+        {
+          "question": "¿Cuál era el área de conocimiento de Ibn al-Haytham?",
+          "choices": [
+            {
+              "text": "el pensamiento evolutivo",
+              "start": 72,
+              "end": 96,
+              "type": "distractor"
+            },
+            {
+              "text": "la fenomenología y la filosofía de la ciencia",
+              "start": 138,
+              "end": 183,
+              "type": "correct answer"
+            },
+            {
+              "text": "la filosofía natural aristotélica",
+              "start": 306,
+              "end": 339,
+              "type": "distractor"
+            },
+            {
+              "text": "la novela filosófica",
+              "start": 380,
+              "end": 400,
+              "type": "distractor"
+            },
+            {
+              "text": "la filosofía ilustracionista",
+              "start": 440,
+              "end": 468,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Tradicionalmente, los principales equipos universitarios de baloncesto comenzaron sus temporadas con algunos juegos de exhibición. Jugaron con equipos itinerantes formados por ex jugadores universitarios en equipos como Athletes in Action o un equipo patrocinado por Marathon Oil. En ocasiones anteriores a 1992, cuando la FIBA permitió jugadores profesionales en equipos nacionales extranjeros, los colegios jugaron esos equipos en exposiciones. Sin embargo, en 2003, la National Collegiate Athletic Association prohibió juegos con equipos no universitarios. Algunos equipos han comenzado a programar juegos de exhibición contra equipos de la División II de la NCAA y la División III de la NCAA, o incluso contra universidades ubicadas en Canadá. Los principales equipos universitarios de baloncesto todavía viajan a otros países durante el verano para jugar en partidos de exhibición, aunque a un equipo universitario se le permite una gira extranjera cada cuatro años, y un máximo de diez partidos en cada gira.",
+      "annotations": [
+        {
+          "question": "¿Contra qué equipos prohibió jugar la National Collegiate Athletic Association en 2003 respecto a los juegos de exhibición de baloncesto?",
+          "choices": [
+            {
+              "text": "no universitarios",
+              "start": 541,
+              "end": 558,
+              "type": "correct answer"
+            },
+            {
+              "text": "de la División II de la NCAA",
+              "start": 638,
+              "end": 666,
+              "type": "distractor"
+            },
+            {
+              "text": "de la División III de la NCAA",
+              "start": 669,
+              "end": 695,
+              "type": "distractor"
+            },
+            {
+              "text": "universidades ubicadas en Canadá",
+              "start": 714,
+              "end": 746,
+              "type": "distractor"
+            },
+            {
+              "text": "itinerantes formados por ex jugadores universitarios",
+              "start": 151,
+              "end": 203,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los laboristas han sido durante mucho tiempo identificados con el rojo, un color político tradicionalmente afiliado al socialismo y el movimiento obrero. La conferencia del partido en 1931 aprobó una moción: \"Que esta conferencia adopte colores del partido, que deben ser uniformes en todo el país, colores rojos y oro\". Desde el inicio del partido, la bandera roja ha sido el símbolo oficial del laborismo; La bandera ha estado asociada con el socialismo y la revolución desde la Revolución francesa de 1789 y las revoluciones de 1848. La rosa roja, símbolo de la socialdemocracia, fue adoptada como símbolo del partido en 1986 como parte de un ejercicio de cambio de nombre y ahora se incorpora en el logotipo del partido.",
+      "annotations": [
+        {
+          "question": "¿En qué año fue la Revolución francesa?",
+          "choices": [
+            {
+              "text": "1789",
+              "start": 504,
+              "end": 508,
+              "type": "correct answer"
+            },
+            {
+              "text": "1931",
+              "start": 184,
+              "end": 188,
+              "type": "distractor"
+            },
+            {
+              "text": "1848",
+              "start": 531,
+              "end": 535,
+              "type": "distractor"
+            },
+            {
+              "text": "1986",
+              "start": 624,
+              "end": 628,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Memoria Flushing muestra apoyo a la separación de la iglesia y el estado ya a mediados del siglo XVII, declarando su oposición a la persecución religiosa de cualquier tipo: \"La ley del amor, la paz y la libertad en los egipcios. El documento fue firmado el 27 de diciembre de 1657 por un grupo de ciudadanos ingleses en América que se enfrentaron por la persecución de los cuáqueros y las políticas religiosas del gobernador de Nueva Holanda, Peter Stuyvesant. Stuyvesant había prohibido formalmente que todas las religiones distintas de la Iglesia Reformada Holandesa fueran practicadas en la colonia, de acuerdo con las leyes de la República Holandesa. Los firmantes indicaron su \"deseo por lo tanto en este caso de no juzgar para no ser juzgados, ni condenar lo menos que seremos condenados, sino dejar que cada hombre se pare o caiga ante su propio Maestro\". Stuyvesant multó a los demandantes y los encarceló hasta que se retractó. Sin embargo, John Bowne permitió a los cuáqueros reunirse en su casa. Bowne fue arrestado, encarcelado y enviado a los Países Bajos para ser juzgado. La corte holandesa exoneró a Bowne.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo o sucedió con John Bowne después de permitir a los cuáqueros reunirse en su casa?",
+          "choices": [
+            {
+              "text": "fue arrestado, encarcelado y enviado a los Países Bajos para ser juzgado",
+              "start": 1016,
+              "end": 1088,
+              "type": "correct answer"
+            },
+            {
+              "text": "multó a los demandantes y los encarceló hasta que se retractó",
+              "start": 877,
+              "end": 938,
+              "type": "distractor"
+            },
+            {
+              "text": "prohibió formalmente que todas las religiones distintas de la Iglesia Reformada Holandesa fueran practicadas en la colonia",
+              "start": 481,
+              "end": 604,
+              "type": "distractor"
+            },
+            {
+              "text": "declaró su oposición a la persecución religiosa de cualquier tipo",
+              "start": 106,
+              "end": 174,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1964, Pablo VI creó una Secretaría para los no cristianos, más tarde rebautizada como Consejo Pontificio para el Diálogo Interreligioso y un año más tarde una nueva Secretaría (más tarde Consejo Pontificio) para el Diálogo con los no creyentes. Este último fue incorporado en 1993 por el Papa Juan Pablo II en el Pontificio Consejo para la Cultura, que había establecido en 1982. En 1971, Pablo VI creó una oficina papal para el desarrollo económico y la asistencia catastrófica. Para fomentar lazos comunes con todas las personas de buena voluntad, decretó un día de paz anual que se celebraría el primero de enero de cada año. Tratando de mejorar la condición de los cristianos detrás de la Cortina de Hierro, Pablo VI participó en diálogo con las autoridades comunistas en varios niveles, recibiendo al ministro de Relaciones Exteriores Andréi Gromyko y al presidente del Presidium del Soviet Supremo Nikolai Podgorny. La situación de la Iglesia en Hungría, Polonia y Rumania mejoró durante su pontificado.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo Pablo VI para mejorar la condición de los cristianos detrás de la Cortina de Hierro?",
+          "choices": [
+            {
+              "text": "creó una oficina papal para el desarrollo económico y la asistencia catastrófica",
+              "start": 401,
+              "end": 481,
+              "type": "distractor"
+            },
+            {
+              "text": "participó en diálogo con las autoridades comunistas en varios niveles",
+              "start": 724,
+              "end": 793,
+              "type": "correct answer"
+            },
+            {
+              "text": "decretó un día de paz anual que se celebraría el primero de enero de cada año",
+              "start": 553,
+              "end": 630,
+              "type": "distractor"
+            },
+            {
+              "text": "creó una Secretaría para los no cristianos, más tarde rebautizada como Consejo Pontificio para el Diálogo Interreligioso",
+              "start": 18,
+              "end": 138,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1903 Hermann Emil Fischer y Joseph von Mering revelaron su descubrimiento de que el ácido dietilbarbitúrico, formado a partir de la reacción del ácido dietilmalónico, oxicloruro de fósforo y urea. El descubrimiento fue patentado y licenciado a los farmacéuticos de Bayer, que comercializaron el compuesto bajo el nombre comercial Veronal como ayuda para dormir a partir de 1904. Investigaciones sistemáticas del efecto de los cambios estructurales en la potencia y la duración de la acción llevaron al descubrimiento del fenobarbital en Bayer en 1911 y al descubrimiento de su potente actividad antiepiléptica en 1912. El fenobarbital fue uno de los medicamentos más utilizados para el tratamiento de la epilepsia durante la década de 1970, y a partir de 2014, permanece en la lista de medicamentos esenciales de las Organizaciones Mundiales de la Salud. Las décadas de 1950 y 1960 vieron un aumento en la conciencia de las propiedades adictivas y el potencial de abuso de los barbitúricos y las anfetaminas y llevó a aumentar las restricciones en su uso y la creciente supervisión del gobierno. Hoy en día, la anfetamina se limita en gran medida a su uso en el tratamiento del trastorno por déficit de atención y fenobarbital en el tratamiento de la epilepsia.",
+      "annotations": [
+        {
+          "question": "¿En qué año se empezó a comercializar el ácido dietilbarbitúrico?",
+          "choices": [
+            {
+              "text": "1904",
+              "start": 376,
+              "end": 380,
+              "type": "correct answer"
+            },
+            {
+              "text": "1903",
+              "start": 3,
+              "end": 7,
+              "type": "distractor"
+            },
+            {
+              "text": "1912",
+              "start": 616,
+              "end": 620,
+              "type": "distractor"
+            },
+            {
+              "text": "1970",
+              "start": 738,
+              "end": 742,
+              "type": "distractor"
+            },
+            {
+              "text": "1911",
+              "start": 549,
+              "end": 553,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los esfuerzos para identificar los orígenes de los judíos Ashkenazi a través del análisis de ADN comenzaron en la década de 1990. Actualmente, hay tres tipos de pruebas de origen genético, ADN autosómico (ADNt), ADN mitocondrial (ADNmt) y ADN cromosómico Y (ADN-Y). El ADN autosómico es una mezcla de toda la ascendencia de un individuo, el ADN-Y muestra el linaje masculino sólo a lo largo de su línea estrictamente paterna, el ADNmt muestra el linaje de cualquier persona solo a lo largo. También se han empleado estudios de asociación en todo el genoma para dar resultados relevantes a los orígenes genéticos.",
+      "annotations": [
+        {
+          "question": "¿Qué característica tiene el ADN-Y?",
+          "choices": [
+            {
+              "text": "muestra el linaje masculino sólo a lo largo de su línea estrictamente paterna",
+              "start": 347,
+              "end": 424,
+              "type": "correct answer"
+            },
+            {
+              "text": "muestra el linaje de cualquier persona solo a lo largo",
+              "start": 435,
+              "end": 489,
+              "type": "distractor"
+            },
+            {
+              "text": "es una mezcla de toda la ascendencia de un individuo",
+              "start": 284,
+              "end": 336,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Tennessee es el hogar de varias denominaciones protestantes, como la Convención Nacional Bautista (con sede en Nashville); The Church of God in Christ and the Cumberland Presbyterian Church (ambos con sede en Memphis). The Church of God and The Church of God of Prophecy (en inglés). La denominación del Free Will Baptist tiene su sede en Antioquía. Su principal colegio bíblico está en Nashville. La Convención Bautista del Sur mantiene su sede general en Nashville. Las casas editoriales de varias denominaciones se encuentran en Nashville.",
+      "annotations": [
+        {
+          "question": "¿Qué rama tiene su sede en la ciudad de Antioquía?",
+          "choices": [
+            {
+              "text": "Free Will Baptist",
+              "start": 304,
+              "end": 321,
+              "type": "correct answer"
+            },
+            {
+              "text": "Convención Nacional Bautista",
+              "start": 69,
+              "end": 97,
+              "type": "distractor"
+            },
+            {
+              "text": "The Church of God in Christ",
+              "start": 123,
+              "end": 150,
+              "type": "distractor"
+            },
+            {
+              "text": "Cumberland Presbyterian Church",
+              "start": 159,
+              "end": 189,
+              "type": "distractor"
+            },
+            {
+              "text": "Convención Bautista del Sur",
+              "start": 401,
+              "end": 428,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de que los estados bálticos se vieron obligados a aceptar tratados, Stalin volvió su mirada hacia Finlandia, confiando en que la capitulación finlandesa podría lograrse sin grandes esfuerzos. Los soviéticos exigieron territorios en el istmo de Carelia, las islas del Golfo de Finlandia y una base militar cerca de la capital finlandesa Helsinki, que Finlandia rechazó. Los soviéticos organizaron el bombardeo de Mainila y lo utilizaron como pretexto para retirarse del pacto de no agresión. El Ejército Rojo atacó en noviembre de 1939. Al mismo tiempo, Stalin estableció un gobierno títere en la República Democrática de Finlandia. El líder del Distrito Militar de Leningrado, Andréi Zhdánov, encargó una pieza de celebración de Dmitri Shostakóvich, titulada \"Suite sobre temas finlandeses\" para ser interpretada como las bandas de marcha del Ejército Rojo serían desfiladas. Después de que las defensas finlandesas resistieron sorprendentemente durante más de tres meses mientras infligieron duras pérdidas a las fuerzas soviéticas, los soviéticos se establecieron para una paz provisional. Finlandia cedió las zonas del sureste de Carelia (10% del territorio finlandés), lo que resultó en que aproximadamente 422.000 carelios (12% de la población de Finlandia) perdieron sus hogares. El número de víctimas oficiales soviéticos en la guerra superó los 200.000, aunque el primer ministro soviético Nikita Jrushchov más tarde afirmó que las bajas pudieron haber sido de un millón.",
+      "annotations": [
+        {
+          "question": "¿Qué hicieron los soviéticos después de que los finlandeses resistieron por más de tres meses?",
+          "choices": [
+            {
+              "text": "se establecieron para una paz provisional",
+              "start": 1057,
+              "end": 1098,
+              "type": "correct answer"
+            },
+            {
+              "text": "organizaron el bombardeo de Mainila",
+              "start": 392,
+              "end": 427,
+              "type": "distractor"
+            },
+            {
+              "text": "exigieron territorios en el istmo de Carelia",
+              "start": 215,
+              "end": 259,
+              "type": "distractor"
+            },
+            {
+              "text": "establecieron un gobierno títere en la República Democrática de Finlandia",
+              "start": 568,
+              "end": 638,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de años de alto aumento, el desempleo en Portugal ha estado en una tendencia de caída continua desde el tercer trimestre de 2014, disminuyendo de un pico de 17,7% logrado a principios de 2013 a una tasa de 11,9% en el segundo trimestre de 2015. Sin embargo, es alto todavía en comparación con lo que era la tasa normal de desempleo portugués promedio en el pasado. En el segundo trimestre de 2008 la tasa de desempleo fue del 7,3%, pero la tasa aumentó inmediatamente el período siguiente. En diciembre de 2009, el desempleo había superado la marca del 10% a nivel nacional a raíz de los acontecimientos mundiales, en 2010, la tasa era de alrededor del 11% y en 2011 estaba por encima del 12%. [Cita requerida] El primer trimestre de 2013 significó un nuevo récord de desempleo para Portugal, ya que alcanzó el 17,7% - frente al 17% en el trimestre anterior - y el Gobierno predijo una tasa de desempleo del 18,5% en 2014. Sin embargo, en el tercer trimestre del mismo año, ha disminuido sorprendentemente a una tasa del 15,6%. A partir de entonces, la tendencia a reducir el desempleo continuó, disminuyendo a 13,9% en el segundo semestre de 2014 y al 11,9% en el segundo trimestre de 2015.",
+      "annotations": [
+        {
+          "question": "¿Qué tasa fue la tasa de desempleo en el segundo trimestre de 2008?",
+          "choices": [
+            {
+              "text": "7,3%",
+              "start": 434,
+              "end": 438,
+              "type": "correct answer"
+            },
+            {
+              "text": "11%",
+              "start": 661,
+              "end": 664,
+              "type": "distractor"
+            },
+            {
+              "text": "10%",
+              "start": 561,
+              "end": 564,
+              "type": "distractor"
+            },
+            {
+              "text": "17%",
+              "start": 837,
+              "end": 840,
+              "type": "distractor"
+            },
+            {
+              "text": "11,9%",
+              "start": 214,
+              "end": 219,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Lo que hoy es la República Centroafricana ha estado habitada durante milenios; Sin embargo, las fronteras actuales del país fueron establecidas por Francia, que gobernó el país como una colonia a partir de finales del siglo XIX. Después de obtener la independencia de Francia en 1960, la República Centroafricana fue gobernada por una serie de líderes autocráticos; En la década de 1990, los llamados a la democracia llevaron a las primeras elecciones democráticas multipartidistas en 1993. Ange-Félix Patassé se convirtió en presidente, pero más tarde fue destituido por el general François Bozizé en el golpe de Estado de 2003. La Guerra de Bush comenzó en 2004 y, a pesar de un tratado de paz en 2007 y otro en 2011, estalló la lucha entre varias facciones en diciembre de 2012, lo que llevó a la limpieza étnica y religiosa de la minoría musulmana.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedió después de la lucha entre facciones del 2012?",
+          "choices": [
+            {
+              "text": "la limpieza étnica y religiosa de la minoría musulmana",
+              "start": 797,
+              "end": 851,
+              "type": "correct answer"
+            },
+            {
+              "text": "un tratado de paz",
+              "start": 678,
+              "end": 695,
+              "type": "distractor"
+            },
+            {
+              "text": "un golpe de Estado",
+              "start": 601,
+              "end": 620,
+              "type": "distractor"
+            },
+            {
+              "text": "las fronteras actuales del país fueron establecidas por Francia",
+              "start": 92,
+              "end": 155,
+              "type": "distractor"
+            },
+            {
+              "text": "la República Centroafricana fue gobernada por una serie de líderes autocráticos",
+              "start": 285,
+              "end": 364,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

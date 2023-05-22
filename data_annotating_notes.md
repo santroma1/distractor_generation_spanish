@@ -275,15 +275,21 @@ Total 50
 
 # Monday May 22th
 
-Dates and Numbers 0
+Dates and Numbers 6
 
-Names 0
+Names 6
 
-Phrases 0
+Phrases 18
 
-Total 0
+Total 30
 
 ## Comments
+601. Case
+615. Case
+621. "de"
+623. Verbs 
+628. Verbs
+630. Un
 
 
 # Total
