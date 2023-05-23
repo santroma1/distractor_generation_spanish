@@ -273,15 +273,15 @@ Total 50
 594. Cases
 59. 
 
-# Monday May 22th
+# Monday May 22th - Tuesday May 23th
 
-Dates and Numbers 6
+Dates and Numbers 8
 
-Names 6
+Names 11
 
-Phrases 18
+Phrases 31
 
-Total 30
+Total 50
 
 ## Comments
 601. Case
@@ -290,17 +290,31 @@ Total 30
 623. Verbs 
 628. Verbs
 630. Un
+642. Plural
+648. Cases
+
+# Tuesday May 23th
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 0
+
+Total 0
+
+## Comments
 
 
 # Total
 
-Dates and Numbers 76
+Dates and Numbers 84
 
-Names 140
+Names 151
 
-Phrases 385 - 1   
+Phrases 416 - 1   
 
-Total 600
+Total 650
 
 
 # GLOBAL NOTES
