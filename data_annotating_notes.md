@@ -293,18 +293,24 @@ Total 50
 642. Plural
 648. Cases
 
-# Tuesday May 23th
+# Tuesday May 23th - Friday May 26th
 
-Dates and Numbers 0
+Dates and Numbers 4
 
-Names 0
+Names 6
 
-Phrases 0
+Phrases 20
 
-Total 0
+Total 30
 
 ## Comments
-
+653. Case
+662. 
+665. Check 
+667. Conduce 
+670. Check 
+675. Put 
+680. articulo
 
 # Total
 

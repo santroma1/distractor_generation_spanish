@@ -9328,7 +9328,30 @@
               "type": "distractor"
             }
           ]
-        }
+        },
+        {
+            "question": "¿En qué año se probó el Atanasoff-Berry Compute?",
+            "choices": [
+              {
+                "text": "1942",
+                "start": 787,
+                "end": 791,
+                "type": "correct answer"
+              },
+              {
+                "text": "1930",
+                "start": 304,
+                "end": 308,
+                "type": "distractor"
+              },
+              {
+                "text": "1934",
+                "start": 430,
+                "end": 434,
+                "type": "distractor"
+              }
+            ]
+          }
       ]
     },
     {
@@ -21460,40 +21483,69 @@
       {
         "context": "En 1763, la guerra en Europa Central era esencialmente un punto muerto. Federico había retomado la mayor parte de Silesia y Sajonia, pero no la capital de este último, Dresde. Su situación financiera no era grave, pero su reino fue devastado y su ejército severamente debilitado. Su mano de obra había disminuido dramáticamente, y había perdido tantos oficiales y generales efectivos que una nueva ofensiva era quizás imposible. Los subsidios británicos habían sido detenidos por el nuevo Primer Ministro Lord Bute, y el emperador ruso había sido derrocado por su esposa, Catalina, que puso fin a la alianza de Rusia con Prusia y se retiró de la guerra. Austria, sin embargo, como la mayoría de los participantes, se enfrentaba a una grave crisis financiera y tuvo que disminuir el tamaño de su ejército, algo que afectó en gran medida su poder ofensivo. De hecho, después de haber sostenido efectivamente una larga guerra, su administración estaba en desorden. En ese momento, todavía tenía Dresde, la parte sureste de Sajonia, el condado de Glatz y el sur de Silesia, pero la perspectiva de la victoria era escasa sin el apoyo ruso. En 1763 se llegó a un acuerdo de paz en el Tratado de Hubertusburg, poniendo fin a la guerra en Europa central.",
         "annotations": [
-          {
-            "question": "¿Qué trajo el Tratado de Hubertusburg?",
-            "choices": [
-              {
-                "text": "fin a la guerra en Europa central",
-                "start": 1212,
-                "end": 1245,
-                "type": "correct answer"
-              },
-              {
-                "text": "fin a la alianza de Rusia con Prusia",
-                "start": 591,
-                "end": 627,
-                "type": "distractor"
-              },
-              {
-                "text": "subsidios británicos",
-                "start": 433,
-                "end": 453,
-                "type": "distractor"
-              },
-              {
-                "text": "una grave crisis financiera",
-                "start": 730,
-                "end": 757,
-                "type": "distractor"
-              },
-              {
-                "text": "el apoyo ruso",
-                "start": 1120,
-                "end": 1133,
-                "type": "distractor"
-              }
-            ]
+            {
+                "question": "¿A qué se enfrentaba Austria al momento de la guerra?",
+                "choices": [
+                  {
+                    "text": "una grave crisis financiera",
+                    "start": 730,
+                    "end": 757,
+                    "type": "correct answer"
+                  },
+                  {
+                    "text": "su mano de obra había disminuido dramáticamente",
+                    "start": 280,
+                    "end": 327,
+                    "type": "distractor"
+                  },
+                  {
+                    "text": "había perdido tantos oficiales y generales efectivos",
+                    "start": 331,
+                    "end": 383,
+                    "type": "distractor"
+                  },
+                  {
+                    "text": "un acuerdo de paz en el Tratado de Hubertusburg",
+                    "start": 1154,
+                    "end": 1201,
+                    "type": "distractor"
+                  }
+                ]
+            },
+            {
+                "question": "¿Qué trajo el Tratado de Hubertusburg?",
+                "choices": [
+                {
+                    "text": "fin a la guerra en Europa central",
+                    "start": 1212,
+                    "end": 1245,
+                    "type": "correct answer"
+                },
+                {
+                    "text": "fin a la alianza de Rusia con Prusia",
+                    "start": 591,
+                    "end": 627,
+                    "type": "distractor"
+                },
+                {
+                    "text": "subsidios británicos",
+                    "start": 433,
+                    "end": 453,
+                    "type": "distractor"
+                },
+                {
+                    "text": "una grave crisis financiera",
+                    "start": 730,
+                    "end": 757,
+                    "type": "distractor"
+                },
+                {
+                    "text": "el apoyo ruso",
+                    "start": 1120,
+                    "end": 1133,
+                    "type": "distractor"
+                }
+              ]
           }
         ]
       },
@@ -22713,6 +22765,946 @@
               "text": "ventanas de vidrio de placa",
               "start": 466,
               "end": 493,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La terapia fágica es otra opción que se está buscando para el tratamiento de cepas de bacterias resistentes. La forma en que los investigadores están haciendo esto es infectando bacterias patógenas con sus propios virus, más específicamente bacteriófagos. Los bacteriófagos, también conocidos simplemente como fagos, son precisamente virus bacterianos que infectan a las bacterias al interrumpir los ciclos líticos de las bacterias patógenas. Al interrumpir los ciclos líticos de la bacteria, los fagos destruyen su metabolismo, lo que finalmente resulta en la muerte de la célula. Los fagos insertarán su ADN en la bacteria, permitiendo que su ADN sea transcrito. Una vez que su ADN se transcriba la célula procederá a hacer nuevos fagos y tan pronto como estén listos para ser liberados, la célula se licuará. Una de las preocupaciones sobre el uso de fagos para combatir patógenos es que los fagos infectarán bacterias \"buenas\", o las bacterias que son importantes en la función cotidiana de los seres humanos. Sin embargo, los estudios han demostrado que los fagos son muy específicos cuando se dirigen a bacterias, lo que hace que los investigadores confíen en que la terapia de bacteriófagos es la ruta definitiva para derrotar a las bacterias resistentes a los antibióticos.",
+      "annotations": [
+        {
+          "question": "¿Qué son los bacteriófagos?",
+          "choices": [
+            {
+              "text": "las bacterias resistentes a los antibióticos",
+              "start": 1236,
+              "end": 1280,
+              "type": "distractor"
+            },
+            {
+              "text": "las bacterias que son importantes en la función cotidiana de los seres humanos",
+              "start": 934,
+              "end": 1012,
+              "type": "distractor"
+            },
+            {
+              "text": "los virus bacterianos que infectan a las bacterias al interrumpir los ciclos líticos de las bacterias patógenas",
+              "start": 334,
+              "end": 441,
+              "type": "correct answer"
+            },
+            {
+              "text": "el tratamiento de cepas de bacterias resistentes",
+              "start": 59,
+              "end": 107,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las relaciones entre la Rus y los bizantinos se hicieron más complejas después de que Oleg tomó el control de Kiev, reflejando las preocupaciones comerciales, culturales y militares. La riqueza y los ingresos de la Rus dependían en gran medida del comercio con Bizancio. Constantino Porfirogéneta describió el curso anual de los príncipes de Kiev, recogiendo tributo de tribus clientes, reuniendo el producto en una flotilla de cientos de barcos, llevándolos por el Dniéper hasta el delta del Danubio. En su viaje de regreso llevaban telas de seda, especias, vino y fruta. La importancia de esta relación comercial llevó a la acción militar cuando surgieron disputas. La Crónica de Néstor informa que los rus atacaron Constantinopla de nuevo en 907, probablemente para asegurar el acceso al comercio. La Crónica glorifica la destreza militar y astucia de Oleg, un relato imbuido de detalles legendarios. Fuentes bizantinas no mencionan el ataque, pero un par de tratados en 907 y 911 establecieron un acuerdo comercial con la Rus, los términos sugieren presión sobre los bizantinos, que concedieron a la Rus 'los cuarteles y suministros para sus comerciantes.",
+      "annotations": [
+        {
+          "question": "¿Qué evento hizo las relaciones entre la Rus y los bizantinos más complejas que reflejó preocupaciones comerciales?",
+          "choices": [
+            {
+              "text": "Oleg tomó el control de Kiev",
+              "start": 86,
+              "end": 114,
+              "type": "correct answer"
+            },
+            {
+              "text": "los rus atacaron Constantinopla",
+              "start": 701,
+              "end": 732,
+              "type": "distractor"
+            },
+            {
+              "text": "un par de tratados en 907 y 911 establecieron un acuerdo comercial con la Rus",
+              "start": 952,
+              "end": 1029,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A partir de la transición entre el período Paleolítico Medio y Superior, hace entre 80.000 y 70.000 años, algunas bandas de cazadores-recolectores comenzaron a especializarse, concentrándose en la caza de una selección menor de alimentos. Esta especialización del trabajo también implicó la creación de herramientas especializadas, como redes de pesca, ganchos y arpones óseos. La transición al Neolítico posterior se define principalmente por el desarrollo sin precedentes de las prácticas agrícolas nacientes. La agricultura se originó y se extendió en varias áreas diferentes, incluyendo Oriente Medio, Asia, Mesoamérica, y los Andes a partir de hace 12.000 años.",
+      "annotations": [
+        {
+          "question": "¿Qué práctica empezó hace alrededor de 12.000 años?",
+          "choices": [
+            {
+              "text": "la caza",
+              "start": 194,
+              "end": 201,
+              "type": "distractor"
+            },
+            {
+              "text": "la creación de herramientas especializadas",
+              "start": 288,
+              "end": 330,
+              "type": "distractor"
+            },
+            {
+              "text": "la agricultura",
+              "start": 512,
+              "end": 526,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En un pueblo tradicional, el monasterio es el centro de la vida cultural. Los monjes son venerados y apoyados por los laicos. Una ceremonia de noviciado llamada shinbyu es el evento más importante para un niño, durante el cual entra en el monasterio por un corto tiempo. Todos los niños varones en las familias budistas son alentados a ser novicios (principiantes para el budismo) antes de los veinte años y ser monje después de los veinte. Las niñas tienen ceremonias de perforación de orejas (....) al mismo tiempo. La cultura birmana es más evidente en las aldeas donde se celebran festivales locales durante todo el año, siendo el más importante el festival pagoda. Muchas aldeas tienen un nat guardián, y la superstición y los tabúes son comunes.",
+      "annotations": [
+        {
+          "question": "¿En qué es alentado que los jóvenes mayores de veinte se conviertan?",
+          "choices": [
+            {
+              "text": "monje",
+              "start": 412,
+              "end": 417,
+              "type": "correct answer"
+            },
+            {
+              "text": "novicio",
+              "start": 340,
+              "end": 348,
+              "type": "distractor"
+            },
+            {
+              "text": "nat guardián",
+              "start": 694,
+              "end": 706,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 287 a. C., la condición económica del plebeyo medio se había vuelto pobre. El problema parece haberse centrado en el endeudamiento generalizado. Los plebeyos exigieron ayuda, pero los senadores se negaron a abordar su situación. El resultado fue la secesión plebeya final. Los plebeyos se separaron en la colina de Janículo. Para poner fin a la secesión, se nombró a un dictador. El dictador aprobó una ley (la Lex Hortensia), que puso fin al requisito de que los senadores patricios estuvieran de acuerdo antes de que cualquier proyecto de ley pudiera ser considerado por el Consejo Plebeyo. Esta no fue la primera ley en exigir que un acto del Consejo Plebeyo tuviera toda la fuerza de la ley. El Concilio de Plebeya adquirió este poder durante una modificación de la ley valeriana original en 449 a. La importancia de esta ley era en el hecho de que robaba a los patricios su arma final sobre los plebeyos. El resultado fue que el control sobre el Estado cayó, no sobre los hombros de los votantes, sino hacia la nueva nobleza plebeya.",
+      "annotations": [
+        {
+          "question": "¿Cuál fue el efecto de la Lex Hortensia?",
+          "choices": [
+            {
+              "text": "puso fin al requisito de que los senadores patricios estuvieran de acuerdo antes de que cualquier proyecto de ley pudiera ser considerado por el Consejo Plebeyo",
+              "start": 434,
+              "end": 594,
+              "type": "correct answer"
+            },
+            {
+              "text": "fue que el control sobre el Estado cayó, no sobre los hombros de los votantes, sino hacia la nueva nobleza plebeya",
+              "start": 926,
+              "end": 1040,
+              "type": "distractor"
+            },
+            {
+              "text": "la secesión plebeya final",
+              "start": 249,
+              "end": 274,
+              "type": "distractor"
+            },
+            {
+              "text": "el endeudamiento generalizado",
+              "start": 117,
+              "end": 146,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las agencias de justicia criminal en Inglaterra y Gales utilizan al menos dos sistemas de clasificación racial / étnica separados cuando se informa de delitos, a partir de 2010. Uno es el sistema utilizado en el censo de 2001 cuando los individuos se identifican como pertenecientes a un grupo étnico particular: W1 (White-British), W2 (White-Irish), W9 (Any other white background). M1 (Blanco y Negro Caribe), M2 (Blanco y Negro Africano), M3 (Blanco y Asiático), M9 (Cualquier otro fondo mixto); A1 (Asia-India), A2 (Asia-Pakistán), A3 (Asia-Bangladesh), A9 (Cualquier otro fondo asiático); B1 (Caribe Negro), B2 (África Negra), B3 (Cualquier otro fondo negro); O1 (Chino), O9 (Cualquier otro). La otra son las categorías utilizadas por la policía cuando identifican visualmente a alguien como perteneciente a un grupo étnico. White, White - South European (IC2), Black (IC3), Asian (IC4), Chinese, Unknown, South East Asian (IC4) (en inglés) IC significa \"Código de Identificación\"; estos elementos también se conocen como clasificaciones Phoenix. Los oficiales son instruidos para \"grabar la respuesta que se ha dado\" incluso si la persona da una respuesta que puede ser incorrecta. Su propia percepción del trasfondo étnico de la persona se registra por separado. En septiembre de 2007, la Office for National Statistics (ONS) puso en duda la comparabilidad de la información registrada por los oficiales, como parte de su revisión de datos de calidad; Un problema citado fue el número de informes que contenían una etnia de \"Not Stated\".",
+      "annotations": [
+        {
+          "question": "¿Qué denominación pertenece al grupo étnico Blanco y Negro Africano?",
+          "choices": [
+            {
+              "text": "M2",
+              "start": 412,
+              "end": 414,
+              "type": "correct answer"
+            },
+            {
+              "text": "M1",
+              "start": 384,
+              "end": 386,
+              "type": "distractor"
+            },
+            {
+              "text": "A1",
+              "start": 499,
+              "end": 501,
+              "type": "distractor"
+            },
+            {
+              "text": "A2",
+              "start": 516,
+              "end": 518,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La calidad de un vacío parcial se refiere a lo cerca que se acerca a un vacío perfecto. Otras cosas iguales, menor presión de gas significa mayor calidad de vacío. Por ejemplo, una aspiradora típica produce suficiente succión para reducir la presión de aire en alrededor del 20%. Son posibles vacíos de mayor calidad. Las cámaras de vacío ultra altas, comunes en química, física e ingeniería, operan por debajo de un billón (10 − 12) de la presión atmosférica (100 NPA), y pueden alcanzar alrededor de 100 partículas / cm3. El espacio exterior es incluso un vacío de mayor calidad, con el equivalente de unos pocos átomos de hidrógeno por metro cúbico en promedio. De acuerdo con la comprensión moderna, incluso si toda la materia pudiera eliminarse de un volumen, todavía no estaría \"vacía\" debido a fluctuaciones del vacío, energía oscura, rayos gamma transitorios, rayos cósmicos, neutrinos y otros fenómenos en física cuántica. En el electromagnetismo del siglo XIX, se pensaba que el vacío estaba lleno de un medio llamado éter. En la física de partículas moderna, el estado de vacío se considera el estado fundamental de la materia.",
+      "annotations": [
+        {
+          "question": "¿Qué se necesita en menor cantidad para mejor calidad de vacío?",
+          "choices": [
+            {
+              "text": "succión",
+              "start": 218,
+              "end": 225,
+              "type": "distractor"
+            },
+            {
+              "text": "presión de gas",
+              "start": 115,
+              "end": 129,
+              "type": "correct answer"
+            },
+            {
+              "text": "volumen",
+              "start": 756,
+              "end": 763,
+              "type": "distractor"
+            },
+            {
+              "text": "rayos gamma",
+              "start": 842,
+              "end": 853,
+              "type": "distractor"
+            },
+            {
+              "text": "neutrinos",
+              "start": 884,
+              "end": 893,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Premier League vende sus derechos de televisión de forma colectiva. Esto contrasta con algunas otras Ligas Europeas, incluyendo La Liga, en la que cada club vende sus derechos individualmente, lo que lleva a una participación mucho mayor del ingreso total que va a los primeros clubes. El dinero se divide en tres partes: La mitad se divide por igual entre los clubes; Un cuarto se otorga en base al mérito basado en la posición final de la liga, el club superior recibe veinte veces más que el club inferior, e iguales pasos a lo largo de la tabla; El último trimestre se paga como honorarios de instalaciones para los juegos que se muestran en la televisión, con los mejores clubes generalmente recibiendo las acciones más grandes de esto. Los ingresos de los derechos de ultramar se dividen por igual entre los veinte clubes.",
+      "annotations": [
+        {
+          "question": "¿Qué se hace con la mayor de las 3 partes en las que se divide el dinero?",
+          "choices": [
+            {
+              "text": "se divide por igual entre los clubes",
+              "start": 334,
+              "end": 370,
+              "type": "correct answer"
+            },
+            {
+              "text": "se otorga en base al mérito basado en la posición final de la liga",
+              "start": 382,
+              "end": 448,
+              "type": "distractor"
+            },
+            {
+              "text": "se paga como honorarios de instalaciones para los juegos que se muestran en la televisión",
+              "start": 573,
+              "end": 662,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Desde 1718, el transporte a las colonias americanas había sido una pena por varios delitos criminales en Gran Bretaña, con aproximadamente mil convictos transportados por año a través del Atlántico. Obligado a encontrar una ubicación alternativa después de la pérdida de las 13 colonias en 1783, el gobierno británico se dirigió a las tierras recién descubiertas de Australia. La costa occidental de Australia había sido descubierta para los europeos por el explorador holandés Willem Jansz en 1606 y fue nombrada Nueva Holanda por la Compañía Holandesa de las Indias Orientales, pero no hubo ningún intento de colonizarla. En 1770 James Cook descubrió la costa oriental de Australia durante un viaje científico al océano Pacífico Sur, reclamó el continente para Gran Bretaña, y la llamó Nueva Gales del Sur. En 1778, Joseph Banks, botánico de Cook en el viaje, presentó pruebas al gobierno sobre la idoneidad de Botany Bay para el establecimiento de un asentamiento penal, y en 1787 el primer envío de convictos zarpó, llegando en 1788. Gran Bretaña continuó transportando convictos a Nueva Gales del Sur hasta 1840. Las colonias australianas se convirtieron en exportadores rentables de lana y oro, principalmente debido a las fiebres del oro en la colonia de Victoria, haciendo de su capital Melbourne la ciudad más rica del mundo y la ciudad más grande después de Londres.",
+      "annotations": [
+        {
+          "question": "¿Por qué razón se vio obligado el gobierno británico a encontrar una nueva ubicación en las nuevas tierras australianas?",
+          "choices": [
+            {
+              "text": "la pérdida de las 13 colonias",
+              "start": 257,
+              "end": 286,
+              "type": "correct answer"
+            },
+            {
+              "text": "varios delitos criminales en Gran Bretaña",
+              "start": 76,
+              "end": 117,
+              "type": "distractor"
+            },
+            {
+              "text": "pruebas al gobierno sobre la idoneidad de Botany Bay para el establecimiento de un asentamiento penal",
+              "start": 871,
+              "end": 972,
+              "type": "distractor"
+            },
+            {
+              "text": "las fiebres del oro en la colonia de Victoria",
+              "start": 1225,
+              "end": 1270,
+              "type": "distractor"
+            },
+            {
+              "text": "un viaje científico al océano Pacífico Sur",
+              "start": 692,
+              "end": 734,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El adulto contemporáneo tiene sus raíces en el formato de escucha fácil de 1960, que adoptó un 70-80% instrumental - 20-30% de mezcla vocal. Unos pocos ofrecieron un 90% de instrumentales, y un puñado fueron totalmente instrumentales. El formato de escucha fácil, como fue conocido por primera vez, nació de un deseo de algunas estaciones de radio a finales de 1950 y principios de 1960 de seguir tocando canciones de éxito actuales, pero se distinguen de ser calificados como estaciones de \"rock and roll\". Billboard publicó por primera vez la lista Easy Listening el 17 de julio de 1961, con 20 canciones; El primer número uno fue \"Boll Weevil Song\" de Brook Benton. El gráfico se describió a sí mismo como \"no demasiado lejos en cualquier dirección\".",
+      "annotations": [
+        {
+          "question": "¿En qué año se publicó por primera vez la lista Easy Listening?",
+          "choices": [
+            {
+              "text": "1961",
+              "start": 584,
+              "end": 588,
+              "type": "correct answer"
+            },
+            {
+              "text": "1950",
+              "start": 361,
+              "end": 365,
+              "type": "distractor"
+            },
+            {
+              "text": "1960",
+              "start": 382,
+              "end": 386,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El tórax es un tagma compuesto por tres secciones, el protórax, mesotórax y el metatórax. El segmento anterior, más cercano a la cabeza, es el protórax, con las características principales siendo el primer par de patas y el pronoto. El segmento medio es el mesotórax, con las características principales siendo el segundo par de patas y las alas anteriores. El tercer y más posterior segmento es el metathorax, que cuenta con el tercer par de patas y las alas posteriores. Cada segmento es dilineado por una sutura intersegmental. Cada segmento tiene cuatro regiones básicas. La superficie dorsal se llama tergum (o notum) para distinguirla de la terga abdominal. Las dos regiones laterales se llaman pleura (singular: Pleuron) y el aspecto ventral se llama esternón. A su vez, el notum del protórax se llama pronoto, el notum para el mesotórax se llama mesonoto y el notum para el metatorax se llama metanotum. Continuando con esta lógica, se utilizan la mesopleura y la metapleura, así como el mesosterno y el metasternum.",
+      "annotations": [
+        {
+          "question": "¿Qué parte del tórax contiene el pronoto?",
+          "choices": [
+            {
+              "text": "protórax",
+              "start": 143,
+              "end": 151,
+              "type": "correct answer"
+            },
+            {
+              "text": "mesotórax",
+              "start": 257,
+              "end": 266,
+              "type": "distractor"
+            },
+            {
+              "text": "metathorax",
+              "start": 399,
+              "end": 409,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La bebida alcohólica más popular en Suiza es el vino. Suiza es notable por la variedad de uvas cultivadas debido a las grandes variaciones en terroirs, con sus mezclas específicas de suelo, aire, altitud y luz. El vino suizo se produce principalmente en Valais, Vaud (Lavaux), Ginebra y Ticino, con una pequeña mayoría de vinos blancos. Los viñedos se han cultivado en Suiza desde la época romana, aunque se pueden encontrar ciertos rastros de un origen más antiguo. Las variedades más difundidas son la Chasselas (llamada Fendant en Valais) y la pinot noir. La merlot es la variedad principal producida en ticino.",
+      "annotations": [
+        {
+          "question": "¿Cuál es la variedad principal en Ticino?",
+          "choices": [
+            {
+              "text": "la merlot",
+              "start": 559,
+              "end": 568,
+              "type": "correct answer"
+            },
+            {
+              "text": "la pinot noir",
+              "start": 544,
+              "end": 557,
+              "type": "distractor"
+            },
+            {
+              "text": "la Chasselas",
+              "start": 501,
+              "end": 513,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El 25 de octubre de 1836, comenzó la construcción del ferrocarril de Wilmington y Raleigh para conectar la ciudad portuaria de Wilmington con la capital del estado de Raleigh. En 1849 el ferrocarril de Carolina del Norte fue creado por ley de la legislatura para extender ese ferrocarril al oeste de Greensboro, High Point, y Charlotte. Durante la Guerra Civil, el tramo Wilmington-to-Raleigh del ferrocarril sería vital para el esfuerzo de guerra confederado; Los suministros enviados a Wilmington serían trasladados por ferrocarril a través de Raleigh a la capital confederada de Richmond, Virginia.",
+      "annotations": [
+        {
+          "question": "¿Con qué ciudad se conectaría Raleigh que posteriormente sería vital en la Guerra Civil para el esfuerzo confederado?",
+          "choices": [
+            {
+              "text": "Richmond",
+              "start": 582,
+              "end": 590,
+              "type": "distractor"
+            },
+            {
+              "text": "Charlotte",
+              "start": 326,
+              "end": 335,
+              "type": "distractor"
+            },
+            {
+              "text": "Greensboro",
+              "start": 300,
+              "end": 310,
+              "type": "distractor"
+            },
+            {
+              "text": "Wilmington",
+              "start": 69,
+              "end": 79,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Con la continua controversia que había rodeado el servicio militar de George W. Bush desde las elecciones presidenciales de 2000 (cuando se le acusó de haber usado la influencia política de su padre para entrar en la Guardia Nacional Aérea de Texas). A medida que se desarrolló la campaña presidencial de 2004, aproximadamente 250 miembros de un grupo llamado Swift Boat Veterans for Truth (SBVT, más tarde renombrado Swift Vets and POWs for Truth) se opusieron a la campaña de Kerry. El grupo celebró conferencias de prensa, hizo anuncios y respaldó un libro que cuestionaba el historial de servicio de Kerry y sus premios militares. El grupo incluía a varios miembros de la unidad de Kerry, como Larry Thurlow, que comandaba un bote rápido junto al de Kerry, y Stephen Gardner, que sirvió en el barco de Kerry. La campaña inspiró al peyorativo político ampliamente utilizado \"swiftboating\", para describir un ataque político injusto o falso. La mayoría de los ex compañeros de Kerry han declarado que las acusaciones del SBVT son falsas.",
+      "annotations": [
+        {
+          "question": "¿A qué se refiere el término \"swiftboating\" en el contexto político?",
+          "choices": [
+            {
+              "text": "un ataque político injusto o falso",
+              "start": 908,
+              "end": 942,
+              "type": "correct answer"
+            },
+            {
+              "text": "el servicio militar",
+              "start": 50,
+              "end": 66,
+              "type": "distractor"
+            },
+            {
+              "text": "las elecciones presidenciales",
+              "start": 91,
+              "end": 120,
+              "type": "distractor"
+            },
+            {
+              "text": "la influencia política",
+              "start": 164,
+              "end": 186,
+              "type": "distractor"
+            },
+            {
+              "text": "las acusaciones del SBVT",
+              "start": 1003,
+              "end": 1027,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Mientras que París tiene algunos de los barrios más ricos de Francia, también tiene algunos de los más pobres, sobre todo en el lado oriental de la ciudad. En 2012, el 14% de los hogares en la ciudad ganaban menos de 977 €al mes, la línea de pobreza oficial. El 25% de los residentes en el distrito 19 vivían por debajo del umbral de pobreza. 24% en el 18, 22% en el 20 y 18% en el 10. En el barrio más rico de la ciudad, el séptimo distrito, el 7 por ciento vivía por debajo de la línea de pobreza; 8% en el VI Distrito. Y el 9% en el XVI Distrito.",
+      "annotations": [
+        {
+          "question": "¿Qué porcentaje de personas del distrito 19 viven debajo del límite de pobreza?",
+          "choices": [
+            {
+              "text": "25%",
+              "start": 262,
+              "end": 265,
+              "type": "correct answer"
+            },
+            {
+              "text": "24%",
+              "start": 343,
+              "end": 346,
+              "type": "distractor"
+            },
+            {
+              "text": "18%",
+              "start": 372,
+              "end": 375,
+              "type": "distractor"
+            },
+            {
+              "text": "22%",
+              "start": 357,
+              "end": 360,
+              "type": "distractor"
+            },
+            {
+              "text": "14%",
+              "start": 168,
+              "end": 171,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Entre las principales contribuciones de Peirce estaba colocar el razonamiento inductivo y el razonamiento deductivo en un modo complementario más que competitivo, el último de los cuales había sido la tendencia principal entre los educados desde que David Hume escribió un siglo antes. A esto, Peirce añadió el concepto de razonamiento abductivo. Las tres formas combinadas de razonamiento sirven como base conceptual primaria para el método científico empírico de hoy. El enfoque de Peirce \"presupone que (1) los objetos del conocimiento son cosas reales, (2) los caracteres (propiedades) de las cosas reales no dependen de nuestras percepciones de ellas, y (3) cosas estarán de acuerdo. Según la doctrina fallibilista de Peirce, las conclusiones de la ciencia son siempre tentativas. La racionalidad del método científico no depende de la certeza de sus conclusiones, sino de su carácter autocorrectivo: Mediante la aplicación continua del método la ciencia puede detectar y corregir sus propios errores, y por lo tanto, eventualmente conducir al descubrimiento de verdad.",
+      "annotations": [
+        {
+          "question": "¿Qué dice la doctrina fallibilista de Peirce acerca de las conclusiones de la ciencia?",
+          "choices": [
+            {
+              "text": "son siempre tentativas",
+              "start": 762,
+              "end": 784,
+              "type": "correct answer"
+            },
+            {
+              "text": "no dependen de nuestras percepciones de ellas",
+              "start": 610,
+              "end": 655,
+              "type": "distractor"
+            },
+            {
+              "text": "son cosas reales",
+              "start": 539,
+              "end": 555,
+              "type": "distractor"
+            },
+            {
+              "text": "conducen al descubrimiento de verdad",
+              "start": 1037,
+              "end": 1073,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En un sentido étnico, un judío asquenazí es uno cuya ascendencia se puede remontar a los judíos que se establecieron en Europa Central. Durante aproximadamente mil años, los asquenazíes fueron una población reproductivamente aislada en Europa, a pesar de vivir en muchos países, con poca afluencia o salida de migración, conversión o matrimonios mixtos con otros grupos, incluyendo otros judíos. Los genetistas humanos han argumentado que las variaciones genéticas han sido identificadas que muestran altas frecuencias entre los judíos asquenazíes, pero no en la población europea general, ya sean para marcadores patrilineales (haplotipos). Sin embargo, un estudio de 2013 de ADN mitocondrial Ashkenazi, de la Universidad de Huddersfield en Inglaterra, sugiere que al menos el 80 por ciento de los linajes maternos Ashkenazi derivan de la asimilación. Desde mediados del siglo XX, muchos judíos asquenazíes se han casado, tanto con miembros de otras comunidades judías como con personas de otras naciones y religiones.",
+      "annotations": [
+        {
+          "question": "¿Qué se encontró en el estudio de 2013 de ADN mitocondrial Ashkenazi?",
+          "choices": [
+            {
+              "text": "al menos el 80 por ciento de los linajes maternos Ashkenazi derivan de la asimilación",
+              "start": 766,
+              "end": 851,
+              "type": "correct answer"
+            },
+            {
+              "text": "las variaciones genéticas han sido identificadas que muestran altas frecuencias entre los judíos asquenazíes",
+              "start": 439,
+              "end": 547,
+              "type": "distractor"
+            },
+            {
+              "text": "un judío asquenazí es uno cuya ascendencia se puede remontar a los judíos que se establecieron en Europa Central",
+              "start": 22,
+              "end": 134,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En enero de 1957, Estados Unidos adoptó la Doctrina Eisenhower y se comprometió a prevenir la propagación del comunismo y sus agentes percibidos en Oriente Medio. Aunque Nasser era un opositor del comunismo en la región, su promoción del panarabismo fue vista como una amenaza por los estados pro-occidentales en la región. Eisenhower intentó aislar a Nasser y reducir su influencia regional tratando de transformar al rey Saud en un contrapeso. También en enero, el elegido primer ministro jordano y partidario de Nasser, Sulayman al-Nabulsi llevó a Jordania a un pacto militar con Egipto, Siria y Arabia Saudita.",
+      "annotations": [
+        {
+          "question": "¿De qué país era primer ministro Sulayman al-Nabulsi?",
+          "choices": [
+            {
+              "text": "Jordania",
+              "start": 551,
+              "end": 559,
+              "type": "correct answer"
+            },
+            {
+              "text": "Egipto",
+              "start": 583,
+              "end": 589,
+              "type": "distractor"
+            },
+            {
+              "text": "Siria",
+              "start": 591,
+              "end": 596,
+              "type": "distractor"
+            },
+            {
+              "text": "Arabia Saudita",
+              "start": 599,
+              "end": 613,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Como Europa occidental fue testigo de la formación de nuevos reinos, el Imperio romano de Oriente permaneció intacto y experimentó un renacimiento económico que duró hasta principios del siglo VII. Hubo menos invasiones de la sección oriental del imperio; La mayoría ocurrió en los Balcanes. La paz con Persia, el enemigo tradicional de Roma, duró la mayor parte del siglo V. El Imperio Oriental estaba marcado por relaciones más estrechas entre el estado político y la Iglesia cristiana, con asuntos doctrinales asumiendo una importancia en la política oriental que no tenían en Europa occidental. Los desarrollos legales incluyeron la codificación del derecho romano. El primer esfuerzo, el Código Teodosiano, se completó en 438. Bajo el emperador Justiniano (r. 527-565), tuvo lugar otra recopilación - el Corpus Juris Civilis. Justiniano también supervisó la construcción de la Santa Sofía en Constantinopla y la reconquista del norte de África de los vándalos e Italia de los ostrogodos, bajo Belisario (m. 565). La conquista de Italia no estaba completa, ya que un brote mortal de peste en 542 llevó al resto del reinado de Justiniano a concentrarse en medidas defensivas en lugar de otras conquistas. A la muerte del emperador, los bizantinos tenían el control de la mayor parte de Italia, el norte de África y un pequeño punto de apoyo en el sur de España. Las reconquistas de Justiniano han sido criticadas por ampliar su reino y preparar el escenario para las conquistas musulmanas, pero muchas de las dificultades que enfrentan los sucesores de Justiniano se debieron no sólo a la sobretributación del imperio.",
+      "annotations": [
+        {
+          "question": "¿Cuál fue uno de los logros notables del emperador Justiniano?",
+          "choices": [
+            {
+              "text": "la construcción de la Santa Sofía en Constantinopla",
+              "start": 860,
+              "end": 911,
+              "type": "correct answer"
+            },
+            {
+              "text": "el Código Teodosiano",
+              "start": 690,
+              "end": 710,
+              "type": "distractor"
+            },
+            {
+              "text": "la paz con Persia",
+              "start": 292,
+              "end": 309,
+              "type": "distractor"
+            },
+            {
+              "text": "relaciones más estrechas entre el estado político y la Iglesia cristiana",
+              "start": 415,
+              "end": 487,
+              "type": "distractor"
+            },
+            {
+              "text": "las conquistas musulmanas",
+              "start": 1466,
+              "end": 1491,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "IBM fue una de las primeras corporaciones en proporcionar seguro de vida grupal (1934), beneficios de supervivencia (1935) y vacaciones pagadas (1937). En 1932 IBM creó un Departamento de Educación para supervisar la formación de los empleados, que supervisó la finalización de la Escuela IBM en Endicott en 1933. En 1935, la revista de empleados Think fue creada. También ese año, IBM celebró su primera clase de formación para profesionales de servicios de sistemas femeninos. En 1942, IBM lanzó un programa para entrenar y emplear personas discapacitadas en Topeka, Kansas. Las clases del año siguiente comenzaron en Nueva York, y pronto se pidió a la compañía que se uniera al Comité del Presidente para el Empleo de los Discapacitados. En 1946, la compañía contrató a su primer vendedor negro, 18 años antes de la Ley de Derechos Civiles de 1964. En 1947, IBM anunció un plan de admisión permanente y total para los empleados. Una pensión de derechos creados fue añadida al plan de retiro de IBM. Durante la transformación de administración de IBM en la década de 1990 se hicieron revisiones a estos planes de pensiones para reducir los pasivos de pensión de IBM.",
+      "annotations": [
+        {
+          "question": "¿Qué acción se hizo en IBM en 1942 que ayudaba a los empleados?",
+          "choices": [
+            {
+              "text": "fue una de las primeras corporaciones en proporcionar seguro de vida grupal",
+              "start": 4,
+              "end": 79,
+              "type": "distractor"
+            },
+            {
+              "text": "creó un Departamento de Educación para supervisar la formación de los empleados, que supervisó la finalización de la Escuela IBM en Endicott",
+              "start": 164,
+              "end": 304,
+              "type": "distractor"
+            },
+            {
+              "text": "celebró su primera clase de formación para profesionales de servicios de sistemas femeninos",
+              "start": 386,
+              "end": 477,
+              "type": "distractor"
+            },
+            {
+              "text": "lanzó un programa para entrenar y emplear personas discapacitadas",
+              "start": 492,
+              "end": 557,
+              "type": "correct answer"
+            },
+            {
+              "text": "la compañía contrató a su primer vendedor negro, 18 años antes de la Ley de Derechos Civiles",
+              "start": 750,
+              "end": 842,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Twilight Princess tiene lugar varios siglos después de Ocarina of Time y Majora 's Mask, y comienza con un joven llamado Link que trabaja como peón en Ordon Village. Un día, el pueblo es atacado por Bulblins, que se llevan a los hijos de la aldea con Link en persecución antes de que se encuentre con una pared de Crepúsculo. Una Bestia Sombra lo arrastra más allá de la pared hacia el Reino de Crepúsculo, donde se transforma en un lobo y encarcelado. Link pronto es liberado por un impacto llamado Crepúsculo Midna, que no le gusta Link, pero acepta ayudarlo si la obedece incondicionalmente. Ella le guía a la Princesa Zelda. Zelda explica que Zant, el Rey del Crepúsculo, ha robado la luz de tres de los cuatro Espíritus de la Luz y conquistó Hyrule. Con el fin de salvar a Hyrule, Link debe primero restaurar los Espíritus de la Luz al entrar en las áreas cubiertas de las luchas y, como lobo, recuperar la luz perdida de los Espíritus. Debe hacer esto recogiendo las múltiples \"Lágrimas de la Luz\"; Una vez que todas las Lágrimas de Luz se recogen para un área, restaura el Espíritu de la Luz de esa zona. Mientras los restaura, los Espíritus de la Luz regresan a Link a su forma hiliana.",
+      "annotations": [
+        {
+          "question": "¿Qué sucede una vez que Link recolecta todas las \"Lágrimas de la Luz\" para un área en Twilight Princess?",
+          "choices": [
+            {
+              "text": "restaura el Espíritu de la Luz de esa zona",
+              "start": 1068,
+              "end": 1110,
+              "type": "correct answer"
+            },
+            {
+              "text": "es liberado por un impacto llamado Crepúsculo Midna",
+              "start": 465,
+              "end": 516,
+              "type": "distractor"
+            },
+            {
+              "text": "se transforma en un lobo",
+              "start": 413,
+              "end": 437,
+              "type": "distractor"
+            },
+            {
+              "text": "se llevan a los hijos de la aldea",
+              "start": 213,
+              "end": 246,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El primer libro estonio existente es una traducción bilingüe germano-estonia del catecismo luterano de S. Wanradt y J. Koell que data de 1535, durante el período de la Reforma Protestante. Un libro de gramática estonio para ser utilizado por los sacerdotes fue impreso en alemán en 1637. El Nuevo Testamento fue traducido al estonio meridional en 1686 (estonio septentrional, 1715). Las dos lenguas fueron unidas en base al estonio septentrional por Anton Thorley Helle.",
+      "annotations": [
+        {
+          "question": "¿En qué año se tradujo el Nuevo Testamento a estonio meridional?",
+          "choices": [
+            {
+              "text": "1686",
+              "start": 347,
+              "end": 351,
+              "type": "correct answer"
+            },
+            {
+              "text": "1715",
+              "start": 376,
+              "end": 380,
+              "type": "distractor"
+            },
+            {
+              "text": "1637",
+              "start": 282,
+              "end": 286,
+              "type": "distractor"
+            },
+            {
+              "text": "1535",
+              "start": 137,
+              "end": 141,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Criticó la decisión de Forsyth de registrar una conversación con Harry como un abuso de confidencialidad entre maestros y estudiantes y dijo: \"Está claro cualquier versión de la evidencia aceptada que el señor Burke pidió al demandante que ayudara al príncipe Harry. No es parte de la función de este tribunal determinar si era o no legítimo \". En respuesta a la sentencia del tribunal sobre las acusaciones sobre el príncipe Harry, la Escuela emitió una declaración, diciendo que las afirmaciones de Forsyth \"fueron desestimadas por lo que siempre han sido - infundadas e irrelevantes\". Un portavoz de Clarence House dijo: \"Estamos encantados de que Harry haya sido totalmente absuelto de hacer trampa\".",
+      "annotations": [
+        {
+          "question": "¿De quién era las afirmaciones, que la Escuela describió como \"infundadas e irrelevantes\"?",
+          "choices": [
+            {
+              "text": "Forsyth",
+              "start": 501,
+              "end": 508,
+              "type": "correct answer"
+            },
+            {
+              "text": "el príncipe Harry",
+              "start": 414,
+              "end": 431,
+              "type": "distractor"
+            },
+            {
+              "text": "el señor Burke",
+              "start": 201,
+              "end": 215,
+              "type": "distractor"
+            },
+            {
+              "text": "el portavoz de Clarence House",
+              "start": 591,
+              "end": 617,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Durante el Pérmico todas las grandes masas de tierra de la Tierra, excepto partes de Asia oriental, fueron recogidas en un único supercontinente conocido como Pangea. Pangea se extendía a ambos lados del ecuador y se extendía hacia los polos, con un efecto correspondiente sobre las corrientes oceánicas en el único gran océano (Panthalassa, el mar universal), y el océano Paleo-Tetis. El continente Cimmeria se separó de Gondwana y se desplazó hacia el norte hasta Laurasia, causando que el Paleo-Tetis se encogiera. Un nuevo océano estaba creciendo en su extremo sur, el océano Tetis, un océano que dominaría gran parte de la era Mesozoica. Grandes masas continentales crean climas con variaciones extremas de calor y frío (\"clima continental\") y condiciones de monzón con patrones de lluvias altamente estacionales. Los desiertos parecen haber estado muy extendidos en Pangea.",
+      "annotations": [
+        {
+          "question": "¿Qué nombre tiene el supercontinente que tenía la mayor parte de la masa de tierra en el planeta?",
+          "choices": [
+            {
+              "text": "Pangea",
+              "start": 159,
+              "end": 165,
+              "type": "correct answer"
+            },
+            {
+              "text": "Cimmeria",
+              "start": 400,
+              "end": 408,
+              "type": "distractor"
+            },
+            {
+              "text": "Laurasia",
+              "start": 466,
+              "end": 474,
+              "type": "distractor"
+            },
+            {
+              "text": "Gondwana",
+              "start": 422,
+              "end": 430,
+              "type": "distractor"
+            },
+            {
+              "text": "Panthalassa",
+              "start": 329,
+              "end": 340,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En la historia europea, cuando el trabajo infantil era común, así como en el trabajo infantil contemporáneo del mundo moderno, ciertas creencias culturales han racionalizado el trabajo infantil y por lo tanto lo han alentado. Algunos ven que el trabajo es bueno para la construcción de personajes y el desarrollo de habilidades de los niños. En muchas culturas, en particular donde la economía informal y las pequeñas empresas hogareñas prosperan, la tradición cultural es que los niños siguen los pasos de sus padres; El trabajo infantil es un medio para aprender y practicar el comercio desde una edad muy temprana. De manera similar, en muchas culturas la educación de las niñas es menos valorada o simplemente no se espera que las niñas necesiten una educación formal, y estas niñas se introducen en el trabajo infantil como proporcionar servicios domésticos.",
+      "annotations": [
+        {
+          "question": "¿De qué habla principalmente el texto?",
+          "choices": [
+            {
+              "text": "el trabajo infantil",
+              "start": 31,
+              "end": 50,
+              "type": "correct answer"
+            },
+            {
+              "text": "la educación de las niñas",
+              "start": 656,
+              "end": 681,
+              "type": "distractor"
+            },
+            {
+              "text": "las pequeñas empresas hogareñas",
+              "start": 405,
+              "end": 436,
+              "type": "distractor"
+            },
+            {
+              "text": "la economía informal",
+              "start": 382,
+              "end": 402,
+              "type": "distractor"
+            },
+            {
+              "text": "la historia europea",
+              "start": 3,
+              "end": 22,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las doctrinas compartidas incluirían creencias sobre un solo Dios; El nacimiento virgen... Milagros. Expiación por pecados a través de la muerte, entierro y resurrección corporal de Jesús; La Trinidad; La necesidad de salvación (a través de la creencia en Jesucristo como el hijo de Dios, su muerte y resurrección, y la confesión de Cristo como Señor); ¡Grace! El Reino de Dios. Las últimas cosas (escatología) (Jesucristo volverá personal y visiblemente en la gloria a la tierra, los muertos se levantarán, y Cristo juzgará a todos en la rectitud); Y el evangelismo y las misiones. Algunos documentos doctrinales bautistas históricamente significativos incluyen la Confesión de Fe Bautista de Londres de 1689, la Confesión de Fe Bautista de New Hampshire de 1833, la Fe y Mensaje Bautista de la Convención Bautista del Sur.",
+      "annotations": [
+        {
+          "question": "¿Qué documento bautista fue escrito en 1689?",
+          "choices": [
+            {
+              "text": "la Confesión de Fe Bautista de Londres",
+              "start": 663,
+              "end": 701,
+              "type": "correct answer"
+            },
+            {
+              "text": "la Confesión de Fe Bautista de New Hampshire",
+              "start": 711,
+              "end": 755,
+              "type": "distractor"
+            },
+            {
+              "text": "la Fe y Mensaje Bautista de la Convención Bautista del Sur",
+              "start": 765,
+              "end": 823,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Se cree que la tradición biográfica de Virgilio depende de una biografía perdida de Varius, editor de Virgilio, que fue incorporada a la biografía por Suetonio y los comentarios de Servio y Donato, los dos grandes comentaristas de la poesía de Virgilio. Aunque los comentarios sin duda registran mucha información sobre Virgilio, algunas de sus pruebas pueden demostrarse que se basan en inferencias hechas de su poesía y alegorías. Así, la tradición biográfica de Virgilio sigue siendo problemática.",
+      "annotations": [
+        {
+          "question": "¿De qué se cree que dependía la tradición biográfica de Virgilio?",
+          "choices": [
+            {
+              "text": "los comentarios de Servio y Donato",
+              "start": 162,
+              "end": 196,
+              "type": "distractor"
+            },
+            {
+              "text": "una biografía perdida de Varius",
+              "start": 59,
+              "end": 90,
+              "type": "correct answer"
+            },
+            {
+              "text": "Suetonio",
+              "start": 151,
+              "end": 159,
+              "type": "distractor"
+            },
+            {
+              "text": "las inferencias hechas de su poesía y alegorías",
+              "start": 388,
+              "end": 431,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los pubs dentro de una cadena suelen tener artículos en común, como accesorios, promociones, ambiente y rango de comida y bebida en oferta. Una cadena de pub se posicionará en el mercado para un público objetivo. Una compañía puede ejecutar varias cadenas de pub dirigidas a diferentes segmentos del mercado. Los pubs para su uso en una cadena se compran y venden en grandes unidades, a menudo en cervecerías regionales que luego se cierran. Los pubs recién adquiridos a menudo son renombrados por los nuevos propietarios, y a muchas personas les molesta la pérdida de nombres tradicionales, especialmente si su cerveza regional favorita desaparece al mismo tiempo.",
+      "annotations": [
+        {
+          "question": "¿Qué objeto de los pubs renombrados les molesta a muchos clientes que desaparezca?",
+          "choices": [
+            {
+              "text": "su cerveza regional favorita",
+              "start": 609,
+              "end": 637,
+              "type": "correct answer"
+            },
+            {
+              "text": "la bebida en oferta",
+              "start": 122,
+              "end": 138,
+              "type": "distractor"
+            },
+            {
+              "text": "el ambiente y rango de comida",
+              "start": 93,
+              "end": 119,
               "type": "distractor"
             }
           ]
