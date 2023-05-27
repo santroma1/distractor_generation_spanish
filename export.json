@@ -23710,6 +23710,674 @@
           ]
         }
       ]
+    },
+    {
+      "context": "Los Taira y los Minamoto se enfrentaron de nuevo en 1180, comenzando la Guerra Gempei, que terminó en 1185. Los samurái lucharon en la batalla naval de Dan-no-ura, en el estrecho de Shimonoseki que separa Honshu y Kyushu en 1185. El victorioso Minamoto no Yoritomo estableció la superioridad de los samuráis sobre la aristocracia. En 1190 visitó Kioto y en 1192 se convirtió en Sei 'i-taishōgun, estableciendo el shogunato Kamakura, o Kamakura Bakufu. En lugar de gobernar desde Kioto, estableció el shogunato en Kamakura, cerca de su base de poder. \"Bakufu\" significa \"gobierno de tienda\", tomado de los campamentos en los que los soldados vivirían, de acuerdo con el estatus del Bakufu como gobierno militar.",
+      "annotations": [
+        {
+          "question": "¿Qué evento se desencadenó después de que los Taira y los Minamoto se enfrentaron en 1180?",
+          "choices": [
+            {
+              "text": "la Guerra Gempei",
+              "start": 69,
+              "end": 85,
+              "type": "correct answer"
+            },
+            {
+              "text": "la batalla naval de Dan-no-ura",
+              "start": 132,
+              "end": 162,
+              "type": "distractor"
+            },
+            {
+              "text": "el shogunato Kamakura",
+              "start": 410,
+              "end": 431,
+              "type": "distractor"
+            },
+            {
+              "text": "Yoritomo estableció la superioridad de los samuráis",
+              "start": 256,
+              "end": 307,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A pesar de sus defectos, como la falta de portabilidad, los registros todavía tienen entusiastas partidarios. Los discos de vinilo siguen siendo fabricados y vendidos hoy en día, especialmente por bandas de rock independientes y etiquetas, aunque las ventas de discos se consideran un mercado nicho compuesto por audiófilos, coleccionistas y DJs. Los discos antiguos y grabaciones fuera de impresión en particular son muy demandados por coleccionistas de todo el mundo. (Ver coleccionismo de discos.) Muchos álbumes nuevos populares se dan en discos de vinilo y los álbumes más antiguos también se dan reediciones, a veces en vinilo de grado audiófilo.",
+      "annotations": [
+        {
+          "question": "¿Quiénes fabrican y venden discos de vinilo principalmente hoy en día?",
+          "choices": [
+            {
+              "text": "bandas de rock independientes",
+              "start": 197,
+              "end": 226,
+              "type": "correct answer"
+            },
+            {
+              "text": "DJs",
+              "start": 342,
+              "end": 345,
+              "type": "distractor"
+            },
+            {
+              "text": "coleccionistas",
+              "start": 325,
+              "end": 339,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En la tarde del 18 de mayo, CCTV-1 organizó un programa especial de cuatro horas llamado The Giving of Love (chino simplificado: 的的;;; chino simplificado: 的的;;); Chino tradicional: 的的..), organizado por los habituales de la Gala de Año Nuevo de CCTV y el ancla de cobertura de todo el día Bai Yansong. Fue atendido por una amplia gama de entretenimiento, literatura, negocios y figuras políticas de China continental, Hong Kong, Singapur y Taiwán. Las donaciones de la noche totalizaron 1.500 millones de yuanes chinos (208 millones de dólares). De las donaciones, CCTV dio la mayor contribución corporativa en ¥50 millones. Casi al mismo tiempo en Taiwán, un programa de temática similar estaba en el aire organizado por el presidente sentado Ma Ying-jeou. En junio, el actor de Hong Kong Jackie Chan, que donó $1,57 millones a las víctimas, hizo un video musical junto a otros artistas titulado \"Promise\"; La canción fue compuesta por Andy Lau. La Artistes 512 Fund Raising Campaign, una maratón de recaudación de fondos de 8 horas, se celebró el 1 de junio en Hong Kong. Asistieron unos 200 músicos y celebridades de Sinosphere. En Singapur, MediaCorp Channel 8 organizó un programa en vivo 不川川. 不. para recaudar fondos para las víctimas.",
+      "annotations": [
+        {
+          "question": "¿Cuántos yuanes chinos fueron donados la noche del evento The Giving of Love?",
+          "choices": [
+            {
+              "text": "1.500 millones",
+              "start": 487,
+              "end": 501,
+              "type": "correct answer"
+            },
+            {
+              "text": "50 millones",
+              "start": 612,
+              "end": 623,
+              "type": "distractor"
+            },
+            {
+              "text": "208 millones",
+              "start": 520,
+              "end": 532,
+              "type": "distractor"
+            },
+            {
+              "text": "1,57 millones",
+              "start": 813,
+              "end": 826,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La ciudad se inclina suavemente de noroeste a sureste en una llanura compuesta en gran parte de arcilla glacial y lago. La característica topográfica más notable de la ciudad es el Detroit Moraine, una amplia cresta de arcilla en la que las partes más antiguas de Detroit y Windsor se sientan encima, elevándose aproximadamente 19 m sobre el río en su punto más alto. La elevación más alta de la ciudad se encuentra directamente al norte de Gorham Playground en el lado noroeste aproximadamente tres cuadras al sur de 8 Mile Road, a una altura de 206 a 207 m. La elevación más baja de Detroit está a lo largo del río Detroit, a una altura de superficie de 174 m.",
+      "annotations": [
+        {
+          "question": "¿Cuál es la elevación más baja en Detroit?",
+          "choices": [
+            {
+              "text": "174 m",
+              "start": 656,
+              "end": 661,
+              "type": "correct answer"
+            },
+            {
+              "text": "207 m",
+              "start": 553,
+              "end": 558,
+              "type": "distractor"
+            },
+            {
+              "text": "19 m",
+              "start": 328,
+              "end": 332,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Palermo tiene al menos 2 circuitos de murallas de la ciudad - muchas piezas de las cuales aún sobreviven. El primer circuito rodeó el antiguo núcleo de la ciudad púnica, la llamada Palaeopolis (en la zona este de Porta Nuova) y la Neópolis. Via Vittorio Emanuele fue la principal carretera de este a oeste a través de esta ciudad amurallada temprana. El borde oriental de la ciudad amurallada estaba en la Vía Roma y el antiguo puerto en las cercanías de la Piazza Marina. El circuito de la pared era aproximadamente Porto Nuovo, Corso Alberti, Piazza Peranni, Via Isodoro, Via Candela, Via Venezia, Via Roma, Piazza Paninni, Via Biscottari, Palazzo.",
+      "annotations": [
+        {
+          "question": "¿Qué se encontraba cerca de la Piazza Marina en Palermo?",
+          "choices": [
+            {
+              "text": "el antiguo puerto",
+              "start": 417,
+              "end": 434,
+              "type": "correct answer"
+            },
+            {
+              "text": "la principal carretera",
+              "start": 267,
+              "end": 289,
+              "type": "distractor"
+            },
+            {
+              "text": "el antiguo núcleo de la ciudad púnica",
+              "start": 131,
+              "end": 168,
+              "type": "distractor"
+            },
+            {
+              "text": "el borde oriental de la ciudad amurallada",
+              "start": 351,
+              "end": 392,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Con una economía más grande que todas las economías balcánicas combinadas, Grecia es la mayor economía en los Balcanes y un importante inversor regional. Grecia es el inversor extranjero número dos de capital en Albania, el inversor extranjero número tres en Bulgaria, entre los tres primeros inversionistas extranjeros en Rumania y Serbia y el socio comercial más importante y el mayor inversor extranjero de la República de Macedonia. Los bancos griegos abren una nueva sucursal en algún lugar de los Balcanes casi semanalmente. La compañía de telecomunicaciones griega OTE se ha convertido en un inversor fuerte en Yugoslavia y otros países balcánicos.",
+      "annotations": [
+        {
+          "question": "¿Qué país es el mayor inversor de la República de Macedonia?",
+          "choices": [
+            {
+              "text": "Grecia",
+              "start": 154,
+              "end": 160,
+              "type": "correct answer"
+            },
+            {
+              "text": "Bulgaria",
+              "start": 259,
+              "end": 267,
+              "type": "distractor"
+            },
+            {
+              "text": "Rumania",
+              "start": 323,
+              "end": 330,
+              "type": "distractor"
+            },
+            {
+              "text": "Serbia",
+              "start": 333,
+              "end": 339,
+              "type": "distractor"
+            },
+            {
+              "text": "Albania",
+              "start": 212,
+              "end": 219,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los soviéticos mantuvieron los detalles y la verdadera apariencia de la cápsula Vostok en secreto hasta la Exposición Económica de Moscú de abril de 1965, donde se exhibió por primera vez sin su cono de nariz aerodinámico ocultando la cápsula esférica. La \"nave espacial Vostok\" había sido mostrada por primera vez en el show aéreo Túshino de julio de 1961, montada en la tercera etapa de su vehículo de lanzamiento, con el cono de morro en su lugar. También se añadió una sección de cola con ocho aletas, en un aparente intento de confundir a los observadores occidentales. Esta sección de cola espuria también apareció en sellos oficiales conmemorativos y un documental.",
+      "annotations": [
+        {
+          "question": "¿Qué mantuvieron en secreto los soviéticos?",
+          "choices": [
+            {
+              "text": "la Exposición Económica de Moscú",
+              "start": 104,
+              "end": 136,
+              "type": "distractor"
+            },
+            {
+              "text": "el show aéreo Túshino",
+              "start": 318,
+              "end": 339,
+              "type": "distractor"
+            },
+            {
+              "text": "la cápsula Vostok",
+              "start": 69,
+              "end": 86,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El primer libro impreso en Francia, Epistolae, por Gasparinus de Bergamo (Gasparino da Barzizza), fue publicado en París en 1470 por la prensa establecida por Johann Heynlin. Desde entonces, París ha sido el centro de la industria editorial francesa, el hogar de algunos de los escritores y poetas más conocidos del mundo, y el escenario de muchas obras clásicas de la literatura francesa. Casi todos los libros publicados en París en la Edad Media eran en latín, en lugar de francés. París no se convirtió en la capital reconocida de la literatura francesa hasta el siglo XVII, con autores como Boileau, Corneille, La Fontaine, Molière, Racine, y la fundación de la Academia Francesa. En el siglo XVIII, la vida literaria de París giraba en torno a los cafés y salones, y estaba dominada por Voltaire, Jean-Jacques Rousseau, Pierre de Marivaux y Beaumarchais.",
+      "annotations": [
+        {
+          "question": "¿Qué artista era parte de la vida literaria parisina en cafés y salones en el siglo XVIII?",
+          "choices": [
+            {
+              "text": "Jean-Jacques Rousseau",
+              "start": 803,
+              "end": 824,
+              "type": "correct answer"
+            },
+            {
+              "text": "Gasparinus de Bergamo",
+              "start": 51,
+              "end": 72,
+              "type": "distractor"
+            },
+            {
+              "text": "Johann Heynlin",
+              "start": 159,
+              "end": 173,
+              "type": "distractor"
+            },
+            {
+              "text": "La Fontaine",
+              "start": 616,
+              "end": 627,
+              "type": "distractor"
+            },
+            {
+              "text": "Corneille",
+              "start": 605,
+              "end": 614,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La lámpara halógena reduce la evaporación desigual del filamento y elimina el oscurecimiento de la envoltura llenando la lámpara con un gas halógeno a baja presión, en lugar de un gas inerte. El ciclo de halógeno aumenta la vida útil de la bombilla e impide su oscurecimiento al depositar wolframio desde el interior de la bombilla hacia el filamento. La lámpara halógena puede operar su filamento a una temperatura más alta que una lámpara de gas estándar llena de potencia similar sin pérdida de vida operativa. Estas bombillas son mucho más pequeñas que las bombillas incandescentes normales, y son ampliamente utilizadas cuando se necesita iluminación intensa en un espacio limitado. Las lámparas de fibra óptica para microscopía óptica es una aplicación típica.",
+      "annotations": [
+        {
+          "question": "¿Qué se deposita en el filamento para impedir el oscurecimiento?",
+          "choices": [
+            {
+              "text": "un gas inerte",
+              "start": 177,
+              "end": 190,
+              "type": "distractor"
+            },
+            {
+              "text": "wolframio",
+              "start": 289,
+              "end": 298,
+              "type": "correct answer"
+            },
+            {
+              "text": "fibra óptica",
+              "start": 704,
+              "end": 716,
+              "type": "distractor"
+            },
+            {
+              "text": "un gas halógeno",
+              "start": 133,
+              "end": 148,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El surgimiento del Islam, basado tanto en el Corán como en Mahoma, alteró fuertemente los equilibrios de poder y las percepciones de origen del poder en la región mediterránea. La filosofía islámica temprana enfatizó un vínculo inexorable entre la ciencia y la religión, y el proceso de ijtihad para encontrar la verdad - en efecto toda filosofía era \"política\", ya que tenía implicaciones reales para la gobernanza. Esta visión fue desafiada por los filósofos \"racionalistas\" Mutazilitas, que tenían una visión más helénica, la razón por encima de la revelación, y como tal son conocidos por los estudiosos modernos como los primeros teólogos especulativos del Islam. Fueron apoyados por una aristocracia secular que buscaba la libertad de acción independiente del Califato. A finales del antiguo período, sin embargo, la visión ashariita \"tradicionalista\" del Islam había triunfado en general. Según los asiátitas, la razón debe estar subordinada al Corán y al Sunna.",
+      "annotations": [
+        {
+          "question": "¿Cómo era la visión de los filósofos \"racionalistas\" Mutazilitas?",
+          "choices": [
+            {
+              "text": "la razón por encima de la revelación",
+              "start": 526,
+              "end": 562,
+              "type": "correct answer"
+            },
+            {
+              "text": "el proceso de ijtihad para encontrar la verdad",
+              "start": 273,
+              "end": 319,
+              "type": "distractor"
+            },
+            {
+              "text": "un vínculo inexorable entre la ciencia y la religión",
+              "start": 217,
+              "end": 269,
+              "type": "distractor"
+            },
+            {
+              "text": "la razón debe estar subordinada al Corán y al Sunna",
+              "start": 917,
+              "end": 968,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los japoneses respondieron a los ataques aliados lanzando una ofensiva propia en la India a mediados de marzo, a través de la frontera montañosa y densamente boscosa. Este ataque, con nombre en código Operación U-Go, fue defendido por el Teniente General Renya Mutaguchi, el recién ascendido comandante del Decimoquinto Ejército japonés; El Cuartel General Imperial le permitió continuar, a pesar de las dudas en varios cuarteles. Aunque varias unidades del Decimocuarto Ejército británico tuvieron que luchar para salir del cerco, a principios de abril se habían concentrado alrededor de Imphal en el estado de Manipur. Una división japonesa que había avanzado a Kohima en Nagaland cortó el camino principal a Imphal, pero no logró capturar la totalidad de las defensas en Kohima. Durante abril, los ataques japoneses contra Imphal fracasaron, mientras que las formaciones aliadas frescas expulsaron a los japoneses de las posiciones que habían capturado en Kohima.",
+      "annotations": [
+        {
+          "question": "¿En qué estado estaba el ejército británico a principios de abril?",
+          "choices": [
+            {
+              "text": "se habían concentrado alrededor de Imphal",
+              "start": 554,
+              "end": 595,
+              "type": "correct answer"
+            },
+            {
+              "text": "había avanzado a Kohima en Nagaland",
+              "start": 647,
+              "end": 682,
+              "type": "distractor"
+            },
+            {
+              "text": "no logró capturar la totalidad de las defensas en Kohima",
+              "start": 724,
+              "end": 780,
+              "type": "distractor"
+            },
+            {
+              "text": "expulsaron a los japoneses de las posiciones que habían capturado en Kohima",
+              "start": 890,
+              "end": 965,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La familia Ricketts adquirió una participación mayoritaria en los Cachorros en 2009, poniendo fin a los años Tribune. Aparentemente esposado por la quiebra del Tribune y la venta del club a la familia Ricketts, la búsqueda de los Cubs por un 3-peat central de la Liga Nacional comenzó con la notificación de que habría menos invertido en contratos que en años anteriores. Chicago se enfrentó a St. Louis en una batalla de la sierra para el primer lugar en agosto de 2009, pero los Cardinals jugaron a un ritmo de 20-6 ese mes, designando a sus rivales para luchar en la carrera Wild Card final. Los Cachorros estuvieron plagados de lesiones en 2009, y sólo fueron capaces de alinear su alineación titular tres veces durante toda la temporada. El tercera base Aramis Ramírez se lesionó el hombro a principios de mayo contra los Cerveceros de Milwaukee, dejándolo fuera hasta principios de julio y forzando a jugadores como Mike Fontenot y Aaron Miles a papeles más destacados. Además, jugadores clave como Derrek Lee (que todavía logró batear .306 con 35 HR y 111 RBI esa temporada), Alfonso Soriano y Geovany Soto también nutrieron lesiones molestas. Los Cachorros tuvieron un récord ganador (83-78) por tercera temporada consecutiva, la primera vez que el club lo había hecho desde 1972, y una nueva era de propiedad bajo la familia Ricketts fue aprobada por los propietarios de MLB a principios de octubre.",
+      "annotations": [
+        {
+          "question": "¿Qué jugador se lesionó que jugaba en tercera base?",
+          "choices": [
+            {
+              "text": "Aramis Ramírez",
+              "start": 759,
+              "end": 773,
+              "type": "correct answer"
+            },
+            {
+              "text": "Mike Fontenot",
+              "start": 922,
+              "end": 935,
+              "type": "distractor"
+            },
+            {
+              "text": "Aaron Miles",
+              "start": 938,
+              "end": 949,
+              "type": "distractor"
+            },
+            {
+              "text": "Alfonso Soriano",
+              "start": 1083,
+              "end": 1098,
+              "type": "distractor"
+            },
+            {
+              "text": "Geovany Soto",
+              "start": 1101,
+              "end": 1113,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Beyoncé y su esposo Jay Z son amigos del presidente Barack Obama y la primera dama Michelle Obama. Interpretó \"America the Beautiful\" en la inauguración presidencial de 2009, así como \"At Last\" durante el primer baile inaugural en el Neighborhood Ball dos días después. Beyoncé y Jay Z realizaron una recaudación de fondos en el Club 40 / 40 de Manhattan para la campaña presidencial de Obama de 2012 que recaudó $4 millones. Beyoncé subió fotos de su papeleta de papel en Tumblr, confirmando que había votado en apoyo del Partido Demócrata y para animar a otros a hacerlo. También interpretó el himno nacional estadounidense en su segunda inauguración, cantando junto con una pista pre-grabada. Ella apoyó públicamente el mismo matrimonio sexual el 26 de marzo de 2013, después del debate de la Corte Suprema sobre la Proposición 8 de California. En julio de 2013, Beyoncé y Jay-Z asistieron a una manifestación en respuesta a la absolución de George Zimmerman por el asesinato de Trayvon Martin.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo Beyoncé que confirmo que estaba apoyando al Partido Demócrata?",
+          "choices": [
+            {
+              "text": "subió fotos de su papeleta de papel en Tumblr",
+              "start": 434,
+              "end": 479,
+              "type": "correct answer"
+            },
+            {
+              "text": "apoyó públicamente el mismo matrimonio sexual",
+              "start": 701,
+              "end": 746,
+              "type": "distractor"
+            },
+            {
+              "text": "asistió a una manifestación en respuesta a la absolución de George Zimmerman",
+              "start": 882,
+              "end": 961,
+              "type": "distractor"
+            },
+            {
+              "text": "interpretó el himno nacional estadounidense en su segunda inauguración",
+              "start": 582,
+              "end": 652,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Apple lanzó el Macintosh Plus el 10 de enero de 1986, por un precio de US $2.600. Ofrecía un megabyte de RAM, fácilmente ampliable a cuatro megabytes mediante el uso de placas de memoria RAM. También presentaba una interfaz paralela SCSI, que permitía conectar hasta siete periféricos, como discos duros y escáneres, a la máquina. Su unidad de disquete se incrementó a una capacidad de 800 kB. El Mac Plus fue un éxito inmediato y se mantuvo en producción, sin cambios, hasta el 15 de octubre de 1990. A la venta por poco más de cuatro años y diez meses, fue el Macintosh más longevo en la historia de Apple. En septiembre de 1986, Apple introdujo el Macintosh Programmer 's Workshop, o MPW, una aplicación que permitía a los desarrolladores de software crear software para Macintosh en Macintosh, en lugar de la compilación cruzada de un Lisa. En agosto de 1987, Apple presentó HyperCard y MultiFinder, que agregaron multitarea cooperativa al Macintosh. Apple comenzó a juntar ambos con cada Macintosh.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo Apple en septiembre de 1986?",
+          "choices": [
+            {
+              "text": "introdujo el Macintosh Programmer 's Workshop",
+              "start": 638,
+              "end": 683,
+              "type": "correct answer"
+            },
+            {
+              "text": "presentó HyperCard y MultiFinder",
+              "start": 870,
+              "end": 902,
+              "type": "distractor"
+            },
+            {
+              "text": "lanzó el Macintosh Plus",
+              "start": 6,
+              "end": 29,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La historiografía ilustrada comenzó en el mismo período, a partir de lo que las figuras de la Ilustración dijeron sobre su trabajo. Un elemento dominante fue el ángulo intelectual que tomaron. El discurso preliminar de D 'Alembert de l' Encyclopédie proporciona una historia de la Ilustración que comprende una lista cronológica de desarrollos en el ámbito del conocimiento, de los cuales la Enciclopedia forma el pináculo. En 1783, el filósofo judío Moses Mendelssohn se refirió a la Ilustración como un proceso por el cual el hombre fue educado en el uso de la razón. Immanuel Kant llamó a la Ilustración \"la liberación del hombre de su tutela incurrida por sí mismo\", la tutela es \"la incapacidad del hombre para hacer uso de su comprensión sin dirección de otro\". \"Para Kant, la Ilustración era la llegada final de la humanidad a la mayoría de edad, la emancipación de la conciencia humana de un estado inmaduro de ignorancia\". El erudito alemán Ernst Cassirer llamó a la Ilustración \"una parte y una fase especial de todo ese desarrollo intelectual a través del cual el pensamiento filosófico moderno ganó su autoconfianza y autoconciencia característica\". Según el historiador Roy Porter, la liberación de la mente humana de un estado dogmático de ignorancia es el epítome de lo que la Era de la Ilustración estaba tratando de capturar.",
+      "annotations": [
+        {
+          "question": "¿Cómo describe Mendelssohn a la Ilustración?",
+          "choices": [
+            {
+              "text": "un proceso por el cual el hombre fue educado en el uso de la razón",
+              "start": 502,
+              "end": 568,
+              "type": "correct answer"
+            },
+            {
+              "text": "la liberación del hombre de su tutela incurrida por sí mismo",
+              "start": 608,
+              "end": 668,
+              "type": "distractor"
+            },
+            {
+              "text": "la incapacidad del hombre para hacer uso de su comprensión sin dirección de otro",
+              "start": 685,
+              "end": 765,
+              "type": "distractor"
+            },
+            {
+              "text": "una parte y una fase especial de todo ese desarrollo intelectual a través del cual el pensamiento filosófico moderno ganó su autoconfianza y autoconciencia característica",
+              "start": 989,
+              "end": 1159,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El 13 de marzo, el puerto superior de Clyde de Clydebank cerca de Glasgow fue bombardeado. Todas menos siete de sus 12.000 casas fueron dañadas. Muchos más puertos fueron atacados. Plymouth fue atacado cinco veces antes del final del mes, mientras que Belfast, Hull y Cardiff fueron alcanzados. Cardiff fue bombardeada tres noches, el centro de Portsmouth fue devastado por cinco incursiones. La tasa de vivienda civil perdida fue de 40.000 personas por semana desalojadas en septiembre de 1940. En marzo de 1941, dos incursiones en Plymouth y Londres deportaron a 148.000 personas. Sin embargo, aunque muy dañados, los puertos británicos continuaron apoyando a la industria de la guerra y los suministros de América del Norte continuaron pasando a través de ellos, mientras que la Royal Navy continuó operando en Plymouth, Southampton y Portsmouth. Plymouth, en particular, debido a su posición vulnerable en la costa sur y su proximidad a las bases aéreas alemanas, fue objeto de los ataques más pesados. El 10 / 11 de marzo, 240 bombarderos lanzaron 193 toneladas de explosivos y 46.000 incendiarios. Muchas casas y centros comerciales estaban muy dañados, el suministro eléctrico fue eliminado, y cinco tanques de petróleo y dos cargadores explotaron. Nueve días después, dos oleadas de 125 y 170 bombarderos lanzaron bombas pesadas, incluyendo 160 toneladas de alto explosivo y 32.000 incendiarios. Gran parte del centro de la ciudad fue destruido. Se infligieron daños a las instalaciones portuarias, pero muchas bombas cayeron sobre la ciudad misma. El 17 de abril, 346 toneladas de explosivos y 46.000 incendiarios fueron lanzados desde 250 bombarderos liderados por el KG 26. El daño fue considerable, y los alemanes también utilizaron minas aéreas. Más de 2.000 proyectiles AAA fueron disparados, destruyendo dos Ju 88. Al final de la campaña aérea sobre Gran Bretaña, sólo el ocho por ciento del esfuerzo alemán contra los puertos británicos se hizo utilizando minas.",
+      "annotations": [
+        {
+          "question": "¿Cuántas noches fue bombardeada Cardiff?",
+          "choices": [
+            {
+              "text": "tres",
+              "start": 319,
+              "end": 323,
+              "type": "correct answer"
+            },
+            {
+              "text": "cinco",
+              "start": 374,
+              "end": 379,
+              "type": "distractor"
+            },
+            {
+              "text": "dos",
+              "start": 1229,
+              "end": 1232,
+              "type": "distractor"
+            },
+            {
+              "text": "ocho",
+              "start": 1887,
+              "end": 1891,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los peregrinos de los Cuentos de Canterbury de finales del siglo XIV de Geoffrey Chaucer partieron hacia Canterbury desde Londres, específicamente, desde la posada de Tabard, Southwark. William Shakespeare pasó gran parte de su vida viviendo y trabajando en Londres; Su contemporáneo Ben Jonson también se basó allí, y parte de su trabajo - sobre todo su obra El alquimista - se estableció en la ciudad. Un Diario del Año de la Plaga (1722) de Daniel Defoe es una novelización de los acontecimientos de la Gran Plaga de 1665. Más tarde, representaciones importantes de Londres de los siglos XIX y XX son las novelas de Dickens, y las historias de Sherlock Holmes de Arthur Conan Doyle. Los escritores modernos influenciados por la ciudad incluyen a Peter Ackroyd, autor de una \"biografía\" de Londres, e Iain Sinclair, quien escribe en el género de la psicogeografía.",
+      "annotations": [
+        {
+          "question": "¿Quién escribió Sherlock Holmes?",
+          "choices": [
+            {
+              "text": "Arthur Conan Doyle",
+              "start": 666,
+              "end": 684,
+              "type": "correct answer"
+            },
+            {
+              "text": "Geoffrey Chaucer",
+              "start": 72,
+              "end": 88,
+              "type": "distractor"
+            },
+            {
+              "text": "William Shakespeare",
+              "start": 186,
+              "end": 205,
+              "type": "distractor"
+            },
+            {
+              "text": "Ben Jonson",
+              "start": 284,
+              "end": 294,
+              "type": "distractor"
+            },
+            {
+              "text": "Daniel Defoe",
+              "start": 444,
+              "end": 456,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El hijo de Akbar, Jahangir más o menos siguió la política de su padre. La dinastía mogol gobernó la mayor parte del subcontinente indio en 1600. El reinado de Shah Jahan fue la época dorada de la arquitectura mogola. Erigió varios grandes monumentos, el más famoso de los cuales es el Taj Mahal en Agra, así como el Moti Masjid, Agra, el Fuerte Rojo, el Jama Masjid, Delhi y el Fuerte Lahore. El Imperio mogol alcanzó el cenit de su expansión territorial durante el reinado de Aurangzeb y también comenzó su declive terminal en su reinado debido al resurgimiento militar maratha bajo Shivaji. Historiador Señor. J.N. Sarkar escribió: \"Todo parecía haber sido ganado por Aurangzeb ahora, pero en realidad todo estaba perdido\". Lo mismo hizo eco Vincent Smith: \"El Decán resultó ser el cementerio no sólo del cuerpo de Aurangzeb, sino también de su imperio\".",
+      "annotations": [
+        {
+          "question": "¿A qué se debe el declive final del imperio mongol?",
+          "choices": [
+            {
+              "text": "el resurgimiento militar maratha bajo Shivaji",
+              "start": 549,
+              "end": 591,
+              "type": "correct answer"
+            },
+            {
+              "text": "el reinado de Shah Jahan",
+              "start": 145,
+              "end": 169,
+              "type": "distractor"
+            },
+            {
+              "text": "el reinado de Aurangzeb",
+              "start": 463,
+              "end": 486,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La guerra tuvo éxito para Gran Bretaña, que ganó la mayor parte de Nueva Francia en América del Norte, Florida española, algunas islas caribeñas individuales en las Indias Occidentales, la colonia de Senegal en la costa de África Occidental y la superioridad sobre los puestos comerciales franceses. Las tribus nativas americanas fueron excluidas del asentamiento. Un conflicto posterior, conocido como la Guerra de Pontiac, tampoco tuvo éxito en devolverlos a su estado anterior a la guerra. En Europa, la guerra comenzó desastrosamente para Prusia, pero una combinación de buena suerte y estrategia exitosa hizo que el rey Federico el Grande lograra recuperar la posición prusiana y retener el status quo ante bellum. Prusia emergió como una nueva gran potencia europea. Aunque Austria no pudo recuperar el territorio de Silesia de Prusia (su objetivo original) su destreza militar también fue notada por las otras potencias. La participación de Portugal, España y Suecia no los devolvió a su condición de grandes potencias. Francia fue privada de muchas de sus colonias y se había cargado con fuertes deudas de guerra que su ineficiente sistema financiero apenas podía manejar. España perdió Florida, pero ganó la Luisiana francesa y recuperó el control de sus colonias, por ejemplo, Cuba y Filipinas, que habían sido capturados por los británicos durante la guerra. Francia y otras potencias europeas vengaron su derrota en 1778 cuando estalló la Guerra de Independencia de los Estados Unidos, con la esperanza de destruir el dominio británico de una vez por todas.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedió con Francia después de la guerra?",
+          "choices": [
+            {
+              "text": "se había cargado con fuertes deudas de guerra",
+              "start": 1075,
+              "end": 1120,
+              "type": "correct answer"
+            },
+            {
+              "text": "recuperó el control de sus colonias, por ejemplo, Cuba y Filipinas",
+              "start": 1237,
+              "end": 1303,
+              "type": "distractor"
+            },
+            {
+              "text": "no pudo recuperar el territorio de Silesia",
+              "start": 788,
+              "end": 830,
+              "type": "distractor"
+            },
+            {
+              "text": "emergió como una nueva gran potencia europea",
+              "start": 727,
+              "end": 771,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En octubre de 1810, seis meses después del nacimiento de Fryderyk, la familia se trasladó a Varsovia, donde su padre adquirió un puesto de profesor de francés en el Liceo de Varsovia, entonces ubicado en el Palacio Sajón. Fryderyk vivió con su familia en los terrenos del Palacio. El padre tocaba la flauta y el violín. La madre tocaba el piano y daba lecciones a los niños en la pensión que los Chopins tenían. Chopin era de constitución ligera, e incluso en la infancia temprana era propenso a las enfermedades.",
+      "annotations": [
+        {
+          "question": "¿Qué instrumento tocaba la madre de Chopin?",
+          "choices": [
+            {
+              "text": "el piano",
+              "start": 336,
+              "end": 344,
+              "type": "correct answer"
+            },
+            {
+              "text": "la flauta",
+              "start": 297,
+              "end": 306,
+              "type": "distractor"
+            },
+            {
+              "text": "el violín",
+              "start": 309,
+              "end": 318,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

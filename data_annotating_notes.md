@@ -293,15 +293,15 @@ Total 50
 642. Plural
 648. Cases
 
-# Tuesday May 23th - Friday May 26th
+# Tuesday May 23th - Saturday May 27th
 
-Dates and Numbers 4
+Dates and Numbers 6
 
-Names 6
+Names 10
 
-Phrases 20
+Phrases 34  
 
-Total 30
+Total 50
 
 ## Comments
 653. Case
@@ -311,16 +311,32 @@ Total 30
 670. Check 
 675. Put 
 680. articulo
+685. Upper Case to lower case
+693. Cases 
+
+
+# Saturday May 27th
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 0 
+
+Total 0
+
+## Comments
+
 
 # Total
 
-Dates and Numbers 84
+Dates and Numbers 90
 
-Names 151
+Names 161
 
-Phrases 416 - 1   
+Phrases 450 - 1   
 
-Total 650
+Total 700
 
 
 # GLOBAL NOTES
@@ -328,4 +344,4 @@ Total 650
 - For a reason, its not exporting datapoint 177. 
 - There is another text with 2 questions
 - There is now a total of 3 texts with 2 questions
-- Texts with 2 questions: 13
+- Texts with 2 questions: 15
