@@ -317,16 +317,21 @@ Total 50
 
 # Saturday May 27th
 
-Dates and Numbers 0
+Dates and Numbers 5
 
-Names 0
+Names 7
 
-Phrases 0 
+Phrases 18
 
-Total 0
+Total 30
 
 ## Comments
-
+703. Add "los"
+704. InfinitiveS
+707. check
+708. Add "que"
+727. plural
+728. Check to sound better
 
 # Total
 
