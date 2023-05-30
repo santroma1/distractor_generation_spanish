@@ -315,15 +315,15 @@ Total 50
 693. Cases 
 
 
-# Saturday May 27th
+# Saturday May 27th -  Monday May 29th
 
-Dates and Numbers 5
+Dates and Numbers 7
 
-Names 7
+Names 11
 
-Phrases 18
+Phrases 32
 
-Total 30
+Total 50
 
 ## Comments
 703. Add "los"
@@ -332,16 +332,36 @@ Total 30
 708. Add "que"
 727. plural
 728. Check to sound better
+735. Verbos
+736. Articles
+737. Edit
+738. articles
+741. Check
+744. Articles 
+745. Verbs
+749. To singular 
+
+# Tuesday May 30th
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 0
+
+Total 0
+
+## Comments
 
 # Total
 
-Dates and Numbers 90
+Dates and Numbers 97
 
-Names 161
+Names 172
 
-Phrases 450 - 1   
+Phrases 482 - 1   
 
-Total 700
+Total 750
 
 
 # GLOBAL NOTES
@@ -349,4 +369,4 @@ Total 700
 - For a reason, its not exporting datapoint 177. 
 - There is another text with 2 questions
 - There is now a total of 3 texts with 2 questions
-- Texts with 2 questions: 15
+- Texts with 2 questions: 17
