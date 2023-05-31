@@ -343,15 +343,21 @@ Total 50
 
 # Tuesday May 30th
 
-Dates and Numbers 0
+Dates and Numbers 5
 
-Names 0
+Names 6
 
-Phrases 0
+Phrases 19
 
-Total 0
+Total 30
 
 ## Comments
+1. Something
+2. Case
+10. Case
+12. Case      
+24. Check
+26. CHeck     
 
 # Total
 
