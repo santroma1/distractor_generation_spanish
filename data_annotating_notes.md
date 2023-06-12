@@ -341,15 +341,15 @@ Total 50
 745. Verbs
 749. To singular 
 
-# Tuesday May 30th
+# Tuesday May 30th - Sunday June 11th
 
-Dates and Numbers 5
+Dates and Numbers 10
 
-Names 6
+Names 11
 
-Phrases 19
+Phrases 29
 
-Total 30
+Total 50
 
 ## Comments
 1. Something
@@ -358,16 +358,35 @@ Total 30
 12. Case      
 24. Check
 26. CHeck     
+38. Is double text
+41. Plural
+45. fem to mas 
+47. la - 
+48. Capital Letters
+
+
+# Monday June 12th
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 0
+
+Total 0
+
+## Comments
+
 
 # Total
 
-Dates and Numbers 97
+Dates and Numbers 107
 
-Names 172
+Names 183
 
-Phrases 482 - 1   
+Phrases 511 - 1   
 
-Total 750
+Total 800
 
 
 # GLOBAL NOTES
@@ -375,4 +394,4 @@ Total 750
 - For a reason, its not exporting datapoint 177. 
 - There is another text with 2 questions
 - There is now a total of 3 texts with 2 questions
-- Texts with 2 questions: 17
+- Texts with 2 questions: 19
