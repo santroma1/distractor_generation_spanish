@@ -367,16 +367,17 @@ Total 50
 
 # Monday June 12th
 
-Dates and Numbers 0
+Dates and Numbers 1
 
-Names 0
+Names 3
 
-Phrases 0
+Phrases 16
 
-Total 0
+Total 20
 
 ## Comments
-
+9 - Check  Cases
+13 - Check cases
 
 # Total
 
