@@ -24945,6 +24945,41 @@
                 "type": "distractor"
               }
             ]
+          },
+          {
+            "question": "¿Qué carretera conecta Wurzburgo en Baviera a través de Meiningen y va de dirección suroeste a noreste?",
+            "choices": [
+              {
+                "text": "la A71",
+                "start": 694,
+                "end": 700,
+                "type": "correct answer"
+              },
+              {
+                "text": "la A4",
+                "start": 240,
+                "end": 245,
+                "type": "distractor"
+              },
+              {
+                "text": "la A73",
+                "start": 1115,
+                "end": 1121,
+                "type": "distractor"
+              },
+              {
+                "text": "la A38",
+                "start": 1213,
+                "end": 1219,
+                "type": "distractor"
+              },
+              {
+                "text": "la A9",
+                "start": 449,
+                "end": 454,
+                "type": "distractor"
+              }
+            ]
           }
         ]
       },
@@ -28607,6 +28642,980 @@
               "text": "2008",
               "start": 412,
               "end": 416,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Varios estudios han informado de asociaciones entre la carga de patógenos en un área y el comportamiento humano. Una mayor carga de patógenos está asociada con la disminución del tamaño de los grupos étnicos y religiosos en un área. Esto puede deberse a una alta carga de patógenos que favorece la evitación de otros grupos, lo que puede reducir la transmisión de patógenos, o una alta carga de patógenos que impide la creación de grandes asentamientos y ejércitos. Una mayor carga de patógenos también se asocia con un comportamiento sexual más restringido, que puede reducir la transmisión de patógenos. También se asocia con mayores preferencias por la salud y el atractivo en parejas. Las tasas de fertilidad más altas y los cuidados parentales más cortos por niño son otra asociación que puede ser una compensación por la mayor tasa de mortalidad. También hay una asociación con la poliginia que puede deberse a una mayor carga de patógenos, por lo que la selección de machos con una alta resistencia genética es cada vez más importante. Una mayor carga de patógenos también se asocia con más colectivismo y menos individualismo, que puede limitar los contactos con grupos externos e infecciones. Hay explicaciones alternativas para al menos algunas de las asociaciones, aunque algunas de estas explicaciones a su vez pueden ser debidas a la carga de patógenos. Por lo tanto, la poligny también puede deberse a una relación masculina menor: La femenina en estas áreas, pero esto puede ser debido en última instancia a que los bebés varones han aumentado la mortalidad por enfermedades infecciosas. Otro ejemplo es que los factores socioeconómicos pobres pueden en última instancia, en parte, ser debido a la alta carga de patógenos que impide el desarrollo económico.",
+      "annotations": [
+        {
+          "question": "¿Qué se vuelve importante debido a la asociación con la poliginia que puede deberse a una mayor carga de patógenos?",
+          "choices": [
+            {
+              "text": "la selección de machos con una alta resistencia genética",
+              "start": 958,
+              "end": 1014,
+              "type": "correct answer"
+            },
+            {
+              "text": "una relación masculina menor",
+              "start": 1416,
+              "end": 1444,
+              "type": "distractor"
+            },
+            {
+              "text": "la mortalidad por enfermedades infecciosas",
+              "start": 1559,
+              "end": 1601,
+              "type": "distractor"
+            },
+            {
+              "text": "mayores preferencias por la salud y el atractivo en parejas",
+              "start": 628,
+              "end": 687,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Muchos de los edificios de Yale fueron construidos en estilo gótico colegial de 1917 a 1931, financiados en gran parte por la escultura de Edward S. Harkness Stone construida en las paredes de los edificios de la universidad contemporánea como un escritor, un atleta. Del mismo modo, los frisos decorativos en los edificios representan escenas contemporáneas como policías persiguiendo a un ladrón y arrestando a una prostituta (en la pared de la Escuela de Derecho), o un estudiante relajándose con una jarra. El arquitecto, James Gamble Rogers, estropeó estos edificios salpicando las paredes con ácido, rompiendo deliberadamente sus ventanas de cristal y reparándolas al estilo de la Edad Media, y creando nichos para simulaciones decorativas. De hecho, los edificios simplemente simulan la arquitectura de la Edad Media, porque aunque parecen estar construidos de bloques de piedra sólida de la manera auténtica, la mayoría tienen armazón de acero como se usó comúnmente en 1930. Una excepción es Harkness Tower, de 216 pies (66 m) de altura, que originalmente era una estructura de piedra independiente. Fue reforzado en 1964 para permitir la instalación del Carillón conmemorativo de Yale.",
+      "annotations": [
+        {
+          "question": "¿Qué diferencia Harkness Tower del resto de los edificios que era original de ella?",
+          "choices": [
+            {
+              "text": "una estructura de piedra independiente",
+              "start": 1069,
+              "end": 1107,
+              "type": "correct answer"
+            },
+            {
+              "text": "los frisos decorativos",
+              "start": 284,
+              "end": 306,
+              "type": "distractor"
+            },
+            {
+              "text": "escenas contemporáneas como policías persiguiendo a un ladrón",
+              "start": 336,
+              "end": 397,
+              "type": "distractor"
+            },
+            {
+              "text": "ventanas de cristal",
+              "start": 636,
+              "end": 655,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Tres dialectos germánicos se hablaban originalmente en los Países Bajos: El frisón en el norte y a lo largo de la costa occidental; Sajón en el este (contiguo a la zona baja alemana); Y Franconia en el centro y el sur. Son los dialectos de Franconia que se designan como neerlandés antiguo, y que se desarrollarían en neerlandés medio y más tarde en neerlandés moderno. La división en estas fases de desarrollo es en su mayoría convencional, ya que la transición entre ellas fue muy gradual. Uno de los pocos momentos en que los lingüistas pueden detectar algo de una revolución es cuando el idioma estándar holandés surgió y se estableció rápidamente. El desarrollo del idioma holandés está ilustrado por la siguiente frase en neerlandés antiguo, medio y moderno:",
+      "annotations": [
+        {
+          "question": "¿En qué zona de los Países Bajos se habla el Sajón?",
+          "choices": [
+            {
+              "text": "este",
+              "start": 144,
+              "end": 148,
+              "type": "correct answer"
+            },
+            {
+              "text": "centro",
+              "start": 202,
+              "end": 208,
+              "type": "distractor"
+            },
+            {
+              "text": "sur",
+              "start": 214,
+              "end": 217,
+              "type": "distractor"
+            },
+            {
+              "text": "norte",
+              "start": 89,
+              "end": 94,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La educación pública en Tayikistán consta de 11 años de educación primaria y secundaria, pero el gobierno tiene planes de implementar un sistema de 12 años en 2016. Hay un número relativamente grande de instituciones de educación terciaria incluyendo la Universidad Estatal de Khujand que tiene 76 departamentos en 15 facultades, la Universidad Estatal de Derecho, Negocios y Política de Tayikistán, la Universidad Estatal de Tayikistán. La mayoría, pero no todas, se establecieron universidades durante la era soviética. A partir de 2008 la matrícula de educación terciaria fue del 17%, significativamente por debajo del promedio subregional del 37%. Muchos tayikos abandonaron el sistema educativo debido a la baja demanda en el mercado laboral de personas con una amplia formación educativa o habilidades profesionales.",
+      "annotations": [
+        {
+          "question": "¿De cuántos años será la educación básica en el 2016?",
+          "choices": [
+            {
+              "text": "15",
+              "start": 315,
+              "end": 317,
+              "type": "distractor"
+            },
+            {
+              "text": "11",
+              "start": 45,
+              "end": 47,
+              "type": "distractor"
+            },
+            {
+              "text": "12",
+              "start": 148,
+              "end": 150,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En noviembre de 1844, el anónimamente publicado libro de ciencia popular Vestiges of the Natural History of Creation, escrito por el periodista escocés Robert Chambers, amplió el interés público en el concepto de transmutación de especies. Los vestigios utilizaron evidencia del registro fósil y la embriología para apoyar la afirmación de que los seres vivos habían progresado de lo simple a lo más complejo con el tiempo. Pero propuso una progresión lineal en lugar de la ramificación de la teoría común de descenso detrás del trabajo de Darwin en progreso, e ignoró la adaptación. Darwin lo leyó poco después de su publicación, y despreció su geología y zoología, pero revisó cuidadosamente sus propios argumentos después de que destacados científicos, incluyendo a Adam Sedgwick, atacaran su moralidad y errores científicos. Los vestigios tuvieron una influencia significativa en la opinión pública, y el intenso debate ayudó a allanar el camino para la aceptación del Origen más científicamente sofisticado al mover la especulación evolutiva a la corriente principal. Aunque pocos naturalistas estaban dispuestos a considerar la transmutación, Herbert Spencer se convirtió en un activo defensor del lamarckismo y el desarrollo progresivo en la década de 1850.",
+      "annotations": [
+        {
+          "question": "¿Quién era un activo defensor del movimiento del lamarckismo?",
+          "choices": [
+            {
+              "text": "Herbert Spencer",
+              "start": 1149,
+              "end": 1164,
+              "type": "correct answer"
+            },
+            {
+              "text": "Darwin",
+              "start": 584,
+              "end": 590,
+              "type": "distractor"
+            },
+            {
+              "text": "Adam Sedgwick",
+              "start": 769,
+              "end": 782,
+              "type": "distractor"
+            },
+            {
+              "text": "Robert Chambers",
+              "start": 152,
+              "end": 167,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los ferrocarriles deben operar a velocidades variables. Hasta mediados de la década de 1980 esto solo era práctico con el motor DC de tipo cepillo, aunque tal CC puede ser suministrado desde un catenario AC a través de la conversión de energía eléctrica a bordo. Dado que tal conversión no estaba bien desarrollada a finales del siglo XIX y principios del siglo XX, la mayoría de los primeros ferrocarriles electrificados utilizaron DC y muchos todavía lo hacen, particularmente el tránsito rápido (subterráneos) y tranvías. La velocidad se controlaba conectando los motores de tracción en varias combinaciones en serie paralela, variando los campos de los motores de tracción, e insertando y eliminando resistencias de partida para limitar la corriente motora.",
+      "annotations": [
+        {
+          "question": "¿Qué corriente usaban los primeros ferrocarriles electrificados?",
+          "choices": [
+            {
+              "text": "DC",
+              "start": 433,
+              "end": 435,
+              "type": "correct answer"
+            },
+            {
+              "text": "CC",
+              "start": 159,
+              "end": 161,
+              "type": "distractor"
+            },
+            {
+              "text": "AC",
+              "start": 204,
+              "end": 206,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Muchas especies del segundo linaje de aves importante para diversificar, las Euornithes (que significa \"aves verdaderas\", porque incluyen a los antepasados de las aves modernas), eran semiacuáticas y especializadas en comer peces y otros pequeños organismos acuáticos. A diferencia de las enantiornithes, que dominaban los hábitats terrestres y arbóreos, la mayoría de las Euornithes carecían de adaptaciones para posarse y parecen haber incluido especies similares a las aves costeras. Estos últimos incluyeron a Ichthyornis como gaviota, los Hesperornithiformes, que se adaptaron tan bien a la caza de peces en ambientes marinos que perdieron la capacidad de volar y se convirtieron principalmente en acuáticos. Los primeros Euornithes también vieron el desarrollo de muchos rasgos asociados con las aves modernas, como los félidos fuertemente quillados, sin dientes, porciones de sus mandíbulas (aunque la mayoría de los Euornithes no avianos). Euornithes también incluyó a los primeros aviales en desarrollar pigóstilo verdadero y un abanico totalmente móvil de plumas de cola, que pueden haber reemplazado al \"ala trasera\" como el principal modo de maniobrabilidad aérea y frenado en vuelo.",
+      "annotations": [
+        {
+          "question": "¿Qué le faltaba a la mayoría de las Euornithes a diferencia de las enantiornithes?",
+          "choices": [
+            {
+              "text": "adaptaciones para posarse",
+              "start": 396,
+              "end": 421,
+              "type": "correct answer"
+            },
+            {
+              "text": "los félidos fuertemente quillados",
+              "start": 822,
+              "end": 855,
+              "type": "distractor"
+            },
+            {
+              "text": "desarrollar pigóstilo verdadero",
+              "start": 1001,
+              "end": 1032,
+              "type": "distractor"
+            },
+            {
+              "text": "un abanico totalmente móvil de plumas de cola",
+              "start": 1035,
+              "end": 1080,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La fortuna personal de Isabel ha sido objeto de especulación durante muchos años. Jock Colville, que era su ex secretario privado y director de su banco, Coutts, estimó su riqueza en 1971 en £2 millones (equivalente a alrededor de £25 millones hoy). En 1993, el Palacio de Buckingham llamó a las estimaciones de £100 millones \"groseramente exageradas\". Heredó un patrimonio estimado de £70 millones de su madre en 2002. The Sunday Times Rich List 2015 estimó su riqueza privada en 340 millones de libras, convirtiéndola en la 302ª persona más rica del Reino Unido.",
+      "annotations": [
+        {
+          "question": "¿Qué estimación de dinero era para el Palacio de Buckingham \"groseramente exageradas\"?",
+          "choices": [
+            {
+              "text": "£70 millones",
+              "start": 386,
+              "end": 398,
+              "type": "distractor"
+            },
+            {
+              "text": "£100 millones",
+              "start": 312,
+              "end": 325,
+              "type": "correct answer"
+            },
+            {
+              "text": "£25 millones",
+              "start": 231,
+              "end": 243,
+              "type": "distractor"
+            },
+            {
+              "text": "£2 millones",
+              "start": 191,
+              "end": 202,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Nanjing tiene algunos de los museos más antiguos y mejores de China. El Museo de Nankín, anteriormente conocido como Museo Central Nacional durante el período de la República de China, es el primer museo moderno y sigue siendo uno de los principales museos de China con 400.000 artículos en su colección permanente,. El museo es notable por las enormes colecciones de porcelana imperial Ming y Qing, que está entre las más grandes del mundo. Otros museos incluyen el Museo Geológico de Nanjing, el Museo Geológico de Nanjing, el Museo de Historia Moderna de China en el Palacio Presidencial, el Salón de la Masacre de Nanjing, el Museo Histórico del Reino Taiping.",
+      "annotations": [
+        {
+          "question": "¿Cómo se conocía antes el Museo de Nankín?",
+          "choices": [
+            {
+              "text": "Museo Central Nacional",
+              "start": 117,
+              "end": 139,
+              "type": "correct answer"
+            },
+            {
+              "text": "Museo Geológico de Nanjing",
+              "start": 467,
+              "end": 493,
+              "type": "distractor"
+            },
+            {
+              "text": "Museo Geológico de Nanjing",
+              "start": 498,
+              "end": 524,
+              "type": "distractor"
+            },
+            {
+              "text": "Museo Histórico del Reino Taiping",
+              "start": 630,
+              "end": 663,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En la cría de campo libre, las aves pueden vagar libremente al aire libre durante al menos una parte del día. A menudo, se encuentra en grandes recintos, pero las aves tienen acceso a condiciones naturales y pueden exhibir sus comportamientos normales. Un sistema más intensivo es la caza, en la que las aves tienen acceso a un patio vallado y una casa de aves de corral a una tasa más alta de almacenamiento. Las aves de corral también se pueden mantener en un sistema de graneros, sin acceso al aire libre, pero con la capacidad de moverse libremente dentro del edificio. El sistema más intensivo para las gallinas que ponen huevos es las jaulas de la batería, a menudo en múltiples niveles. En estos, varias aves comparten una jaula pequeña que restringe su capacidad de moverse y comportarse de una manera normal. Los huevos se ponen en el suelo de la jaula y se enrollan en valles fuera para facilitar su recolección. Las jaulas de batería para gallinas han sido ilegales en la UE desde el 1 de enero de 2012.",
+      "annotations": [
+        {
+          "question": "¿Cuál es el sistema más intensivo para las gallinas que ponen huevos?",
+          "choices": [
+            {
+              "text": "las jaulas de la batería",
+              "start": 637,
+              "end": 661,
+              "type": "correct answer"
+            },
+            {
+              "text": "el sistema de graneros",
+              "start": 462,
+              "end": 481,
+              "type": "distractor"
+            },
+            {
+              "text": "el patio vallado",
+              "start": 328,
+              "end": 341,
+              "type": "distractor"
+            },
+            {
+              "text": "la casa de aves de corral",
+              "start": 348,
+              "end": 370,
+              "type": "distractor"
+            },
+            {
+              "text": "la cría de campo libre",
+              "start": 3,
+              "end": 25,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Todas las versiones de SNES son predominantemente grises, aunque el tono exacto puede diferir. La versión original de América del Norte, diseñada por el diseñador industrial de Nintendo of America Lance Barr (quien previamente rediseñó la Famicom para convertirse en la NES), tiene un diseño cuadrado con interruptores deslizantes morados y una palanca de expulsión gris oscuro. La superficie de la bahía de carga es curva, tanto para invitar a la interacción y para evitar que los alimentos o bebidas se colocan en la consola y el derrame como había ocurrido con la NES cubierta plana. Las versiones japonesa y europea son más redondeadas, con acentos y botones grises más oscuros. El modelo norteamericano SNS-101 y el japonés Super Famicom Jr. (El modelo SHVC-101), todos diseñados por Barr, son ambos más pequeños con un contorno redondeado; Sin embargo, los botones SNS-101 son púrpuras donde los botones de Super Famicom Jr. son grises. Las versiones europeas y americanas de los controladores SNES tienen cables mucho más largos en comparación con los controladores japoneses Super Famicom.",
+      "annotations": [
+        {
+          "question": "¿En qué se diferencian los controladores SNES europeos y americanos de los controladores japoneses?",
+          "choices": [
+            {
+              "text": "cables mucho más largos",
+              "start": 1012,
+              "end": 1035,
+              "type": "correct answer"
+            },
+            {
+              "text": "un diseño cuadrado con interruptores deslizantes morados",
+              "start": 282,
+              "end": 338,
+              "type": "distractor"
+            },
+            {
+              "text": "una palanca de expulsión gris oscuro",
+              "start": 341,
+              "end": 377,
+              "type": "distractor"
+            },
+            {
+              "text": "acentos y botones grises más oscuros",
+              "start": 645,
+              "end": 681,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El 7 de abril de 1989, tropas soviéticas y transportes blindados de personal fueron enviados a Tiflis después de que más de 100.000 personas protestaran frente a la sede del Partido Comunista con pancartas pidiendo a Georgia que se separara de la Unión Soviética. El 9 de abril de 1989, las tropas atacaron a los manifestantes. Unas 20 personas murieron y más de 200 resultaron heridas. Este evento radicalizó la política georgiana, lo que llevó a muchos a concluir que la independencia era preferible a la continuación del gobierno soviético. El 14 de abril, Gorbachov destituyó a Jumber Patiashvili como primer secretario del Partido Comunista de Georgia y lo reemplazó con el ex jefe de la KGB georgiana Givi Gumbaridze.",
+      "annotations": [
+        {
+          "question": "¿Qué evento sucedió el 14 de abril?",
+          "choices": [
+            {
+              "text": "tropas soviéticas y transportes blindados de personal fueron enviados a Tiflis",
+              "start": 23,
+              "end": 101,
+              "type": "distractor"
+            },
+            {
+              "text": "Gorbachov destituyó a Jumber Patiashvili como primer secretario del Partido Comunista de Georgia",
+              "start": 560,
+              "end": 656,
+              "type": "correct answer"
+            },
+            {
+              "text": "las tropas atacaron a los manifestantes",
+              "start": 287,
+              "end": 326,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 2016, la población de Israel se estimó en 8.476.600 millones de personas, de los cuales 6.345.400 (74.9%) fueron registrados por el gobierno civil como judíos. 1.760.400 árabes comprendían el 20,7% de la población, mientras que los no árabes cristianos y personas que no tienen religión en el registro civil representan el 4,4%. Durante la última década, un gran número de trabajadores migrantes de Rumania, Tailandia, China, África y América del Sur se han establecido en Israel. Las cifras exactas son desconocidas, ya que muchos de ellos viven ilegalmente en el país, pero las estimaciones se ejecutan en la región de 203.000. En junio de 2012, aproximadamente 60.000 inmigrantes africanos habían entrado en Israel. Alrededor del 92% de los israelíes viven en áreas urbanas.",
+      "annotations": [
+        {
+          "question": "¿Qué porcentaje de los israelíes viven en zonas urbanas?",
+          "choices": [
+            {
+              "text": "92%",
+              "start": 736,
+              "end": 739,
+              "type": "correct answer"
+            },
+            {
+              "text": "74.9%",
+              "start": 102,
+              "end": 107,
+              "type": "distractor"
+            },
+            {
+              "text": "20,7%",
+              "start": 195,
+              "end": 200,
+              "type": "distractor"
+            },
+            {
+              "text": "4,4%",
+              "start": 326,
+              "end": 330,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de perder un juego de extra-innings en el Juego 1, los Cubs tuvieron una ventaja de 3 juegos a 1 sobre los Wild Card Florida Marlins en la Serie de Campeonato Nacional. Florida cerró a los Cachorros en el Juego 5, pero el joven lanzador Mark Prior lideró a los Cachorros en el Juego 6 ya que tomaron una ventaja de 3-0 en la octava entrada y fue en este punto cuando tuvo lugar un incidente ahora infame. Varios espectadores intentaron atrapar una bola de falta del bate de Luis Castillo. Un fan de los Cachorros de Chicago con el nombre de Steve Bartman, de Northbrook, Illinois, alcanzó el balón y lo desvió del guante de Moisés Alou para el segundo out de la octava entrada. Alou reaccionó airadamente hacia las gradas, y después del juego declaró que habría cogido la pelota. Alou en un momento se retractó, diciendo que no habría sido capaz de hacer la obra, pero más tarde dijo que esto era sólo un intento de hacer que Bartman se sintiera mejor y creyendo que todo el incidente debería ser olvidado. La interferencia no fue llamada a la jugada, ya que se dictaminó que la pelota estaba en el lado del espectador de la pared. Castillo fue finalmente caminado por Prior. Dos bateadores más tarde, y para disgusto del estadio lleno, el campocorto Alex González jugó mal un juego doble final de entrada, cargando las bases y llevando a ocho carreras de Florida y una victoria de Marlin. A pesar de enviar a Kerry Wood al montículo y mantener una ventaja dos veces, los Cubs finalmente cayeron el Juego 7, y no pudieron llegar a la Serie Mundial.",
+      "annotations": [
+        {
+          "question": "¿Cuál juego de las eliminatorias fue controversial por la interferencia de un espectador?",
+          "choices": [
+            {
+              "text": "Juego 5",
+              "start": 213,
+              "end": 220,
+              "type": "distractor"
+            },
+            {
+              "text": "Juego 1",
+              "start": 50,
+              "end": 57,
+              "type": "distractor"
+            },
+            {
+              "text": "Juego 7",
+              "start": 1507,
+              "end": 1514,
+              "type": "distractor"
+            },
+            {
+              "text": "Juego 6",
+              "start": 285,
+              "end": 292,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El cine alemán se remonta a los primeros años del medio con el trabajo de Max Skladanowsky. Fue particularmente influyente durante los años de la República de Weimar con expresionistas alemanes como Robert Wiene y Friedrich Wilhelm Murnau. La era nazi produjo principalmente películas de propaganda, aunque el trabajo de Leni Riefenstahl todavía introdujo nueva estética en el cine. Desde la década de 1960, directores de cine alemanes como Volker Schlöndorff, Werner Herzog, Wim Wenders, Rainer Werner Fassbinder colocaron el cine alemán de nuevo en el escenario internacional con sus películas a menudo provocativas.",
+      "annotations": [
+        {
+          "question": "¿Quién fue de los primeros protagonistas del cine alemán?",
+          "choices": [
+            {
+              "text": "Max Skladanowsky",
+              "start": 74,
+              "end": 90,
+              "type": "correct answer"
+            },
+            {
+              "text": "Robert Wiene",
+              "start": 199,
+              "end": 211,
+              "type": "distractor"
+            },
+            {
+              "text": "Volker Schlöndorff",
+              "start": 441,
+              "end": 459,
+              "type": "distractor"
+            },
+            {
+              "text": "Friedrich Wilhelm Murnau",
+              "start": 214,
+              "end": 238,
+              "type": "distractor"
+            },
+            {
+              "text": "Wim Wenders",
+              "start": 476,
+              "end": 487,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Ciudad de México es uno de los centros económicos más importantes de América Latina. La ciudad propiamente dicha (Distrito Federal) produce el 15,8% del producto interno bruto del país. Según un estudio realizado por el PwC, la Ciudad de México tenía un PIB de $390 mil millones, lo que la clasificó como la octava ciudad más rica del mundo después de las áreas metropolitanas más ricas de Tokio, Nueva York. Excluyendo el resto de la economía mexicana, la Ciudad de México por sí sola sería la 30 economía más grande del mundo. La Ciudad de México es el mayor contribuyente al PIB industrial del país (15,8%) y también el mayor contribuyente al PIB del país en el sector servicios (25,3%). Debido al limitado espacio no urbanizado en el sur - la mayoría de los cuales están protegidos a través de leyes ambientales - la contribución del Distrito Federal en la agricultura es la más pequeña de todas las entidades federales en el país. La Ciudad de México tiene una de las economías de más rápido crecimiento y su PIB se duplicará en 2020.",
+      "annotations": [
+        {
+          "question": "¿En qué sector el Distrito Federal tiene la aportación más pequeña de todas las entidades federales del país?",
+          "choices": [
+            {
+              "text": "agricultura",
+              "start": 864,
+              "end": 875,
+              "type": "correct answer"
+            },
+            {
+              "text": "sector servicios",
+              "start": 668,
+              "end": 684,
+              "type": "distractor"
+            },
+            {
+              "text": "industrial",
+              "start": 585,
+              "end": 595,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En asuntos militares, el uso de infantería con roles especializados aumentó. Junto con la caballería pesada todavía dominante, los ejércitos a menudo incluían ballesteros montados e infantería, así como zapadores e ingenieros. Las ballestas, que habían sido conocidas en la Antigüedad tardía, aumentaron en uso en parte debido al aumento de la guerra de asedio en los siglos X y XI. [AB] El creciente uso de ballestas durante los siglos XII y XIII llevó al uso de cascos cerrados, armadura pesada del cuerpo, así como armadura de caballos. La pólvora era conocida en Europa a mediados del siglo XIII con un uso registrado en la guerra europea por los ingleses contra los escoceses en 1304, aunque simplemente fue utilizada como un explosivo y no como un arma. Los cañones estaban siendo utilizados para asedios en la década de 1320, y los cañones de mano estaban en uso en la década de 1360.",
+      "annotations": [
+        {
+          "question": "¿En qué siglo se sabe que había pólvora en las guerras por el uso registrado en la guerra europea por los ingleses contra los escoceses?",
+          "choices": [
+            {
+              "text": "XIII",
+              "start": 595,
+              "end": 599,
+              "type": "correct answer"
+            },
+            {
+              "text": "X",
+              "start": 375,
+              "end": 377,
+              "type": "distractor"
+            },
+            {
+              "text": "XII",
+              "start": 437,
+              "end": 440,
+              "type": "distractor"
+            },
+            {
+              "text": "XI",
+              "start": 379,
+              "end": 381,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En países como Irán, Finlandia, Malasia, Portugal, Singapur o el Reino Unido, a menudo hay una distinción significativa y confusa entre la politécnica y las universidades. En el Reino Unido surgió un sistema binario de educación superior formado por universidades (orientación de investigación) y politécnicas (ingeniería y ciencia aplicada y orientación práctica profesional). Polytechnics ofreció títulos universitarios equivalentes de licenciatura, maestría y doctorado que fueron validados y gobernados a nivel nacional por el Consejo independiente del Reino Unido para Premios Académicos Nacionales. En 1992, las politécnicas del Reino Unido fueron designadas como universidades lo que significaba que podían otorgar sus propios grados. La CNAA fue disuelta. El primer politécnico del Reino Unido, la Royal Polytechnic Institution (ahora la Universidad de Westminster) fue fundada en 1838 en Regent Street, Londres. En Irlanda, el término instituto de tecnología es el sinónimo más favorecido de una universidad técnica regional aunque este último es el término legalmente correcto. Sin embargo, el Instituto de Tecnología de Dublín es una universidad en todo menos el nombre, ya que puede otorgar grados de acuerdo con la ley, el Instituto de Tecnología de Cork y otros Institutos de Tecnología han delegado la autoridad de HETAC.",
+      "annotations": [
+        {
+          "question": "¿De qué país fue el primer politécnico, el Royal Polytechnic Institution?",
+          "choices": [
+            {
+              "text": "Reino Unido",
+              "start": 790,
+              "end": 801,
+              "type": "correct answer"
+            },
+            {
+              "text": "Malasia",
+              "start": 32,
+              "end": 39,
+              "type": "distractor"
+            },
+            {
+              "text": "Finlandia",
+              "start": 21,
+              "end": 30,
+              "type": "distractor"
+            },
+            {
+              "text": "Portugal",
+              "start": 41,
+              "end": 49,
+              "type": "distractor"
+            },
+            {
+              "text": "Irlanda",
+              "start": 924,
+              "end": 931,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El capítulo X examina si los patrones en el registro fósil están mejor explicados por la evolución común y la ramificación a través de la selección natural, que por la creación individual de especies fijas. Darwin esperaba que las especies cambiaran lentamente, pero no al mismo ritmo: Algunos organismos como Lingula no cambiaron desde los primeros fósiles. El ritmo de la selección natural dependería de la variabilidad y el cambio en el medio ambiente. Esto distanció su teoría de las leyes lamarckianas de progreso inevitable. Se ha argumentado que esto anticipaba la hipótesis del equilibrio puntuado, pero otros estudiosos han preferido enfatizar el compromiso de Darwin con el gradualismo. Citó los hallazgos de Richard Owen que los primeros miembros de una clase eran unas pocas especies simples y generalizadas con características intermedias entre las formas modernas, y fueron seguidos por formas cada vez más diversas y especializadas. Los patrones de extinción coincidieron con su teoría, con grupos relacionados de especies que tienen una existencia continua hasta la extinción, y luego no reaparecen. Las especies recientemente extintas eran más similares a las especies vivas que las de épocas anteriores, y como lo había visto en América del Sur, y William Clift había mostrado en Australia, los fósiles de períodos geológicos recientes se asemejaban a especies.",
+      "annotations": [
+        {
+          "question": "¿Cómo coincidieron los patrones de extinción con la teoría de Darwin?",
+          "choices": [
+            {
+              "text": "con grupos relacionados de especies que tienen una existencia continua hasta la extinción, y luego no reaparecen",
+              "start": 1002,
+              "end": 1114,
+              "type": "correct answer"
+            },
+            {
+              "text": "los patrones en el registro fósil están mejor explicados por la evolución común y la ramificación a través de la selección natural",
+              "start": 25,
+              "end": 155,
+              "type": "distractor"
+            },
+            {
+              "text": "los primeros miembros de una clase eran unas pocas especies simples y generalizadas con características intermedias entre las formas modernas",
+              "start": 736,
+              "end": 877,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Antes de la Guerra Civil Estadounidense, Baptists se vio envuelto en la controversia sobre la esclavitud en los Estados Unidos. Mientras que en el Primer Gran Despertar, los predicadores metodistas y bautistas se habían opuesto a la esclavitud e instaron a la manumisión, a lo largo de las décadas hicieron más de un alojamiento con la institución. Trabajaron con los propietarios de esclavos en el Sur para instar a una institución paternalista. Ambas denominaciones hicieron apelaciones directas a esclavos y negros libres para la conversión. Los bautistas en particular les permitieron roles activos en las congregaciones. A mediados del siglo XIX, los bautistas del norte tendían a oponerse a la esclavitud. A medida que aumentaban las tensiones, en 1844 la Home Mission Society se negó a nombrar a un esclavista como misionero que había sido propuesto por Georgia. Señaló que los misioneros no podían llevar sirvientes con ellos, y también que la Junta no quería parecer tolerar la esclavitud.",
+      "annotations": [
+        {
+          "question": "¿Qué grupo apuntó la Home Mission Society que no podían llevar sirvientes con ellos?",
+          "choices": [
+            {
+              "text": "misioneros",
+              "start": 885,
+              "end": 895,
+              "type": "correct answer"
+            },
+            {
+              "text": "metodistas",
+              "start": 187,
+              "end": 197,
+              "type": "distractor"
+            },
+            {
+              "text": "bautistas",
+              "start": 200,
+              "end": 209,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Otra aproximación a la función cerebral es examinar las consecuencias del daño a áreas específicas del cerebro. Aunque está protegido por el cráneo y las meninges, rodeado de líquido cefalorraquídeo, y aislado del torrente sanguíneo por la barrera hematoencefálica, la delicada naturaleza del cerebro lo hace vulnerable. En los humanos, los efectos de los accidentes cerebrovasculares y otros tipos de daño cerebral han sido una fuente clave de información sobre la función cerebral. Sin embargo, debido a que no hay capacidad de controlar experimentalmente la naturaleza del daño, esta información es a menudo difícil de interpretar. En estudios de animales, más comúnmente con ratas, es posible utilizar electrodos o productos químicos inyectados localmente para producir patrones precisos de daño y luego examinar las consecuencias para el comportamiento.",
+      "annotations": [
+        {
+          "question": "¿Qué aísla al cerebro del torrente sanguíneo?",
+          "choices": [
+            {
+              "text": "el cráneo",
+              "start": 138,
+              "end": 147,
+              "type": "distractor"
+            },
+            {
+              "text": "las meninges",
+              "start": 150,
+              "end": 162,
+              "type": "distractor"
+            },
+            {
+              "text": "la barrera hematoencefálica",
+              "start": 237,
+              "end": 264,
+              "type": "correct answer"
+            },
+            {
+              "text": "el líquido cefalorraquídeo",
+              "start": 175,
+              "end": 198,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los métodos de compresión Lempel-Ziv (LZ) están entre los algoritmos más populares para el almacenamiento sin pérdidas. Deflate es una variación de LZ optimizada para la velocidad de descompresión y la relación de compresión, pero la compresión puede ser lenta. Deflate se utiliza en PKZIP, gzip y PNG. LZW (Lempel-Ziv-Welch) se utiliza en imágenes GIF. También cabe destacar el algoritmo LZR (Lempel-Ziv-Renau), que sirve de base para el método Zip. Los métodos LZ utilizan un modelo de compresión basado en tablas donde las entradas de la tabla son sustituidas por cadenas repetidas de datos. Para la mayoría de los métodos LZ, esta tabla se genera dinámicamente a partir de datos anteriores en la entrada. La tabla en sí es a menudo codificada por Huffman (e.g. Shri, LZX). Los actuales esquemas de codificación basados en LZ que funcionan bien son Brotli y LZX. LZX se utiliza en el formato CAB de Microsoft.",
+      "annotations": [
+        {
+          "question": "¿Qué característica es única del algoritmo LZR?",
+          "choices": [
+            {
+              "text": "la compresión puede ser lenta",
+              "start": 231,
+              "end": 260,
+              "type": "distractor"
+            },
+            {
+              "text": "sirve de base para el método Zip",
+              "start": 417,
+              "end": 449,
+              "type": "correct answer"
+            },
+            {
+              "text": "es a menudo codificada por Huffman",
+              "start": 724,
+              "end": 758,
+              "type": "distractor"
+            },
+            {
+              "text": "optimizada para la velocidad de descompresión y la relación de compresión",
+              "start": 151,
+              "end": 224,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Ante esta pérdida de empresas, Valencia sufrió una grave crisis económica. Esto se manifestó a principios de 1519-1523 cuando los gremios de artesanos conocidos como las Germanías se rebelaron contra el gobierno del rey de los Habsburgo Carlos I en Valencia, ahora parte de la Corona de Aragón, con la mayoría de 1521. La revuelta fue un movimiento anti-monárquico, anti-feudal autonomista inspirado en las repúblicas italianas, y una revuelta social contra la nobleza que había huido de la ciudad antes de una epidemia de peste en 1519. También tuvo un fuerte aspecto antiislámico, ya que los rebeldes se rebelaron contra la población de mudéjares de Aragón e impusieron conversiones forzadas al cristianismo.",
+      "annotations": [
+        {
+          "question": "¿En qué año fue la epidemia de peste?",
+          "choices": [
+            {
+              "text": "1519",
+              "start": 532,
+              "end": 536,
+              "type": "correct answer"
+            },
+            {
+              "text": "1521",
+              "start": 313,
+              "end": 317,
+              "type": "distractor"
+            },
+            {
+              "text": "1523",
+              "start": 114,
+              "end": 118,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El reinado de Jorge VI vio la aceleración de la disolución del Imperio Británico. El Estatuto de Westminster de 1931 ya había reconocido la evolución de los Dominios en estados soberanos separados. El proceso de transformación de un imperio a una asociación voluntaria de estados independientes, conocida como la Mancomunidad, se aceleró después de la Segunda Guerra Mundial. Durante el ministerio de Clement Attlee, la India británica se convirtió en los dos dominios independientes de la India y Pakistán en 1947. Jorge renunció al título de emperador de la India, y se convirtió en rey de la India y de Pakistán en su lugar. En 1950 dejó de ser Rey de la India cuando se convirtió en una república dentro de la Mancomunidad de Naciones, pero permaneció como Rey de Pakistán hasta su muerte e India reconoció su nuevo título de Jefe de la Mancomunidad. Otros países abandonaron la Mancomunidad, como Birmania en enero de 1948, Palestina (dividida entre Israel y los estados árabes) en mayo de 1948 y la República de Irlanda en 1949.",
+      "annotations": [
+        {
+          "question": "¿Qué país abandonó la mancomunidad en 1949?",
+          "choices": [
+            {
+              "text": "República de Irlanda",
+              "start": 1005,
+              "end": 1025,
+              "type": "correct answer"
+            },
+            {
+              "text": "Birmania",
+              "start": 902,
+              "end": 910,
+              "type": "distractor"
+            },
+            {
+              "text": "Palestina",
+              "start": 929,
+              "end": 938,
+              "type": "distractor"
+            },
+            {
+              "text": "Pakistán",
+              "start": 768,
+              "end": 776,
+              "type": "distractor"
+            },
+            {
+              "text": "India",
+              "start": 595,
+              "end": 600,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El abdomen es el mayor tagma del insecto, que típicamente consta de 11-12 segmentos y está menos esclerotizado que la cabeza o el tórax. Cada segmento del abdomen está representado por un tergum esclerotizado y un esternón. Los terga están separados entre sí y del esternón adyacente o pleura por membranas. Los espiráculos se encuentran en el área pleural. La variación de esta planta incluye la fusión de terga o terga y esternón para formar escudos dorsales o ventrales continuos o un tubo cónico. Algunos insectos tienen un esclerito en el área pleural llamado laterotergite. Los escleritos ventrales a veces se llaman laterosternitos. Durante la etapa embrionaria de muchos insectos y la etapa postembrionaria de insectos primitivos, 11 segmentos abdominales están presentes. En los insectos modernos hay una tendencia a la reducción en el número de segmentos abdominales, pero el número primitivo de 11 se mantiene durante la embriogénesis. La variación en el número de segmento abdominal es considerable. Si el Apterygota se considera indicativo del plan fundamental para los pterigotas, reina la confusión: Adulto Protura tiene 12 segmentos, Collembola tiene 6. La familia Orthopteran Acrididae tiene 11 segmentos, y un espécimen fósil de Zoraptera tiene un abdomen de 10 segmentos.",
+      "annotations": [
+        {
+          "question": "¿Cómo se llama el esclerito en el área pleural que tienen algunos insectos?",
+          "choices": [
+            {
+              "text": "laterotergite",
+              "start": 565,
+              "end": 578,
+              "type": "correct answer"
+            },
+            {
+              "text": "esternón",
+              "start": 423,
+              "end": 431,
+              "type": "distractor"
+            },
+            {
+              "text": "tórax",
+              "start": 130,
+              "end": 135,
+              "type": "distractor"
+            },
+            {
+              "text": "terga",
+              "start": 228,
+              "end": 233,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Tras la muerte de Huan, Dou Wu y el Gran Tutor Chen Fan intentaron un golpe de Estado contra los eunucos Hou Lan (d. Cuando se descubrió el complot, los eunucos arrestaron a la emperatriz viuda Dou (f. 172) y a Chen Fan. El general Zhang Huan (張.) favoreció a los eunucos. Él y sus tropas se enfrentaron a Dou Wu y sus sirvientes en la puerta del palacio donde cada lado gritaba acusaciones de traición contra el otro. Cuando los criados desertaron gradualmente de Dou Wu, se vio obligado a suicidarse.",
+      "annotations": [
+        {
+          "question": "¿A quién arrestaron los eunucos?",
+          "choices": [
+            {
+              "text": "Chen Fan",
+              "start": 211,
+              "end": 219,
+              "type": "correct answer"
+            },
+            {
+              "text": "Dou Wu",
+              "start": 24,
+              "end": 30,
+              "type": "distractor"
+            },
+            {
+              "text": "Zhang Huan",
+              "start": 232,
+              "end": 242,
+              "type": "distractor"
+            },
+            {
+              "text": "Hou Lan",
+              "start": 105,
+              "end": 112,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1928, obtuvo un doctorado en psicología, bajo la supervisión de Karl Bühler. Su tesis se tituló \"Die Methodenfrage der Denkpsychologie\" (La cuestión del método en la psicología cognitiva). En 1929 obtuvo la autorización para enseñar matemáticas y física en la escuela secundaria. Se casó con su colega Josefine Anna Henninger (1906-1985) en 1930. Temiendo el ascenso del nazismo y la amenaza del Anschluss, comenzó a utilizar las tardes y las noches para escribir su primer libro Die beiden Grundprobleme Fundamentder Erkenntnistheorie Knowledge. Necesitaba publicar una para obtener algún puesto académico en un país seguro para las personas de ascendencia judía. Sin embargo, no publicó la obra de dos volúmenes, sino una versión condensada de ella con algún nuevo material, Logik der Forschung (La lógica de los descubrimientos científicos), en 1934. Aquí, criticó el psychogismo, el naturalismo, el induccionismo y el positivismo lógico, y expuso su teoría de la falsabilidad potencial como el criterio de demarcación de la ciencia de la no ciencia. En 1935 y 1936, se tomó una licencia sin pagar para ir al Reino Unido para una visita de estudio.",
+      "annotations": [
+        {
+          "question": "¿Con qué fin buscaba poder publicar algo para obtener esto?",
+          "choices": [
+            {
+              "text": "algún puesto académico en un país seguro para las personas de ascendencia judía",
+              "start": 587,
+              "end": 666,
+              "type": "correct answer"
+            },
+            {
+              "text": "una versión condensada de ella con algún nuevo material",
+              "start": 723,
+              "end": 778,
+              "type": "distractor"
+            },
+            {
+              "text": "su teoría de la falsabilidad potencial",
+              "start": 954,
+              "end": 992,
+              "type": "distractor"
+            },
+            {
+              "text": "el criterio de demarcación de la ciencia de la no ciencia",
+              "start": 998,
+              "end": 1055,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La tuberculosis es la segunda causa más común de muerte por enfermedades infecciosas (después de las debidas al VIH / SIDA). El número total de casos de tuberculosis ha estado disminuyendo desde 2005, mientras que los nuevos casos han disminuido desde 2002. China ha logrado avances particularmente dramáticos, con una reducción del 80% en su tasa de mortalidad por TB entre 1990 y 2010. El número de nuevos casos ha disminuido en un 17% entre 2004-2014. La tuberculosis es más común en los países en desarrollo; Aproximadamente el 80% de la población en muchos países asiáticos y africanos da positivo en las pruebas de tuberculina, mientras que sólo el 5-10% de la población de Estados Unidos da positivo. Las esperanzas de controlar totalmente la enfermedad han disminuido drásticamente debido a una serie de factores, incluyendo la dificultad de desarrollar una vacuna eficaz, el costoso y largo proceso de diagnóstico, la necesidad de muchos meses de tratamiento, el aumento de la tuberculosis asociada.",
+      "annotations": [
+        {
+          "question": "¿Qué dato se relaciona a la tuberculosis en el periodo entre 2004 y 2014?",
+          "choices": [
+            {
+              "text": "una reducción del 80% en su tasa de mortalidad por TB",
+              "start": 315,
+              "end": 368,
+              "type": "distractor"
+            },
+            {
+              "text": "ha disminuido en un 17%",
+              "start": 414,
+              "end": 437,
+              "type": "correct answer"
+            },
+            {
+              "text": "el 80% de la población en muchos países asiáticos y africanos da positivo en las pruebas de tuberculina",
+              "start": 529,
+              "end": 632,
+              "type": "distractor"
+            },
+            {
+              "text": "sólo el 5-10% de la población de Estados Unidos da positivo",
+              "start": 647,
+              "end": 706,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El año 2000 trajo un mayor interés en la AFL. Louis Rams quarterback Kurt Warner, que fue MVP del Super Bowl XXXIV, fue notado por primera vez porque jugó como quarterback para los Iowa Barnstormers de la AFL. Mientras que muchos comentaristas deportivos y aficionados continuaron ridiculizando a la liga, la historia de Warner dio a la liga una exposición positiva, y trajo a la liga un nuevo acuerdo de televisión con TNN, que, a diferencia de ESPN. Aunque no era financieramente lucrativo, ayudó a establecer el escenario para lo que la liga se convertiría en el nuevo milenio. Además, el año también trajo una liga derivada, la AF2, destinada a ser una liga de desarrollo, comparable a la NFL Europa de la National Football League. Hubo una gran expansión en la década de 2000. Los equipos de expansión incluyeron Austin Wranglers, Carolina Cobras, Los Angeles Avengers, Chicago Rush, Detroit Fury, Dallas Desperados, Colorado Crush, New Orleans Voodoo, Philadelphia Soul, Nashville Kats, Kansas City Brigade. Algunos de estos equipos, incluidos los Crush, Desperados, Kats y Voodoo, eran propiedad del mismo grupo que poseía los equipos de la NFL en sus ciudades anfitrionas. La NFL compró, pero nunca ejerció, una opción para comprar un interés importante de la AFL. De todos estos equipos, sólo el Soul todavía compite en la AFL a partir de ahora.",
+      "annotations": [
+        {
+          "question": "¿En qué equipo de la AFL jugo Kurt Warner donde fue notado por primera vez?",
+          "choices": [
+            {
+              "text": "Iowa Barnstormers",
+              "start": 181,
+              "end": 198,
+              "type": "correct answer"
+            },
+            {
+              "text": "Los Angeles Avengers",
+              "start": 853,
+              "end": 873,
+              "type": "distractor"
+            },
+            {
+              "text": "Colorado Crush",
+              "start": 922,
+              "end": 936,
+              "type": "distractor"
+            },
+            {
+              "text": "Austin Wranglers",
+              "start": 818,
+              "end": 834,
+              "type": "distractor"
+            },
+            {
+              "text": "Detroit Fury",
+              "start": 889,
+              "end": 901,
               "type": "distractor"
             }
           ]

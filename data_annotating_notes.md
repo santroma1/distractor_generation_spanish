@@ -365,29 +365,45 @@ Total 50
 48. Capital Letters
 
 
-# Monday June 12th
+# Monday June 12th - Tuesday June 13th
 
-Dates and Numbers 1
+Dates and Numbers 6
 
-Names 3
+Names 11
 
-Phrases 16
+Phrases 33
 
-Total 20
+Total 50
 
 ## Comments
 9 - Check  Cases
 13 - Check cases
+28 - Check Cases
+31 - Add article
+42 - Add article
+
+
+# Tuesday June 13th
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 0
+
+Total 0
+
+## Comments
 
 # Total
 
-Dates and Numbers 107
+Dates and Numbers 113
 
-Names 183
+Names 194
 
-Phrases 511 - 1   
+Phrases 544 - 1   
 
-Total 800
+Total 850
 
 
 # GLOBAL NOTES
