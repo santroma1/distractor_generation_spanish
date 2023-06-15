@@ -102,10 +102,9 @@ Dates and Numbers 6
 
 Names 9
 
-Phrases 26
+Phrases 25
 
-Total 41
-_One extra to compensate for 177 that doesnt appear, belongs to "Phrases"_
+Total 40
 
 ## Comments
 206. Plural
@@ -383,17 +382,22 @@ Total 50
 42 - Add article
 
 
-# Tuesday June 13th
+# Wednesday June 13th
 
-Dates and Numbers 0
+Dates and Numbers 3
 
-Names 0
+Names 2
 
-Phrases 0
+Phrases 17
 
-Total 0
+Total 22
 
 ## Comments
+3 - Super edit everything
+4 - Edit everything
+5 - Edit everything
+15 - Edit "Para"
+17 - Edit case
 
 # Total
 
@@ -401,14 +405,14 @@ Dates and Numbers 113
 
 Names 194
 
-Phrases 544 - 1   
+Phrases 543 
 
 Total 850
 
 
 # GLOBAL NOTES
 - There is a text on Tennesse, that has 2 questions
-- For a reason, its not exporting datapoint 177. 
+- For a reason, its not exporting datapoint 177. EXPORTED - Question was missing
 - There is another text with 2 questions
 - There is now a total of 3 texts with 2 questions
-- Texts with 2 questions: 19
+- Texts with 2 questions: 22
