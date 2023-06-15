@@ -2019,6 +2019,41 @@
               "type": "distractor"
             }
           ]
+        },
+        {
+          "question": "¿A qué nombre se cambió la compañía MCA-Decca Records después de fusionarse?",
+          "choices": [
+            {
+              "text": "Universal Pictures",
+              "start": 165,
+              "end": 183,
+              "type": "correct answer"
+            },
+            {
+              "text": "NBC",
+              "start": 916,
+              "end": 919,
+              "type": "distractor"
+            },
+            {
+              "text": "NBC Universal",
+              "start": 972,
+              "end": 985,
+              "type": "distractor"
+            },
+            {
+              "text": "Revue Productions",
+              "start": 462,
+              "end": 479,
+              "type": "distractor"
+            },
+            {
+              "text": "Universal City Studios",
+              "start": 349,
+              "end": 371,
+              "type": "distractor"
+            }
+          ]
         }
       ]
     },
@@ -30360,6 +30395,262 @@
               "text": "latín",
               "start": 215,
               "end": 220,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La arquitectura románica en Alemania, Polonia, las tierras checas y Austria se caracteriza por su naturaleza masiva y modular. Esto se expresa en la arquitectura gótica de Europa Central en el gran tamaño de las torres y agujas, a menudo proyectadas, pero no siempre completadas. El frente oeste generalmente sigue la fórmula francesa, pero las torres son mucho más altas y, si están completas, están coronadas por enormes torres de calado que son una característica regional. Debido al tamaño de las torres, la sección de la fachada entre ellas puede parecer estrecha y comprimida. El extremo oriental sigue la forma francesa. El carácter distintivo del interior de las catedrales góticas alemanas es su amplitud y apertura. Este es el caso incluso cuando, como en Colonia, se han inspirado en una catedral francesa. Las catedrales alemanas, como las francesas, tienden a no tener transeptos fuertemente proyectados. También hay muchas iglesias de salón (Hallenkirchen) sin ventanas clerestorias.",
+      "annotations": [
+        {
+          "question": "¿Qué característica es única de la parte de adentro de las catedrales góticas alemanas?",
+          "choices": [
+            {
+              "text": "su amplitud y apertura",
+              "start": 702,
+              "end": 724,
+              "type": "correct answer"
+            },
+            {
+              "text": "ser estrecha y comprimida",
+              "start": 560,
+              "end": 581,
+              "type": "distractor"
+            },
+            {
+              "text": "la fórmula francesa",
+              "start": 315,
+              "end": 334,
+              "type": "distractor"
+            },
+            {
+              "text": "las ventanas clerestorias",
+              "start": 975,
+              "end": 996,
+              "type": "distractor"
+            },
+            {
+              "text": "la sección de la fachada",
+              "start": 509,
+              "end": 533,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "De todas las preguntas en la escala, Sell consideró que la atracción sexual es la más importante ya que la atracción sexual es un mejor reflejo del concepto de orientación sexual que definió como \"extensión de las atracciones sexuales hacia los miembros de ambos sexos\". La identidad y el comportamiento se miden como información suplementaria porque están estrechamente vinculados a la atracción sexual y la orientación sexual. Las principales críticas a la SASO no se han establecido, pero una preocupación es que la fiabilidad y la validez siguen siendo en gran parte no examinadas.",
+      "annotations": [
+        {
+          "question": "¿Qué pregunta es la que tiene más importancia según Sell?",
+          "choices": [
+            {
+              "text": "la atracción sexual",
+              "start": 56,
+              "end": 75,
+              "type": "correct answer"
+            },
+            {
+              "text": "la orientación sexual",
+              "start": 160,
+              "end": 178,
+              "type": "distractor"
+            },
+            {
+              "text": "la identidad",
+              "start": 271,
+              "end": 283,
+              "type": "distractor"
+            },
+            {
+              "text": "el comportamiento",
+              "start": 286,
+              "end": 303,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Lo más común son las obras históricas donde el protagonista es un samurai o un antiguo samurái (u otro rango o posición) que posee considerable habilidad marcial. Eiji Yoshikawa es uno de los más famosos novelistas históricos japoneses. Sus narraciones de obras populares, incluyendo Taiko, Musashi y Heike Tale, son populares entre los lectores por sus relatos épicos y un rico realismo en la representación de la cultura samurai y guerrera. Los samuráis también han aparecido con frecuencia en los cómics japoneses (manga) y animación (anime). Los personajes del mismo estilo no se limitan a los escenarios históricos y una serie de obras ambientadas en la era moderna, e incluso en el futuro, incluyen personajes que viven, entrenan y luchan como samuráis. Ejemplos son Samurai Champloo, Requiem from the Darkness, Muramasa: The Demon Blade, y Afro Samurai. Algunas de estas obras han hecho su camino hacia el oeste, donde ha ido aumentando en popularidad con Estados Unidos.",
+      "annotations": [
+        {
+          "question": "¿Qué representan y exponen las obras de Eiji Yoshikawa?",
+          "choices": [
+            {
+              "text": "la cultura samurai",
+              "start": 412,
+              "end": 430,
+              "type": "correct answer"
+            },
+            {
+              "text": "los cómics japoneses",
+              "start": 496,
+              "end": 516,
+              "type": "distractor"
+            },
+            {
+              "text": "el anime",
+              "start": 538,
+              "end": 543,
+              "type": "distractor"
+            },
+            {
+              "text": "las obras ambientadas en la era moderna",
+              "start": 635,
+              "end": 670,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A partir de la década de 1970, el Bronx a menudo simbolizaba la violencia, la decadencia y la ruina urbana. La ola de incendios provocada en el sur del Bronx en los años 1960 y 1970 inspiró la observación de que \"El Bronx está ardiendo\": En 1974 fue el título de una editorial del New York Times y una película documental de la BBC. La línea entró en la conciencia pop con el segundo juego de la Serie Mundial de 1977, cuando un incendio estalló cerca del Yankee Stadium mientras el equipo jugaba contra los Dodgers de Los Angeles. Numerosos incendios habían estallado previamente en el Bronx antes de este incendio. A medida que el fuego fue capturado en la televisión en vivo, el locutor Howard Cosell se recuerda erróneamente haber dicho algo como, \"Aquí está, damas y caballeros: El Bronx está ardiendo\". Los historiadores de la ciudad de Nueva York señalan con frecuencia el comentario de Cosell como un reconocimiento tanto de la ciudad como del declive del municipio. Un nuevo largometraje documental de Edwin Pagan llamado Bronx Burning está en producción en 2006, que narra lo que llevó a los numerosos incendios de fraude de los años 1970 en el municipio.",
+      "annotations": [
+        {
+          "question": "¿Qué frecuentó en el Bronx en los años 1960 y 1970 para que hicieran numerosos reportajes?",
+          "choices": [
+            {
+              "text": "los incendios",
+              "start": 118,
+              "end": 127,
+              "type": "correct answer"
+            },
+            {
+              "text": "la televisión en vivo",
+              "start": 656,
+              "end": 677,
+              "type": "distractor"
+            },
+            {
+              "text": "el declive del municipio",
+              "start": 952,
+              "end": 973,
+              "type": "distractor"
+            },
+            {
+              "text": "el fraude",
+              "start": 1125,
+              "end": 1131,
+              "type": "distractor"
+            },
+            {
+              "text": "los historiadores de la ciudad",
+              "start": 813,
+              "end": 839,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Uno no debe pasar por alto las doctrinas de Galeno: En uso desde su vida en el siglo I hasta el siglo XVII, fue una herejía estar en desacuerdo con él durante 1500 años. Galeno fue médico de gladiadores en Pérgamo, y en Roma, médico de Marco Aurelio y los tres emperadores que le sucedieron. La mayoría de las enseñanzas de Galeno fueron reunidas y mejoradas a finales del siglo XI por monjes benedictinos en la Escuela de Salerno en Regimen sanitatis Salernitanum, que todavía tenía usuarios en el siglo XVII. Galeno creía en los humores corporales de Hipócrates, y enseñó que pneuma es la fuente de la vida. Cuatro elementos (tierra, aire, fuego y agua) se combinan en \"cutis\", que se combinan en estados (los cuatro temperamentos: Sanguíneo, flemático, colérico y melancólico). Los estados están formados por pares de atributos (caliente y húmedo, frío y húmedo, caliente y seco, y frío y seco), que están hechos de cuatro humores: Sangre, flema, negro (o amarillo) bilis. Galen pensó que para una persona tener gota, piedras de riñón o artritis era escandaloso, lo que Gratzer compara con el Erehwon de Samuel Butler (1872) donde la enfermedad es un crimen.",
+      "annotations": [
+        {
+          "question": "¿En qué siglo fueron mejoradas las enseñanzas de Galeno por los monjes Benedictinos?",
+          "choices": [
+            {
+              "text": "siglo XI",
+              "start": 373,
+              "end": 381,
+              "type": "correct answer"
+            },
+            {
+              "text": "siglo XVII",
+              "start": 499,
+              "end": 509,
+              "type": "distractor"
+            },
+            {
+              "text": "siglo I",
+              "start": 79,
+              "end": 86,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los primeros ejemplos de estatuas de tamaño natural de Apolo, pueden ser dos figuras del santuario jónico en la isla de Delos. Tales estatuas se encontraron en todo el mundo de habla griega, la preponderancia de estas se encontraron en los santuarios de Apolo con más de cien estatuas del santuario de Apolo Ptoios, Beocia sola. La última etapa en el desarrollo del tipo Kouros es el período arcaico tardío (520-485 aC), en el que la escultura griega alcanzó un pleno conocimiento de la anatomía humana y se utilizó para crear un todo relativo armonioso. De los pocos bronces que nos han sobrevivido es la obra maestra de bronce Apolo El Pireo. Fue encontrado en El Pireo, el puerto de Atenas. La estatua originalmente sostenía el arco en su mano izquierda, y una taza de libación vertida en su mano derecha. Probablemente proviene del noreste del Peloponeso. El énfasis está dado en anatomía, y es uno de los primeros intentos de representar un tipo de movimiento, y belleza en relación con las proporciones, que aparecen principalmente en el arte post-Arcaico. La estatua arroja algo de luz sobre un centro artístico que, con un estilo más duro, más simple y más pesado, restringe la influencia jónica en Atenas. Finalmente, este es el germen del que el arte de Polykleitos crecería dos o tres generaciones más tarde.",
+      "annotations": [
+        {
+          "question": "¿Qué elemento u objeto agarra la estatua con su mano izquierda?",
+          "choices": [
+            {
+              "text": "el mundo",
+              "start": 165,
+              "end": 173,
+              "type": "distractor"
+            },
+            {
+              "text": "el arco",
+              "start": 728,
+              "end": 735,
+              "type": "correct answer"
+            },
+            {
+              "text": "el germen",
+              "start": 1235,
+              "end": 1244,
+              "type": "distractor"
+            },
+            {
+              "text": "una taza",
+              "start": 760,
+              "end": 768,
+              "type": "distractor"
+            },
+            {
+              "text": "la luz",
+              "start": 1089,
+              "end": 1092,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1954, Eisenhower articuló la teoría del dominó en su perspectiva hacia el comunismo en el sudeste de Asia y también en América Central. Creía que si se permitía a los comunistas prevalecer en Vietnam, esto causaría una sucesión de países para caer en el comunismo, desde Laos a través de Malasia e Indonesia en última instancia a la India. Asimismo, la caída de Guatemala terminaría con la caída del vecino México. Ese año la pérdida de Vietnam del Norte a los comunistas y el rechazo de su propuesta Comunidad Europea de Defensa (EDC) fueron derrotas serias, pero se mantuvo optimista en su oposición a la propagación del comunismo, diciendo \"Las caras largas no ganan guerras\". Como había amenazado a los franceses en su rechazo a la EDC, más tarde se trasladó a restaurar Alemania Occidental, como socio pleno de la OTAN.",
+      "annotations": [
+        {
+          "question": "¿Según Eisenhower, qué país caería ante el comunismo si Guatemala caía también?",
+          "choices": [
+            {
+              "text": "México",
+              "start": 410,
+              "end": 416,
+              "type": "correct answer"
+            },
+            {
+              "text": "Alemania",
+              "start": 778,
+              "end": 786,
+              "type": "distractor"
+            },
+            {
+              "text": "Vietnam",
+              "start": 195,
+              "end": 202,
+              "type": "distractor"
+            },
+            {
+              "text": "Malasia",
+              "start": 291,
+              "end": 298,
+              "type": "distractor"
+            },
+            {
+              "text": "Indonesia",
+              "start": 301,
+              "end": 310,
               "type": "distractor"
             }
           ]

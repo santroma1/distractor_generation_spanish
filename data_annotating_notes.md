@@ -384,13 +384,13 @@ Total 50
 
 # Wednesday June 13th
 
-Dates and Numbers 3
+Dates and Numbers 4
 
-Names 2
+Names 4
 
-Phrases 17
+Phrases 22
 
-Total 22
+Total 30
 
 ## Comments
 3 - Super edit everything
@@ -398,6 +398,10 @@ Total 22
 5 - Edit everything
 15 - Edit "Para"
 17 - Edit case
+23 - Edit toooo
+24 - Edit tooooo
+26 - Edit too
+29 - Edit 
 
 # Total
 
@@ -415,4 +419,4 @@ Total 850
 - For a reason, its not exporting datapoint 177. EXPORTED - Question was missing
 - There is another text with 2 questions
 - There is now a total of 3 texts with 2 questions
-- Texts with 2 questions: 22
+- Texts with 2 questions: 23
