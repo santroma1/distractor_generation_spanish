@@ -31378,6 +31378,686 @@
           ]
         }
       ]
+    },
+    {
+      "context": "La definición de ganancia de antena o ganancia de potencia ya incluye el efecto de la eficiencia de la antena. Por lo tanto, si uno está tratando de radiar una señal hacia un receptor utilizando un transmisor de una potencia dada, sólo se necesita comparar la ganancia de varias antenas en lugar de considerar la eficiencia también. Esto también es cierto para una antena receptora a frecuencias muy altas (especialmente microondas), donde el punto es recibir una señal que es fuerte en comparación con la temperatura de ruido del receptor. Sin embargo, en el caso de una antena direccional utilizada para recibir señales con la intención de rechazar la interferencia desde diferentes direcciones, ya no se preocupa por la eficiencia de la antena, como se mencionó anteriormente. En este caso, en lugar de citar la ganancia de la antena, uno estaría más preocupado por la ganancia de directiva que no incluye el efecto de la eficiencia de la antena (en). La ganancia directiva de una antena se puede calcular a partir de la ganancia publicada dividida por la eficiencia de la antena.",
+      "annotations": [
+        {
+          "question": "¿Qué ganancia no contiene el efecto de la eficiencia de la antena?",
+          "choices": [
+            {
+              "text": "ganancia de antena",
+              "start": 17,
+              "end": 35,
+              "type": "distractor"
+            },
+            {
+              "text": "ganancia de potencia",
+              "start": 38,
+              "end": 58,
+              "type": "distractor"
+            },
+            {
+              "text": "ganancia directiva",
+              "start": 958,
+              "end": 976,
+              "type": "correct answer"
+            },
+            {
+              "text": "ganancia publicada",
+              "start": 1024,
+              "end": 1042,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Sin embargo, la resistencia a la pérdida generalmente afectará la impedancia del punto de alimentación, añadiendo a su componente resistivo (real). Esa resistencia consistirá en la suma de la resistencia a la radiación Rr y la resistencia a la pérdida Rloss. Si una corriente de rms I se entrega a los terminales de una antena, entonces una potencia de I2Rr se irradia y una potencia de I2Rloss se pierde como calor. Por lo tanto, la eficiencia de una antena es igual a Rr / (Rr + Rloss). Por supuesto, sólo la resistencia total Rr + Rloss se puede medir directamente.",
+      "annotations": [
+        {
+          "question": "¿Qué potencia es la que se irradia en la entrega de las terminales de una antena?",
+          "choices": [
+            {
+              "text": "I2Rr",
+              "start": 353,
+              "end": 357,
+              "type": "correct answer"
+            },
+            {
+              "text": "I2Rloss",
+              "start": 387,
+              "end": 394,
+              "type": "distractor"
+            },
+            {
+              "text": "Rr + Rloss",
+              "start": 529,
+              "end": 539,
+              "type": "distractor"
+            },
+            {
+              "text": "Rr / (Rr + Rloss)",
+              "start": 470,
+              "end": 487,
+              "type": "distractor"
+            },
+            {
+              "text": "Rr",
+              "start": 219,
+              "end": 221,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Everton fue miembro fundador de la Premier League en 1992, pero tuvo problemas para encontrar al gerente correcto. Howard Kendall había regresado en 1990, pero no pudo repetir su éxito anterior, mientras que su sucesor, Mike Walker, fue estadísticamente el entrenador menos exitoso del Everton hasta la fecha. Cuando el ex jugador del Everton Joe Royle se hizo cargo en 1994, la forma del club comenzó a mejorar; Su primer partido en el cargo fue una victoria por 2-0 sobre su rival Liverpool. Royle arrastró al Everton fuera del descenso, lo que llevó al club a la FA Cup por quinta vez en su historia, derrotando al Manchester United 1-0 en la final.",
+      "annotations": [
+        {
+          "question": "¿De qué equipo fue Mike Walker el entrenador menos exitoso?",
+          "choices": [
+            {
+              "text": "Everton",
+              "start": 286,
+              "end": 293,
+              "type": "correct answer"
+            },
+            {
+              "text": "Manchester United",
+              "start": 618,
+              "end": 635,
+              "type": "distractor"
+            },
+            {
+              "text": "Liverpool",
+              "start": 483,
+              "end": 492,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La caza de zorros desarmados a caballo con perros es el tipo de caza más estrechamente asociado con el Reino Unido; De hecho, la \"caza\" sin calificación implica la caza del zorro. Lo que en otros países se llama \"caza\" se llama \"tiro\" (aves) o \"acecho\" (ciervos) en Gran Bretaña. Originalmente una forma de control de plagas para proteger el ganado, la caza de zorros se convirtió en una actividad social popular para las clases altas recientemente ricas en la época victoriana y una actividad rural tradicional para jinetes y seguidores de pie. Similar a la caza de zorros de muchas maneras es la caza de liebres con perros. Los perros de caza, como los galgos, pueden ser utilizados para perseguir una liebre en el cortejo, donde los galgos no están destinados a cortejar la liebre. Otros tipos de foxhounds también pueden ser utilizados para cazar ciervos o visones. Los ciervos que acechan con rifles se llevan a cabo a pie sin perros, usando sigilo.",
+      "annotations": [
+        {
+          "question": "¿Qué animal se caza con la ayuda de perros, como los galgos?",
+          "choices": [
+            {
+              "text": "liebres",
+              "start": 606,
+              "end": 613,
+              "type": "correct answer"
+            },
+            {
+              "text": "ciervos",
+              "start": 874,
+              "end": 881,
+              "type": "distractor"
+            },
+            {
+              "text": "zorros",
+              "start": 11,
+              "end": 17,
+              "type": "distractor"
+            },
+            {
+              "text": "aves",
+              "start": 236,
+              "end": 240,
+              "type": "distractor"
+            },
+            {
+              "text": "visones",
+              "start": 861,
+              "end": 868,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El emperador Diocleciano (r. 284-305) dividió el imperio en mitades orientales y occidentales administradas por separado en 286; El imperio no se consideraba dividido por sus habitantes o gobernantes, ya que las promulgaciones legales y administrativas en una división se consideraban válidas en la otra. En 330, después de un período de guerra civil, Constantino el Grande (r. 306-337) refundó la ciudad de Bizancio como la nueva capital oriental, Constantinopla. Las reformas de Diocleciano fortalecieron la burocracia gubernamental, reformaron los impuestos y fortalecieron el ejército, que compró el tiempo del imperio, pero no resolvieron los problemas que enfrentaba: Impuestos excesivos, una disminución de la natalidad. La guerra civil entre emperadores rivales se hizo común a mediados del siglo IV, desviando soldados de las fuerzas fronterizas del imperio y permitiendo a los invasores invadir. Durante gran parte del siglo IV, la sociedad romana se estabilizó en una nueva forma que difería del período clásico anterior, con un abismo cada vez mayor entre ricos y pobres, y una disminución en la vitalidad de las ciudades más pequeñas. Otro cambio fue la cristianización, o conversión del imperio al cristianismo, un proceso gradual que duró desde el siglo II hasta el siglo V.",
+      "annotations": [
+        {
+          "question": "¿Durante qué siglo se consideró completa la conversión romana al cristianismo?",
+          "choices": [
+            {
+              "text": "siglo V",
+              "start": 1281,
+              "end": 1288,
+              "type": "correct answer"
+            },
+            {
+              "text": "siglo II",
+              "start": 1263,
+              "end": 1271,
+              "type": "distractor"
+            },
+            {
+              "text": "siglo IV",
+              "start": 799,
+              "end": 807,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Como miembro de la Unión Europea, Estonia es considerada una economía de altos ingresos por el Banco Mundial. El PIB per cápita del país, un buen indicador de la riqueza, fue en 2015 $28,781 según el FMI, entre el de la República Eslovaca y Lituania, pero por debajo del de otros miembros de la UE desde hace mucho tiempo. El país ocupa el octavo lugar en el Índice de Libertad Económica de 2015, y la cuarta economía más libre en Europa. Debido a su rápido crecimiento, Estonia ha sido descrita como un tigre báltico junto a Lituania y Letonia. A partir del 1 de enero de 2011, Estonia adoptó el euro y se convirtió en el 17º estado miembro de la eurozona.",
+      "annotations": [
+        {
+          "question": "¿Qué país se convirtió en miembro de la eurozona en 2011?",
+          "choices": [
+            {
+              "text": "Estonia",
+              "start": 579,
+              "end": 586,
+              "type": "correct answer"
+            },
+            {
+              "text": "Lituania",
+              "start": 526,
+              "end": 534,
+              "type": "distractor"
+            },
+            {
+              "text": "Letonia",
+              "start": 537,
+              "end": 544,
+              "type": "distractor"
+            },
+            {
+              "text": "República Eslovaca",
+              "start": 220,
+              "end": 238,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Un kickback es la participación de un funcionario de fondos mal apropiados asignados de su organización a una organización involucrada en licitaciones corruptas. Por ejemplo, supongamos que un político está a cargo de elegir cómo gastar algunos fondos públicos. Él puede dar un contrato a una empresa que no es el mejor postor, o asignar más de lo que merecen. En este caso, la compañía se beneficia, y a cambio de traicionar al público, el funcionario recibe un pago de sobornos, que es una parte de la suma que la compañía recibió. Esta suma en sí puede ser toda o una parte de la diferencia entre el pago real (inflado) a la empresa y el precio (inferior) basado en el mercado que se habría pagado si la oferta hubiera sido competitiva.",
+      "annotations": [
+        {
+          "question": "¿Cómo se le llama cuando un político da un contrato a una empresa que no es el mejor postor, y a cambio recibe un pago en la forma de soborno?",
+          "choices": [
+            {
+              "text": "kickback",
+              "start": 3,
+              "end": 11,
+              "type": "correct answer"
+            },
+            {
+              "text": "fondos mal apropiados",
+              "start": 53,
+              "end": 74,
+              "type": "distractor"
+            },
+            {
+              "text": "licitaciones corruptas",
+              "start": 138,
+              "end": 160,
+              "type": "distractor"
+            },
+            {
+              "text": "pago real",
+              "start": 603,
+              "end": 612,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los esfuerzos de los reyes locales para luchar contra los invasores llevaron a la formación de nuevas entidades políticas. En la Inglaterra anglosajona, el rey Alfredo el Grande llegó a un acuerdo con los invasores vikingos a finales del siglo IX, dando lugar a asentamientos daneses en Northumbria, Mercia y partes de Anglia Oriental. A mediados del siglo X, los sucesores de Alfredo habían conquistado Northumbria y restaurado el control inglés sobre la mayor parte del sur de Gran Bretaña. En el norte de Gran Bretaña, Kenneth MacAlpin (m. c. 860) unió a los pictos y los escoceses en el reino de Alba. A principios del siglo X, la dinastía otoniana se había establecido en Alemania, y se comprometió a rechazar a los magiares. Sus esfuerzos culminaron en la coronación en 962 de Otón I (r. 936-973) como emperador del Sacro Imperio Romano Germánico. En 972, aseguró el reconocimiento de su título por el Imperio bizantino, que selló con el matrimonio de su hijo Otón II (r. 967-983) con Teófano (m. 991), hija de un emperador bizantino. A finales del siglo X, Italia había sido arrastrada a la esfera otoniana después de un período de inestabilidad; Otón III (r. 996-1002) pasó gran parte de su reinado posterior en el reino. El reino franco occidental estaba más fragmentado, y aunque los reyes permanecían nominalmente a cargo, gran parte del poder político se transfirió a los señores locales.",
+      "annotations": [
+        {
+          "question": "¿Qué sucedió en Italia a finales del siglo X tras un período de inestabilidad?",
+          "choices": [
+            {
+              "text": "había sido arrastrada a la esfera otoniana",
+              "start": 1071,
+              "end": 1113,
+              "type": "correct answer"
+            },
+            {
+              "text": "estaba más fragmentado, y aunque los reyes permanecían nominalmente a cargo, gran parte del poder político se transfirió a los señores locales",
+              "start": 1257,
+              "end": 1399,
+              "type": "distractor"
+            },
+            {
+              "text": "los sucesores de Alfredo habían conquistado Northumbria y restaurado el control inglés",
+              "start": 360,
+              "end": 446,
+              "type": "distractor"
+            },
+            {
+              "text": "los esfuerzos de los reyes locales para luchar contra los invasores llevaron a la formación de nuevas entidades políticas",
+              "start": 0,
+              "end": 121,
+              "type": "distractor"
+            },
+            {
+              "text": "la coronación en 962 de Otón I (r. 936-973) como emperador",
+              "start": 759,
+              "end": 817,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1900, 7.531 personas vivían en la ciudad. La población aumentó gradualmente a 13.913 en 1910. Aproximadamente en este momento, la Administración de Veteranos de los Estados Unidos había comenzado la construcción del actual Hospital de Veteranos. Muchos veteranos que habían sido gaseados en la Primera Guerra Mundial y necesitaban terapia respiratoria comenzaron a llegar a Tucson después de la guerra, debido al aire seco limpio. En los años siguientes la ciudad continuó creciendo, con la población aumentando a 20.292 en 1920 y 36.818 en 1940. En 2006 la población del condado de Pima, en la que se encuentra Tucson, pasó un millón de habitantes, mientras que la ciudad de Tucson tenía una población de 535.000.",
+      "annotations": [
+        {
+          "question": "¿Qué población tuvo Tucson en 1940?",
+          "choices": [
+            {
+              "text": "36.818",
+              "start": 534,
+              "end": 540,
+              "type": "correct answer"
+            },
+            {
+              "text": "20.292",
+              "start": 517,
+              "end": 523,
+              "type": "distractor"
+            },
+            {
+              "text": "13.913",
+              "start": 81,
+              "end": 87,
+              "type": "distractor"
+            },
+            {
+              "text": "7.531",
+              "start": 9,
+              "end": 14,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La religión es extremadamente importante para los tibetanos y tiene una fuerte influencia sobre todos los aspectos de sus vidas. Bön es la antigua religión del Tíbet, pero ha sido casi eclipsada por el budismo tibetano, una forma distintiva de Mahayana y Vajrayana, que fue introducida en el Tíbet a partir de la tradición budista sánscrita del norte de India. El budismo tibetano se practica no sólo en el Tíbet, sino también en Mongolia, partes del norte de la India, la República de Buriatia, la República de Tuvá, y en la República de Kalmukia y algunas otras partes de China. Durante la Revolución Cultural de China, casi todos los monasterios del Tíbet fueron saqueados y destruidos por los Guardias Rojos. Algunos monasterios han comenzado a reconstruir desde la década de 1980 (con el apoyo limitado del gobierno chino) y se ha concedido una mayor libertad religiosa, aunque todavía es limitada. Los monjes regresaron a monasterios a través del Tíbet y la educación monástica se reanudó a pesar de que el número de monjes impuestos es estrictamente limitado. Antes de la década de 1950, entre el 10 y el 20% de los hombres en el Tíbet eran monjes.",
+      "annotations": [
+        {
+          "question": "¿Cómo afectó la Revolución Cultural de China?",
+          "choices": [
+            {
+              "text": "casi todos los monasterios del Tíbet fueron saqueados y destruidos por los Guardias Rojos",
+              "start": 622,
+              "end": 711,
+              "type": "correct answer"
+            },
+            {
+              "text": "se ha concedido una mayor libertad religiosa, aunque todavía es limitada",
+              "start": 830,
+              "end": 902,
+              "type": "distractor"
+            },
+            {
+              "text": "los monjes regresaron a monasterios a través del Tíbet y la educación monástica se reanudó",
+              "start": 904,
+              "end": 994,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En la Guerra de las Malvinas de 1982, las fuerzas armadas argentinas desplegaron las armas europeas más nuevas, incluyendo el cañón doble Oerlikon GDF-002 de 35 mm y el SAM Roland. El sistema de misiles Rapier fue el principal sistema GBAD, utilizado tanto por la artillería británica como por el regimiento RAF, unos pocos FIM-92 Stinger fueron utilizados por las fuerzas especiales británicas. Ambos lados también usaron el misil Blowpipe. Los misiles navales británicos utilizados incluyen Sea Dart y los antiguos sistemas de largo alcance Sea Slug, Sea Cat y los nuevos sistemas de corto alcance Sea Wolf. Las ametralladoras en montajes AA fueron empleadas tanto en tierra como a flote.",
+      "annotations": [
+        {
+          "question": "¿Qué nuevo modelo de sistema de corto alcance fue usado por los británicos?",
+          "choices": [
+            {
+              "text": "Sea Wolf",
+              "start": 600,
+              "end": 608,
+              "type": "correct answer"
+            },
+            {
+              "text": "Sea Dart",
+              "start": 493,
+              "end": 501,
+              "type": "distractor"
+            },
+            {
+              "text": "Sea Slug",
+              "start": 543,
+              "end": 551,
+              "type": "distractor"
+            },
+            {
+              "text": "Sea Cat",
+              "start": 553,
+              "end": 560,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1961, el escritor y editor Stan Lee revolucionó los cómics de superhéroes al introducir superhéroes diseñados para atraer a más lectores de todas las edades que las audiencias infantiles del medio. El primer equipo de superhéroes de Marvel, las estrellas titulares de The Fantastic Four # 1 (Nov. 1961), rompió la convención con otros arquetipos de cómics de la época peleándose, guardando rencor a las celebridades. Posteriormente, los cómics de Marvel desarrollaron una reputación de centrarse en la caracterización y los problemas de los adultos en mayor medida que la mayoría de los cómics de superhéroes antes que ellos, una calidad que la nueva generación de lectores antiguos apreciaba. Esto se aplicó al título The Amazing Spider-Man en particular, que resultó ser el libro más exitoso de Marvel. Su joven héroe sufría de problemas mundanos como cualquier otro adolescente, algo que los lectores podían identificar.",
+      "annotations": [
+        {
+          "question": "¿Qué hizo Stan Lee para darle un giro a la industria de los cómics de superhéroes?",
+          "choices": [
+            {
+              "text": "rompió la convención con otros arquetipos de cómics de la época peleándose, guardando rencor a las celebridades",
+              "start": 307,
+              "end": 418,
+              "type": "distractor"
+            },
+            {
+              "text": "se aplicó al título The Amazing Spider-Man en particular, que resultó ser el libro más exitoso de Marvel",
+              "start": 702,
+              "end": 806,
+              "type": "distractor"
+            },
+            {
+              "text": "introducir superhéroes diseñados para atraer a más lectores de todas las edades que las audiencias infantiles del medio",
+              "start": 80,
+              "end": 199,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Algunos insectos, como los miembros de las familias Poduridae y Onychiuridae (Collembola), Mycetophilidae (Diptera) y las familias de escarabajos Lampyridae, Phengodidae. El grupo más familiar son las luciérnagas, escarabajos de la familia Lampyridae. Algunas especies son capaces de controlar esta generación de luz para producir destellos. La función varía con algunas especies que las utilizan para atraer a sus parejas, mientras que otras las utilizan para atraer a sus presas. Larvas de Arachnocampa (Mycetophilidae) brillan para atraer pequeños insectos voladores en hebras pegajosas de seda. Algunas luciérnagas del género Photuris imitan el parpadeo de las especies femeninas de Photinus para atraer a los machos de esa especie, que luego son capturados y devorados. Los colores de la luz emitida varían de azul apagado (Orfelia fultoni, Mycetophilidae) a los verdes familiares y los raros rojos (Phrixothrix tiemanni, Phengodidae).",
+      "annotations": [
+        {
+          "question": "¿Qué comportamiento de la luz es típico de las larvas de Arachnocampa?",
+          "choices": [
+            {
+              "text": "brillan para atraer pequeños insectos voladores en hebras pegajosas de seda",
+              "start": 522,
+              "end": 597,
+              "type": "correct answer"
+            },
+            {
+              "text": "imitan el parpadeo de las especies femeninas de Photinus para atraer a los machos de esa especie, que luego son capturados y devorados",
+              "start": 639,
+              "end": 773,
+              "type": "distractor"
+            },
+            {
+              "text": "son capaces de controlar esta generación de luz para producir destellos",
+              "start": 269,
+              "end": 340,
+              "type": "distractor"
+            },
+            {
+              "text": "las utilizan para atraer a sus parejas",
+              "start": 384,
+              "end": 422,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Según el 2010 revison de las Perspectivas de población mundiales de la ONU, la población de Guinea-Bisáu era de 1515.000 en 2010, en comparación con 518.000 en 1950. La proporción de la población menor de 15 años en 2010 era de 41,3%, el 55,4% tenía entre 15 y 65 años de edad, mientras que el 3,3% tenía 65 años o más.",
+      "annotations": [
+        {
+          "question": "¿Qué porcentaje representa la población menor de 15 años?",
+          "choices": [
+            {
+              "text": "41,3%",
+              "start": 228,
+              "end": 233,
+              "type": "correct answer"
+            },
+            {
+              "text": "55,4%",
+              "start": 238,
+              "end": 243,
+              "type": "distractor"
+            },
+            {
+              "text": "3,3%",
+              "start": 294,
+              "end": 298,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los servicios bancarios son proporcionados por el Banco Nacional de Tuvalu. Los trabajadores del sector público representan aproximadamente el 65% de los empleados formalmente. Las remesas de los tuvaluanos que viven en Australia y Nueva Zelanda, y las remesas de los marineros de Tuvalu empleados en barcos de ultramar son fuentes importantes de ingresos para los tuvaluanos. Aproximadamente el 15% de los hombres adultos trabajan como marineros en buques mercantes de bandera extranjera. La agricultura en Tuvalu se centra en los cocoteros y el cultivo de pulaka en grandes fosas de suelo cubierto debajo de la mesa de agua. Los tuvaluanos están involucrados en la agricultura tradicional de subsistencia y la pesca.",
+      "annotations": [
+        {
+          "question": "¿De qué área es de donde se representa cerca del 65% de los empleados?",
+          "choices": [
+            {
+              "text": "sector público",
+              "start": 97,
+              "end": 111,
+              "type": "correct answer"
+            },
+            {
+              "text": "servicios bancarios",
+              "start": 4,
+              "end": 23,
+              "type": "distractor"
+            },
+            {
+              "text": "agricultura",
+              "start": 493,
+              "end": 504,
+              "type": "distractor"
+            },
+            {
+              "text": "pesca",
+              "start": 712,
+              "end": 717,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1969 los Cubs, dirigidos por Leo Durocher, construyeron una ventaja sustancial en la recién creada División Este de la Liga Nacional a mediados de agosto. Ken Holtzman lanzó un juego sin hits el 19 de agosto, y la ventaja de la división creció a 8 juegos y medio sobre los Cardenales de San Luis y por 9 juegos y medio sobre los Mets de Nueva York. Después del juego del 2 de septiembre, el récord de los Cachorros fue 84-52 con los Mets en el segundo lugar con 77-55. Pero entonces comenzó una racha perdedora justo cuando los Mets ganaban la racha. Los Cachorros perdieron el juego final de una serie en Cincinnati, luego llegaron a casa para jugar los resurgentes Piratas de Pittsburgh (que terminarían en tercer lugar). Después de perder los dos primeros juegos por marcador de 9-2 y 13-4, los Cubs entraron en la novena entrada. Una victoria sería un trampolín positivo ya que los Cubs jugarían una serie crucial con los Mets al día siguiente. Pero Willie Stargell perforó un lanzamiento de 2 outs y 2 golpes desde el relevista de los Cubs, Phil Regan, en la Avenida Sheffield para empatar el marcador en la parte superior de la novena entrada. Los Cubs perdieron 7-5 en extra innings. Agobiados por una racha perdedora de cuatro juegos, los Cubs viajaron al Shea Stadium para un corto set de dos juegos. Los Mets ganaron ambos juegos, y los Cubs dejaron Nueva York con un récord de 84-58 sólo 1 / 2 juego delante. El desastre siguió en Filadelfia, donde un equipo de los Filis con 99 derrotas derrotó a los Cachorros dos veces, para extender la racha perdedora de Chicago a ocho partidos. En un juego clave en el segundo juego, el 11 de septiembre, el abridor de los Cachorros Dick Selma lanzó un intento sorpresa al tercera base Ron Santo, que no estaba cerca de la bolsa o la pelota. El error de lanzamiento de Selma abrió las puertas a un mitin de los Filis. Después de esa segunda derrota de Philly, los Cubs fueron 84-60 y los Mets 85-57. Los Mets no mirarían atrás. La racha perdedora de ocho juegos de los Cubs finalmente terminó al día siguiente en St. Louis, pero los Mets estaban en medio de una racha de diez juegos ganados, y los Cubs, marchándose de la fatiga del equipo. Los Mets (que habían perdido un récord de 120 juegos 7 años antes), irían a ganar la Serie Mundial. Los Cachorros, a pesar de un respetable récord de 92-70, serían recordados por haber perdido 17 ½ juegos notables en la clasificación ante los Mets en el último cuarto de la temporada.",
+      "annotations": [
+        {
+          "question": "¿Por qué serían recordados los Cachorros en el último cuarto de la temporada?",
+          "choices": [
+            {
+              "text": "una racha de diez juegos ganados",
+              "start": 2111,
+              "end": 2143,
+              "type": "distractor"
+            },
+            {
+              "text": "perder los dos primeros juegos por marcador de 9-2 y 13-4",
+              "start": 738,
+              "end": 795,
+              "type": "distractor"
+            },
+            {
+              "text": "una racha perdedora de cuatro juegos",
+              "start": 1208,
+              "end": 1244,
+              "type": "distractor"
+            },
+            {
+              "text": "la racha perdedora de ocho juegos",
+              "start": 1981,
+              "end": 2014,
+              "type": "distractor"
+            },
+            {
+              "text": "haber perdido 17 ½ juegos notables en la clasificación",
+              "start": 2373,
+              "end": 2427,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Bronx contiene uno de los cinco distritos más pobres del Congreso en los Estados Unidos, el 15.º, pero su amplia diversidad también incluye ricos, de ingresos altos y barrios de ingresos medios como Riverdale, Fieldston Duylvil. El Bronx, particularmente el sur del Bronx, vio una fuerte disminución de la población, la vivienda habitable y la calidad de vida a finales de 1960 y 1970, culminando en una ola de incendios provocados. Desde entonces, las comunidades han mostrado una reurbanización significativa a partir de finales de la década de 1980 antes de alcanzar el ritmo en la década de 1990 hasta la actualidad.",
+      "annotations": [
+        {
+          "question": "¿Qué estado económico tiene las personas en Riverdale?",
+          "choices": [
+            {
+              "text": "pobres",
+              "start": 49,
+              "end": 55,
+              "type": "distractor"
+            },
+            {
+              "text": "ingresos medios",
+              "start": 181,
+              "end": 196,
+              "type": "correct answer"
+            },
+            {
+              "text": "ingresos altos ",
+              "start": 153,
+              "end": 168,
+              "type": "distractor"
+            },
+            {
+              "text": "ricos",
+              "start": 143,
+              "end": 148,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Otro enfoque para el soporte de hardware para la gestión de bases de datos fue el acelerador CAFS de ICL, un controlador de disco de hardware con capacidades de búsqueda programables. A largo plazo, estos esfuerzos fueron generalmente infructuosos porque las máquinas de base de datos especializadas no podían seguir el ritmo del rápido desarrollo y el progreso de las computadoras de propósito general. Por lo tanto, la mayoría de los sistemas de bases de datos hoy en día son sistemas de software que se ejecutan en hardware de propósito general, utilizando almacenamiento de datos de uso general. Sin embargo, esta idea todavía se persigue para ciertas aplicaciones por algunas empresas como Netezza y Oracle (Exadata).",
+      "annotations": [
+        {
+          "question": "¿Qué es un acelerador CAFS?",
+          "choices": [
+            {
+              "text": "controlador de disco de hardware con capacidades de búsqueda programables",
+              "start": 109,
+              "end": 182,
+              "type": "correct answer"
+            },
+            {
+              "text": "aplicaciones por algunas empresas como Netezza y Oracle",
+              "start": 656,
+              "end": 711,
+              "type": "distractor"
+            },
+            {
+              "text": "máquinas de base de datos especializadas",
+              "start": 259,
+              "end": 299,
+              "type": "distractor"
+            },
+            {
+              "text": "sistemas de software que se ejecutan en hardware de propósito general",
+              "start": 478,
+              "end": 547,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El National Archives Building, conocido informalmente como Archives I, localizado al norte del National Mall en Constitution Avenue en Washington, D.C., abrió sus puertas como su sede original en 1935. Contiene las copias originales de los tres principales documentos formativos de los Estados Unidos y su gobierno: La Declaración de Independencia, la Constitución y la Carta de Derechos. También alberga una copia de la Carta Magna de 1297 confirmada por Eduardo I. Estos se muestran al público en la cámara principal de los Archivos Nacionales, que se llama la Rotonda de los Cartores de la Libertad. El Edificio de Archivos Nacionales también exhibe otros documentos históricos importantes de Estados Unidos como el Tratado de Compra de Luisiana, la Proclamación de Emancipación, y colecciones de fotografía y otros artefactos estadounidenses históricos y culturalmente significativos.",
+      "annotations": [
+        {
+          "question": "¿Cuál de los siguientes documentos no son parte de los 3 principales documentos formativos de los Estados Unidos?",
+          "choices": [
+            {
+              "text": "Carta de Derechos",
+              "start": 370,
+              "end": 387,
+              "type": "distractor"
+            },
+            {
+              "text": "Constitución",
+              "start": 352,
+              "end": 364,
+              "type": "distractor"
+            },
+            {
+              "text": "Declaración de Independencia",
+              "start": 319,
+              "end": 347,
+              "type": "distractor"
+            },
+            {
+              "text": "Carta Magna",
+              "start": 421,
+              "end": 432,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las logias americanas más antiguas conocidas estaban en Pensilvania. El Coleccionista para el puerto de Pensilvania, John Moore, escribió sobre asistir a logias allí en 1715, dos años antes de la formación de la primera Gran Logia en Londres. La Gran Logia Premier de Inglaterra nombró un Gran Maestro Provincial para América del Norte en 1731, con sede en Pensilvania. Otras logias en la colonia obtuvieron autorizaciones de la posterior Gran Logia Antigua de Inglaterra, la Gran Logia de Escocia y la Gran Logia de Irlanda, que estaba particularmente bien representada en las logias de viaje del ejército británico. Muchas logias llegaron a existir sin ninguna orden judicial de ninguna Gran Logia, solicitando y pagando su autorización sólo después de que estuvieran seguros de su propia supervivencia.",
+      "annotations": [
+        {
+          "question": "¿Cuál logia fue la que asignó a un Gran Maestro Provincial que tendría su sede en Pensilvania?",
+          "choices": [
+            {
+              "text": "Gran Logia Premier de Inglaterra",
+              "start": 246,
+              "end": 278,
+              "type": "correct answer"
+            },
+            {
+              "text": "Gran Logia en Londres",
+              "start": 220,
+              "end": 241,
+              "type": "distractor"
+            },
+            {
+              "text": "Gran Logia Antigua de Inglaterra",
+              "start": 439,
+              "end": 471,
+              "type": "distractor"
+            },
+            {
+              "text": "Gran Logia de Escocia",
+              "start": 476,
+              "end": 497,
+              "type": "distractor"
+            },
+            {
+              "text": "Gran Logia de Irlanda",
+              "start": 503,
+              "end": 524,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

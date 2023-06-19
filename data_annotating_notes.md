@@ -409,15 +409,16 @@ Total 50
 
 # Monday June 19th
 
-Dates and Numbers 0
+Dates and Numbers 3
 
-Names 0
+Names 5
 
-Phrases 0
+Phrases 12
 
-Total 0
+Total 20
 
 ## Comments
+10 - Edit cases
 
 # Total
 
