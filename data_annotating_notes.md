@@ -382,15 +382,15 @@ Total 50
 42 - Add article
 
 
-# Wednesday June 13th
+# Wednesday June 13th - Sunday June 18th
 
-Dates and Numbers 4
+Dates and Numbers 11
 
-Names 4
+Names 8
 
-Phrases 22
+Phrases 31
 
-Total 30
+Total 50
 
 ## Comments
 3 - Super edit everything
@@ -402,16 +402,32 @@ Total 30
 24 - Edit tooooo
 26 - Edit too
 29 - Edit 
+31 - add articles
+39 - Add stuff
+44 - Add stuff
+45 - remove S
+
+# Monday June 19th
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 0
+
+Total 0
+
+## Comments
 
 # Total
 
-Dates and Numbers 113
+Dates and Numbers 124
 
-Names 194
+Names 202
 
-Phrases 543 
+Phrases 574 
 
-Total 850
+Total 900
 
 
 # GLOBAL NOTES
