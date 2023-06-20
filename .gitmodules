@@ -1,0 +1,3 @@
+[submodule "SweQUAD-MC"]
+	path = SweQUAD-MC
+	url = https://github.com/santroma1/SweQUAD-MC.git
