@@ -32058,6 +32058,716 @@
           ]
         }
       ]
+    },
+    {
+      "context": "En el American Community Survey 2009, los afroamericanos se convirtieron en el segundo grupo más grande del Bronx después de los hispanos y latinos. Los negros de origen tanto hispano como no hispano representaban más de un tercio (35,4%) de la población del Bronx. Los negros de origen no hispano constituían el 30,8% de la población. Más de 495.200 negros residían en el municipio, de los cuales 430.600 eran negros no hispanos. Más de 61.000 personas se identificaron como \"africanos subsaharianos\" en la encuesta, lo que representa el 4,4% de la población.",
+      "annotations": [
+        {
+          "question": "¿Qué grupo se convirtió en el segundo más grande del Bronx en el 2009?",
+          "choices": [
+            {
+              "text": "afroamericanos",
+              "start": 42,
+              "end": 56,
+              "type": "correct answer"
+            },
+            {
+              "text": "hispanos",
+              "start": 129,
+              "end": 137,
+              "type": "distractor"
+            },
+            {
+              "text": "latinos",
+              "start": 140,
+              "end": 147,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las negociaciones de paz en el Congreso de París resultaron en la firma del Tratado de París el 30 de marzo de 1856. En cumplimiento del artículo III, Rusia restauró al Imperio Otomano la ciudad y la ciudadela de Kars en común con \"todas las otras partes del territorio otomano del que la tropa rusa estaba en posesión\". Rusia cedió algunas tierras en Besarabia en la desembocadura del Danubio a Moldavia. Por el artículo IV El Reino Unido, Francia, Cerdeña y Turquía restauraron a Rusia \"las ciudades y puertos de Sebastopol, Balaklava, Kamish, Eupatoria, Kerch, Jenikale, Kinburn\". En conformidad con los artículos XI y XIII, el zar y el sultán acordaron no establecer ningún arsenal naval o militar en la costa del Mar Negro. Las cláusulas del Mar Negro debilitaron a Rusia, y ya no representaba una amenaza naval para los otomanos. Los principados de Moldavia y Valaquia fueron nominalmente devueltos al Imperio otomano; En la práctica se hicieron independientes. Las grandes potencias se comprometieron a respetar la independencia y la integridad territorial del Imperio otomano. : 432-33",
+      "annotations": [
+        {
+          "question": "¿A quién pertenecían más tarde los principados de Moldavia y Valaquia?",
+          "choices": [
+            {
+              "text": "Imperio otomano",
+              "start": 908,
+              "end": 923,
+              "type": "correct answer"
+            },
+            {
+              "text": "Francia",
+              "start": 441,
+              "end": 448,
+              "type": "distractor"
+            },
+            {
+              "text": "Reino Unido",
+              "start": 428,
+              "end": 439,
+              "type": "distractor"
+            },
+            {
+              "text": "Rusia",
+              "start": 321,
+              "end": 326,
+              "type": "distractor"
+            },
+            {
+              "text": "Turquía",
+              "start": 460,
+              "end": 467,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Treinta y nueve gobiernos tribales indígenas tienen su sede en Oklahoma, cada uno con poderes limitados dentro de las áreas designadas. Mientras que las reservas indias típicas en la mayoría de los Estados Unidos no están presentes en Oklahoma, los gobiernos tribales tienen tierras concedidas durante la era del Territorio Indio, pero con jurisdicción limitada y ningún control sobre los órganos de gobierno estatales como los municipios y condados. Los gobiernos tribales son reconocidos por los Estados Unidos como entidades cuasi-soberanas con poderes ejecutivos, judiciales y legislativos sobre miembros y funciones tribales, pero están sujetos a la autoridad del Congreso de los Estados Unidos para revocar o retener ciertos poderes. Los gobiernos tribales están obligados a presentar una constitución y cualesquiera enmiendas posteriores al Congreso de los Estados Unidos para su aprobación.",
+      "annotations": [
+        {
+          "question": "¿Cómo reconoce los Estados Unidos a los gobiernos tribales?",
+          "choices": [
+            {
+              "text": "entidades cuasi-soberanas",
+              "start": 518,
+              "end": 543,
+              "type": "correct answer"
+            },
+            {
+              "text": "municipios",
+              "start": 428,
+              "end": 438,
+              "type": "distractor"
+            },
+            {
+              "text": "condados",
+              "start": 441,
+              "end": 449,
+              "type": "distractor"
+            },
+            {
+              "text": "jurisdicción limitada",
+              "start": 340,
+              "end": 361,
+              "type": "distractor"
+            },
+            {
+              "text": "reservas indias",
+              "start": 153,
+              "end": 168,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Hayek escribió un ensayo, \"Por qué no soy conservador\" (incluido como un apéndice de La Constitución de la Libertad), en el que menospreció el conservadurismo por su incapacidad de adaptarse a las realidades humanas. Aunque señaló que el conservadurismo moderno comparte muchas opiniones sobre la economía con los liberales clásicos, particularmente una creencia en el mercado libre, creía que es porque el conservadurismo quiere \"quedarse quieto\", mientras que el liberalismo quiere ir. Hayek se identificó como un liberal clásico, pero señaló que en los Estados Unidos se había vuelto casi imposible usar \"liberal\" en su definición original, y el término \"libertario\" se ha utilizado en su lugar. En este texto, Hayek también se opuso al conservadurismo por \"su hostilidad hacia el internacionalismo y su pronunciamiento hacia un nacionalismo estridente\" y su asociación frecuente con el imperialismo.",
+      "annotations": [
+        {
+          "question": "¿Qué minimiza Hayek en su ensayo al decir que no puede moldearse ante las verdades humanas?",
+          "choices": [
+            {
+              "text": "conservadurismo",
+              "start": 143,
+              "end": 158,
+              "type": "correct answer"
+            },
+            {
+              "text": "liberalismo",
+              "start": 465,
+              "end": 476,
+              "type": "distractor"
+            },
+            {
+              "text": "nacionalismo",
+              "start": 832,
+              "end": 844,
+              "type": "distractor"
+            },
+            {
+              "text": "imperialismo",
+              "start": 890,
+              "end": 902,
+              "type": "distractor"
+            },
+            {
+              "text": "internacionalismo",
+              "start": 784,
+              "end": 801,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El término botánico \"Angiosperm\", del griego antiguo αγγείον, angeíon (botella, vasija) y σπέρμα (semilla), fue acuñado en 1690. Esto incluye plantas con flores que poseen semillas encerradas en cápsulas, que se distinguen de sus gimnospermas, o plantas con flores con frutos aceniales o esquizocárpicos, toda la fruta o cada una de sus piezas. El término y su antónimo fueron mantenidos por Carlos Linneo con el mismo sentido, pero con aplicación restringida, en los nombres de los órdenes de su clase Didynamia. Su uso con cualquier enfoque a su alcance moderno se hizo posible sólo después de 1827, cuando Robert Brown estableció la existencia de óvulos verdaderamente desnudos en Cycadeae y Coniferae, y les aplicó el nombre Gymnosperms. A partir de ese momento, siempre y cuando estas gimnospermas fueran, como era habitual, como se pensaba, como plantas dicotiledóneas, el término angiosperma fue usado antiteticamente por los botánicos.",
+      "annotations": [
+        {
+          "question": "¿A qué término se le ocurrió Paul Hermann en 1690?",
+          "choices": [
+            {
+              "text": "angiosperma",
+              "start": 887,
+              "end": 898,
+              "type": "correct answer"
+            },
+            {
+              "text": "dicotiledóneas",
+              "start": 860,
+              "end": 874,
+              "type": "distractor"
+            },
+            {
+              "text": "gimnospermas",
+              "start": 230,
+              "end": 242,
+              "type": "distractor"
+            },
+            {
+              "text": "frutos aceniales",
+              "start": 269,
+              "end": 285,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En Brasil, el Tribunal Supremo Federal (Supremo Tribunal Federal) es el tribunal más alto. Es tanto el tribunal constitucional como el tribunal de último recurso en la ley brasileña. Sólo revisa los casos que pueden ser inconstitucionales o últimos hábeas corpus abogan por casos penales. También juzga, en jurisdicción original, los casos que involucran a miembros del Congreso, senadores, ministros de Estado, miembros de los tribunales superiores y el Presidente y Vicepresidente de la República. El Tribunal Superior de Justicia revisa las decisiones de los tribunales estatales y del Circuito Federal para los casos de derecho civil y derecho penal, cuando se trata de leyes federales o decisiones conflictivas. El Tribunal Superior del Trabajo (Tribunal Superior do Trabalho) revisa los casos relacionados con la ley laboral. El Tribunal Superior Electoral (Tribunal Superior Eleitoral) es el tribunal de último recurso de ley electoral, y también supervisa las elecciones generales. El Tribunal Superior Militar es el máximo tribunal en materia de derecho militar federal.",
+      "annotations": [
+        {
+          "question": "¿Qué tribunal es el que supervisa todas las elecciones generales?",
+          "choices": [
+            {
+              "text": "Tribunal Superior Electoral",
+              "start": 835,
+              "end": 862,
+              "type": "correct answer"
+            },
+            {
+              "text": "Tribunal Superior del Trabajo",
+              "start": 720,
+              "end": 749,
+              "type": "distractor"
+            },
+            {
+              "text": "Tribunal Superior de Justicia",
+              "start": 503,
+              "end": 532,
+              "type": "distractor"
+            },
+            {
+              "text": "Tribunal Supremo Federal",
+              "start": 14,
+              "end": 38,
+              "type": "distractor"
+            },
+            {
+              "text": "Tribunal Superior Militar",
+              "start": 993,
+              "end": 1018,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En respuesta al \"racionalismo continental\" de principios a mediados del siglo XVII, John Locke (1632-1704) propuso en An Essay Concerning Human Understanding (1689) una visión muy influyente en la que el único conocimiento humano puede tener experiencia. Locke es famoso por sostener la proposición de que la mente humana es una tabula rasa, una \"tableta en blanco\", en las palabras de Locke, en la que las experiencias derivadas de las impresiones de sentido a medida que avanza la vida. Hay dos fuentes de nuestras ideas: Sensación y reflexión. En ambos casos, se hace una distinción entre ideas simples y complejas. Las primeras no son analizables, y se dividen en cualidades primarias y secundarias. Las cualidades primarias son esenciales para que el objeto en cuestión sea lo que es. Sin cualidades primarias específicas, un objeto no sería lo que es. Por ejemplo, una manzana es una manzana debido a la disposición de su estructura atómica. Si una manzana estuviera estructurada de manera diferente, dejaría de ser una manzana. Las cualidades secundarias son la información sensorial que podemos percibir de sus cualidades primarias. Por ejemplo, una manzana puede ser percibida en varios colores, tamaños y texturas, pero todavía se identifica como una manzana. Por lo tanto, sus cualidades primarias dictan lo que el objeto es esencialmente, mientras que sus cualidades secundarias definen sus atributos. Las ideas complejas combinan las simples, y se dividen en sustancias, modos y relaciones. Según Locke, nuestro conocimiento de las cosas es una percepción de ideas que están de acuerdo o discordantes entre sí, que es muy diferente de la búsqueda de la certeza de Descartes.",
+      "annotations": [
+        {
+          "question": "¿Qué descripción le da Locke a su teoría que la mente es una tabula rasa?",
+          "choices": [
+            {
+              "text": "las experiencias derivadas de las impresiones de sentido a medida que avanza la vida",
+              "start": 403,
+              "end": 487,
+              "type": "correct answer"
+            },
+            {
+              "text": "sus cualidades primarias dictan lo que el objeto es esencialmente, mientras que sus cualidades secundarias definen sus atributos",
+              "start": 1284,
+              "end": 1412,
+              "type": "distractor"
+            },
+            {
+              "text": "son esenciales para que el objeto en cuestión sea lo que es",
+              "start": 729,
+              "end": 788,
+              "type": "distractor"
+            },
+            {
+              "text": "son la información sensorial que podemos percibir de sus cualidades primarias",
+              "start": 1062,
+              "end": 1139,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La memoria de un ordenador puede ser vista como una lista de celdas en las que los números pueden ser colocados o leídos. Cada celda tiene una \"dirección\" numerada y puede almacenar un solo número. La computadora puede ser instruida para \"poner el número 123 en la celda número 1357\" o \"añadir el número que está en la celda 1357 al número que está en la celda 2468 y poner la respuesta en la celda 1595\". La información almacenada en la memoria puede representar prácticamente cualquier cosa. Las letras, los números, incluso las instrucciones de la computadora se pueden colocar en la memoria con la misma facilidad. Dado que la CPU no diferencia entre diferentes tipos de información, es responsabilidad del software dar importancia a lo que la memoria ve como nada más que una serie de números.",
+      "annotations": [
+        {
+          "question": "¿Qué componente se encarga de dar la importancia a lo que la memoria solo identifica como números?",
+          "choices": [
+            {
+              "text": "software",
+              "start": 711,
+              "end": 719,
+              "type": "correct answer"
+            },
+            {
+              "text": "CPU",
+              "start": 631,
+              "end": 634,
+              "type": "distractor"
+            },
+            {
+              "text": "ordenador",
+              "start": 17,
+              "end": 26,
+              "type": "distractor"
+            },
+            {
+              "text": "lista de celdas",
+              "start": 52,
+              "end": 67,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Se estima que en el siglo XI los judíos asquenazíes componían sólo el tres por ciento de la población judía mundial, mientras que en su apogeo en 1931 representaban el 92 por ciento de los judíos del mundo. Inmediatamente antes del Holocausto, el número de judíos en el mundo era de aproximadamente 16,7 millones. Las cifras estadísticas varían para la demografía contemporánea de judíos asquenazíes, oscilando entre 10 millones y 11,2 millones. Sergio DellaPergola en un cálculo aproximado de los judíos sefardíes y Mizrahi, implica que los asquenazíes representan menos del 74% de los judíos en todo el mundo. Otras estimaciones sitúan a los judíos asquenazíes como el 75% de los judíos en todo el mundo.",
+      "annotations": [
+        {
+          "question": "¿Cuántos judíos había antes del Holocausto?",
+          "choices": [
+            {
+              "text": "16,7 millones",
+              "start": 299,
+              "end": 312,
+              "type": "correct answer"
+            },
+            {
+              "text": "10 millones",
+              "start": 417,
+              "end": 428,
+              "type": "distractor"
+            },
+            {
+              "text": "11,2 millones",
+              "start": 431,
+              "end": 444,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La nominación de Nasser para el puesto y la nueva constitución fueron sometidas a referéndum público el 23 de junio y cada una fue aprobada por una mayoría abrumadora. Se estableció una Asamblea Nacional de 350 miembros, cuyas elecciones se celebraron en julio de 1957. Nasser tenía la aprobación definitiva sobre todos los candidatos. La constitución otorgaba el sufragio femenino, prohibía la discriminación basada en el género y implicaba una protección especial para las mujeres en el lugar de trabajo. Coincidiendo con la nueva constitución y la presidencia de Nasser, el CCR se disolvió y sus miembros renunciaron a sus comisiones militares como parte de la transición al gobierno civil. Durante las deliberaciones sobre el establecimiento de un nuevo gobierno, Nasser comenzó un proceso de marginar a sus rivales entre los Oficiales Libres originales, mientras elevaba a sus aliados más cercanos a los puestos de alto rango en el gabinete.",
+      "annotations": [
+        {
+          "question": "¿A qué tuvieron que renunciar los miembros de la CCR cuando se disolvió?",
+          "choices": [
+            {
+              "text": "comisiones militares",
+              "start": 626,
+              "end": 646,
+              "type": "correct answer"
+            },
+            {
+              "text": "la nueva constitución",
+              "start": 524,
+              "end": 545,
+              "type": "distractor"
+            },
+            {
+              "text": "el referéndum público",
+              "start": 82,
+              "end": 100,
+              "type": "distractor"
+            },
+            {
+              "text": "el nuevo gobierno",
+              "start": 752,
+              "end": 766,
+              "type": "distractor"
+            },
+            {
+              "text": "puestos de alto rango",
+              "start": 909,
+              "end": 930,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Sin embargo, todas estas facetas de la vida universitaria medieval son consideradas por la erudición estándar como desarrollos europeos medievales independientes sin influencia islámica trazable. En general, algunos críticos han señalado la fuerte inclinación de Makdisi de exagerar su caso simplemente descansando en \"la acumulación de paralelos estrechos\", pero al mismo tiempo no apuntan a convencer los canales del mundo cristiano y musulmán. Norman Daniel señala que el equivalente árabe de la disputa latina, la taliqa, estaba reservado para la corte del gobernante, no la madrasa, y que las diferencias reales entre el fiqh islámico y el derecho civil medieval europeo eran profundas. La taliqa sólo llegó a la España islámica, el único punto probable de transmisión, después del establecimiento de las primeras universidades medievales. De hecho, no hay traducción latina de la taliqa y, lo más importante, no hay evidencia de que los estudiosos latinos muestren alguna vez conciencia de la influencia árabe en el método latino de disputa, algo que ciertamente habrían encontrado digno de mención. Más bien, fue la recepción medieval del Organon griego la que puso en marcha el \"et non scholastic\". Daniel concluye que las semejanzas en el método tenían más que ver con las dos religiones teniendo \"problemas comunes: Reconciliar las declaraciones contradictorias de sus propias autoridades, y salvaguardar los datos de la revelación del impacto de la filosofía griega\". Así, el escolasticismo cristiano y conceptos árabes similares deberían ser vistos en términos de una ocurrencia paralela, no de la transmisión de ideas de uno a otro, una visión compartida por Hugh Kennedy.",
+      "annotations": [
+        {
+          "question": "¿Cuál es la versión medieval europea del fiqh?",
+          "choices": [
+            {
+              "text": "derecho civil",
+              "start": 645,
+              "end": 658,
+              "type": "correct answer"
+            },
+            {
+              "text": "erudición estándar",
+              "start": 91,
+              "end": 109,
+              "type": "distractor"
+            },
+            {
+              "text": "escolasticismo cristiano",
+              "start": 1487,
+              "end": 1511,
+              "type": "distractor"
+            },
+            {
+              "text": "disputa latina",
+              "start": 499,
+              "end": 513,
+              "type": "distractor"
+            },
+            {
+              "text": "filosofía griega",
+              "start": 1460,
+              "end": 1476,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Una de las características de BYU más a menudo señalada es su reputación de enfatizar una \"cultura del matrimonio\". Los miembros de la Iglesia de Jesucristo de los Santos de los Últimos Días valoran mucho el matrimonio y la familia, especialmente el matrimonio dentro de la fe. Aproximadamente el 51 por ciento de los graduados en la clase de BYU de 2005 se casaron. Esto se compara con un promedio nacional de matrimonio entre los graduados universitarios del 11 por ciento. Los estudiantes de BYU en promedio se casan a la edad de 22 años, según un estudio de 2005, mientras que la edad media nacional es de 25 años para los hombres y 27 años para las mujeres.",
+      "annotations": [
+        {
+          "question": "¿A qué edad es la edad promedio para casarse para los estudiantes de BYU?",
+          "choices": [
+            {
+              "text": "22 años",
+              "start": 533,
+              "end": 540,
+              "type": "correct answer"
+            },
+            {
+              "text": "25 años",
+              "start": 610,
+              "end": 617,
+              "type": "distractor"
+            },
+            {
+              "text": "27 años",
+              "start": 637,
+              "end": 644,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Un remaster de alta definición del juego, The Legend of Zelda: Twilight Princess HD, está siendo desarrollado por Tantalus Media para Wii U. Oficialmente anunciado durante una presentación de Nintendo Direct el 12 de noviembre de 2015, cuenta con gráficos mejorados y funcionalidad Amiibo. El juego será lanzado en Norteamérica y Europa el 4 de marzo de 2016; En Australia el 5 de marzo de 2016; Y en Japón el 10 de marzo de 2016.",
+      "annotations": [
+        {
+          "question": "¿Qué fecha tiene su lanzamiento en Australia?",
+          "choices": [
+            {
+              "text": "el 5 de marzo de 2016",
+              "start": 373,
+              "end": 394,
+              "type": "correct answer"
+            },
+            {
+              "text": "el 10 de marzo de 2016",
+              "start": 407,
+              "end": 429,
+              "type": "distractor"
+            },
+            {
+              "text": "el 4 de marzo de 2016",
+              "start": 337,
+              "end": 358,
+              "type": "distractor"
+            },
+            {
+              "text": "el 12 de noviembre de 2015",
+              "start": 208,
+              "end": 234,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En un sistema no partidista, no existen partidos políticos oficiales, a veces reflejando restricciones legales a los partidos políticos. En las elecciones no partidistas, cada candidato es elegible para el cargo por sus propios méritos. En las legislaturas no partidistas, no hay alineamientos formales dentro de la legislatura. La administración de George Washington y las primeras sesiones del Congreso de los Estados Unidos no eran partidistas. Washington también advirtió contra los partidos políticos durante su discurso de despedida. En los Estados Unidos, la legislatura unicameral de Nebraska es no partidista, pero es elegida y vota sobre líneas de partido informales. En Canadá, las legislaturas territoriales de los Territorios del Noroeste y Nunavut son no partidistas. En Nueva Zelanda, Tokelau tiene un parlamento no partidista. Muchos gobiernos de ciudades y condados son no partidistas. Las elecciones y modos de gobierno no partidistas son comunes fuera de las instituciones estatales. A menos que haya prohibiciones legales contra los partidos políticos, las facciones dentro de los sistemas no partidistas a menudo evolucionan en partidos políticos.",
+      "annotations": [
+        {
+          "question": "¿Qué no tiene existencia en un sistema no partidista?",
+          "choices": [
+            {
+              "text": "partidos políticos oficiales",
+              "start": 40,
+              "end": 68,
+              "type": "correct answer"
+            },
+            {
+              "text": "el parlamento",
+              "start": 817,
+              "end": 827,
+              "type": "distractor"
+            },
+            {
+              "text": "prohibiciones legales",
+              "start": 1020,
+              "end": 1041,
+              "type": "distractor"
+            },
+            {
+              "text": "legislaturas territoriales",
+              "start": 693,
+              "end": 719,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Geométricos helenísticos como Arquímedes (287 - 212 a. C.), Apolonio de Perga (c. 262 - c. 190 a. C.), y Euclides (c. 325 - 265 a. C.). Euclides desarrolló pruebas para el Teorema de Pitágoras, para la infinitud de los primos, y trabajó en los sólidos platónicos. Eratóstenes usó su conocimiento de la geometría para medir la circunferencia de la Tierra. Su cálculo fue notablemente preciso. También fue el primero en calcular la inclinación del eje de la Tierra (de nuevo con notable precisión). Además, pudo haber calculado con precisión la distancia desde la Tierra al Sol e inventado el día bisiesto. Conocido como el \"Padre de la Geografía\", Eratóstenes también creó el primer mapa del mundo que incorpora paralelos y meridianos, basado en el conocimiento geográfico disponible de la época.",
+      "annotations": [
+        {
+          "question": "¿Qué contribución tuvo Euclides a la geometría?",
+          "choices": [
+            {
+              "text": "desarrolló pruebas para el Teorema de Pitágoras, para la infinitud de los primos, y trabajó en los sólidos platónicos",
+              "start": 145,
+              "end": 262,
+              "type": "correct answer"
+            },
+            {
+              "text": "usó su conocimiento de la geometría para medir la circunferencia de la Tierra",
+              "start": 276,
+              "end": 353,
+              "type": "distractor"
+            },
+            {
+              "text": "fue el primero en calcular la inclinación del eje de la Tierra",
+              "start": 400,
+              "end": 462,
+              "type": "distractor"
+            },
+            {
+              "text": "creó el primer mapa del mundo que incorpora paralelos y meridianos, basado en el conocimiento geográfico disponible de la época",
+              "start": 667,
+              "end": 794,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 2006 y 2007, el mundo utilizó aproximadamente 2,4 megatonnes (5,3 × 109 lb) de pesticidas, con herbicidas constituyendo la mayor parte del uso mundial de pesticidas en un 40%, seguidos por insecticidas. En 2006 y 2007 los EE.UU. utilizaron aproximadamente 0,5 megatonnes (1,1 × 109 lb) de pesticidas, que representan el 22% del total mundial, incluyendo 857 millones de libras (389 kt) de pesticidas convencionales. A partir de 2007, había más de 1.055 ingredientes activos registrados como pesticidas, que producen más de 20.000 productos de pesticidas que se comercializan en los Estados Unidos.",
+      "annotations": [
+        {
+          "question": "¿Qué utilizó el mundo en una cantidad de 2,4 megatonnes en el año de 2006 y 2007?",
+          "choices": [
+            {
+              "text": "pesticidas",
+              "start": 82,
+              "end": 92,
+              "type": "correct answer"
+            },
+            {
+              "text": "herbicidas",
+              "start": 98,
+              "end": 108,
+              "type": "distractor"
+            },
+            {
+              "text": "insecticidas",
+              "start": 192,
+              "end": 204,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La polinización es el proceso por el cual el polen se transfiere en la reproducción de las plantas, lo que permite la fertilización y la reproducción sexual. La mayoría de las plantas con flores requieren un animal para realizar el transporte. Mientras que otros animales se incluyen como polinizadores, la mayoría de la polinización es realizada por los insectos. Debido a que los insectos suelen recibir beneficios para la polinización en forma de néctar rico en energía, es un gran ejemplo de mutualismo. Los diversos rasgos florales (y combinaciones de ellos) que diferencialmente atraen un tipo de polinizador u otro se conocen como síndromes de polinización. Estos surgieron a través de complejas adaptaciones de plantas y animales. Los polinizadores encuentran flores a través de coloraciones brillantes, incluyendo feromonas ultravioletas y atrayentes. El estudio de la polinización por insectos se conoce como antecología.",
+      "annotations": [
+        {
+          "question": "¿Qué permite la polinización, aparte de la fertilización?",
+          "choices": [
+            {
+              "text": "reproducción sexual",
+              "start": 137,
+              "end": 156,
+              "type": "correct answer"
+            },
+            {
+              "text": "coloraciones brillantes",
+              "start": 787,
+              "end": 810,
+              "type": "distractor"
+            },
+            {
+              "text": "feromonas ultravioletas",
+              "start": 823,
+              "end": 846,
+              "type": "distractor"
+            },
+            {
+              "text": "rasgos florales",
+              "start": 521,
+              "end": 536,
+              "type": "distractor"
+            },
+            {
+              "text": "néctar rico en energía",
+              "start": 450,
+              "end": 472,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La dinastía perdió el control de los territorios periféricos poco a poco. A cambio de promesas de apoyo contra los británicos y los franceses, el Imperio ruso tomó grandes trozos de territorio en el noreste en 1860. El período de cooperación entre los reformadores y las potencias europeas terminó con la masacre de Tientsin de 1870, que fue incitada por el asesinato de monjas francesas provocadas por la beligerancia de diplomáticos franceses locales. A partir de la Campaña de Cochinchina en 1858, Francia amplió el control de Indochina. En 1883, Francia tenía el control total de la región y había llegado a la frontera con China. La guerra franco-china comenzó con un ataque sorpresa de los franceses sobre la flota china del sur en Fuzhou. Después de eso, los chinos declararon la guerra a los franceses. Una invasión francesa de Taiwán fue detenida y los franceses fueron derrotados en Tonkin en la batalla de Bang Bo. Sin embargo, Japón amenazó con entrar en la guerra contra China debido al golpe Gapsin y China optó por poner fin a la guerra con las negociaciones. La guerra terminó en 1885 con el Tratado de Tientsin (1885) y el reconocimiento chino del protectorado francés en Vietnam.",
+      "annotations": [
+        {
+          "question": "¿Con qué evento dio por empezada la guerra entre Francia y China?",
+          "choices": [
+            {
+              "text": "un ataque sorpresa de los franceses sobre la flota china del sur en Fuzhou",
+              "start": 670,
+              "end": 744,
+              "type": "correct answer"
+            },
+            {
+              "text": "el reconocimiento chino del protectorado francés en Vietnam",
+              "start": 1137,
+              "end": 1196,
+              "type": "distractor"
+            },
+            {
+              "text": "el Tratado de Tientsin",
+              "start": 1105,
+              "end": 1127,
+              "type": "distractor"
+            },
+            {
+              "text": "los franceses fueron derrotados en Tonkin en la batalla de Bang Bo",
+              "start": 858,
+              "end": 924,
+              "type": "distractor"
+            },
+            {
+              "text": "la masacre de Tientsin de 1870, que fue incitada por el asesinato de monjas francesas",
+              "start": 302,
+              "end": 387,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Doordarshan es la cadena de televisión estatal. Doordarshan Shimla también proporciona programas en el lenguaje Pahari. ​ Los operadores del sistema Multi proporcionan una mezcla de Nepali, Hindi, Inglés, y canales internacionales a través de cable. All India Radio es una estación de radio pública. Las estaciones de FM privadas también están disponibles en algunas ciudades como Shimla. BSNL, Reliance Infocomm, Tata Indicom, Tata Docomo, Aircel, Vodafone, Idea Cellular y Airtel están disponibles operadores de telefonía celular. Internet de banda ancha está disponible en ciudades y ciudades selectas y es proporcionado por el estado BSNL y otras empresas privadas. El acceso telefónico es proporcionado por BSNL y otros proveedores.",
+      "annotations": [
+        {
+          "question": "¿Qué empresa privada se menciona que proporciona servicios de internet de banda ancha?",
+          "choices": [
+            {
+              "text": "BSNL",
+              "start": 638,
+              "end": 642,
+              "type": "correct answer"
+            },
+            {
+              "text": "Tata Indicom",
+              "start": 414,
+              "end": 426,
+              "type": "distractor"
+            },
+            {
+              "text": "Reliance Infocomm",
+              "start": 395,
+              "end": 412,
+              "type": "distractor"
+            },
+            {
+              "text": "Aircel",
+              "start": 441,
+              "end": 447,
+              "type": "distractor"
+            },
+            {
+              "text": "Airtel",
+              "start": 475,
+              "end": 481,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En términos de impacto en los acontecimientos, fue más que la personalidad de Napoleón lo que entró en vigor. Reorganizó la propia Francia para suministrar los hombres y el dinero necesarios para las grandes guerras. Sobre todo inspiró a sus hombres - Wellington dijo que su presencia en el campo de batalla valía 40.000 soldados, porque inspiró la confianza de los soldados en los mariscales de campo. También desanimaba al enemigo. En la Batalla de Auerstadt en 1806, el rey Federico Guillermo III de Prusia superaba en número a los franceses por 63.000 a 27.000. Sin embargo, cuando se le dijo erróneamente que Napoleón estaba al mando, ordenó una retirada apresurada que se convirtió en una derrota. La fuerza de su personalidad neutralizó las dificultades materiales cuando sus soldados lucharon con la confianza de que con Napoleón a cargo seguramente ganarían.",
+      "annotations": [
+        {
+          "question": "¿Qué evento llevó al rey Federico a retirar sus fuerzas apresuradamente que fue al final una derrota?",
+          "choices": [
+            {
+              "text": "se le dijo erróneamente que Napoleón estaba al mando",
+              "start": 586,
+              "end": 638,
+              "type": "correct answer"
+            },
+            {
+              "text": "neutralizó las dificultades materiales cuando sus soldados lucharon con la confianza de que con Napoleón a cargo seguramente ganarían",
+              "start": 733,
+              "end": 866,
+              "type": "distractor"
+            },
+            {
+              "text": "su presencia en el campo de batalla valía 40.000 soldados, porque inspiró la confianza de los soldados en los mariscales de campo",
+              "start": 272,
+              "end": 401,
+              "type": "distractor"
+            },
+            {
+              "text": "reorganizó la propia Francia para suministrar los hombres y el dinero necesarios para las grandes guerras",
+              "start": 110,
+              "end": 215,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

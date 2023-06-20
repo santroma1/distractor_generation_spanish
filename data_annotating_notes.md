@@ -407,28 +407,30 @@ Total 50
 44 - Add stuff
 45 - remove S
 
-# Monday June 19th
+# Monday June 19th - Tuesday June 20th
 
-Dates and Numbers 3
+Dates and Numbers 6
 
-Names 5
+Names 8
 
-Phrases 12
+Phrases 26
 
-Total 20
+Total 40
 
 ## Comments
 10 - Edit cases
+30 - Edit articles
+40 - Edit
 
 # Total
 
-Dates and Numbers 124
+Dates and Numbers 130
 
-Names 202
+Names 210
 
-Phrases 574 
+Phrases 600 
 
-Total 900
+Total 940
 
 
 # GLOBAL NOTES
