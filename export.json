@@ -1192,6 +1192,81 @@
         ]
       },
       {
+        "context": "Una molécula de grasa dietética consiste típicamente en varios ácidos grasos (que contienen largas cadenas de átomos de carbono e hidrógeno), unidos a un glicerol. Se encuentran típicamente como triglicéridos (tres ácidos grasos unidos a una espina dorsal de glicerol). Las grasas pueden ser clasificadas como saturadas o insaturadas dependiendo de la estructura detallada de los ácidos grasos involucrados. Las grasas saturadas tienen todos los átomos de carbono en sus cadenas de ácidos grasos unidos a átomos de hidrógeno, mientras que las grasas insaturadas tienen algunos de estos átomos de carbono de doble enlace, por lo que sus moléculas tienen relativamente menos átomos de hidrógeno. Las grasas insaturadas pueden ser clasificadas como monoinsaturadas (un doble enlace) o poliinsaturadas (muchos enlaces dobles). Además, dependiendo de la ubicación del doble enlace en la cadena de ácido graso, los ácidos grasos insaturados se clasifican como omega-3 o ácidos grasos omega-6. Las grasas trans son un tipo de grasa insaturada con enlaces de isómero trans; Estos son raros en la naturaleza y en los alimentos de fuentes naturales; Se crean típicamente en un proceso industrial llamado hidrogenación parcial. Hay nueve kilocalorías en cada gramo de grasa. Los ácidos grasos como el ácido linoleico conjugado, el ácido catalópico, el ácido eleosteárico y el ácido punico, además de proporcionar energía, representan potentes moléculas inmunomoduladoras.",
+        "annotations": [
+          {
+            "question": "¿Cómo se clasifica un ácido graso insaturado dependiendo de la ubicación del doble enlace?",
+            "choices": [
+              {
+                "text": "omega-3",
+                "start": 954,
+                "end": 961,
+                "type": "correct answer"
+              },
+              {
+                "text": "glicerol",
+                "start": 259,
+                "end": 267,
+                "type": "distractor"
+              },
+              {
+                "text": "ácido punico",
+                "start": 1365,
+                "end": 1377,
+                "type": "distractor"
+              },
+              {
+                "text": "monoinsaturado",
+                "start": 746,
+                "end": 761,
+                "type": "distractor"
+              },
+              {
+                "text": "poliinsaturado",
+                "start": 782,
+                "end": 797,
+                "type": "distractor"
+              }
+            ]
+          },
+          {
+            "question": "¿A que están unidos varios ácidos grasos para formar una molécula de grasa dietética?",
+            "choices": [
+              {
+                "text": "glicerol",
+                "start": 154,
+                "end": 162,
+                "type": "correct answer"
+              },
+              {
+                "text": "carbono",
+                "start": 596,
+                "end": 603,
+                "type": "distractor"
+              },
+              {
+                "text": "hidrógeno",
+                "start": 515,
+                "end": 524,
+                "type": "distractor"
+              },
+              {
+                "text": "ácido linoleico conjugado",
+                "start": 1290,
+                "end": 1315,
+                "type": "distractor"
+              },
+              {
+                "text": "omega-6",
+                "start": 978,
+                "end": 985,
+                "type": "distractor"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "context": "Señala que tanto A. P. de Candolle como Charles Lyell habían declarado que todos los organismos están expuestos a una competencia severa. Darwin enfatiza que usó la frase \"lucha por la existencia\" en \"un sentido grande y metafórico, incluyendo la dependencia de un ser en otro\"; Da ejemplos que van desde plantas que luchan contra la sequía hasta plantas que compiten por las aves para comer sus frutos y diseminar sus semillas. Describe la lucha resultante del crecimiento de la población: \"Es la doctrina de Malthus aplicada con fuerza manifiesta a todo el animal y los reinos vegetales\". Discute los controles para tal aumento, incluyendo interdependencias ecológicas complejas, y señala que la competencia es más severa entre formas estrechamente relacionadas \"que ocupan casi el mismo lugar en la economía de la naturaleza\".",
         "annotations": [
           {
@@ -13687,6 +13762,41 @@
                 "text": "1986",
                 "start": 854,
                 "end": 858,
+                "type": "distractor"
+              }
+            ]
+          },
+          {
+            "question": "¿Cuándo fue que apareció Inglaterra por primera vez en una copa del mundo?",
+            "choices": [
+              {
+                "text": "1990",
+                "start": 501,
+                "end": 505,
+                "type": "distractor"
+              },
+              {
+                "text": "1954",
+                "start": 835,
+                "end": 839,
+                "type": "distractor"
+              },
+              {
+                "text": "1970",
+                "start": 847,
+                "end": 851,
+                "type": "distractor"
+              },
+              {
+                "text": "1950",
+                "start": 68,
+                "end": 72,
+                "type": "correct answer"
+              },
+              {
+                "text": "1966",
+                "start": 417,
+                "end": 421,
                 "type": "distractor"
               }
             ]
@@ -32763,6 +32873,630 @@
               "text": "reorganizó la propia Francia para suministrar los hombres y el dinero necesarios para las grandes guerras",
               "start": 110,
               "end": 215,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El verde es el color de los partidos verdes, los partidos islamistas, los partidos agrarios nórdicos y los partidos republicanos irlandeses. Orange es a veces un color de nacionalismo, como en los Países Bajos, en Israel con el Campamento Naranja o con los lealistas del Ulster en Irlanda del Norte; También es un color de la reforma como en Ucrania. En el pasado, el púrpura era considerado el color de la realeza (como el blanco), pero hoy en día se utiliza a veces para partidos feministas. El blanco también está asociado con el nacionalismo. \"Partido Púrpura\" también se utiliza como una hipótesis académica de un partido indefinido, como un partido centrista en los Estados Unidos (porque el púrpura se crea de la mezcla de los colores de los principales partidos de rojo y azul). El negro se asocia generalmente con los partidos fascistas, volviendo a los camisas negras de Benito Mussolini, pero también con el anarquismo. Del mismo modo, el marrón a veces se asocia con el nazismo, volviendo a los milicianos uniformados del Partido Nazi.",
+      "annotations": [
+        {
+          "question": "¿Con qué se relaciona usualmente el color negro?",
+          "choices": [
+            {
+              "text": "el nazismo",
+              "start": 979,
+              "end": 989,
+              "type": "distractor"
+            },
+            {
+              "text": "los partidos fascistas",
+              "start": 823,
+              "end": 845,
+              "type": "correct answer"
+            },
+            {
+              "text": "el nacionalismo",
+              "start": 530,
+              "end": 545,
+              "type": "distractor"
+            },
+            {
+              "text": "la realeza",
+              "start": 404,
+              "end": 414,
+              "type": "distractor"
+            },
+            {
+              "text": "los partidos islamistas",
+              "start": 45,
+              "end": 68,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Por otro lado, los cambios a través del Fanerozoico se correlacionan mucho mejor con el modelo hiperbólico (ampliamente utilizado en biología de poblaciones, demografía y macrosociología, así como biodiversidad fósil) que con modelos exponenciales y logísticos. Estos últimos modelos implican que los cambios en la diversidad son guiados por una retroalimentación positiva de primer orden (más antepasados, más descendientes) y / o una retroalimentación negativa derivada de la limitación de recursos. El modelo hiperbólico implica una retroalimentación positiva de segundo orden. El patrón hiperbólico del crecimiento de la población mundial surge de una retroalimentación positiva de segundo orden entre el tamaño de la población y la tasa de crecimiento tecnológico. El carácter hiperbólico del crecimiento de la biodiversidad puede explicarse de manera similar por una retroalimentación entre la diversidad y la complejidad de la estructura de la comunidad. La similitud entre las curvas de biodiversidad y la población humana probablemente proviene del hecho de que ambas se derivan de la interferencia de la tendencia hiperbólica con la dinámica cíclica y estocástica.",
+      "annotations": [
+        {
+          "question": "¿Cuál modelo es el que se puede correlacionar de mejor manera con los cambios del periodo Fanerozoico?",
+          "choices": [
+            {
+              "text": "hiperbólico",
+              "start": 95,
+              "end": 106,
+              "type": "correct answer"
+            },
+            {
+              "text": "exponencial",
+              "start": 234,
+              "end": 247,
+              "type": "distractor"
+            },
+            {
+              "text": "logístico",
+              "start": 250,
+              "end": 260,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Típicamente el subtropical Cinturón de Alta Presión, con cielos claros frecuentes, proporciona más de 300 días de sol al año. Está situado en el borde sur de los trópicos; El Trópico de Capricornio corta el país a la mitad. El invierno (junio - agosto) es generalmente seco, ambas estaciones lluviosas se producen en verano, la pequeña estación lluviosa entre septiembre y noviembre, la grande entre febrero y abril. La humedad es baja, y la precipitación media varía desde casi cero en el desierto costero a más de 600 mm en la Franja de Caprivi. Las precipitaciones son sin embargo muy variables, y las sequías son comunes. La última temporada de lluvias con lluvias muy por debajo de la media anual ocurrió en el verano de 2006 / 07.",
+      "annotations": [
+        {
+          "question": "¿En qué mes empieza el periodo de lluvias más grande?",
+          "choices": [
+            {
+              "text": "febrero",
+              "start": 400,
+              "end": 407,
+              "type": "correct answer"
+            },
+            {
+              "text": "abril",
+              "start": 410,
+              "end": 415,
+              "type": "distractor"
+            },
+            {
+              "text": "septiembre",
+              "start": 360,
+              "end": 370,
+              "type": "distractor"
+            },
+            {
+              "text": "noviembre",
+              "start": 373,
+              "end": 382,
+              "type": "distractor"
+            },
+            {
+              "text": "agosto",
+              "start": 245,
+              "end": 251,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de la Revolución de Xinhai contra la dinastía Qing en 1912, los soldados Qing fueron desarmados y escoltados fuera del área del Tíbet (Ü-Tsang). La región posteriormente declaró su independencia en 1913 sin el reconocimiento del posterior gobierno republicano chino. Más tarde, Lhasa tomó el control de la parte occidental de Xikang, China. La región mantuvo su autonomía hasta 1951 cuando, tras la batalla de Chamdo, el Tíbet se incorporó a la República Popular de China, y el gobierno tibetano anterior fue abolido en 1959 después de un levantamiento fallido. Hoy en día, China gobierna el Tíbet occidental y central como la Región Autónoma del Tíbet, mientras que las zonas orientales son ahora en su mayoría prefecturas autónomas étnicas dentro de Sichuan, Qinghai y otras provincias vecinas. Hay tensiones con respecto a la situación política del Tíbet y los grupos disidentes que están activos en el exilio. También se dice que los activistas tibetanos en el Tíbet han sido arrestados o torturados.",
+      "annotations": [
+        {
+          "question": "¿Qué evento llevó a la incorporación del Tíbet a la República Popular de China?",
+          "choices": [
+            {
+              "text": "la batalla de Chamdo",
+              "start": 404,
+              "end": 424,
+              "type": "correct answer"
+            },
+            {
+              "text": "el reconocimiento del posterior gobierno republicano chino",
+              "start": 215,
+              "end": 273,
+              "type": "distractor"
+            },
+            {
+              "text": "Lhasa tomó el control de la parte occidental de Xikang",
+              "start": 286,
+              "end": 340,
+              "type": "distractor"
+            },
+            {
+              "text": "la Revolución de Xinhai contra la dinastía Qing",
+              "start": 11,
+              "end": 58,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los adolescentes tienden a asociarse con \"camarillas\" a pequeña escala y \"multitudes\" a mayor escala. Durante la adolescencia temprana, los adolescentes a menudo se asocian en camarillas, exclusivos grupos de compañeros con los que son particularmente cercanos. A pesar de la noción común de que las cliques son una influencia inherentemente negativa, pueden ayudar a los adolescentes a ser aclimatados socialmente y formar un sentido de identidad más fuerte. Dentro de una camarilla de homólogos masculinos altamente atléticos, por ejemplo, la camarilla puede crear un mayor sentido de fidelidad y competencia. Los cliques también se han convertido en algo \"padre colectivo\", i.e. Decirle a los adolescentes qué hacer y no hacer. Hacia la adolescencia tardía, los cliques a menudo se fusionan en grupos mixtos a medida que los adolescentes comienzan a relacionarse románticamente entre sí. Estos pequeños grupos de amigos se descomponen aún más a medida que la socialización se vuelve más orientada a la pareja. A mayor escala, los adolescentes a menudo se asocian con multitudes, grupos de individuos que comparten un interés o actividad común. A menudo, las identidades de las multitudes pueden ser la base para estereotipar a los jóvenes, como los deportistas o los nerds. En las grandes escuelas secundarias multiétnicas, a menudo hay multitudes étnicamente determinadas. Mientras que las multitudes son muy influyentes durante la adolescencia temprana y media, pierden relevancia durante la escuela secundaria mientras los estudiantes se identifican más individualmente.",
+      "annotations": [
+        {
+          "question": "¿Cuáles son los efectos positivos que los cliques pueden tener en un adolescente?",
+          "choices": [
+            {
+              "text": "ser aclimatados socialmente y formar un sentido de identidad más fuerte",
+              "start": 387,
+              "end": 458,
+              "type": "correct answer"
+            },
+            {
+              "text": "crear un mayor sentido de fidelidad y competencia",
+              "start": 561,
+              "end": 610,
+              "type": "distractor"
+            },
+            {
+              "text": "decirle a los adolescentes qué hacer y no hacer",
+              "start": 682,
+              "end": 729,
+              "type": "distractor"
+            },
+            {
+              "text": "comenzar a relacionarse románticamente entre sí",
+              "start": 841,
+              "end": 889,
+              "type": "distractor"
+            },
+            {
+              "text": "ser la base para estereotipar a los jóvenes, como los deportistas o los nerds",
+              "start": 1198,
+              "end": 1275,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La Cámara de Representantes, cuyos miembros son elegidos por períodos de cinco años, se especializa en legislación. Las elecciones se celebraron por última vez entre noviembre de 2011 y enero de 2012, que más tarde se disolvió. Las próximas elecciones parlamentarias se celebrarán dentro de los 6 meses de la ratificación de la constitución el 18 de enero de 2014. Originalmente, el parlamento iba a ser formado antes de que el presidente fuera elegido, pero el presidente interino Adly Mansour impulsó la fecha. Las elecciones presidenciales de Egipto de 2014 se celebraron del 26 al 28 de mayo de 2014. Las cifras oficiales mostraron una participación de 25,578,233 o 47,5%, con Abdel Fattah el-Sisi ganando con 23,78 millones de votos, o 96,91% comparado con 757,511 (3,09%).",
+      "annotations": [
+        {
+          "question": "¿En qué mes se celebraron las elecciones después de la ratificación de la constitución?",
+          "choices": [
+            {
+              "text": "mayo",
+              "start": 591,
+              "end": 595,
+              "type": "correct answer"
+            },
+            {
+              "text": "noviembre",
+              "start": 166,
+              "end": 175,
+              "type": "distractor"
+            },
+            {
+              "text": "enero",
+              "start": 186,
+              "end": 191,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La vestimenta tradicional eritrea es muy variada entre los grupos étnicos de Eritrea. En las ciudades más grandes, la mayoría de las personas se visten con ropa casual occidental como pantalones vaqueros y camisas. En las oficinas, tanto los hombres como las mujeres a menudo se visten con trajes. La ropa tradicional para los habitantes de Tigrinia cristianos consiste en trajes blancos brillantes llamados zurias para las mujeres, y camisas blancas largas acompañadas de pantalones blancos para los hombres. En las comunidades musulmanas de las tierras bajas de Eritrea, las mujeres tradicionalmente se visten con ropa de colores brillantes. Sólo las mujeres rashaida mantienen una tradición de cubrir la mitad de sus caras, aunque no cubren su pelo.",
+      "annotations": [
+        {
+          "question": "¿Cómo es la ropa para las mujeres pertenecientes de comunidades musulmanas en las tierras bajas de Eritrea?",
+          "choices": [
+            {
+              "text": "trajes blancos brillantes llamados zurias",
+              "start": 373,
+              "end": 414,
+              "type": "distractor"
+            },
+            {
+              "text": "camisas blancas largas acompañadas de pantalones blancos",
+              "start": 435,
+              "end": 491,
+              "type": "distractor"
+            },
+            {
+              "text": "ropa casual occidental como pantalones vaqueros y camisas",
+              "start": 156,
+              "end": 213,
+              "type": "distractor"
+            },
+            {
+              "text": "ropa de colores brillantes",
+              "start": 616,
+              "end": 642,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La antropología visual se refiere, en parte, al estudio y producción de la fotografía etnográfica, el cine y, desde mediados de la década de 1990, a los nuevos medios. Aunque el término se utiliza a veces de forma intercambiable con el cine etnográfico, la antropología visual también abarca el estudio antropológico de la representación visual, incluyendo áreas como la actuación, los museos, el arte y la producción y recepción de medios masivos. Representaciones visuales de todas las culturas, tales como pinturas de arena, tatuajes, esculturas y relieves, pinturas rupestres, scrimshaw, joyas, jeroglíficos, pinturas y fotografías se incluyen en el foco de la antropología visual.",
+      "annotations": [
+        {
+          "question": "¿Qué termino se refiere al estudio y producción de la fotografía etnográfica?",
+          "choices": [
+            {
+              "text": "pinturas rupestres",
+              "start": 561,
+              "end": 579,
+              "type": "distractor"
+            },
+            {
+              "text": "antropología visual",
+              "start": 3,
+              "end": 22,
+              "type": "correct answer"
+            },
+            {
+              "text": "cine etnográfico",
+              "start": 236,
+              "end": 252,
+              "type": "distractor"
+            },
+            {
+              "text": "estudio antropológico de la representación visual",
+              "start": 295,
+              "end": 344,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El sencillo \"Killer Queen\" de Sheer Heart Attack alcanzó el número dos en las listas británicas, y se convirtió en su primer éxito en Estados Unidos, alcanzando el número 12 en el Billboard Hot 100. Combina el campo, el vodevil y el music hall británico con el virtuosismo de la guitarra de May. El segundo sencillo del álbum, \"Now I 'm Here\", una composición de hard rock más tradicional, fue un hit número once en Gran Bretaña, mientras que el rockero de alta velocidad \"Stone Cold Crazy\" de May es un precursor. En 2006, Classic Rock lo clasificó número 28 en \"The 100 Greatest British Rock Albums Ever\", y en 2007, Mojo lo clasificó número 88 en \"The World 100 Records That Changed\". También es el segundo de los tres álbumes de Queen que aparecen en el libro 1001 álbumes que debes escuchar antes de morir.",
+      "annotations": [
+        {
+          "question": "¿Qué canción fue número 12 en el Billboard Hot 100?",
+          "choices": [
+            {
+              "text": "Killer Queen",
+              "start": 13,
+              "end": 25,
+              "type": "correct answer"
+            },
+            {
+              "text": "Stone Cold Crazy",
+              "start": 473,
+              "end": 489,
+              "type": "distractor"
+            },
+            {
+              "text": "Now I 'm Here",
+              "start": 328,
+              "end": 341,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Durante la gira, Madonna participó en la iniciativa Raising Malawi financiando parcialmente un orfanato y viajando a ese país. Mientras estaba allí, decidió adoptar a un niño llamado David Banda en octubre de 2006. La adopción generó una fuerte reacción pública, porque la ley de Malaui exige que los posibles padres residan en Malawi durante un año antes de adoptarlo, lo que Madonna no hizo. Ella se dirigió a esto en The Oprah Winfrey Show, diciendo que no había leyes de adopción escritas en Malawi que regulaban la adopción extranjera. Ella describió cómo Banda había estado sufriendo de neumonía después de sobrevivir a la malaria y la tuberculosis cuando lo conoció. El padre biológico de Banda, Yohane, comentó: \"Estos llamados activistas de derechos humanos me están acosando todos los días, amenazándome de que no soy consciente de lo que estoy haciendo. Quieren que apoye su caso judicial, algo que no puedo hacer por lo que estoy de acuerdo con Madonna y su marido \". La adopción se finalizó en mayo de 2008.",
+      "annotations": [
+        {
+          "question": "¿Contra qué estaba batallando David Banda cuando Madonna lo conoció?",
+          "choices": [
+            {
+              "text": "neumonía",
+              "start": 593,
+              "end": 601,
+              "type": "correct answer"
+            },
+            {
+              "text": "malaria",
+              "start": 629,
+              "end": 636,
+              "type": "distractor"
+            },
+            {
+              "text": "tuberculosis",
+              "start": 642,
+              "end": 654,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Como resultado de la Guerra Civil Libia, las Naciones Unidas promulgaron la Resolución 1973 del Consejo de Seguridad de las Naciones Unidas, que impuso una zona de exclusión aérea sobre Libia y la protección de civiles de las fuerzas de Muammar Gaddafi. Los Estados Unidos, junto con Gran Bretaña, Francia y varias otras naciones, comprometieron una fuerza de coalición contra las fuerzas de Gadafi. El 19 de marzo, la primera acción estadounidense fue tomada cuando 114 misiles Tomahawk lanzados por buques de guerra estadounidenses y británicos destruyeron las defensas aéreas de la costa del régimen de Gadafi. Los Estados Unidos continuaron desempeñando un papel importante en la Operación Protector Unificado, la misión dirigida por la OTAN que finalmente incorporó todas las acciones de la coalición militar en el teatro. A lo largo del conflicto, sin embargo, los Estados Unidos mantuvieron que estaba desempeñando un papel de apoyo y estaba siguiendo el mandato de la ONU para proteger a los civiles, mientras que el verdadero conflicto fue entre los leales a Gadafi y los rebeldes libios. Durante el conflicto, los drones estadounidenses también fueron desplegados.",
+      "annotations": [
+        {
+          "question": "¿De qué país fueron desplegados drones durante el conflicto entre los rebeldes libios y los leales a Gadafi?",
+          "choices": [
+            {
+              "text": "Estados Unidos",
+              "start": 871,
+              "end": 885,
+              "type": "correct answer"
+            },
+            {
+              "text": "Gran Bretaña",
+              "start": 284,
+              "end": 296,
+              "type": "distractor"
+            },
+            {
+              "text": "Francia",
+              "start": 298,
+              "end": 305,
+              "type": "distractor"
+            },
+            {
+              "text": "Libia",
+              "start": 34,
+              "end": 39,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La literatura creció a nuevas alturas en el período Qing. La poesía continuó como una marca del caballero cultivado, pero las mujeres escribían en números más grandes y más grandes y los poetas venían de todos los ámbitos de la vida. La poesía de la dinastía Qing es un campo vivo de investigación, siendo estudiada (junto con la poesía de la dinastía Ming) por su asociación con la ópera china, tendencias de desarrollo de la poesía china clásica, la transición a un papel mayor. La dinastía Qing fue un período de mucha colección y crítica literaria, y muchas de las versiones populares modernas de poemas chinos clásicos se transmitieron a través de antologías de la dinastía Qing, como los Quantangshi y los Tres Cien Tang Poemas. Pu Songling llevó el relato corto a un nuevo nivel en su Strange Stories from a Chinese Studio, publicado a mediados del siglo XVIII, y Shen Fu demostró el encanto de las memorias informales publicadas en Six Chapters of a Floating Life. El arte de la novela alcanzó un pináculo en el Sueño de la cámara roja de Cao Xueqin, pero su combinación de comentarios sociales y perspectivas psicológicas se hicieron eco en novelas altamente calificadas como El espejo de Wu Jingzi.",
+      "annotations": [
+        {
+          "question": "¿Qué aspectos mostró la obra El espejo?",
+          "choices": [
+            {
+              "text": "una marca del caballero cultivado",
+              "start": 82,
+              "end": 115,
+              "type": "distractor"
+            },
+            {
+              "text": "un campo vivo de investigación",
+              "start": 267,
+              "end": 297,
+              "type": "distractor"
+            },
+            {
+              "text": "comentarios sociales y perspectivas psicológicas",
+              "start": 1082,
+              "end": 1130,
+              "type": "correct answer"
+            },
+            {
+              "text": "antologías de la dinastía Qing",
+              "start": 653,
+              "end": 683,
+              "type": "distractor"
+            },
+            {
+              "text": "las memorias informales",
+              "start": 902,
+              "end": 925,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Algunos dialectos flamencos son tan distintos que podrían ser considerados como variantes lingüísticas separadas, aunque la fuerte importancia del lenguaje en la política belga impediría al gobierno clasificarlos como tales. El flamenco occidental en particular a veces se ha considerado una variedad distinta. Las fronteras dialectales de estos dialectos no corresponden a las fronteras políticas actuales, sino que reflejan divisiones medievales más antiguas. El grupo dialectal brabantino, por ejemplo, también se extiende a gran parte del sur de los Países Bajos, al igual que Limburgish. El flamenco occidental también se habla en Flandes zelandés (parte de la provincia holandesa de Zelanda), y en Flandes francés (una pequeña zona que limita con Bélgica).",
+      "annotations": [
+        {
+          "question": "¿Qué variación de lenguaje se habla en Limburguish?",
+          "choices": [
+            {
+              "text": "grupo dialectal brabantino",
+              "start": 465,
+              "end": 491,
+              "type": "correct answer"
+            },
+            {
+              "text": "Flandes zelandés",
+              "start": 636,
+              "end": 652,
+              "type": "distractor"
+            },
+            {
+              "text": "Flandes francés",
+              "start": 704,
+              "end": 719,
+              "type": "distractor"
+            },
+            {
+              "text": "belga",
+              "start": 171,
+              "end": 176,
+              "type": "distractor"
+            },
+            {
+              "text": "flamenco occidental",
+              "start": 228,
+              "end": 247,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El ejército francés consistía en tiempos de paz de aproximadamente 400.000 soldados, algunos de ellos regulares, otros reclutas que hasta 1869 sirvieron en el período comparativamente largo de siete años con los colores. Algunos de ellos eran veteranos de anteriores campañas francesas en la Guerra de Crimea, Argelia, la Guerra franco-austriaca en Italia, y en la Guerra franco-mexicana. Sin embargo, después de la \"Guerra de las Siete Semanas\" entre Prusia y Austria cuatro años antes, se había calculado que el ejército francés sólo podía alinear 288.000 hombres para hacer frente al ejército prusiano cuando tal vez serían necesarios 1.000.000. Bajo el mando del mariscal Adolphe Niel, se hicieron reformas urgentes. El reclutamiento universal (en lugar de por votación, como antes) y un período más corto de servicio dieron un mayor número de reservistas, que aumentarían el ejército a una fuerza planificada de 800.000 en la movilización. Aquellos que por cualquier razón no fueron reclutados fueron inscritos en la Garde Mobile, una milicia con una fuerza nominal de 400.000. Sin embargo, la guerra franco-prusiana estalló antes de que estas reformas pudieran ser completamente implementadas. La movilización de reservistas fue caótica y dio lugar a un gran número de rezagados, mientras que la Garde Mobile generalmente no estaba entrenada y a menudo amotinada.",
+      "annotations": [
+        {
+          "question": "¿Cuántos miembros tiene la Garde Mobile?",
+          "choices": [
+            {
+              "text": "400.000",
+              "start": 1074,
+              "end": 1081,
+              "type": "correct answer"
+            },
+            {
+              "text": "800.000",
+              "start": 917,
+              "end": 924,
+              "type": "distractor"
+            },
+            {
+              "text": "1.000.000",
+              "start": 638,
+              "end": 647,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El gobierno ha reconocido oficialmente el Islam sunita de la escuela Hanafi desde 2009. Tayikistán se considera a sí mismo un estado secular con una Constitución que establece la libertad de religión. El Gobierno ha declarado dos días festivos islámicos, Id al-Fitr y Idi Qurbon, como días festivos. Según un comunicado del Departamento de Estado de los Estados Unidos y el grupo de investigación de Pew, la población de Tayikistán es 98% musulmana. Aproximadamente el 87% -95% de ellos son sunitas y aproximadamente el 3% son chiíes y aproximadamente el 7% son musulmanes no confesionales. El 2% restante de la población son seguidores de la ortodoxia rusa, el protestantismo, el zoroastrismo y el budismo. La gran mayoría de los musulmanes ayunan durante el Ramadán, aunque sólo alrededor de un tercio en el campo y el 10% en las ciudades observan la oración diaria y las restricciones dietéticas.",
+      "annotations": [
+        {
+          "question": "¿Qué porcentaje de las ciudades practican diario las restricciones de dieta?",
+          "choices": [
+            {
+              "text": "10%",
+              "start": 821,
+              "end": 824,
+              "type": "correct answer"
+            },
+            {
+              "text": "3%",
+              "start": 520,
+              "end": 522,
+              "type": "distractor"
+            },
+            {
+              "text": "98%",
+              "start": 435,
+              "end": 438,
+              "type": "distractor"
+            },
+            {
+              "text": "7%",
+              "start": 555,
+              "end": 557,
+              "type": "distractor"
+            },
+            {
+              "text": "2%",
+              "start": 594,
+              "end": 596,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Un estudio de 2010 sobre ascendencia judía por Atzmon-Ostrer et al. Declaró: \"Dos grupos principales fueron identificados por componentes principales, filogenética e identidad por descendencia (IBD) análisis: Judíos del Medio Oriente y judíos europeos / sirios. El segmento compartido del BID y la proximidad de los judíos europeos entre sí y las poblaciones de Europa del sur sugirieron orígenes similares para los judíos europeos europeos y rechazaron las contribuciones genéticas a gran escala de los judíos de Europa Central y Oriental. El estudio examina marcadores genéticos repartidos por todo el genoma y muestra que los grupos judíos (asquenazíes y no asquenazíes) comparten grandes franjas de ADN, indicando relaciones cercanas y que cada uno de los grupos judíos. El equipo de Atzmon encontró que los marcadores SNP en segmentos genéticos de 3 millones de letras de ADN o más eran 10 veces más propensos a ser idénticos entre judíos que los no judíos. Los resultados del análisis también cuentan con relatos bíblicos del destino de los judíos. El estudio también encontró que con respecto a los grupos europeos no judíos, la población más estrechamente relacionada con los judíos asquenazíes son los italianos modernos. El estudio especuló que la similitud genética entre judíos asquenazíes e italianos puede deberse a los matrimonios mixtos y conversiones en la época del Imperio romano. También se encontró que dos participantes judíos asquenazíes en el estudio compartían tanto ADN como primos cuarto o quinto.",
+      "annotations": [
+        {
+          "question": "¿Qué demuestra principalmente el estudio al examinar los marcadores genéticos que están por todo el genoma?",
+          "choices": [
+            {
+              "text": "los grupos judíos (asquenazíes y no asquenazíes) comparten grandes franjas de ADN",
+              "start": 625,
+              "end": 706,
+              "type": "correct answer"
+            },
+            {
+              "text": "la similitud genética entre judíos asquenazíes e italianos",
+              "start": 1255,
+              "end": 1313,
+              "type": "distractor"
+            },
+            {
+              "text": "rechazaron las contribuciones genéticas a gran escala de los judíos de Europa Central y Oriental",
+              "start": 443,
+              "end": 539,
+              "type": "distractor"
+            },
+            {
+              "text": "dos participantes judíos asquenazíes en el estudio compartían tanto ADN como primos cuarto o quinto",
+              "start": 1424,
+              "end": 1523,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El vidrio fue utilizado ampliamente durante la Edad Media. El vidrio anglosajón ha sido encontrado en toda Inglaterra durante excavaciones arqueológicas de asentamientos y cementerios. El vidrio en el período anglosajón fue utilizado en la fabricación de una serie de objetos, incluyendo recipientes, cuentas, ventanas y también fue utilizado en joyería. Desde el siglo X en adelante, el vidrio fue empleado en vidrieras de iglesias y catedrales, con ejemplos famosos en la Catedral de Chartres y la Basílica de Saint Denis. En el siglo XIV, los arquitectos diseñaron edificios con paredes de vidrieras como Sainte-Chapelle, París, (1203-1248) y el extremo este de la catedral de Gloucester. Las vidrieras tuvieron un gran renacimiento con la arquitectura neogótica en el siglo XIX. Con el Renacimiento, y un cambio en el estilo arquitectónico, el uso de grandes vidrieras se hizo menos frecuente. El uso de vitrales domésticos aumentó hasta que la mayoría de las casas importantes tenían ventanas de vidrio. Estos eran inicialmente pequeños paneles unidos, pero con los cambios en la tecnología, el vidrio podía ser fabricado relativamente barato en hojas cada vez más grandes. Esto llevó a ventanas más grandes, y, en el siglo XX, a ventanas mucho más grandes en edificios domésticos y comerciales ordinarios.",
+      "annotations": [
+        {
+          "question": "¿En qué siglo fueron hechos edificios como Sainte-Chapelle en París?",
+          "choices": [
+            {
+              "text": "siglo XIV",
+              "start": 531,
+              "end": 540,
+              "type": "correct answer"
+            },
+            {
+              "text": "siglo XIX",
+              "start": 772,
+              "end": 781,
+              "type": "distractor"
+            },
+            {
+              "text": "siglo XX",
+              "start": 1223,
+              "end": 1231,
+              "type": "distractor"
+            },
+            {
+              "text": "siglo X",
+              "start": 364,
+              "end": 371,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El Imperio fue establecido en 1336 por Harihara I y su hermano Bukka Raya I de la dinastía Sangama. El imperio alcanzó prominencia como una culminación de los intentos de las potencias del sur de evitar las invasiones islámicas a finales del siglo XIII. El imperio lleva el nombre de su capital, la ciudad de Vijayanagara, cuyas ruinas rodean al actual Hampi, ahora Patrimonio de la Humanidad en Karnataka, India. El legado del imperio incluye muchos monumentos esparcidos por el sur de la India, el más conocido de los cuales es el grupo en Hampi. Las tradiciones anteriores de construcción de templos en el sur de la India se unieron en el estilo Vijayanagara Architecture. La mezcla de todas las religiones y vernáculos inspiró la innovación arquitectónica de la construcción de templos hindúes, primero en el Decán y más tarde en los idiomas dravídicos utilizando el granito local. Las matemáticas del sur de la India florecieron bajo la protección del Imperio Vijayanagara en Kerala. El matemático indio del sur Madhava de Sangamagrama fundó la famosa escuela de Kerala de astronomía y matemáticas en el siglo XIV que produjo muchos grandes matemáticos del sur de la India como Parameshvara, Nilakantha Somayaji. La administración eficiente y el comercio exterior vigoroso trajo nuevas tecnologías como los sistemas de gestión del agua para el riego. El patrocinio del imperio permitió a las bellas artes y la literatura alcanzar nuevas alturas en Kannada, Telugu, Tamil y sánscrito, mientras que la música carnática evolucionó en su forma actual. El Imperio Vijayanagara creó una época en la historia del sur de la India que trascendió el regionalismo promoviendo el hinduismo como un factor unificador. El imperio alcanzó su apogeo durante el gobierno de Sri Krishnadevaraya cuando los ejércitos Vijayanagara fueron consistentemente victoriosos. El imperio anexó áreas anteriormente bajo los Sultanatos en el norte del Decán y los territorios en el este del Decán, incluyendo Kalinga, mientras que simultáneamente mantiene el control sobre todos sus subordinados en el sur. Muchos monumentos importantes fueron completados o comisionados durante la época de Krishna Deva Raya. Vijayanagara entró en decadencia después de la derrota en la batalla de Talikota (1565).",
+      "annotations": [
+        {
+          "question": "¿Qué fue usado por el Imperio Vijayanagara para trascender el regionalismo en el sur de la India?",
+          "choices": [
+            {
+              "text": "el hinduismo",
+              "start": 1670,
+              "end": 1682,
+              "type": "correct answer"
+            },
+            {
+              "text": "las bellas artes",
+              "start": 1393,
+              "end": 1409,
+              "type": "distractor"
+            },
+            {
+              "text": "la literatura",
+              "start": 1412,
+              "end": 1425,
+              "type": "distractor"
+            },
+            {
+              "text": "la música carnática",
+              "start": 1502,
+              "end": 1521,
+              "type": "distractor"
+            },
+            {
+              "text": "los idiomas dravídicos",
+              "start": 834,
+              "end": 856,
               "type": "distractor"
             }
           ]

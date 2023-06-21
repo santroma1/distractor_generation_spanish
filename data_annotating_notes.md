@@ -422,15 +422,29 @@ Total 40
 30 - Edit articles
 40 - Edit
 
+# Wednesday 21th June
+
+Dates and Numbers 4
+
+Names 2
+
+Phrases 14
+
+Total 20
+
+## Comments
+2 - Plural
+5 - Change a lottttt
+
 # Total
 
-Dates and Numbers 130
+Dates and Numbers 134
 
-Names 210
+Names 212
 
-Phrases 600 
+Phrases 614 
 
-Total 940
+Total 960
 
 
 # GLOBAL NOTES
