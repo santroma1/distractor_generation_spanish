@@ -1,4 +1,6 @@
 numpy
 dataclasses
 tqdm
-transformers
+transformers[torch]
+tensorboardX
+tensorboard
