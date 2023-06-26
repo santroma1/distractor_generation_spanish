@@ -436,15 +436,29 @@ Total 20
 2 - Plural
 5 - Change a lottttt
 
+# Friday 23th June - Saturday 24th June
+
+Dates and Numbers 1
+
+Names 4
+
+Phrases 15
+
+Total 20
+
+## Comments
+10 - Check the cases 
+14 - Check the case
+
 # Total
 
-Dates and Numbers 134
+Dates and Numbers 135
 
-Names 212
+Names 216
 
-Phrases 614 
+Phrases 629 
 
-Total 960
+Total 980
 
 
 # GLOBAL NOTES
