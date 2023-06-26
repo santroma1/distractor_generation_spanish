@@ -1,0 +1,6 @@
+numpy
+dataclasses
+tqdm
+transformers[torch]
+tensorboardX
+tensorboard
