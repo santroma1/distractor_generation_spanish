@@ -1,6 +1,11 @@
 numpy
 dataclasses
 tqdm
+matplotlib
+terminaltables
+scipy
+udon2
+stanza
 transformers[torch]
 tensorboardX
 tensorboard
