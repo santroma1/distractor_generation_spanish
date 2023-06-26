@@ -460,6 +460,28 @@ Phrases 629
 
 Total 980
 
+# Monday 26th June
+
+Dates and Numbers 0
+
+Names 0
+
+Phrases 0
+
+Total 0
+
+## Comments
+
+
+# Total
+
+Dates and Numbers 135
+
+Names 216
+
+Phrases 629 
+
+Total 980
 
 # GLOBAL NOTES
 - There is a text on Tennesse, that has 2 questions
