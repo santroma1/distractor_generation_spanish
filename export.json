@@ -4328,6 +4328,35 @@
       "context": "El reloj no funciona durante los intentos de conversión en los últimos tres minutos de la mitad. Si los 15 minutos de un cuarto expiran mientras la pelota está en vivo, el cuarto se extiende hasta que la pelota muere. Si un cuarto de tiempo expira mientras el balón está muerto, el cuarto se extiende para un golpeo más. Un cuarto no puede terminar mientras un penalti está pendiente: Después de que se aplica el yardaje penal, el cuarto se extiende un scrimmage. Tenga en cuenta que el equipo no penalizado tiene la opción de rechazar cualquier penalización que considere desventajoso, por lo que un equipo perdedor no puede prolongar indefinidamente un juego cometiendo repetidamente infracciones.",
       "annotations": [
         {
+          "question": "¿Qué sucede posteriormente al yardaje penal?",
+          "choices": [
+            {
+              "text": "el cuarto se extiende un scrimmage",
+              "start": 428,
+              "end": 462,
+              "type": "correct answer"
+            },
+            {
+              "text": "los 15 minutos de un cuarto expiran mientras la pelota está en vivo",
+              "start": 100,
+              "end": 167,
+              "type": "distractor"
+            },
+            {
+              "text": "el cuarto se extiende hasta que la pelota muere",
+              "start": 169,
+              "end": 216,
+              "type": "distractor"
+            },
+            {
+              "text": "el cuarto se extiende para un golpeo más",
+              "start": 279,
+              "end": 319,
+              "type": "distractor"
+            }
+          ]
+        },
+        {
           "question": "¿Qué le pasa al cuarto si un penalti está pendiente?",
           "choices": [
             {
@@ -32382,6 +32411,41 @@
               "type": "distractor"
             }
           ]
+        },
+        {
+          "question": "¿Qué otra fuente existe de las ideas, aparte de la sensación?",
+          "choices": [
+            {
+              "text": "reflexión",
+              "start": 536,
+              "end": 545,
+              "type": "correct answer"
+            },
+            {
+              "text": "conocimiento",
+              "start": 210,
+              "end": 222,
+              "type": "distractor"
+            },
+            {
+              "text": "experiencias",
+              "start": 407,
+              "end": 419,
+              "type": "distractor"
+            },
+            {
+              "text": "percepción",
+              "start": 1558,
+              "end": 1568,
+              "type": "distractor"
+            },
+            {
+              "text": "visión",
+              "start": 169,
+              "end": 175,
+              "type": "distractor"
+            }
+          ]
         }
       ]
     },
@@ -33457,6 +33521,666 @@
               "text": "los idiomas dravídicos",
               "start": 834,
               "end": 856,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El primer jefe de gobierno electo fue Cuauhtémoc Cárdenas. Cárdenas renunció en 1999 para participar en las elecciones presidenciales de 2000 y designó a Rosario Robles como su sucesora, quien se convirtió en la primera mujer en gobernar la Ciudad de México. En 2000 Andrés Manuel López Obrador fue elegido, y renunció en 2005 para participar en las elecciones presidenciales de 2006, Alejandro Encinas fue designado por la Asamblea Legislativa para terminar el mandato. En 2006, Marcelo Ebrard fue elegido para el período 2006-2012.",
+      "annotations": [
+        {
+          "question": "¿Cuál jefe de gobierno dejó su puesto en el 2005?",
+          "choices": [
+            {
+              "text": "Andrés Manuel López Obrador",
+              "start": 267,
+              "end": 294,
+              "type": "correct answer"
+            },
+            {
+              "text": "Cuauhtémoc Cárdenas",
+              "start": 38,
+              "end": 57,
+              "type": "distractor"
+            },
+            {
+              "text": "Rosario Robles",
+              "start": 154,
+              "end": 168,
+              "type": "distractor"
+            },
+            {
+              "text": "Marcelo Ebrard",
+              "start": 480,
+              "end": 494,
+              "type": "distractor"
+            },
+            {
+              "text": "Alejandro Encinas",
+              "start": 385,
+              "end": 402,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Pāśupatas dividió el mundo creado en lo insensible y lo sensible. El insensible era el inconsciente y por lo tanto dependía del consciente o consciente. El insensible se dividió en efectos y causas. Los efectos eran de diez clases, la tierra, cuatro elementos y sus cualidades, color, etc. Las causas fueron de trece clases, los cinco órganos de la cognición, los cinco órganos de acción, los tres órganos internos, el intelecto, el principio del yo y el principio de coñimiento. Estas causas insensibles fueron responsables de la identificación ilusiva de uno mismo con el otro. La salvación en Pāśupata implicó la unión del alma con Dios a través del intelecto.",
+      "annotations": [
+        {
+          "question": "¿De qué dependía la parte insensible?",
+          "choices": [
+            {
+              "text": "consciente",
+              "start": 128,
+              "end": 138,
+              "type": "correct answer"
+            },
+            {
+              "text": "inconsciente",
+              "start": 87,
+              "end": 99,
+              "type": "distractor"
+            },
+            {
+              "text": "intelecto",
+              "start": 419,
+              "end": 428,
+              "type": "distractor"
+            },
+            {
+              "text": "cognición",
+              "start": 349,
+              "end": 358,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A mediados de la década de 1980 Lucasfilm fue pionero en el sistema de edición no lineal de EditDroid para cine y televisión basado en reproductores de LaserDisc controlados por computadora. En lugar de imprimir diarios en película, los negativos procesados del rodaje del día serían enviados a una planta de masterización para ser ensamblados a partir de sus elementos de cámara de 10 minutos en segmentos de película de 20 minutos. Estos fueron entonces masterizados en Laserdisc de un solo lado, al igual que un DVD sería quemado en casa hoy en día, permitiendo una selección mucho más fácil y la preparación de una lista de Decisiones Edit. En los días anteriores a la asistencia de video estaba disponible en la cinematografía, esta era la única manera de que un equipo de filmación pudiera ver su trabajo. La EDL fue al cortador negativo que luego cortó la cámara negativa en consecuencia y ensambló la película terminada. Sólo se construyeron 24 sistemas EditDroid, a pesar de que las ideas y la tecnología todavía están en uso hoy en día. Más tarde, los experimentos de EditDroid tomaron prestado de la tecnología de disco duro de tener múltiples discos en el mismo huso y añadieron numerosas cabezas de reproducción y electrónica al diseño básico de jukebox para que cualquier punto en cada disco fuera accesible en segundos. Esto eliminó la necesidad de racks y racks de reproductores de Laserdisc industriales ya que los discos EditDroid eran de un solo lado.",
+      "annotations": [
+        {
+          "question": "¿Qué función tuvo la EDL en el proceso?",
+          "choices": [
+            {
+              "text": "serían enviados a una planta de masterización para ser ensamblados a partir de sus elementos de cámara de 10 minutos",
+              "start": 277,
+              "end": 393,
+              "type": "distractor"
+            },
+            {
+              "text": "cortó la cámara negativa en consecuencia y ensambló la película terminada",
+              "start": 854,
+              "end": 927,
+              "type": "correct answer"
+            },
+            {
+              "text": "tomaron prestado de la tecnología de disco duro de tener múltiples discos en el mismo huso",
+              "start": 1088,
+              "end": 1178,
+              "type": "distractor"
+            },
+            {
+              "text": "añadieron numerosas cabezas de reproducción y electrónica al diseño básico de jukebox para que cualquier punto en cada disco fuera accesible en segundos",
+              "start": 1181,
+              "end": 1333,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Después de ganar la Espada Maestra, Link se limpia de la magia que lo mantuvo en forma de lobo, obteniendo el Cristal de la Sombra. Ahora capaz de usarlo para cambiar entre ambas formas a voluntad, Link es dirigido por Midna al Espejo de Crepúsculo ubicado en lo profundo del desierto de Gerudo, la única puerta conocida entre el Reino Crepúsculo y Hyrule. Sin embargo, descubren que el espejo está roto. Los sabios explican que Zant trató de destruirlo, pero sólo fue capaz de romperlo en fragmentos. Sólo el verdadero gobernante de Twili puede destruir completamente el Espejo de Crepúsculo. También revelan que lo utilizaron hace un siglo para desterrar a Ganondorf, el líder Gerudo que intentó robar la Trifuerza, al Reino Crepúsculo cuando ejecutarlo fracasó. Asistidos por un grupo de resistencia subterránea que se encuentran en Castle Town, Link y Midna se disponen a recuperar los fragmentos desaparecidos del espejo, derrotando a los infectados. Una vez que el portal ha sido restaurado, Midna se revela como el verdadero gobernante del Reino Crepúsculo, usurpado por Zant cuando él la maldijo en su forma actual. Frente a Zant, Link y Midna se enteran de que el golpe de Zant fue posible cuando forjó un pacto con Ganondorf, quien pidió la ayuda de Zant para conquistar Hyrule. Después de que Link derrota a Zant, Midna recupera a las Sombras Huecas, pero destruye a Zant después de enterarse de que sólo la muerte de Ganondorf puede liberarla de su maldición. Volviendo a Hyrule, Link y Midna encuentran a Ganondorf en el castillo de Hyrule, con una Zelda sin vida suspendida sobre su cabeza. Ganondorf lucha contra Link poseyendo el cuerpo de Zelda y eventualmente transformándose en una bestia, pero Link lo derrota y Midna es capaz de resucitar a Zelda.",
+      "annotations": [
+        {
+          "question": "¿Qué sucede después de la restauración del portal?",
+          "choices": [
+            {
+              "text": "Midna se revela como el verdadero gobernante del Reino Crepúsculo",
+              "start": 998,
+              "end": 1063,
+              "type": "correct answer"
+            },
+            {
+              "text": "Link derrota a Zant, Midna recupera a las Sombras Huecas",
+              "start": 1304,
+              "end": 1360,
+              "type": "distractor"
+            },
+            {
+              "text": "Ganondorf lucha contra Link poseyendo el cuerpo de Zelda y eventualmente transformándose en una bestia",
+              "start": 1605,
+              "end": 1707,
+              "type": "distractor"
+            },
+            {
+              "text": "Link y Midna se enteran de que el golpe de Zant fue posible cuando forjó un pacto con Ganondorf",
+              "start": 1139,
+              "end": 1234,
+              "type": "distractor"
+            },
+            {
+              "text": "Link y Midna se disponen a recuperar los fragmentos desaparecidos del espejo, derrotando a los infectados",
+              "start": 849,
+              "end": 954,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "A principios de febrero, la 11.ª División de Corea del Sur dirigió la operación para destruir las guerrillas y sus ciudadanos simpatizantes en Corea del Sur. Durante la operación, la división y la policía llevaron a cabo la masacre de Geochang y la masacre de Sancheong-Hamyang. A mediados de febrero, el EPV contraatacó con la ofensiva de la cuarta fase y logró la victoria inicial en Hoengseong. Pero la ofensiva fue pronto destruida por las posiciones del IX Cuerpo en Chipyong-ni en el centro. Las unidades de la 2.ª División de Infantería estadounidense y el Batallón francés lucharon una corta pero desesperada batalla que rompió el impulso del ataque. La batalla es a veces conocida como el Gettysburg de la Guerra de Corea. La batalla vio 5.600 tropas coreanas, estadounidenses y francesas derrotar a una fuerza china numéricamente superior. Rodeado por todos los lados, el 23 ° Equipo Regimental de Combate de la 2.ª División de Infantería de la División de Guerrero de EE.UU. con un batallón francés adjunto fue rodeado por más de 25.000 fuerzas comunistas chinas. Las fuerzas de las Naciones Unidas se habían retirado previamente frente a las grandes fuerzas comunistas en lugar de ser cortadas, pero esta vez se pusieron de pie y lucharon contra aproximadamente 15 a 1.",
+      "annotations": [
+        {
+          "question": "¿Cómo se le conoce a la batalla en la que el batallón coreano, estadounidense y francés derrotó a una fuerza china mucho mayor?",
+          "choices": [
+            {
+              "text": "la masacre de Geochang",
+              "start": 221,
+              "end": 243,
+              "type": "distractor"
+            },
+            {
+              "text": "la masacre de Sancheong-Hamyang",
+              "start": 246,
+              "end": 277,
+              "type": "distractor"
+            },
+            {
+              "text": "la victoria inicial en Hoengseong",
+              "start": 363,
+              "end": 396,
+              "type": "distractor"
+            },
+            {
+              "text": "el Gettysburg de la Guerra de Corea",
+              "start": 695,
+              "end": 730,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Oklahoma tenía 598 lugares incorporados en 2010, incluyendo cuatro ciudades de más de 100.000 habitantes y 43 de más de 10.000. Dos de las cincuenta ciudades más grandes de los Estados Unidos se encuentran en Oklahoma, Oklahoma City y Tulsa, y el 65% de los oklahomans viven dentro de sus áreas metropolitanas. Oklahoma City, la capital del estado y la ciudad más grande, tenía el área metropolitana más grande del estado en 2010, con 1.252.987 personas, y el área metropolitana de Tulsa tenía 937.478 residentes. Entre 2000 y 2010, las ciudades que dirigieron el estado en crecimiento poblacional fueron Blanchard (172.4%), Elgin (78.2%), Jenks (77.0%), Piedmont (56.7%), Bix6.3.",
+      "annotations": [
+        {
+          "question": "¿Aparte de Oklahoma City, qué otra ciudad se encuentra en Oklahoma, que se considera de las 50 ciudades más grandes de los Estados Unidos?",
+          "choices": [
+            {
+              "text": "Tulsa",
+              "start": 482,
+              "end": 487,
+              "type": "correct answer"
+            },
+            {
+              "text": "Blanchard",
+              "start": 605,
+              "end": 614,
+              "type": "distractor"
+            },
+            {
+              "text": "Elgin",
+              "start": 625,
+              "end": 630,
+              "type": "distractor"
+            },
+            {
+              "text": "Jenks",
+              "start": 640,
+              "end": 645,
+              "type": "distractor"
+            },
+            {
+              "text": "Piedmont",
+              "start": 655,
+              "end": 663,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En 1526, Babur, descendiente timúrida de Timur y Genghis Khan del Valle de Fergana (actual Uzbekistán), cruzó el Paso de Khyber y estableció el Imperio mogol, que en su apogeo cubría el Afganistán moderno. Sin embargo, su hijo Humayun fue derrotado por el guerrero afgano Sher Shah Suri en el año 1540, y Humayun se vio obligado a retirarse a Kabul. Después de la muerte de Sher Shah, su hijo Islam Shah Suri y el emperador hindú Hemu Vikramaditya, que había ganado 22 batallas contra los rebeldes afganos y las fuerzas de Akbar, desde Punjab hasta Bengala. Las fuerzas de Akbar derrotaron y mataron a Hemu en la Segunda Batalla de Panipat el 6 de noviembre de 1556.",
+      "annotations": [
+        {
+          "question": "¿De qué personaje eran las fuerzas que derrotaron y terminaron con Hemu?",
+          "choices": [
+            {
+              "text": "Akbar",
+              "start": 573,
+              "end": 578,
+              "type": "correct answer"
+            },
+            {
+              "text": "Genghis Khan",
+              "start": 49,
+              "end": 61,
+              "type": "distractor"
+            },
+            {
+              "text": "Sher Shah Suri",
+              "start": 272,
+              "end": 286,
+              "type": "distractor"
+            },
+            {
+              "text": "Babur",
+              "start": 9,
+              "end": 14,
+              "type": "distractor"
+            },
+            {
+              "text": "Humayun",
+              "start": 227,
+              "end": 234,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Los jueces invitados pueden ser ocasionalmente introducidos. En la segunda temporada, se utilizaron jueces invitados como Lionel Richie y Robin Gibb, y en la tercera temporada Donna Summer, Quentin Tarantino y algunos de los mentores también se unieron como jueces para criticar las actuaciones en las rondas finales. Los jueces invitados fueron utilizados en las rondas de audición para las temporadas cuatro, seis, nueve y catorce, como Gene Simmons y LL Cool J en la cuarta temporada, Jewel y Olivia Newton-John en la sexta temporada, Shania Twain",
+      "annotations": [
+        {
+          "question": "¿En qué temporada participó Quentin Tarantino como juez?",
+          "choices": [
+            {
+              "text": "tercera",
+              "start": 158,
+              "end": 165,
+              "type": "correct answer"
+            },
+            {
+              "text": "segunda",
+              "start": 67,
+              "end": 74,
+              "type": "distractor"
+            },
+            {
+              "text": "cuarta",
+              "start": 470,
+              "end": 476,
+              "type": "distractor"
+            },
+            {
+              "text": "sexta",
+              "start": 521,
+              "end": 526,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La despoblación, la desurbanización, la invasión y el movimiento de los pueblos, que habían comenzado en la Antigüedad tardía, continuaron en la Alta Edad Media. Los invasores bárbaros, incluyendo varios pueblos germánicos, formaron nuevos reinos en lo que quedaba del Imperio romano de Occidente. En el siglo VII, el norte de África y el Oriente Medio, una vez parte del Imperio romano de Oriente, quedaron bajo el dominio del califato, un imperio islámico, después de la conquista por los sucesores de Mahoma. Aunque hubo cambios sustanciales en la sociedad y las estructuras políticas, la ruptura con la Antigüedad no fue completa. El aún considerable Imperio bizantino sobrevivió en el este y siguió siendo una gran potencia. El código legal del imperio, el Código de Justiniano, fue redescubierto en el norte de Italia en 1070 y fue ampliamente admirado en la Edad Media. En Occidente, la mayoría de los reinos incorporaron las pocas instituciones romanas existentes. Los monasterios fueron fundados como campañas para cristianizar la Europa pagana. Los francos, bajo la dinastía carolingia, establecieron brevemente el Imperio carolingio a finales del siglo VIII y principios del IX. Cubrió gran parte de Europa occidental, pero más tarde sucumbió a las presiones de las guerras civiles internas combinadas con invasiones externas: Vikingos del norte, magiares del este y sarracenos del sur.",
+      "annotations": [
+        {
+          "question": "¿Qué grupo creo nuevos reinos en la Alta Edad Media en el Imperio romano de Occidente?",
+          "choices": [
+            {
+              "text": "varios pueblos germánicos",
+              "start": 197,
+              "end": 222,
+              "type": "correct answer"
+            },
+            {
+              "text": "vikingos del norte",
+              "start": 1338,
+              "end": 1356,
+              "type": "distractor"
+            },
+            {
+              "text": "sarracenos del sur",
+              "start": 1378,
+              "end": 1396,
+              "type": "distractor"
+            },
+            {
+              "text": "la dinastía carolingia",
+              "start": 1073,
+              "end": 1095,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Se han hecho muchos accesorios para la línea iPod. Un gran número son hechas por terceros, aunque muchas, como el iPod Hi-Fi, son hechas por Apple. Algunos accesorios añaden características adicionales que otros músicos tienen, como grabadoras de sonido, sintonizadores de radio FM, controles remotos cableados y cables de audio / visual para conexiones de televisión. Otros accesorios ofrecen características únicas como el pedometer Nike iPod y el conector de cámara iPod. Otros accesorios notables incluyen altavoces externos, controles remotos inalámbricos, caso de protección, películas de pantalla y auriculares inalámbricos. Entre los primeros fabricantes de accesorios estuvieron Griffin Technology, Belkin, JBL, Bose, Monster Cable y SendStation.",
+      "annotations": [
+        {
+          "question": "¿Por cuál compañía está hecho el accesorio iPod Hi-Fi?",
+          "choices": [
+            {
+              "text": "Apple",
+              "start": 141,
+              "end": 146,
+              "type": "correct answer"
+            },
+            {
+              "text": "Griffin Technology",
+              "start": 688,
+              "end": 706,
+              "type": "distractor"
+            },
+            {
+              "text": "Belkin",
+              "start": 708,
+              "end": 714,
+              "type": "distractor"
+            },
+            {
+              "text": "Bose",
+              "start": 721,
+              "end": 725,
+              "type": "distractor"
+            },
+            {
+              "text": "SendStation",
+              "start": 743,
+              "end": 754,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "La garantía nuclear asegura la seguridad, seguridad y eficacia de las operaciones nucleares. Debido a su importancia política y militar, poder destructivo y las posibles consecuencias de un accidente o acto no autorizado, las armas nucleares y los sistemas de armas nucleares requieren especial consideración y protección contra los riesgos y amenazas inherentes a sus entornos de paz y guerra. La Fuerza Aérea, junto con otras entidades dentro de los Departamentos de Defensa o Energía, logra un alto nivel de protección a través de un estricto programa de seguridad nuclear. Este programa se aplica a material, personal y procedimientos que contribuyen a la seguridad, seguridad y control de armas nucleares, asegurando así no accidentes nucleares, incidentes, pérdidas, o uso no autorizado o accidental (un incidente Broken Arrow). La Fuerza Aérea continúa buscando armas nucleares seguras, seguras y efectivas, consistentes con los requisitos operacionales. Los adversarios, aliados y el pueblo estadounidense deben estar muy seguros de la capacidad de la Fuerza Aérea para asegurar armas nucleares de accidentes, robos, pérdidas y uso accidental o no autorizado. Este compromiso cotidiano con operaciones nucleares precisas y confiables es la piedra angular de la credibilidad de la misión Ndo. Comando nuclear positivo, control, comunicaciones Seguridad efectiva de las armas nucleares; Y el apoyo de combate robusto es esencial para la función Ndo general.",
+      "annotations": [
+        {
+          "question": "¿Qué sigue buscando la Fuerza Aérea que sigan los requisitos operacionales?",
+          "choices": [
+            {
+              "text": "armas nucleares seguras",
+              "start": 869,
+              "end": 892,
+              "type": "correct answer"
+            },
+            {
+              "text": "poder destructivo",
+              "start": 137,
+              "end": 154,
+              "type": "distractor"
+            },
+            {
+              "text": "entornos de paz y guerra",
+              "start": 369,
+              "end": 393,
+              "type": "distractor"
+            },
+            {
+              "text": "compromiso cotidiano",
+              "start": 1173,
+              "end": 1193,
+              "type": "distractor"
+            },
+            {
+              "text": "combate robusto",
+              "start": 1407,
+              "end": 1422,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El judaísmo ortodoxo mantiene la comprensión histórica de la identidad judía. Un judío es alguien que nació de una madre judía, o que se convierte al judaísmo de acuerdo con la ley y la tradición judía. La ortodoxia rechaza la descendencia patrilineal como medio de establecer la identidad judía. Del mismo modo, la ortodoxia condena fuertemente los matrimonios mixtos. Los matrimonios mixtos son vistos como un rechazo deliberado del judaísmo, y una persona casada está efectivamente aislada de la mayoría de la comunidad ortodoxa. Sin embargo, algunas organizaciones judías ortodoxas sí llegan a judíos casados.",
+      "annotations": [
+        {
+          "question": "¿Qué se entiende como el desconocimiento consciente del judaísmo?",
+          "choices": [
+            {
+              "text": "alguien que nació de una madre judía",
+              "start": 90,
+              "end": 126,
+              "type": "distractor"
+            },
+            {
+              "text": "se convierte al judaísmo de acuerdo con la ley y la tradición judía",
+              "start": 134,
+              "end": 201,
+              "type": "distractor"
+            },
+            {
+              "text": "la comprensión histórica de la identidad judía",
+              "start": 30,
+              "end": 76,
+              "type": "distractor"
+            },
+            {
+              "text": "la descendencia patrilineal",
+              "start": 224,
+              "end": 251,
+              "type": "distractor"
+            },
+            {
+              "text": "los matrimonios mixtos",
+              "start": 370,
+              "end": 392,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Como consecuencia de su ataque al corazón, Eisenhower desarrolló un aneurisma ventricular izquierdo, que a su vez fue la causa de un leve derrame cerebral el 25 de noviembre de 1957. Este incidente ocurrió durante una reunión del gabinete cuando Eisenhower de repente se encontró incapaz de hablar o mover su mano derecha. El golpe había causado afasia. El presidente también sufrió la enfermedad de Crohn, enfermedad inflamatoria crónica del intestino, que requirió una cirugía para una obstrucción intestinal el 9 de junio de 1956. Para tratar el bloque intestinal, los cirujanos pasaban por alto cerca de diez pulgadas de su intestino delgado. Su reunión programada con el primer ministro indio Jawaharlal Nehru fue pospuesta para que pudiera recuperarse de una cirugía en su granja en Gettysburg, Pensilvania. Todavía se estaba recuperando de esta operación durante la Crisis de Suez. Los problemas de salud de Eisenhower lo obligaron a dejar de fumar y hacer algunos cambios en sus hábitos alimenticios, pero todavía se entregaba al alcohol. Durante una visita a Inglaterra se quejó de mareos y tuvo que comprobar su presión sanguínea el 29 de agosto de 1959; Sin embargo, antes de la cena en Chequers al día siguiente, su médico, el general Howard Snyder, recordó a Eisenhower \"bebía varios gin-and-tonics, y una o dos ginebras en las rocas...",
+      "annotations": [
+        {
+          "question": "¿Qué efecto tuvo el incidente de Eisenhower en la reunión del Gabinete de 1957?",
+          "choices": [
+            {
+              "text": "se encontró incapaz de hablar o mover su mano derecha",
+              "start": 268,
+              "end": 321,
+              "type": "correct answer"
+            },
+            {
+              "text": "sufrió la enfermedad de Crohn",
+              "start": 376,
+              "end": 405,
+              "type": "distractor"
+            },
+            {
+              "text": "requirió una cirugía para una obstrucción intestinal",
+              "start": 458,
+              "end": 510,
+              "type": "distractor"
+            },
+            {
+              "text": "lo obligaron a dejar de fumar y hacer algunos cambios en sus hábitos alimenticios",
+              "start": 926,
+              "end": 1007,
+              "type": "distractor"
+            },
+            {
+              "text": "se quejó de mareos y tuvo que comprobar su presión sanguínea",
+              "start": 1079,
+              "end": 1139,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En Mesoamérica, un conjunto similar de eventos (es decir, domesticación de cultivos y estilos de vida sedentarios) ocurrió alrededor del 4500 aC, pero posiblemente tan pronto como 11.000-10.000 aC. Estas culturas generalmente no se conocen como pertenecientes al Neolítico; En América se utilizan diferentes términos, como la etapa formativa en lugar de mediados del Neolítico tardío, la era arcaica en lugar del Neolítico temprano y el Paleo-Indio para el período anterior. La etapa formativa es equivalente al período de la Revolución Neolítica en Europa, Asia y África. En el suroeste de los Estados Unidos ocurrió entre 500 y 1200. Cuando hubo un aumento dramático en la población y el desarrollo de grandes aldeas apoyadas por la agricultura basada en la agricultura de secano de maíz, y más tarde, frijoles, calabaza y pavos domesticados. Durante este período también se introdujeron el arco y la flecha y la cerámica.",
+      "annotations": [
+        {
+          "question": "¿Qué nombre se usa en América para referirse al periodo Neolítico temprano?",
+          "choices": [
+            {
+              "text": "la era arcaica",
+              "start": 385,
+              "end": 399,
+              "type": "correct answer"
+            },
+            {
+              "text": "la etapa formativa",
+              "start": 323,
+              "end": 341,
+              "type": "distractor"
+            },
+            {
+              "text": "Neolítico tardío",
+              "start": 367,
+              "end": 383,
+              "type": "distractor"
+            },
+            {
+              "text": "Paleo-Indio",
+              "start": 437,
+              "end": 448,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Las tribus hiberni (Irlanda), pictas (el norte de Gran Bretaña) y britanas (el sur de Gran Bretaña), todos hablantes del celta insular, habitaron las islas a principios del primer milenio. Gran parte de la Britania controlada por los britanos fue conquistada por el Imperio romano desde el año 43. Los primeros anglosajones llegaron cuando el poder romano disminuyó en el siglo V y finalmente dominaron la mayor parte de lo que hoy es Inglaterra. Las invasiones vikingas comenzaron en el siglo IX, seguidas de asentamientos permanentes y cambios políticos, particularmente en Inglaterra. La posterior conquista normanda de Inglaterra en 1066 y la posterior conquista angevina parcial de Irlanda desde 1169 llevó a la imposición de una nueva élite gobernante normanda en gran parte de Gran Bretaña y partes de Irlanda. En la Baja Edad Media, Gran Bretaña fue separada en los Reinos de Inglaterra y Escocia, mientras que el control en Irlanda fluyó entre los reinos gaélicos, los señores hiberno-normandos y el Señorío de Irlanda. La Unión de las Coronas de 1603, Acta de Unión de 1707 y Hechos de la Unión de 1800 intentaron consolidar Gran Bretaña e Irlanda en una sola unidad política, el Reino Unido de Gran Bretaña e Irlanda, con la Isla de Man y las Islas del Canal. La expansión del Imperio británico y las migraciones posteriores a la hambruna irlandesa y las aclaraciones de las Highlands dieron lugar a la distribución de la población y la cultura de las islas en todo el mundo y una rápida despoblación de Irlanda en la segunda mitad del siglo XIX. La mayor parte de Irlanda se separó del Reino Unido después de la Guerra de Independencia de Irlanda y el posterior Tratado Anglo-Irlandés (1919-1922), con seis condados restantes en el Reino Unido como Irlanda del Norte.",
+      "annotations": [
+        {
+          "question": "¿Qué invasiones empezaron en el siglo IX, que se dieron en Inglaterra?",
+          "choices": [
+            {
+              "text": "hiberni",
+              "start": 11,
+              "end": 18,
+              "type": "distractor"
+            },
+            {
+              "text": "pictas",
+              "start": 30,
+              "end": 36,
+              "type": "distractor"
+            },
+            {
+              "text": "britanas",
+              "start": 66,
+              "end": 74,
+              "type": "distractor"
+            },
+            {
+              "text": "angevina",
+              "start": 667,
+              "end": 675,
+              "type": "distractor"
+            },
+            {
+              "text": "vikingas",
+              "start": 462,
+              "end": 470,
+              "type": "correct answer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "El mayor reclamo culinario de New Haven a la fama puede ser su pizza, que se ha afirmado ser una de las mejores en el país, o incluso en el mundo. La pizza estilo New Haven, llamada \"Apizza\" (pronunciada ah-BEETS, [aˈpitts] en el dialecto italiano original), hizo su debut en el icónico Frank Pepe Pizzeria Napoletana. La pizza se cuece en hornos de ladrillo de carbón o madera, y es notable por su fina corteza. La pizza puede ser roja (con una salsa a base de tomate) o blanca (con una salsa de ajo y aceite de oliva), y los pasteles se hacen sin el habitual queso mozzarella (originalmente ahumado). Un pastel de almeja blanca es una especialidad conocida de los restaurantes de Wooster Street en la sección Little Italy de New Haven, incluyendo Pepe 's y Sally' s Apizza (que abrió en 1938). La Apizza moderna en la calle State, que abrió en 1934, también es conocida.",
+      "annotations": [
+        {
+          "question": "¿Qué ingrediente se encuentra en la pizza blanca?",
+          "choices": [
+            {
+              "text": "salsa a base de tomate",
+              "start": 446,
+              "end": 468,
+              "type": "distractor"
+            },
+            {
+              "text": "salsa de ajo",
+              "start": 488,
+              "end": 500,
+              "type": "correct answer"
+            },
+            {
+              "text": "queso mozzarella",
+              "start": 561,
+              "end": 577,
+              "type": "distractor"
+            },
+            {
+              "text": "almeja blanca",
+              "start": 616,
+              "end": 629,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "Más de tres cuartas partes del cuerpo estudiantil tiene cierta competencia en un segundo idioma (sumando 107 idiomas en total). Esto se debe en parte al hecho de que el 45 por ciento del cuerpo estudiantil en BYU ha sido misionero para la Iglesia SUD, y muchos de ellos aprendieron un idioma extranjero como parte de su misión. Durante cualquier semestre dado, aproximadamente un tercio del cuerpo estudiantil está inscrito en clases de lenguas extranjeras, una tasa casi cuatro veces mayor que el promedio nacional. BYU ofrece cursos en más de 60 idiomas diferentes, muchos con cursos avanzados que rara vez se ofrecen en otros lugares. Varios de sus programas de idioma son los más grandes de su tipo en la nación, el programa ruso es un ejemplo. La universidad fue seleccionada por el Departamento de Educación de los Estados Unidos como la ubicación del Centro Nacional de Recursos de Lengua de Oriente Medio, haciendo de la escuela un centro de expertos en esa región. También fue seleccionado como un Centro para la Investigación Internacional de la Educación de Negocios, una función de la cual es entrenar empleados de negocios en idiomas y relaciones internacionales.",
+      "annotations": [
+        {
+          "question": "¿Qué contribuyó a que una gran parte del cuerpo estudiantil sepa un segundo idioma como experiencia internacional?",
+          "choices": [
+            {
+              "text": "el 45 por ciento del cuerpo estudiantil en BYU ha sido misionero para la Iglesia SUD",
+              "start": 166,
+              "end": 250,
+              "type": "correct answer"
+            },
+            {
+              "text": "sus programas de idioma son los más grandes de su tipo en la nación",
+              "start": 648,
+              "end": 715,
+              "type": "distractor"
+            },
+            {
+              "text": "BYU ofrece cursos en más de 60 idiomas diferentes",
+              "start": 517,
+              "end": 566,
+              "type": "distractor"
+            },
+            {
+              "text": "la universidad fue seleccionada por el Departamento de Educación de los Estados Unidos como la ubicación del Centro Nacional de Recursos de Lengua de Oriente Medio",
+              "start": 749,
+              "end": 912,
+              "type": "distractor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "context": "En una de las muchas crisis de la Segunda Guerra Púnica, Júpiter Capitolino fue prometido a cada animal nacido esa primavera (ver ver ver sacrum), para ser entregado después de cinco años de protección contra Aníbal y sus aliados. El \"contrato\" con Júpiter es excepcionalmente detallado. Todos los cuidados serían atendidos por los animales. Si alguno moría o era robado antes del sacrificio programado, ellos contarían como ya sacrificados, ya que ya habían sido consagrados. Normalmente, si los dioses no cumplían su parte del trato, el sacrificio ofrecido sería retenido. En el período imperial, el sacrificio se retuvo después de la muerte de Trajano porque los dioses no habían mantenido al emperador a salvo durante el período estipulado. En Pompeya, al Genio del emperador vivo se le ofreció un toro: Presumiblemente una práctica estándar en el culto imperial, aunque también se hicieron ofrendas menores (incienso y vino).",
+      "annotations": [
+        {
+          "question": "¿Qué fue ofrecido como ofrenda principal al Genio del emperador?",
+          "choices": [
+            {
+              "text": "toro",
+              "start": 802,
+              "end": 806,
+              "type": "correct answer"
+            },
+            {
+              "text": "incienso",
+              "start": 913,
+              "end": 921,
+              "type": "distractor"
+            },
+            {
+              "text": "vino",
+              "start": 924,
+              "end": 928,
               "type": "distractor"
             }
           ]
