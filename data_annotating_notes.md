@@ -466,4 +466,4 @@ Total 980
 - For a reason, its not exporting datapoint 177. EXPORTED - Question was missing
 - There is another text with 2 questions
 - There is now a total of 3 texts with 2 questions
-- Texts with 2 questions: 23
+- Texts with 2 questions: 25
