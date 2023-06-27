@@ -1,0 +1,1564 @@
+{
+  "data": [
+    {
+      "context": "El National Archives Building, conocido informalmente como Archives I, localizado al norte del National Mall en Constitution Avenue en Washington, D.C., abrió sus puertas como su sede original en 1935. Contiene las copias originales de los tres principales documentos formativos de los Estados Unidos y su gobierno: La Declaración de Independencia, la Constitución y la Carta de Derechos. También alberga una copia de la Carta Magna de 1297 confirmada por Eduardo I. Estos se muestran al público en la cámara principal de los Archivos Nacionales, que se llama la Rotonda de los Cartores de la Libertad. El Edificio de Archivos Nacionales también exhibe otros documentos históricos importantes de Estados Unidos como el Tratado de Compra de Luisiana, la Proclamación de Emancipación, y colecciones de fotografía y otros artefactos estadounidenses históricos y culturalmente significativos.",
+      "question": "¿Cuál de los siguientes documentos no son parte de los 3 principales documentos formativos de los Estados Unidos?",
+      "choices": [
+        {
+          "text": "Carta de Derechos",
+          "start": 370,
+          "end": 387,
+          "type": "distractor"
+        },
+        {
+          "text": "Constitución",
+          "start": 352,
+          "end": 364,
+          "type": "distractor"
+        },
+        {
+          "text": "Declaración de Independencia",
+          "start": 319,
+          "end": 347,
+          "type": "distractor"
+        },
+        {
+          "text": "Carta Magna",
+          "start": 421,
+          "end": 432,
+          "type": "correct answer"
+        }
+      ]
+    },
+    {
+      "context": "Durante la Edad de Bronce tardía la isla experimentó dos oleadas de asentamientos griegos. La primera ola consistió en comerciantes griegos micénicos que comenzaron a visitar Chipre alrededor de 1400 a. Se cree que una ola importante de asentamientos griegos tuvo lugar después del colapso de la Edad del Bronce de la Grecia micénica desde 1100 hasta 1050 a. C., con el carácter predominantemente griego de la isla que data de este período. Chipre ocupa un papel importante en la mitología griega siendo el lugar de nacimiento de Afrodita y Adonis, y el hogar del rey Cinyras, Teucer y Pigmalión. C. Se fundaron colonias fenicias en la costa sur de Chipre, cerca de la actual Larnaca y Salamina.",
+      "question": "¿Cuál es el tema principal del texto?",
+      "choices": [
+        {
+          "text": "Chipre",
+          "start": 175,
+          "end": 181,
+          "type": "correct answer"
+        },
+        {
+          "text": "la Edad del Bronce de la Grecia",
+          "start": 293,
+          "end": 324,
+          "type": "distractor"
+        },
+        {
+          "text": "Afrodita y Adonis",
+          "start": 530,
+          "end": 547,
+          "type": "distractor"
+        },
+        {
+          "text": "Larnaca y Salamina",
+          "start": 676,
+          "end": 694,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "William Pitt, quien entró en el gabinete en 1756, tuvo una gran visión de la guerra que la hizo completamente diferente de las guerras anteriores con Francia. Como primer ministro Pitt comprometió a Gran Bretaña a una gran estrategia de apoderarse de todo el Imperio francés, especialmente sus posesiones en América del Norte y la India. El arma principal de Gran Bretaña era la Royal Navy, que podía controlar los mares y traer tantas tropas de invasión como fuera necesario. También planeó utilizar las fuerzas coloniales de las Trece colonias americanas, trabajando bajo el mando de regulares británicos, para invadir Nueva Francia. Con el fin de atar al ejército francés, subsidió a sus aliados europeos. Pitt Head del gobierno de 1756 a 1761, e incluso después de eso los británicos continuaron su estrategia. Resultó completamente exitoso. Pitt tenía una clara apreciación del enorme valor de las posesiones imperiales, y se dio cuenta de lo vulnerable que era el Imperio francés.",
+      "question": "¿A qué se comprometió Pitt con Gran Bretaña como primer ministro?",
+      "choices": [
+        {
+          "text": "una gran estrategia de apoderarse de todo el Imperio francés",
+          "start": 214,
+          "end": 274,
+          "type": "correct answer"
+        },
+        {
+          "text": "una gran visión de la guerra",
+          "start": 55,
+          "end": 83,
+          "type": "distractor"
+        },
+        {
+          "text": "la Royal Navy, que podía controlar los mares y traer tantas tropas de invasión como fuera necesario",
+          "start": 376,
+          "end": 475,
+          "type": "distractor"
+        },
+        {
+          "text": "atar al ejército francés",
+          "start": 650,
+          "end": 674,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Durante los dos primeros años las fuerzas confederadas lo hicieron bien en las batallas establecidas, pero perdieron el control de los estados fronterizos. Los confederados tenían la ventaja de defender un país muy grande en un área donde la enfermedad causó el doble de muertes que el combate. La Unión siguió una estrategia de tomar la costa, bloquear los puertos y tomar el control de los sistemas fluviales. En 1863 la Confederación estaba siendo estrangulada. Sus ejércitos orientales lucharon bien, pero los ejércitos occidentales fueron derrotados uno tras otro hasta que las fuerzas de la Unión capturaron Nueva Orleans en 1862 junto con el río Tennessee. En la famosa campaña de Vicksburg de 1862-63, Ulysses Grant tomó el río Mississippi y cortó el suroeste. Grant tomó el mando de las fuerzas de la Unión en 1864 y después de una serie de batallas con muchas bajas, tuvo a Lee bajo asedio en Richmond cuando William T. Sherman capturó Atlanta y marchó a través de Georgia y las Carolinas. La capital confederada fue abandonada en abril de 1865 y Lee posteriormente rindió su ejército en Appomattox Court House. Todos los demás ejércitos confederados se rindieron en pocos meses.",
+      "question": "¿Qué evento de la guerra sucedió en 1862?",
+      "choices": [
+        {
+          "text": "las fuerzas de la Unión capturaron Nueva Orleans",
+          "start": 579,
+          "end": 627,
+          "type": "correct answer"
+        },
+        {
+          "text": "Ulysses Grant tomó el río Mississippi y cortó el suroeste",
+          "start": 710,
+          "end": 767,
+          "type": "distractor"
+        },
+        {
+          "text": "Grant tomó el mando de las fuerzas de la Unión",
+          "start": 769,
+          "end": 815,
+          "type": "distractor"
+        },
+        {
+          "text": "William T. Sherman capturó Atlanta y marchó a través de Georgia y las Carolinas",
+          "start": 919,
+          "end": 998,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "En contraste con el DVD completamente digital, LaserDiscs usa solo video analógico. Como el formato Laserdisc no está codificado digitalmente y no hace uso de técnicas de compresión, es inmune al proceso Macroblocking de vídeo (más visible como bloqueo durante secuencias de alto movimiento) o al marcado de contraste. Los primeros lanzamientos en DVD tenían el potencial de superar a sus contrapartes de LaserDisc, pero a menudo sólo se las arreglaba para obtener calidad de imagen, y en algunos casos, se prefería la versión de LaserDisc. Sin embargo, los codificadores patentados asistidos por humanos operados manualmente por especialistas pueden reducir enormemente la incidencia de artefactos, dependiendo del tiempo de juego y la complejidad de la imagen. Al final de la ejecución de LaserDisc, los DVD estaban a la altura de su potencial como un formato superior.",
+      "question": "¿Qué hacen los codificadores patentados asistidos por humanos operados manualmente por especialistas?",
+      "choices": [
+        {
+          "text": "pueden reducir enormemente la incidencia de artefactos",
+          "start": 644,
+          "end": 698,
+          "type": "correct answer"
+        },
+        {
+          "text": "tenían el potencial de superar a sus contrapartes de LaserDisc",
+          "start": 352,
+          "end": 414,
+          "type": "distractor"
+        },
+        {
+          "text": "es inmune al proceso Macroblocking de vídeo",
+          "start": 183,
+          "end": 226,
+          "type": "distractor"
+        },
+        {
+          "text": "no hace uso de técnicas de compresión",
+          "start": 144,
+          "end": 181,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "En contraste con el DVD completamente digital, LaserDiscs usa solo video analógico. Como el formato Laserdisc no está codificado digitalmente y no hace uso de técnicas de compresión, es inmune al proceso Macroblocking de vídeo (más visible como bloqueo durante secuencias de alto movimiento) o al marcado de contraste. Los primeros lanzamientos en DVD tenían el potencial de superar a sus contrapartes de LaserDisc, pero a menudo sólo se las arreglaba para obtener calidad de imagen, y en algunos casos, se prefería la versión de LaserDisc. Sin embargo, los codificadores patentados asistidos por humanos operados manualmente por especialistas pueden reducir enormemente la incidencia de artefactos, dependiendo del tiempo de juego y la complejidad de la imagen. Al final de la ejecución de LaserDisc, los DVD estaban a la altura de su potencial como un formato superior.",
+      "question": "¿Qué característica de LaserDiscs lo diferencia del DVD?",
+      "choices": [
+        {
+          "text": "video analógico",
+          "start": 67,
+          "end": 82,
+          "type": "correct answer"
+        },
+        {
+          "text": "técnicas de compresión",
+          "start": 159,
+          "end": 181,
+          "type": "distractor"
+        },
+        {
+          "text": "calidad de imagen",
+          "start": 465,
+          "end": 482,
+          "type": "distractor"
+        },
+        {
+          "text": "formato superior",
+          "start": 854,
+          "end": 870,
+          "type": "distractor"
+        },
+        {
+          "text": "codificadores patentados asistidos por humanos",
+          "start": 558,
+          "end": 604,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "En 1853, Victoria dio a luz a su octavo hijo, Leopold, con la ayuda del nuevo anestésico, el cloroformo. Victoria quedó tan impresionada por el alivio que le dio el dolor del parto que lo usó de nuevo en 1857 al nacer su novena y última hija, Beatrice, a pesar de la oposición de miembros del clero, que lo consideraron contra la enseñanza bíblica. Victoria puede haber sufrido de depresión post-natal después de muchos de sus embarazos. Cartas de Alberto a Victoria se quejan intermitentemente de su pérdida de autocontrol. Por ejemplo, alrededor de un mes después del nacimiento de Leopoldo, Alberto se quejó en una carta a Victoria sobre su \"continuidad de la histeria\" sobre una \"bagatela miserable\".",
+      "question": "¿En qué ayudó el cloroformo a Victoria?",
+      "choices": [
+        {
+          "text": "depresión post-natal",
+          "start": 381,
+          "end": 401,
+          "type": "distractor"
+        },
+        {
+          "text": "pérdida de autocontrol",
+          "start": 501,
+          "end": 523,
+          "type": "distractor"
+        },
+        {
+          "text": "dolor del parto",
+          "start": 165,
+          "end": 180,
+          "type": "correct answer"
+        }
+      ]
+    },
+    {
+      "context": "Estos estudios fueron ampliamente presentados como una demostración de que el período de calentamiento actual es excepcional en comparación con las temperaturas entre 1000 y 1900, y el gráfico basado en MBH99 aparece en la publicidad. En mayo de 2000, el Proyecto de Ciencia y Política Ambiental de Fred Singer celebró un evento de prensa en Capitol Hill, Washington, D.C., con comentarios sobre el gráfico Wibjörn Karlén y Singer. El contrarista John Lawrence Daly presentó una versión modificada del esquema de 1990 del IPCC, que él mal identificó como apareciendo en el informe del IPCC 1995, y argumentó que \"revertir su propia visión anterior en el informe de 1995, el IPCC presentó la disculpa. Las críticas a la reconstrucción del MBH99 en un artículo de revisión, que fue rápidamente desacreditada en la controversia de Soon y Baliunas, fueron recogidas por la administración Bush, y un discurso del senador republicano James Inhofe alegó que \". Los datos y la metodología utilizados para producir el \"gráfico de palo de hockey\" fueron criticados en artículos de Stephen McIntyre y Ross McKitrick, y a su vez las críticas en estos artículos fueron examinadas por otros estudios.",
+      "question": "¿Qué se presentó en el evento de prensa del Proyecto de Ciencia y Política Ambiental de Fred Singer en el 2000?",
+      "choices": [
+        {
+          "text": "el informe del IPCC ",
+          "start": 570,
+          "end": 590,
+          "type": "distractor"
+        },
+        {
+          "text": "la reconstrucción del MBH99 en un artículo de revisión",
+          "start": 716,
+          "end": 770,
+          "type": "distractor"
+        },
+        {
+          "text": "comentarios sobre el gráfico Wibjörn Karlén y Singer",
+          "start": 378,
+          "end": 430,
+          "type": "correct answer"
+        },
+        {
+          "text": "el \"gráfico de palo de hockey\"",
+          "start": 1006,
+          "end": 1036,
+          "type": "distractor"
+        },
+        {
+          "text": "artículos de Stephen McIntyre y Ross McKitrick",
+          "start": 1058,
+          "end": 1104,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Las aves desempeñan papeles prominentes y diversos en la religión y la mitología. En religión, las aves pueden servir como mensajeros o sacerdotes y líderes de una deidad, como en el Culto de Makemake, en el que el Tangata Manu de la Isla de Pascua sirvió como jefes o como asistentes. En varias civilizaciones de la antigua Italia, particularmente en la religión etrusca y romana, los sacerdotes estaban involucrados en el augurio, o interpretando las palabras de las aves mientras el \"Auspex\" (del cual se deriva la palabra). También pueden servir como símbolos religiosos, como cuando Jonás (en hebreo: יוננָה, paloma) encarnó el miedo, la pasividad, el luto y la belleza tradicionalmente asociadas con palomas. Las aves han sido deificadas, como en el caso del pavo real común, que es percibido como la Madre Tierra por los Dravidianos de la India. En las imágenes religiosas conservadas de los imperios Inca y Tiwanaku, las aves se representan en el proceso de transgredir las fronteras entre los reinos espirituales terrenales y terrenales. Los pueblos indígenas de los Andes centrales mantienen leyendas de aves que pasan desde y hacia mundos metafísicos. Se dice que el mítico pájaro chullumpi marca la existencia de un portal entre tales mundos, y para transformarse en una llama.",
+      "question": "¿Qué especie de aves marca la existencia de un portal entre mundos, y para transformarse en una llama?",
+      "choices": [
+        {
+          "text": "pavo real común",
+          "start": 765,
+          "end": 780,
+          "type": "distractor"
+        },
+        {
+          "text": "paloma",
+          "start": 614,
+          "end": 620,
+          "type": "distractor"
+        },
+        {
+          "text": "pájaro chullumpi",
+          "start": 1185,
+          "end": 1201,
+          "type": "correct answer"
+        }
+      ]
+    },
+    {
+      "context": "Los ritmos circadianos más o menos independientes se encuentran en muchos órganos y células del cuerpo fuera del núcleo supraquiasmático (SCN), el \"reloj maestro\". Estos relojes, llamados osciladores periféricos, se encuentran en la glándula suprarrenal, esófago, pulmones, hígado, páncreas, bazo, timo y piel. [Cita requerida] Aunque los osciladores en la piel responden a la luz, no se ha demostrado una influencia sistémica. También hay alguna evidencia de que el bulbo olfatorio y la próstata pueden experimentar oscilaciones cuando se cultivan, lo que sugiere que estas estructuras también pueden ser osciladores débiles. [Cita requerida]",
+      "question": "¿En qué órgano del cuerpo se encontró que hay oscilaciones en la cultivación, por lo que podrían ser osciladores débiles?",
+      "choices": [
+        {
+          "text": "próstata",
+          "start": 488,
+          "end": 496,
+          "type": "correct answer"
+        },
+        {
+          "text": "hígado",
+          "start": 274,
+          "end": 280,
+          "type": "distractor"
+        },
+        {
+          "text": "esófago",
+          "start": 255,
+          "end": 262,
+          "type": "distractor"
+        },
+        {
+          "text": "pulmones",
+          "start": 264,
+          "end": 272,
+          "type": "distractor"
+        },
+        {
+          "text": "páncreas",
+          "start": 282,
+          "end": 290,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Según el censo de 2010, los blancos constituían el 51% de la población de Houston. El 26% de la población total eran blancos no hispanos. Los negros o afroamericanos constituían el 25% de la población de Houston. Los indios americanos representaban el 0,7% de la población. Los asiáticos constituían el 6% (1,7% vietnamitas, 1,3% chinos, 1,3% indios, 0,9% pakistaníes, 0,4% filipinos, 0,3% coreanos, 0,1% japoneses). Los individuos de alguna otra raza constituían el 15,2% de la población de la ciudad, de los cuales el 0,2% eran no hispanos. Los individuos de dos o más razas constituían el 3,3% de la ciudad. En el censo de 2000, había 1.953.631 personas y la densidad de población era de 1.301,8 habitantes por km ². El 49,3% de los habitantes eran blancos, el 25,3% afroamericanos, el 5,3% asiáticos, el 0,7% amerindios, el 0,1% isleños del Pacífico, el 16,5% de alguna otra raza y el 3,1% pertenecía a dos o más razas. Además, los hispanos constituían el 37,4% de la población de Houston, mientras que los blancos no hispanos constituían el 30,8%, frente al 62,4% en 1970.",
+      "question": "¿Qué porcentaje de la población de Houston son hispanos?",
+      "choices": [
+        {
+          "text": "37,4%",
+          "start": 960,
+          "end": 965,
+          "type": "correct answer"
+        },
+        {
+          "text": "15,2%",
+          "start": 467,
+          "end": 472,
+          "type": "distractor"
+        },
+        {
+          "text": "3,3%",
+          "start": 592,
+          "end": 596,
+          "type": "distractor"
+        },
+        {
+          "text": "25%",
+          "start": 181,
+          "end": 184,
+          "type": "distractor"
+        },
+        {
+          "text": "51%",
+          "start": 51,
+          "end": 54,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "El uso sistemático del trabajo infantil era un lugar común en las colonias europeas entre 1650 y 1950. En África, los administradores coloniales alentaron los modos tradicionales de producción ordenados por monedas, que es la contratación de un hogar para el trabajo no sólo para los adultos. Millones de niños trabajaban en plantaciones agrícolas coloniales, minas e industrias de servicios domésticos. Se promulgaron esquemas sofisticados donde los niños en estas colonias entre las edades de 5-14 años fueron contratados como aprendiz sin sueldo a cambio de aprender un oficio. Un sistema de aprendizaje Pauper entró en práctica en el siglo XIX, donde el amo colonial no necesitaba la aprobación de los padres nativos ni de los hijos para asignar un niño al trabajo, lejos de los padres, en una granja colonial distante. Otros esquemas incluyen programas de 'aprender y aprender' donde los niños trabajarían y así aprenderían. Gran Bretaña, por ejemplo, aprobó una ley, la llamada Ley de Maestros y Servidores de 1899, seguida por la Ley de Impuestos y Pasos, para fomentar el trabajo infantil en colonias particularmente en África. Estas leyes ofrecían a los nativos la propiedad legal de algunas de las tierras nativas a cambio de hacer el trabajo de esposa e hijos a disposición de las necesidades del gobierno colonial, como en las granjas y como los picanines.",
+      "question": "¿Cuál fue la práctica común en las colonias europeas entre 1650 y 1950?",
+      "choices": [
+        {
+          "text": "disposición de las necesidades del gobierno colonial",
+          "start": 1273,
+          "end": 1325,
+          "type": "distractor"
+        },
+        {
+          "text": "uso sistemático del trabajo infantil",
+          "start": 3,
+          "end": 39,
+          "type": "correct answer"
+        },
+        {
+          "text": "modos tradicionales de producción ordenados por monedas",
+          "start": 159,
+          "end": 214,
+          "type": "distractor"
+        },
+        {
+          "text": "plantaciones agrícolas coloniales, minas e industrias de servicios domésticos",
+          "start": 325,
+          "end": 402,
+          "type": "distractor"
+        },
+        {
+          "text": "propiedad legal de algunas de las tierras nativas",
+          "start": 1174,
+          "end": 1223,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "En la historia europea, cuando el trabajo infantil era común, así como en el trabajo infantil contemporáneo del mundo moderno, ciertas creencias culturales han racionalizado el trabajo infantil y por lo tanto lo han alentado. Algunos ven que el trabajo es bueno para la construcción de personajes y el desarrollo de habilidades de los niños. En muchas culturas, en particular donde la economía informal y las pequeñas empresas hogareñas prosperan, la tradición cultural es que los niños siguen los pasos de sus padres; El trabajo infantil es un medio para aprender y practicar el comercio desde una edad muy temprana. De manera similar, en muchas culturas la educación de las niñas es menos valorada o simplemente no se espera que las niñas necesiten una educación formal, y estas niñas se introducen en el trabajo infantil como proporcionar servicios domésticos.",
+      "question": "¿De qué habla principalmente el texto?",
+      "choices": [
+        {
+          "text": "el trabajo infantil",
+          "start": 31,
+          "end": 50,
+          "type": "correct answer"
+        },
+        {
+          "text": "la educación de las niñas",
+          "start": 656,
+          "end": 681,
+          "type": "distractor"
+        },
+        {
+          "text": "las pequeñas empresas hogareñas",
+          "start": 405,
+          "end": 436,
+          "type": "distractor"
+        },
+        {
+          "text": "la economía informal",
+          "start": 382,
+          "end": 402,
+          "type": "distractor"
+        },
+        {
+          "text": "la historia europea",
+          "start": 3,
+          "end": 22,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "LaserDisc no tenía alta penetración en el mercado en Norteamérica debido al alto costo de los reproductores y discos, que eran mucho más caros que los reproductores de VHS y cintas. Aunque el formato no fue ampliamente adoptado por los consumidores norteamericanos, fue bien recibido entre los videófilos debido a la calidad de audio y video superior en comparación con las cintas VHS y Betamax, encontrando un lugar en casi un millón de hogares estadounidenses a finales de 1990. El formato fue más popular en Japón que en América del Norte porque los precios se mantuvieron bajos para asegurar la adopción, lo que resultó en diferencias de precio mínimas entre las cintas VHS y los Laserdisc de mayor calidad. Coleccionistas de anime en todos los países se lanzó el formato LD, que incluye Norteamérica y Japón, también rápidamente se familiarizó con este formato, y buscó la mayor calidad de vídeo y sonido de LaserDisc y la disponibilidad de numerosos títulos no disponibles en VHS. LaserDiscs también fueron alternativas populares a los videocasetes entre los entusiastas de películas en las regiones más ricas del sudeste asiático, especialmente Singapur, debido a su alta integración con el mercado japonés de exportación y las condiciones endémicas húmedas.",
+      "question": "¿Por qué fue un mayor éxito el LaserDisc en Japón?",
+      "choices": [
+        {
+          "text": "los precios se mantuvieron bajos para asegurar la adopción",
+          "start": 549,
+          "end": 607,
+          "type": "correct answer"
+        },
+        {
+          "text": "la disponibilidad de numerosos títulos no disponibles en VHS",
+          "start": 925,
+          "end": 985,
+          "type": "distractor"
+        },
+        {
+          "text": "su alta integración con el mercado japonés de exportación y las condiciones endémicas húmedas",
+          "start": 1171,
+          "end": 1264,
+          "type": "distractor"
+        },
+        {
+          "text": "la calidad de audio y video superior en comparación con las cintas VHS y Betamax",
+          "start": 314,
+          "end": 394,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "La genética de islas proporciona una explicación propuesta para la aparición repentina y completamente desarrollada de las plantas con flores. Se cree que la genética de islas es una fuente común de especiación en general, especialmente cuando se trata de adaptaciones radicales que parecen haber requerido formas de transición inferiores. Las plantas con flores pueden haber evolucionado en un entorno aislado como una isla o una cadena de islas, donde las plantas que las llevan fueron capaces de desarrollar una relación altamente especializada con algún animal específico (una avispa, por ejemplo). Tal relación, con una avispa hipotética que transportaba polen de una planta a otra de la manera que las avispas de higo hoy en día, podría resultar en el desarrollo de un alto grado de especialización tanto en la planta. Tenga en cuenta que el ejemplo de avispa no es accidental; Las abejas, que se postula, evolucionaron específicamente debido a las relaciones mutualistas con las plantas, descienden de las avispas.",
+      "question": "¿De qué es la aparición repentina que se explica por la genética de islas?",
+      "choices": [
+        {
+          "text": "las plantas con flores",
+          "start": 119,
+          "end": 141,
+          "type": "correct answer"
+        },
+        {
+          "text": "las avispas",
+          "start": 708,
+          "end": 715,
+          "type": "distractor"
+        },
+        {
+          "text": "las abejas",
+          "start": 888,
+          "end": 894,
+          "type": "distractor"
+        },
+        {
+          "text": "el polen",
+          "start": 660,
+          "end": 665,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Como resultado de la Guerra Civil Libia, las Naciones Unidas promulgaron la Resolución 1973 del Consejo de Seguridad de las Naciones Unidas, que impuso una zona de exclusión aérea sobre Libia y la protección de civiles de las fuerzas de Muammar Gaddafi. Los Estados Unidos, junto con Gran Bretaña, Francia y varias otras naciones, comprometieron una fuerza de coalición contra las fuerzas de Gadafi. El 19 de marzo, la primera acción estadounidense fue tomada cuando 114 misiles Tomahawk lanzados por buques de guerra estadounidenses y británicos destruyeron las defensas aéreas de la costa del régimen de Gadafi. Los Estados Unidos continuaron desempeñando un papel importante en la Operación Protector Unificado, la misión dirigida por la OTAN que finalmente incorporó todas las acciones de la coalición militar en el teatro. A lo largo del conflicto, sin embargo, los Estados Unidos mantuvieron que estaba desempeñando un papel de apoyo y estaba siguiendo el mandato de la ONU para proteger a los civiles, mientras que el verdadero conflicto fue entre los leales a Gadafi y los rebeldes libios. Durante el conflicto, los drones estadounidenses también fueron desplegados.",
+      "question": "¿De qué país fueron desplegados drones durante el conflicto entre los rebeldes libios y los leales a Gadafi?",
+      "choices": [
+        {
+          "text": "Estados Unidos",
+          "start": 871,
+          "end": 885,
+          "type": "correct answer"
+        },
+        {
+          "text": "Gran Bretaña",
+          "start": 284,
+          "end": 296,
+          "type": "distractor"
+        },
+        {
+          "text": "Francia",
+          "start": 298,
+          "end": 305,
+          "type": "distractor"
+        },
+        {
+          "text": "Libia",
+          "start": 34,
+          "end": 39,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "La evaporación y sublimación en un vacío se llama desgasificación. Todos los materiales, sólidos o líquidos, tienen una pequeña presión de vapor, y su desgasificación se vuelve importante cuando la presión de vacío cae por debajo de esta presión de vapor. En los sistemas artificiales, la desgasificación tiene el mismo efecto que una fuga y puede limitar el vacío alcanzable. Los productos de desgasificación pueden condensarse en superficies más frías cercanas, lo que puede ser problemático si oscurecen los instrumentos ópticos o reaccionan con otros materiales. Esto es de gran preocupación para las misiones espaciales, donde un telescopio oculto o una celda solar puede arruinar una misión costosa.",
+      "question": "¿La desgasificación se vuelve importante cuando la presión de vacío cae por debajo de qué?",
+      "choices": [
+        {
+          "text": "presión de vapor",
+          "start": 238,
+          "end": 254,
+          "type": "correct answer"
+        },
+        {
+          "text": "evaporación",
+          "start": 3,
+          "end": 14,
+          "type": "distractor"
+        },
+        {
+          "text": "sublimación",
+          "start": 17,
+          "end": 28,
+          "type": "distractor"
+        },
+        {
+          "text": "superficies más frías cercanas",
+          "start": 432,
+          "end": 462,
+          "type": "distractor"
+        },
+        {
+          "text": "el vacío alcanzable",
+          "start": 356,
+          "end": 375,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "A principios de febrero, la 11.ª División de Corea del Sur dirigió la operación para destruir las guerrillas y sus ciudadanos simpatizantes en Corea del Sur. Durante la operación, la división y la policía llevaron a cabo la masacre de Geochang y la masacre de Sancheong-Hamyang. A mediados de febrero, el EPV contraatacó con la ofensiva de la cuarta fase y logró la victoria inicial en Hoengseong. Pero la ofensiva fue pronto destruida por las posiciones del IX Cuerpo en Chipyong-ni en el centro. Las unidades de la 2.ª División de Infantería estadounidense y el Batallón francés lucharon una corta pero desesperada batalla que rompió el impulso del ataque. La batalla es a veces conocida como el Gettysburg de la Guerra de Corea. La batalla vio 5.600 tropas coreanas, estadounidenses y francesas derrotar a una fuerza china numéricamente superior. Rodeado por todos los lados, el 23 ° Equipo Regimental de Combate de la 2.ª División de Infantería de la División de Guerrero de EE.UU. con un batallón francés adjunto fue rodeado por más de 25.000 fuerzas comunistas chinas. Las fuerzas de las Naciones Unidas se habían retirado previamente frente a las grandes fuerzas comunistas en lugar de ser cortadas, pero esta vez se pusieron de pie y lucharon contra aproximadamente 15 a 1.",
+      "question": "¿Cómo se le conoce a la batalla en la que el batallón coreano, estadounidense y francés derrotó a una fuerza china mucho mayor?",
+      "choices": [
+        {
+          "text": "la masacre de Geochang",
+          "start": 221,
+          "end": 243,
+          "type": "distractor"
+        },
+        {
+          "text": "la masacre de Sancheong-Hamyang",
+          "start": 246,
+          "end": 277,
+          "type": "distractor"
+        },
+        {
+          "text": "la victoria inicial en Hoengseong",
+          "start": 363,
+          "end": 396,
+          "type": "distractor"
+        },
+        {
+          "text": "el Gettysburg de la Guerra de Corea",
+          "start": 695,
+          "end": 730,
+          "type": "correct answer"
+        }
+      ]
+    },
+    {
+      "context": "Las complicaciones pueden ocurrir inmediatamente después del ataque al corazón (en la fase aguda), o pueden necesitar tiempo para desarrollarse (un problema crónico). Las complicaciones agudas pueden incluir insuficiencia cardíaca si el corazón dañado ya no es capaz de bombear la sangre adecuadamente alrededor del cuerpo. Aneurisma del miocardio ventrículo izquierdo; Ruptura septal ventricular o ruptura pared libre; Regurgitación mitral, en particular si el infarto causa disfunción del músculo papilar. Síndrome de Dressler Y ritmos cardíacos anormales, como la fibrilación ventricular, taquicardia ventricular, fibrilación auricular y bloqueo cardíaco. Las complicaciones a largo plazo incluyen insuficiencia cardíaca, fibrilación auricular y un mayor riesgo de un segundo MI.",
+      "question": "¿Cuál de las siguientes es una complicación de largo plazo?",
+      "choices": [
+        {
+          "text": "ritmos cardíacos anormales",
+          "start": 531,
+          "end": 557,
+          "type": "distractor"
+        },
+        {
+          "text": "fibrilación auricular",
+          "start": 725,
+          "end": 746,
+          "type": "correct answer"
+        },
+        {
+          "text": "aneurisma del miocardio ventrículo izquierdo",
+          "start": 324,
+          "end": 368,
+          "type": "distractor"
+        },
+        {
+          "text": "ruptura septal ventricular",
+          "start": 370,
+          "end": 396,
+          "type": "distractor"
+        },
+        {
+          "text": "síndrome de Dressler",
+          "start": 508,
+          "end": 528,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Los insectos juegan un papel importante en la investigación biológica. Por ejemplo, debido a su pequeño tamaño, corto tiempo de generación y alta fecundidad, la mosca de la fruta común Drosophila melanogaster es un organismo modelo para estudios en la genética de eucariotas superiores. D. melanogaster ha sido una parte esencial de los estudios sobre la vinculación genética, las interacciones entre genes, genética cromosómica, desarrollo, comportamiento y evolución. Debido a que los sistemas genéticos están bien conservados entre los eucariotas, la comprensión de procesos celulares básicos como la replicación del ADN o la transcripción en las moscas de la fruta puede ayudar a entender esos procesos en otros eucariotas. El genoma de D. melanogaster fue secuenciado en 2000, reflejando el papel importante del organismo en la investigación biológica. Se encontró que el 70% del genoma de la mosca es similar al genoma humano, apoyando la teoría de la evolución.",
+      "question": "¿Por cuál de las siguientes razones la Drosophila melanogaster no es un organismo modelo para estudios en la genética de eucariotas superiores?",
+      "choices": [
+        {
+          "text": "su pequeño tamaño",
+          "start": 93,
+          "end": 110,
+          "type": "distractor"
+        },
+        {
+          "text": "corto tiempo de generación",
+          "start": 112,
+          "end": 138,
+          "type": "distractor"
+        },
+        {
+          "text": "alta fecundidad",
+          "start": 141,
+          "end": 156,
+          "type": "distractor"
+        },
+        {
+          "text": "70% del genoma de la mosca es similar al genoma humano",
+          "start": 877,
+          "end": 931,
+          "type": "correct answer"
+        }
+      ]
+    },
+    {
+      "context": "Durante dos siglos y medio desde mediados del siglo XIII, la política en el norte de la India fue dominada por el Sultanato de Delhi y en el sur de la India por el Imperio Vijayanagar. Sin embargo, hubo otras potencias regionales presentes también. En el norte, los rajputs eran una fuerza dominante en el oeste y centro de la India. Su poder alcanzó el cenit bajo Rana Sanga durante cuyo tiempo los ejércitos rajput fueron constantemente victoriosos contra el ejército del Sultanato. En el sur, el Sultanato Bahmani era el principal rival de los Vijaynagara y daba días difíciles a Vijayanagara muchas veces. A principios del siglo XVI Krishnadevaraya del Imperio Vijayanagara derrotó al último remanente del poder del Sultanato Bahmani después de lo cual el Sultanato Bahmani colapsó. Fue establecido ya sea por un Brahman convertido o patrocinado por un Brahman y la forma de esa fuente obtuvo el nombre Bahmani. A principios del siglo XVI, se derrumbó y se dividió en cinco pequeños sultanatos de Decán. En el este, el Reino de Gajapati siguió siendo una potencia regional fuerte, así como el Reino de Ahom en el noreste durante seis siglos.",
+      "question": "¿Quién era el principal rival del Imperio Vijayanagara en el sur de la India?",
+      "choices": [
+        {
+          "text": "el Reino de Gajapati",
+          "start": 1020,
+          "end": 1040,
+          "type": "distractor"
+        },
+        {
+          "text": "el Reino de Ahom",
+          "start": 1094,
+          "end": 1110,
+          "type": "distractor"
+        },
+        {
+          "text": "el Sultanato Bahmani",
+          "start": 496,
+          "end": 516,
+          "type": "correct answer"
+        },
+        {
+          "text": "el Sultanato de Delhi",
+          "start": 111,
+          "end": 132,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "El término botánico \"Angiosperm\", del griego antiguo αγγείον, angeíon (botella, vasija) y σπέρμα (semilla), fue acuñado en 1690. Esto incluye plantas con flores que poseen semillas encerradas en cápsulas, que se distinguen de sus gimnospermas, o plantas con flores con frutos aceniales o esquizocárpicos, toda la fruta o cada una de sus piezas. El término y su antónimo fueron mantenidos por Carlos Linneo con el mismo sentido, pero con aplicación restringida, en los nombres de los órdenes de su clase Didynamia. Su uso con cualquier enfoque a su alcance moderno se hizo posible sólo después de 1827, cuando Robert Brown estableció la existencia de óvulos verdaderamente desnudos en Cycadeae y Coniferae, y les aplicó el nombre Gymnosperms. A partir de ese momento, siempre y cuando estas gimnospermas fueran, como era habitual, como se pensaba, como plantas dicotiledóneas, el término angiosperma fue usado antiteticamente por los botánicos.",
+      "question": "¿A qué término se le ocurrió Paul Hermann en 1690?",
+      "choices": [
+        {
+          "text": "angiosperma",
+          "start": 887,
+          "end": 898,
+          "type": "correct answer"
+        },
+        {
+          "text": "dicotiledóneas",
+          "start": 860,
+          "end": 874,
+          "type": "distractor"
+        },
+        {
+          "text": "gimnospermas",
+          "start": 230,
+          "end": 242,
+          "type": "distractor"
+        },
+        {
+          "text": "frutos aceniales",
+          "start": 269,
+          "end": 285,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "En contraste, durante los períodos de vigilia diferenciaron células efectoras, como las citotóxicas células asesinas naturales y las CTLs (linfocitos T citotóxicos), con el fin de obtener una respuesta efectiva contra cualquier agente. Además, durante los tiempos activos despiertos, las moléculas antiinflamatorias, como cortisol y catecolaminas, alcanzan su pico. Hay dos teorías sobre por qué el estado proinflamatorio está reservado para el tiempo de sueño. En primer lugar, la inflamación causaría graves discapacidades cognitivas y físicas si ocurriera durante los momentos de vigilia. En segundo lugar, la inflamación puede ocurrir durante el sueño debido a la presencia de melatonina. La inflamación causa una gran cantidad de estrés oxidativo y la presencia de melatonina durante los tiempos del sueño podría contrarrestar activamente la producción de radicales libres durante este tiempo.",
+      "question": "¿Qué causa la inflamación que puede ocurrir durante el sueño?",
+      "choices": [
+        {
+          "text": "melatonina",
+          "start": 681,
+          "end": 691,
+          "type": "correct answer"
+        },
+        {
+          "text": "citotóxicas células asesinas naturales",
+          "start": 88,
+          "end": 126,
+          "type": "distractor"
+        },
+        {
+          "text": "linfocitos T citotóxicos",
+          "start": 139,
+          "end": 163,
+          "type": "distractor"
+        },
+        {
+          "text": "cortisol ",
+          "start": 322,
+          "end": 331,
+          "type": "distractor"
+        },
+        {
+          "text": "catecolaminas",
+          "start": 333,
+          "end": 346,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "El uranio es un elemento químico con símbolo U y número atómico 92. Es un metal blanco plateado en la serie actínido de la tabla periódica. Un átomo de uranio tiene 92 protones y 92 electrones, de los cuales 6 son electrones de valencia. El uranio es débilmente radiactivo porque todos sus isótopos son inestables (con vidas medias de los seis isótopos naturales conocidos, uranio-233 a uranio-238, que varían entre 69 años y 4,5 mil millones de años). Los isótopos más comunes del uranio son el uranio-238 (que tiene 146 neutrones y representa casi el 99,3% del uranio encontrado en la naturaleza) y el uranio-235 (que tiene 143 neutrones). El uranio tiene el segundo peso atómico más alto de los elementos que ocurren primordialmente, más ligero que el plutonio. Su densidad es aproximadamente un 70% superior a la de plomo, pero ligeramente inferior a la de oro o wolframio. Se produce naturalmente en bajas concentraciones de unas pocas partes por millón en suelo, roca y agua, y se extrae comercialmente de minerales que contienen uranio como la uraninita.",
+      "question": "¿Qué tipo de uranio representa casi el 99,3% del uranio en la naturaleza?",
+      "choices": [
+        {
+          "text": "uranio-238",
+          "start": 496,
+          "end": 506,
+          "type": "correct answer"
+        },
+        {
+          "text": "uranio-233",
+          "start": 374,
+          "end": 384,
+          "type": "distractor"
+        },
+        {
+          "text": "uranio-235",
+          "start": 604,
+          "end": 614,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "La guerra comenzó mal para Estados Unidos y la ONU. Las fuerzas norcoreanas atacaron masivamente en el verano de 1950 y casi condujeron a los defensores estadounidenses y surcoreanos al mar. Sin embargo, las Naciones Unidas intervinieron, nombrando a Douglas MacArthur comandante de sus fuerzas, y las fuerzas UN-US-ROK mantuvieron un perímetro alrededor de Pusan, ganando tiempo para el refuerzo. MacArthur, en un movimiento audaz pero arriesgado, ordenó una invasión anfibia muy por detrás de las líneas del frente en Inchon, cortando y enrutando a los norcoreanos y rápidamente cruzando el paralelo 38 hacia Corea del Norte. Como las fuerzas de la ONU continuaron avanzando hacia el río Yalu en la frontera con la China comunista, los chinos cruzaron el río Yalu en octubre y lanzaron una serie de ataques sorpresa que enviaron a las fuerzas de la ONU de nuevo a través. Truman originalmente quería una estrategia de Rollback para unificar Corea; Después de los éxitos chinos se estableció para una política de contención para dividir el país. MacArthur defendió el retroceso, pero fue despedido por el presidente Harry Truman después de disputas sobre la conducta de la guerra. Las negociaciones de paz se prolongaron durante dos años hasta que el presidente Dwight D. Eisenhower amenazó a China con armas nucleares; Se llegó rápidamente a un armisticio con las dos Coreas restantes divididas en el paralelo 38. Corea del Norte y Corea del Sur siguen en estado de guerra, nunca han firmado un tratado de paz, y las fuerzas estadounidenses siguen estacionadas en Corea del Sur como parte de la política exterior estadounidense.",
+      "question": "¿Cuál fue el primer movimiento audaz pero arriesgado de Douglas MacArthur durante la guerra?",
+      "choices": [
+        {
+          "text": "invasión anfibia muy por detrás de las líneas del frente en Inchon",
+          "start": 460,
+          "end": 526,
+          "type": "correct answer"
+        },
+        {
+          "text": "una serie de ataques sorpresa que enviaron a las fuerzas de la ONU de nuevo",
+          "start": 788,
+          "end": 863,
+          "type": "distractor"
+        },
+        {
+          "text": "una estrategia de Rollback para unificar Corea",
+          "start": 902,
+          "end": 948,
+          "type": "distractor"
+        },
+        {
+          "text": "una política de contención para dividir el país",
+          "start": 998,
+          "end": 1045,
+          "type": "distractor"
+        },
+        {
+          "text": "amenazó a China con armas nucleares",
+          "start": 1284,
+          "end": 1319,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Al final de la Primera Guerra Mundial, Renania estaba sujeta al Tratado de Versalles. Esto decretó que sería ocupada por los aliados, hasta 1935 y después de eso, sería una zona desmilitarizada, con el ejército alemán prohibido entrar. El Tratado de Versalles y esta disposición en particular, en general, causaron mucho resentimiento en Alemania y se cita a menudo como ayuda al ascenso al poder de Adolf Hitler. Los aliados abandonaron Renania, en 1930 y el ejército alemán la volvió a ocupar en 1936, que fue enormemente popular en Alemania. Aunque los aliados probablemente podrían haber evitado la re-ocupación, Gran Bretaña y Francia no estaban dispuestos a hacerlo, una característica de su política de apaciguamiento con Hitler.",
+      "question": "¿Qué país tenía prohibido entrar a Renania por el Tratado de Versalles?",
+      "choices": [
+        {
+          "text": "Alemania",
+          "start": 338,
+          "end": 346,
+          "type": "correct answer"
+        },
+        {
+          "text": "Gran Bretaña",
+          "start": 617,
+          "end": 629,
+          "type": "distractor"
+        },
+        {
+          "text": "Francia",
+          "start": 632,
+          "end": 639,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Hyderabad ha continuado con estas tradiciones en su Festival Literario anual Hyderabad, que se celebra desde 2010, mostrando la creatividad literaria y cultural de la ciudad. Las organizaciones que participan en el avance de la literatura incluyen la Academia Sahitya, la Academia Urdu, la Academia Telugu, el Consejo Nacional para la Promoción de la Lengua Urdu, la Asociación de Literatura Comparada de India. El desarrollo literario es ayudado por instituciones estatales como la Biblioteca Central Estatal, la biblioteca pública más grande en el estado que fue establecida en 1891, y otras bibliotecas importantes como la Biblioteca Nacional de Sri Krishna Devaraya.",
+      "question": "¿Cuál es la biblioteca pública más grande en el estado?",
+      "choices": [
+        {
+          "text": "la Biblioteca Central Estatal",
+          "start": 480,
+          "end": 509,
+          "type": "correct answer"
+        },
+        {
+          "text": "la Academia Urdu",
+          "start": 269,
+          "end": 285,
+          "type": "distractor"
+        },
+        {
+          "text": "la Academia Sahitya",
+          "start": 248,
+          "end": 267,
+          "type": "distractor"
+        },
+        {
+          "text": "la Asociación de Literatura Comparada de India",
+          "start": 364,
+          "end": 410,
+          "type": "distractor"
+        },
+        {
+          "text": "la Biblioteca Nacional de Sri Krishna Devaraya",
+          "start": 623,
+          "end": 669,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "La adhesión religiosa de los samoanos incluye las siguientes: Iglesia congregacional Cristiana de Samoa 31,8%, católica 19,4%, metodista 15,2%, Asamblea de Dios 13,7%, Mormón 7,6%, séptimo día. El Jefe de Estado hasta 2007, Su Alteza Malietoa Tanumafili II, fue un converso bahá 'í. Samoa alberga una de las siete casas bahá 'ís de culto en el mundo; Terminado en 1984 y dedicado por el Jefe de Estado, se encuentra en Tiapapata, a 8 km de Apia.",
+      "question": "¿Qué porcentaje de la adhesión religiosa de los samoanos incluye mormones?",
+      "choices": [
+        {
+          "text": "7,6%",
+          "start": 175,
+          "end": 179,
+          "type": "correct answer"
+        },
+        {
+          "text": "19,4%",
+          "start": 120,
+          "end": 125,
+          "type": "distractor"
+        },
+        {
+          "text": "15,2%",
+          "start": 137,
+          "end": 142,
+          "type": "distractor"
+        },
+        {
+          "text": "13,7%",
+          "start": 161,
+          "end": 166,
+          "type": "distractor"
+        },
+        {
+          "text": "31,8%",
+          "start": 104,
+          "end": 109,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Lanzado en todo el mundo entre 2005-2006, la Xbox 360 fue inicialmente escasa en muchas regiones, incluyendo América del Norte y Europa. Las primeras versiones de la consola sufrieron una alta tasa de fallos, indicada por el llamado \"Anillo Rojo de la Muerte\", lo que requirió una extensión del período de garantía del dispositivo. Microsoft lanzó dos modelos rediseñados de la consola: El Xbox 360 S en 2010, y el Xbox 360 E en 2013. A partir de junio de 2014, 84 millones de consolas Xbox 360 se han vendido en todo el mundo, por lo que es la sexta consola de videojuegos más vendida en la historia, y la consola más vendida hecha por una empresa estadounidense. Aunque no es la consola más vendida de su generación, la Xbox 360 fue considerada por TechRadar como la más influyente a través de su énfasis en la distribución de medios digitales y juegos multijugador en Xbox Live. El sucesor de Xbox 360, el Xbox One, fue lanzado el 22 de noviembre de 2013. Microsoft ha declarado que planean apoyar la Xbox 360 hasta 2016. La Xbox One también es compatible con la Xbox 360.",
+      "question": "¿Qué modelo sufrió el fallo llamado \"Anillo Rojo de la Muerte\"?",
+      "choices": [
+        {
+          "text": "Xbox 360",
+          "start": 45,
+          "end": 53,
+          "type": "correct answer"
+        },
+        {
+          "text": "Xbox 360 S",
+          "start": 390,
+          "end": 400,
+          "type": "distractor"
+        },
+        {
+          "text": "Xbox 360 E",
+          "start": 415,
+          "end": 425,
+          "type": "distractor"
+        },
+        {
+          "text": "Xbox One",
+          "start": 909,
+          "end": 917,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Bobby Kotick, CEO de Activision Blizzard, ha criticado los altos costos de desarrollo de PS3 y la tasa de apego inferior y el regreso a la de Xbox 360 y Wii. Él cree que estos factores están alejando a los desarrolladores de trabajar en la consola. En una entrevista con The Times Kotick declaró: \"Me estoy preocupando por Sony; La PlayStation 3 está perdiendo un poco de impulso y no me hacen fácil apoyar la plataforma \". Continuó: \"Es caro desarrollarse para la consola, y la Wii y la Xbox están simplemente vendiendo mejor. Games generate a better return on invested capital (ROIC) on the Xbox than on the PlayStation \"(en inglés). Kotick también afirmó que Activision Blizzard podría dejar de apoyar el sistema si no se aborda la situación. \"[Sony tiene] para reducir el precio de [PS3 al por menor], porque si no lo hacen, es probable que las tasas de unión se desaceleren. Si estamos siendo realistas, podríamos tener que dejar de apoyar a Sony \". Kotick recibió fuertes críticas por la declaración, especialmente del desarrollador BioWare que cuestionó la sabiduría de la medida amenazada, y se refirió a la declaración como \"tonta\".",
+      "question": "¿Qué consola tiene altos costos de desarrollo según Bobby Kotick?",
+      "choices": [
+        {
+          "text": "PS3",
+          "start": 89,
+          "end": 92,
+          "type": "correct answer"
+        },
+        {
+          "text": "Xbox 360",
+          "start": 142,
+          "end": 150,
+          "type": "distractor"
+        },
+        {
+          "text": "Wii",
+          "start": 153,
+          "end": 156,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Rusia experimentó un crecimiento territorial durante el siglo XVII, que fue la época de los cosacos. Los cosacos eran guerreros organizados en comunidades militares, pareciendo piratas y pioneros del Nuevo Mundo. En 1648, los campesinos de Ucrania se unieron a los cosacos de Zaporozhia en rebelión contra Polonia-Lituania durante el Levantamiento de Jmelnytsky, debido a la opresión social y religiosa que sufrieron bajo el dominio polaco. En 1654 el líder ucraniano, Bohdan Jmelnytsky, ofreció poner a Ucrania bajo la protección del zar ruso, Alekséi I. La aceptación de esta oferta llevó a otra guerra ruso-polaca (1654-1667). Finalmente, Ucrania se dividió a lo largo del río Dniéper, dejando la parte occidental (o Ucrania de la orilla derecha) bajo el dominio polaco y la parte oriental (Ucrania de la margen izquierda y Kiev) bajo el dominio ruso. Más tarde, en 1670-71 los cosacos del Don liderados por Stenka Razin iniciaron un gran levantamiento en la región del Volga, pero las tropas del zar tuvieron éxito en derrotar a los rebeldes. En el este, la rápida exploración y colonización rusa de los enormes territorios de Siberia estaba dirigida principalmente por los cosacos que buscaban pieles valiosas y marfil. Los exploradores rusos avanzaron hacia el este principalmente a lo largo de las rutas fluviales siberianas, y a mediados del siglo XVII había asentamientos rusos en la Siberia oriental, en la península de Chukchi, a lo largo del río Amur. En 1648, el estrecho de Bering entre Asia y Norteamérica fue pasado por primera vez por Fedot Popov y Semyon Dezhniov.",
+      "question": "¿Qué son los cosacos?",
+      "choices": [
+        {
+          "text": "campesinos de Ucrania",
+          "start": 226,
+          "end": 247,
+          "type": "distractor"
+        },
+        {
+          "text": "las tropas del zar",
+          "start": 985,
+          "end": 1003,
+          "type": "distractor"
+        },
+        {
+          "text": "guerreros organizados en comunidades militares, pareciendo piratas y pioneros del Nuevo Mundo",
+          "start": 118,
+          "end": 211,
+          "type": "correct answer"
+        },
+        {
+          "text": "las rutas fluviales siberianas",
+          "start": 1301,
+          "end": 1331,
+          "type": "distractor"
+        },
+        {
+          "text": "asentamientos rusos en la Siberia oriental",
+          "start": 1367,
+          "end": 1409,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "El cristianismo es la religión predominante en Suiza (alrededor del 71% de la población residente y el 75% de los ciudadanos suizos), dividido entre la Iglesia católica (38,21% de la población), la Iglesia Reformada Suiza (26,93%). Ha habido un reciente aumento en el evangelicalismo. La inmigración ha traído al Islam (4,95%) y a la ortodoxia oriental (alrededor del 2%) como religiones minoritarias importantes. Según una encuesta realizada en 2015 por Gallup International, el 12% de los suizos se autoidentificaron como \"ateos convencidos\".",
+      "question": "¿Qué porcentaje de Suiza pertenece a la Iglesia Reformada Suiza?",
+      "choices": [
+        {
+          "text": "26,93%",
+          "start": 223,
+          "end": 229,
+          "type": "correct answer"
+        },
+        {
+          "text": "71%",
+          "start": 68,
+          "end": 71,
+          "type": "distractor"
+        },
+        {
+          "text": "38,21%",
+          "start": 170,
+          "end": 176,
+          "type": "distractor"
+        },
+        {
+          "text": "2%",
+          "start": 368,
+          "end": 370,
+          "type": "distractor"
+        },
+        {
+          "text": "12%",
+          "start": 480,
+          "end": 483,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "John Evans, para quien Evanston fue nombrado, compró 379 acres (153 hectáreas) de tierra a lo largo del lago Míchigan en 1853, y Philo Judson desarrolló planes para lo que se convertiría en la ciudad de Evanston, Illinois. El primer edificio, Old College, abrió el 5 de noviembre de 1855. Para recaudar fondos para su construcción, Northwestern vendió 100 dólares \"becas perpetuas\" dando derecho al comprador y sus herederos a la matrícula gratuita. Otro edificio, el University Hall, fue construido en 1869 de la misma piedra caliza de Joliet que la Chicago Water Tower, también construida en 1869, uno de los pocos edificios en el corazón de Chicago que sobrevivió al Gran Incendio de Chicago de 1871. En 1873 el Evanston College for Ladies se fusionó con Northwestern, y Frances Willard, quien más tarde ganó fama como sufragista y como una de las fundadoras de la Woman 's Christian Temperance Union (WCTU), se convirtió en la escuela. El Willard Residential College (1938) fue nombrado en su honor. Northwestern admitió a sus primeras estudiantes mujeres en 1869, y la primera mujer se graduó en 1874.",
+      "question": "¿Con quién se fusionó Northwestern en 1873?",
+      "choices": [
+        {
+          "text": "Evanston College for Ladies",
+          "start": 715,
+          "end": 742,
+          "type": "correct answer"
+        },
+        {
+          "text": "Old College",
+          "start": 243,
+          "end": 254,
+          "type": "distractor"
+        },
+        {
+          "text": "University Hall",
+          "start": 468,
+          "end": 483,
+          "type": "distractor"
+        },
+        {
+          "text": "Woman 's Christian Temperance Union",
+          "start": 868,
+          "end": 903,
+          "type": "distractor"
+        },
+        {
+          "text": "Willard Residential College",
+          "start": 943,
+          "end": 970,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Checo (/ ˈtʃɛk /) Čeština pronunciación checa: [ˈt ʃʃɛʃcɪna], anteriormente conocida como Bohemia (/ boʊˈhiːmiən, bə- /; /) Lingua bohemica en latín), es una lengua eslava occidental fuertemente influenciada por el latín y el alemán, hablado por más de 10 millones de personas y es la lengua oficial de la República Checa. El pariente más cercano del checo es el eslovaco, con el que es mutuamente inteligible. Está estrechamente relacionado con otras lenguas eslavas occidentales, como el silesio y el polaco. Aunque la mayoría del vocabulario checo se basa en raíces compartidas con lenguas eslavas, romances y germánicas, muchos préstamos lingüísticos (más asociados con la alta cultura) han sido adoptados en los últimos años.",
+      "question": "¿Qué idioma es el que más se le asemeja al checo?",
+      "choices": [
+        {
+          "text": "eslovaco",
+          "start": 363,
+          "end": 371,
+          "type": "correct answer"
+        },
+        {
+          "text": "silesio",
+          "start": 490,
+          "end": 497,
+          "type": "distractor"
+        },
+        {
+          "text": "polaco",
+          "start": 503,
+          "end": 509,
+          "type": "distractor"
+        },
+        {
+          "text": "alemán",
+          "start": 226,
+          "end": 232,
+          "type": "distractor"
+        },
+        {
+          "text": "latín",
+          "start": 215,
+          "end": 220,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Tennessee ha jugado un papel crítico en el desarrollo de muchas formas de música popular estadounidense, incluyendo rock and roll, blues, country y rockabilly. Beale Street en Memphis es considerado por muchos como el lugar de nacimiento del blues, con músicos como W.C. La práctica en sus clubes ya en 1909. Memphis es también el hogar de Sun Records, donde músicos como Elvis Presley, Johnny Cash, Carl Perkins, Jerry Lee Lewis, Roy Orbison, y Charlie Rich comenzaron sus carreras de grabación en los años 50. Las sesiones de grabación de 1927 en Bristol marcaron el comienzo del género de la música country y el auge del Grand Ole Opry en la década de 1930 ayudó a hacer de Nashville el centro de la industria de la música country. Tres museos reconocen el papel de Tennessee en nutrir varias formas de música popular: El Memphis Rock N 'Soul Museum, el Country Music Hall of Fame and Museum en A-Nashville, y el International Rock-Museum en Billy Jackson. Además, el Salón de la Fama de Rockabilly, un sitio en línea que reconoce el desarrollo de rockabilly en el que Tennessee jugó un papel crucial, se basa en Nashville. [No verificado en el cuerpo]",
+      "question": "¿Qué ciudad en Tennessee es considerada el centro de la industria de la música country?",
+      "choices": [
+        {
+          "text": "Nashville",
+          "start": 677,
+          "end": 686,
+          "type": "correct answer"
+        },
+        {
+          "text": "Memphis",
+          "start": 176,
+          "end": 183,
+          "type": "distractor"
+        },
+        {
+          "text": "Bristol",
+          "start": 549,
+          "end": 556,
+          "type": "distractor"
+        },
+        {
+          "text": "Rockabilly",
+          "start": 991,
+          "end": 1001,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "La dinastía Han (en chino:;;; en chino: Dynasty;). Pinyin: Hàn cháo) fue la segunda dinastía imperial de China, precedida por la dinastía Qin (221-207 aC) y sucedida por el período de los Tres Reinos (220-280 dC). A lo largo de cuatro siglos, el período Han se considera una edad de oro en la historia china. Hasta el día de hoy, el grupo étnico mayoritario de China se refiere a sí mismo como el \"pueblo Han\" y la escritura china se conoce como \"caracteres Han\". Fue fundada por el líder rebelde Liu Bang, conocido póstumamente como emperador Gaozu de Han, y brevemente interrumpida por la dinastía Xin (9-23) del antiguo regente Wang Mang. Este interregno separa la dinastía Han en dos períodos: La Han occidental o la ex Han (206 a. C. - 9 d. C.) y la Han oriental o Han posterior (25-220 d. C.).",
+      "question": "¿A qué dinastía pertenecía el regente Wang Mang?",
+      "choices": [
+        {
+          "text": "dinastía Xin",
+          "start": 591,
+          "end": 603,
+          "type": "correct answer"
+        },
+        {
+          "text": "dinastía Qin",
+          "start": 129,
+          "end": 141,
+          "type": "distractor"
+        },
+        {
+          "text": "dinastía Han",
+          "start": 3,
+          "end": 15,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "La mayor parte del curso actual del Rin no estaba bajo el hielo durante la última Edad de Hielo; Aunque su fuente debe haber sido todavía un glaciar. Una tundra, con flora y fauna de la Edad de Hielo, se extendía a través de Europa media, desde Asia hasta el océano Atlántico. Tal fue el caso durante el último Máximo Glacial, ca. 22.000-14.000 años BP, cuando las capas de hielo cubrían Escandinavia, los países bálticos, Escocia y los Alpes, pero dejaron el espacio entre la tundra abierta. El loess o polvo soplado por el viento sobre esa tundra, se asentó en y alrededor del valle del Rin, contribuyendo a su actual utilidad agrícola.",
+      "question": "¿En dónde se asentó el polvo soplado de la tundra para convertirlo en una zona agrícola actual?",
+      "choices": [
+        {
+          "text": "el valle del Rin",
+          "start": 579,
+          "end": 592,
+          "type": "correct answer"
+        },
+        {
+          "text": "Escandinavia",
+          "start": 388,
+          "end": 400,
+          "type": "distractor"
+        },
+        {
+          "text": "Escocia",
+          "start": 423,
+          "end": 430,
+          "type": "distractor"
+        },
+        {
+          "text": "los países bálticos",
+          "start": 402,
+          "end": 421,
+          "type": "distractor"
+        },
+        {
+          "text": "los Alpes",
+          "start": 433,
+          "end": 442,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Los esfuerzos para identificar los orígenes de los judíos Ashkenazi a través del análisis de ADN comenzaron en la década de 1990. Actualmente, hay tres tipos de pruebas de origen genético, ADN autosómico (ADNt), ADN mitocondrial (ADNmt) y ADN cromosómico Y (ADN-Y). El ADN autosómico es una mezcla de toda la ascendencia de un individuo, el ADN-Y muestra el linaje masculino sólo a lo largo de su línea estrictamente paterna, el ADNmt muestra el linaje de cualquier persona solo a lo largo. También se han empleado estudios de asociación en todo el genoma para dar resultados relevantes a los orígenes genéticos.",
+      "question": "¿Qué siglas representa el ADN autosómico?",
+      "choices": [
+        {
+          "text": "ADNt",
+          "start": 205,
+          "end": 209,
+          "type": "correct answer"
+        },
+        {
+          "text": "ADNmt",
+          "start": 230,
+          "end": 235,
+          "type": "distractor"
+        },
+        {
+          "text": "ADN-Y",
+          "start": 258,
+          "end": 263,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Los esfuerzos para identificar los orígenes de los judíos Ashkenazi a través del análisis de ADN comenzaron en la década de 1990. Actualmente, hay tres tipos de pruebas de origen genético, ADN autosómico (ADNt), ADN mitocondrial (ADNmt) y ADN cromosómico Y (ADN-Y). El ADN autosómico es una mezcla de toda la ascendencia de un individuo, el ADN-Y muestra el linaje masculino sólo a lo largo de su línea estrictamente paterna, el ADNmt muestra el linaje de cualquier persona solo a lo largo. También se han empleado estudios de asociación en todo el genoma para dar resultados relevantes a los orígenes genéticos.",
+      "question": "¿Qué característica tiene el ADN-Y?",
+      "choices": [
+        {
+          "text": "muestra el linaje masculino sólo a lo largo de su línea estrictamente paterna",
+          "start": 347,
+          "end": 424,
+          "type": "correct answer"
+        },
+        {
+          "text": "muestra el linaje de cualquier persona solo a lo largo",
+          "start": 435,
+          "end": 489,
+          "type": "distractor"
+        },
+        {
+          "text": "es una mezcla de toda la ascendencia de un individuo",
+          "start": 284,
+          "end": 336,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Israel tiene un sistema judicial de tres niveles. En el nivel más bajo están los tribunales de magistrados, situados en la mayoría de las ciudades de todo el país. Por encima de ellos hay tribunales de distrito, que sirven tanto como tribunales de apelación y tribunales de primera instancia; Están situados en cinco de los seis distritos de Israel. El tercer y más alto nivel es el Tribunal Supremo, ubicado en Jerusalén; Cumple un doble papel como el más alto tribunal de apelaciones y el Tribunal Superior de Justicia. En este último papel, la Corte Suprema gobierna como un tribunal de primera instancia, permitiendo a las personas, tanto ciudadanos como no ciudadanos, solicitar en contra de las decisiones de las autoridades estatales. Aunque Israel apoya los objetivos de la Corte Penal Internacional, no ha ratificado el Estatuto de Roma, citando preocupaciones sobre la capacidad del tribunal para mantenerse libre de la imparcialidad política.",
+      "question": "¿Qué se encuentra en el nivel más bajo del sistema judicial de Israel?",
+      "choices": [
+        {
+          "text": "los tribunales de magistrados, situados en la mayoría de las ciudades de todo el país",
+          "start": 77,
+          "end": 162,
+          "type": "correct answer"
+        },
+        {
+          "text": "tribunales de distrito, que sirven tanto como tribunales de apelación y tribunales de primera instancia",
+          "start": 188,
+          "end": 291,
+          "type": "distractor"
+        },
+        {
+          "text": "el Tribunal Supremo, ubicado en Jerusalén",
+          "start": 380,
+          "end": 421,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "El subcomité X3.2 diseñó ASCII basado en los sistemas de codificación de teletipo anteriores. Como otras codificaciones de caracteres, ASCII especifica una correspondencia entre patrones de bits digitales y símbolos de caracteres (i.e. Grafemas y caracteres de control). Esto permite a los dispositivos digitales comunicarse entre sí y procesar, almacenar y comunicar información orientada a caracteres como el lenguaje escrito. Antes de que ASCII fuera desarrollado, las codificaciones en uso incluían 26 caracteres alfabéticos, 10 dígitos numéricos, y de 11 a 25 símbolos gráficos especiales. Para incluir a todos estos, y los personajes de control compatibles con el Comité Consultatif International Téléphonique et Télégraphique (CCITT) International Telegraph Alphabet No. 2 (ITA2) estándar, Fieldata y los primeros EBCDIC, se requerían más de 64 códigos para ASCII.",
+      "question": "¿Qué sistema de codificación diseñó el subcomité X3.2?",
+      "choices": [
+        {
+          "text": "ASCII",
+          "start": 25,
+          "end": 30,
+          "type": "correct answer"
+        },
+        {
+          "text": "CCITT",
+          "start": 734,
+          "end": 739,
+          "type": "distractor"
+        },
+        {
+          "text": "ITA2",
+          "start": 781,
+          "end": 785,
+          "type": "distractor"
+        },
+        {
+          "text": "EBCDIC",
+          "start": 821,
+          "end": 827,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "La Xbox 360 cuenta con un servicio en línea, Xbox Live, que se amplió de su iteración anterior en la Xbox original y recibió actualizaciones regulares durante la vida de la consola. Disponible en variedades gratuitas y basadas en suscripciones, Xbox Live permite a los usuarios: Jugar juegos online; Descargar juegos (a través de Xbox Live Arcade) y demos de juegos; Comprar y transmitir música, programas de televisión y películas a través de los portales de Xbox Music y Xbox Video; Y acceder a servicios de contenido de terceros a través de aplicaciones de streaming de medios. Además de las características multimedia en línea, la Xbox 360 permite a los usuarios transmitir medios de PC locales. Varios periféricos han sido lanzados, incluyendo controladores inalámbricos, almacenamiento de disco duro expandido, y la cámara Kinect sensor de movimiento. El lanzamiento de estos servicios adicionales y periféricos ayudó a la marca Xbox a crecer de sólo jugar a abarcar todo multimedia, convirtiéndolo en un centro para el entretenimiento de la computación de salas vivas.",
+      "question": "¿Qué no incluye el servicio Xbox Live?",
+      "choices": [
+        {
+          "text": "almacenamiento de disco duro expandido",
+          "start": 777,
+          "end": 815,
+          "type": "correct answer"
+        },
+        {
+          "text": "jugar juegos online",
+          "start": 279,
+          "end": 298,
+          "type": "distractor"
+        },
+        {
+          "text": "comprar y transmitir música",
+          "start": 367,
+          "end": 394,
+          "type": "distractor"
+        },
+        {
+          "text": "acceder a servicios de contenido de terceros",
+          "start": 487,
+          "end": 531,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Por otro lado, ciertas técnicas financieras pueden reducir el impacto de tales compras en la moneda. Una es la esterilización, en la que se venden activos altamente valorados al mismo tiempo que se compran los activos más débiles, lo que mantiene la oferta monetaria neutral. Otra técnica es simplemente aceptar los malos activos como garantía a largo plazo (a diferencia de los intercambios de repo a corto plazo) que se celebrarán hasta que su valor de mercado se estabilice. Esto implicaría, como quid pro quo, ajustes en los impuestos y el gasto en las economías de los estados más débiles para mejorar el valor percibido de los activos.",
+      "question": "¿Qué puede hacer un Estado con activos malos, en lugar de cobrarlos directamente?",
+      "choices": [
+        {
+          "text": "aceptar los malos activos como garantía a largo plazo",
+          "start": 304,
+          "end": 357,
+          "type": "correct answer"
+        },
+        {
+          "text": "comprar los activos más débiles",
+          "start": 198,
+          "end": 229,
+          "type": "distractor"
+        },
+        {
+          "text": "vender activos altamente valorados",
+          "start": 140,
+          "end": 174,
+          "type": "distractor"
+        },
+        {
+          "text": "mejorar el valor percibido de los activos",
+          "start": 599,
+          "end": 640,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "En 1969 los Cubs, dirigidos por Leo Durocher, construyeron una ventaja sustancial en la recién creada División Este de la Liga Nacional a mediados de agosto. Ken Holtzman lanzó un juego sin hits el 19 de agosto, y la ventaja de la división creció a 8 juegos y medio sobre los Cardenales de San Luis y por 9 juegos y medio sobre los Mets de Nueva York. Después del juego del 2 de septiembre, el récord de los Cachorros fue 84-52 con los Mets en el segundo lugar con 77-55. Pero entonces comenzó una racha perdedora justo cuando los Mets ganaban la racha. Los Cachorros perdieron el juego final de una serie en Cincinnati, luego llegaron a casa para jugar los resurgentes Piratas de Pittsburgh (que terminarían en tercer lugar). Después de perder los dos primeros juegos por marcador de 9-2 y 13-4, los Cubs entraron en la novena entrada. Una victoria sería un trampolín positivo ya que los Cubs jugarían una serie crucial con los Mets al día siguiente. Pero Willie Stargell perforó un lanzamiento de 2 outs y 2 golpes desde el relevista de los Cubs, Phil Regan, en la Avenida Sheffield para empatar el marcador en la parte superior de la novena entrada. Los Cubs perdieron 7-5 en extra innings. Agobiados por una racha perdedora de cuatro juegos, los Cubs viajaron al Shea Stadium para un corto set de dos juegos. Los Mets ganaron ambos juegos, y los Cubs dejaron Nueva York con un récord de 84-58 sólo 1 / 2 juego delante. El desastre siguió en Filadelfia, donde un equipo de los Filis con 99 derrotas derrotó a los Cachorros dos veces, para extender la racha perdedora de Chicago a ocho partidos. En un juego clave en el segundo juego, el 11 de septiembre, el abridor de los Cachorros Dick Selma lanzó un intento sorpresa al tercera base Ron Santo, que no estaba cerca de la bolsa o la pelota. El error de lanzamiento de Selma abrió las puertas a un mitin de los Filis. Después de esa segunda derrota de Philly, los Cubs fueron 84-60 y los Mets 85-57. Los Mets no mirarían atrás. La racha perdedora de ocho juegos de los Cubs finalmente terminó al día siguiente en St. Louis, pero los Mets estaban en medio de una racha de diez juegos ganados, y los Cubs, marchándose de la fatiga del equipo. Los Mets (que habían perdido un récord de 120 juegos 7 años antes), irían a ganar la Serie Mundial. Los Cachorros, a pesar de un respetable récord de 92-70, serían recordados por haber perdido 17 ½ juegos notables en la clasificación ante los Mets en el último cuarto de la temporada.",
+      "question": "¿Por qué serían recordados los Cachorros en el último cuarto de la temporada?",
+      "choices": [
+        {
+          "text": "una racha de diez juegos ganados",
+          "start": 2111,
+          "end": 2143,
+          "type": "distractor"
+        },
+        {
+          "text": "perder los dos primeros juegos por marcador de 9-2 y 13-4",
+          "start": 738,
+          "end": 795,
+          "type": "distractor"
+        },
+        {
+          "text": "una racha perdedora de cuatro juegos",
+          "start": 1208,
+          "end": 1244,
+          "type": "distractor"
+        },
+        {
+          "text": "la racha perdedora de ocho juegos",
+          "start": 1981,
+          "end": 2014,
+          "type": "distractor"
+        },
+        {
+          "text": "haber perdido 17 ½ juegos notables en la clasificación",
+          "start": 2373,
+          "end": 2427,
+          "type": "correct answer"
+        }
+      ]
+    },
+    {
+      "context": "Las pruebas de regresión se centran en encontrar defectos después de haber ocurrido un cambio de código importante. Específicamente, busca descubrir regresiones de software, como características degradadas o perdidas, incluyendo errores antiguos que han vuelto. Tales regresiones ocurren cuando la funcionalidad de software que anteriormente funcionaba correctamente, deja de funcionar como se pretendía. Típicamente, las regresiones ocurren como una consecuencia no deseada de los cambios de programa, cuando la parte recién desarrollada del software choca con el código previamente existente. Los métodos comunes de las pruebas de regresión incluyen volver a ejecutar conjuntos anteriores de casos de prueba y comprobar si las fallas previamente fijas han vuelto a surgir. La profundidad de las pruebas depende de la fase en el proceso de lanzamiento y el riesgo de las características añadidas. Pueden estar completos, por cambios añadidos al final del lanzamiento o ser considerados riesgosos, o ser muy superficiales, consistiendo en pruebas positivas en cada función, si los cambios son tempranos en el lanzamiento o se consideran de bajo riesgo. Las pruebas de regresión son típicamente el mayor esfuerzo de prueba en el desarrollo de software comercial, debido a la comprobación de numerosos detalles en características de software anteriores, e incluso un nuevo software puede ser desarrollado para probar partes del nuevo diseño.",
+      "question": "¿Cuál es el objetivo principal de las pruebas de regresión?",
+      "choices": [
+        {
+          "text": "encontrar defectos después de haber ocurrido un cambio de código importante",
+          "start": 39,
+          "end": 114,
+          "type": "correct answer"
+        },
+        {
+          "text": "ser desarrollado para probar partes del nuevo diseño",
+          "start": 1386,
+          "end": 1438,
+          "type": "distractor"
+        },
+        {
+          "text": "ejecutar conjuntos anteriores de casos de prueba",
+          "start": 661,
+          "end": 709,
+          "type": "distractor"
+        },
+        {
+          "text": "comprobar si las fallas previamente fijas han vuelto a surgir",
+          "start": 712,
+          "end": 773,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Las logias americanas más antiguas conocidas estaban en Pensilvania. El Coleccionista para el puerto de Pensilvania, John Moore, escribió sobre asistir a logias allí en 1715, dos años antes de la formación de la primera Gran Logia en Londres. La Gran Logia Premier de Inglaterra nombró un Gran Maestro Provincial para América del Norte en 1731, con sede en Pensilvania. Otras logias en la colonia obtuvieron autorizaciones de la posterior Gran Logia Antigua de Inglaterra, la Gran Logia de Escocia y la Gran Logia de Irlanda, que estaba particularmente bien representada en las logias de viaje del ejército británico. Muchas logias llegaron a existir sin ninguna orden judicial de ninguna Gran Logia, solicitando y pagando su autorización sólo después de que estuvieran seguros de su propia supervivencia.",
+      "question": "¿Cuál logia fue la que asignó a un Gran Maestro Provincial que tendría su sede en Pensilvania?",
+      "choices": [
+        {
+          "text": "Gran Logia Premier de Inglaterra",
+          "start": 246,
+          "end": 278,
+          "type": "correct answer"
+        },
+        {
+          "text": "Gran Logia en Londres",
+          "start": 220,
+          "end": 241,
+          "type": "distractor"
+        },
+        {
+          "text": "Gran Logia Antigua de Inglaterra",
+          "start": 439,
+          "end": 471,
+          "type": "distractor"
+        },
+        {
+          "text": "Gran Logia de Escocia",
+          "start": 476,
+          "end": 497,
+          "type": "distractor"
+        },
+        {
+          "text": "Gran Logia de Irlanda",
+          "start": 503,
+          "end": 524,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "Convencionalmente, las lenguas iranias se agrupan en ramas \"occidental\" y \"oriental\". Estos términos tienen poco significado con respecto al avéstico antiguo ya que esa etapa de la lengua puede preceder a la colonización de los pueblos iraníes en grupos occidentales y orientales. Los términos geográficos también tienen poco significado cuando se aplican al avéstico joven ya que no se sabe dónde se habló ese dialecto (o dialectos). Es cierto que el avéstico (todas las formas) y el persa antiguo son distintos, y como el persa antiguo es \"occidental\", y el avéstico no era persa antiguo, Avestan adquirió una asignación por defecto al \"este\". Confusa la cuestión es la introducción de un sustrato occidental iraní en composiciones posteriores avésticas y redacciones emprendidas en los centros del poder imperial en el oeste de Irán (ya sea en el suroeste de Persia, o en el noroeste de Ecbatana.",
+      "question": "¿Por qué los términos \"occidental\" y \"oriental\" tienen poco significado en relación con el avéstico antiguo?",
+      "choices": [
+        {
+          "text": "la introducción de un sustrato occidental iraní en composiciones posteriores avésticas",
+          "start": 669,
+          "end": 755,
+          "type": "distractor"
+        },
+        {
+          "text": "redacciones emprendidas en los centros del poder imperial en el oeste de Irán",
+          "start": 758,
+          "end": 835,
+          "type": "distractor"
+        },
+        {
+          "text": "esa etapa de la lengua puede preceder a la colonización de los pueblos iraníes en grupos occidentales y orientales",
+          "start": 165,
+          "end": 279,
+          "type": "correct answer"
+        }
+      ]
+    },
+    {
+      "context": "Aunque los primeros éxitos de Kim lo habían llevado a predecir que terminaría la guerra a finales de agosto, los líderes chinos eran más pesimistas. Para contrarrestar un posible despliegue estadounidense, Zhou Enlai aseguró un compromiso soviético para que la Unión Soviética apoyara a las fuerzas chinas con cobertura aérea, y desplegó 260.000 soldados a lo largo de la frontera coreana, bajo el mando de Gao Gang. Zhou ordenó a Chai Chengwen realizar un estudio topográfico de Corea, y dirigió a Lei Yingfu, asesor militar de Zhou en Corea, para analizar la situación militar en Corea. Lei concluyó que MacArthur muy probablemente intentaría un aterrizaje en Incheon. Después de conferir con Mao que esta sería la estrategia más probable de MacArthur, Zhou informó a los asesores soviéticos y norcoreanos de los hallazgos de Lei, y emitió órdenes a los comandantes del ejército chino desplegados en la frontera coreana para prepararse.",
+      "question": "¿Qué aseguró Zhou Enlai para contrarrestar un posible despliegue estadounidense?",
+      "choices": [
+        {
+          "text": "un compromiso soviético",
+          "start": 225,
+          "end": 248,
+          "type": "correct answer"
+        },
+        {
+          "text": "un estudio topográfico",
+          "start": 454,
+          "end": 476,
+          "type": "distractor"
+        },
+        {
+          "text": "asesores soviéticos y norcoreanos",
+          "start": 774,
+          "end": 807,
+          "type": "distractor"
+        },
+        {
+          "text": "órdenes a los comandantes del ejército chino",
+          "start": 842,
+          "end": 886,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "La franquicia fue creada en 1997 como una serie de mascotas virtuales, similares e influenciados en el estilo por los juguetes contemporáneos Tamagotchi o nano Giga Pet. Las criaturas fueron diseñadas para parecer lindas e icónicas incluso en las pequeñas pantallas de los dispositivos; Los desarrollos posteriores los crearon con un estilo de bordes más duros influenciado por los cómics estadounidenses. La franquicia ganó impulso con su primera encarnación de anime, Digimon Adventure, y un primer videojuego, Digimon World, ambos lanzados en 1999. Varias temporadas del anime y películas basadas en ellos se han emitido, y la serie de videojuegos se ha expandido en géneros como el rol, las carreras, la lucha y los MMORPG. También se han publicado otros medios.",
+      "question": "¿Cuál fue el primer videojuego de la franquicia?",
+      "choices": [
+        {
+          "text": "Digimon World",
+          "start": 513,
+          "end": 526,
+          "type": "correct answer"
+        },
+        {
+          "text": "Digimon Adventure",
+          "start": 470,
+          "end": 487,
+          "type": "distractor"
+        },
+        {
+          "text": "Tamagotchi",
+          "start": 142,
+          "end": 152,
+          "type": "distractor"
+        },
+        {
+          "text": "Giga Pet",
+          "start": 160,
+          "end": 168,
+          "type": "distractor"
+        }
+      ]
+    },
+    {
+      "context": "En el siglo XIII, las órdenes mendicantes - los franciscanos y los dominicos - que juraron votos de pobreza y se ganaban la vida pidiendo, fueron aprobadas por el papado. Grupos religiosos como los valdenses y los humiliati también intentaron regresar a la vida del cristianismo primitivo a mediados del siglo XII y principios del XIII, pero fueron condenados como heréticos por el papado. Otros se unieron a los cátaros, otro movimiento herético condenado por el papado. En 1209, una cruzada fue predicada contra los cátaros, la cruzada albigense, que en combinación con la Inquisición medieval, los eliminó.",
+      "question": "¿En contra de qué grupo fue predicada la cruzada albigense?",
+      "choices": [
+        {
+          "text": "los franciscanos",
+          "start": 44,
+          "end": 60,
+          "type": "distractor"
+        },
+        {
+          "text": "los valdenses",
+          "start": 194,
+          "end": 207,
+          "type": "distractor"
+        },
+        {
+          "text": "los humiliati",
+          "start": 210,
+          "end": 223,
+          "type": "distractor"
+        },
+        {
+          "text": "los dominicos",
+          "start": 63,
+          "end": 76,
+          "type": "distractor"
+        },
+        {
+          "text": "los cátaros",
+          "start": 514,
+          "end": 525,
+          "type": "correct answer"
+        }
+      ]
+    }
+  ]
+}
