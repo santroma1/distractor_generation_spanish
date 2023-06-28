@@ -1,0 +1,12 @@
+,test
+# of texts,48
+# of MCQs,50
+# of D,3.20 +- 0.75
+Len(Text),158.18 +- 60.75
+Max(Text),449.0
+Len(A),4.76 +- 4.37
+Max(A),19.0
+Len(D),4.08 +- 3.46
+Max(D),17
+|Len(A) - Len(D)|,1.85 +- 2.00
+Max(|Len(A) - Len(D)|),8.0

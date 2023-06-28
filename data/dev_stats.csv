@@ -1,0 +1,12 @@
+,dev
+# of texts,95
+# of MCQs,95
+# of D,3.23 +- 0.69
+Len(Text),158.45 +- 49.53
+Max(Text),297.0
+Len(A),5.45 +- 4.70
+Max(A),22.0
+Len(D),5.62 +- 5.53
+Max(D),32
+|Len(A) - Len(D)|,2.08 +- 2.52
+Max(|Len(A) - Len(D)|),10.333333333333334

@@ -1,0 +1,12 @@
+,train
+# of texts,810
+# of MCQs,835
+# of D,3.16 +- 0.74
+Len(Text),158.21 +- 54.86
+Max(Text),453.0
+Len(A),4.36 +- 4.49
+Max(A),26.0
+Len(D),4.59 +- 4.97
+Max(D),43
+|Len(A) - Len(D)|,1.69 +- 2.28
+Max(|Len(A) - Len(D)|),16.666666666666668
