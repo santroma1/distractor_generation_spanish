@@ -5,6 +5,7 @@ matplotlib
 terminaltables
 scipy
 udon2
+pandas
 stanza
 transformers[torch]
 tensorboardX
