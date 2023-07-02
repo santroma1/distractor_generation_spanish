@@ -46,7 +46,7 @@ class DistractorDataset(GenericDataset):
 
 
 class TokenizeTransform(GenericDataset):
-    def __init__(self, dataset, tokenizer, max_context_length=384, return_ids=True):
+    def __init__(self, dataset, tokenizer, max_context_length=350, return_ids=True):
         super().__init__()
         self.__tok = tokenizer
         self.__max_context_length = max_context_length
@@ -162,6 +162,7 @@ class AutoregressiveTransform(GenericDataset):
             inp["input_ids"].append(tok.sep_token_id)
             Nc = len(dp["correct"]) + 1
             part = [1] * Nc
+            # print(inp)
             inp["token_type_ids"].extend(part)
             inp["attention_mask"].extend([1] * Nc)
             input_ids = list(inp["input_ids"])
