@@ -97,6 +97,7 @@ if __name__ == '__main__':
     parser.add_argument('-od', '--output-dir', type=str, required=True, help="Output dir for Data")
     parser.add_argument('-t', '--training-data', type=str, default="", help="Training data file")
     parser.add_argument('-pr', '--pretrained', type=str, default="KB/bert-base-swedish-cased", help="pre-trained from HIggingFace")
+    parser.add_argument('-lg', '--language', type=str, default="sv", help="Language for the dependency trees")
     args = parser.parse_args()
 
     model_name = args.file[7:12]
@@ -110,7 +111,7 @@ if __name__ == '__main__':
 
     SPECIAL_TOKENS_REGEX = r"(\[SEP\]|\[[A-Z]\]|')"
 
-    sv = stanza.Pipeline(lang="sv", processors='tokenize,lemma,pos,depparse')
+    sv = stanza.Pipeline(lang=args.language, processors='tokenize,lemma,pos,depparse')
     so_kernel = ConvPartialTreeKernel("GRCT", includeForm=False)
     so_feats_kernel = ConvPartialTreeKernel("GRCT", includeForm=False, includeFeats=True)
 
