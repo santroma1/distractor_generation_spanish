@@ -8,25 +8,29 @@
           "text": "Carta de Derechos",
           "start": 370,
           "end": 387,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Constitución",
           "start": 352,
           "end": 364,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Declaración de Independencia",
           "start": 319,
           "end": 347,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Carta Magna",
           "start": 421,
           "end": 432,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     },
@@ -38,25 +42,29 @@
           "text": "Chipre",
           "start": 175,
           "end": 181,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la Edad del Bronce de la Grecia",
           "start": 293,
           "end": 324,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Afrodita y Adonis",
           "start": 530,
           "end": 547,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Larnaca y Salamina",
           "start": 676,
           "end": 694,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -68,25 +76,29 @@
           "text": "una gran estrategia de apoderarse de todo el Imperio francés",
           "start": 214,
           "end": 274,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "una gran visión de la guerra",
           "start": 55,
           "end": 83,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la Royal Navy, que podía controlar los mares y traer tantas tropas de invasión como fuera necesario",
           "start": 376,
           "end": 475,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "atar al ejército francés",
           "start": 650,
           "end": 674,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -98,25 +110,29 @@
           "text": "las fuerzas de la Unión capturaron Nueva Orleans",
           "start": 579,
           "end": 627,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Ulysses Grant tomó el río Mississippi y cortó el suroeste",
           "start": 710,
           "end": 767,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Grant tomó el mando de las fuerzas de la Unión",
           "start": 769,
           "end": 815,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "William T. Sherman capturó Atlanta y marchó a través de Georgia y las Carolinas",
           "start": 919,
           "end": 998,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -128,25 +144,29 @@
           "text": "pueden reducir enormemente la incidencia de artefactos",
           "start": 644,
           "end": 698,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "tenían el potencial de superar a sus contrapartes de LaserDisc",
           "start": 352,
           "end": 414,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "es inmune al proceso Macroblocking de vídeo",
           "start": 183,
           "end": 226,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "no hace uso de técnicas de compresión",
           "start": 144,
           "end": 181,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -158,31 +178,36 @@
           "text": "video analógico",
           "start": 67,
           "end": 82,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "técnicas de compresión",
           "start": 159,
           "end": 181,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "calidad de imagen",
           "start": 465,
           "end": 482,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "formato superior",
           "start": 854,
           "end": 870,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "codificadores patentados asistidos por humanos",
           "start": 558,
           "end": 604,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -194,19 +219,22 @@
           "text": "depresión post-natal",
           "start": 381,
           "end": 401,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "pérdida de autocontrol",
           "start": 501,
           "end": 523,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "dolor del parto",
           "start": 165,
           "end": 180,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     },
@@ -218,31 +246,36 @@
           "text": "el informe del IPCC ",
           "start": 570,
           "end": 590,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la reconstrucción del MBH99 en un artículo de revisión",
           "start": 716,
           "end": 770,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "comentarios sobre el gráfico Wibjörn Karlén y Singer",
           "start": 378,
           "end": 430,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el \"gráfico de palo de hockey\"",
           "start": 1006,
           "end": 1036,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "artículos de Stephen McIntyre y Ross McKitrick",
           "start": 1058,
           "end": 1104,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -254,19 +287,22 @@
           "text": "pavo real común",
           "start": 765,
           "end": 780,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "paloma",
           "start": 614,
           "end": 620,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "pájaro chullumpi",
           "start": 1185,
           "end": 1201,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     },
@@ -278,31 +314,36 @@
           "text": "próstata",
           "start": 488,
           "end": 496,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "hígado",
           "start": 274,
           "end": 280,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "esófago",
           "start": 255,
           "end": 262,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "pulmones",
           "start": 264,
           "end": 272,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "páncreas",
           "start": 282,
           "end": 290,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -314,31 +355,36 @@
           "text": "37,4%",
           "start": 960,
           "end": 965,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "15,2%",
           "start": 467,
           "end": 472,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "3,3%",
           "start": 592,
           "end": 596,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "25%",
           "start": 181,
           "end": 184,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "51%",
           "start": 51,
           "end": 54,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -350,31 +396,36 @@
           "text": "disposición de las necesidades del gobierno colonial",
           "start": 1273,
           "end": 1325,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "uso sistemático del trabajo infantil",
           "start": 3,
           "end": 39,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "modos tradicionales de producción ordenados por monedas",
           "start": 159,
           "end": 214,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "plantaciones agrícolas coloniales, minas e industrias de servicios domésticos",
           "start": 325,
           "end": 402,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "propiedad legal de algunas de las tierras nativas",
           "start": 1174,
           "end": 1223,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -386,31 +437,36 @@
           "text": "el trabajo infantil",
           "start": 31,
           "end": 50,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la educación de las niñas",
           "start": 656,
           "end": 681,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las pequeñas empresas hogareñas",
           "start": 405,
           "end": 436,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la economía informal",
           "start": 382,
           "end": 402,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la historia europea",
           "start": 3,
           "end": 22,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -422,25 +478,29 @@
           "text": "los precios se mantuvieron bajos para asegurar la adopción",
           "start": 549,
           "end": 607,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la disponibilidad de numerosos títulos no disponibles en VHS",
           "start": 925,
           "end": 985,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "su alta integración con el mercado japonés de exportación y las condiciones endémicas húmedas",
           "start": 1171,
           "end": 1264,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la calidad de audio y video superior en comparación con las cintas VHS y Betamax",
           "start": 314,
           "end": 394,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -452,25 +512,29 @@
           "text": "las plantas con flores",
           "start": 119,
           "end": 141,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "las avispas",
           "start": 708,
           "end": 715,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las abejas",
           "start": 888,
           "end": 894,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el polen",
           "start": 660,
           "end": 665,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -482,25 +546,29 @@
           "text": "Estados Unidos",
           "start": 871,
           "end": 885,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Gran Bretaña",
           "start": 284,
           "end": 296,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Francia",
           "start": 298,
           "end": 305,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Libia",
           "start": 34,
           "end": 39,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -512,31 +580,36 @@
           "text": "presión de vapor",
           "start": 238,
           "end": 254,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "evaporación",
           "start": 3,
           "end": 14,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "sublimación",
           "start": 17,
           "end": 28,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "superficies más frías cercanas",
           "start": 432,
           "end": 462,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el vacío alcanzable",
           "start": 356,
           "end": 375,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -548,25 +621,29 @@
           "text": "la masacre de Geochang",
           "start": 221,
           "end": 243,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la masacre de Sancheong-Hamyang",
           "start": 246,
           "end": 277,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la victoria inicial en Hoengseong",
           "start": 363,
           "end": 396,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el Gettysburg de la Guerra de Corea",
           "start": 695,
           "end": 730,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     },
@@ -578,31 +655,36 @@
           "text": "ritmos cardíacos anormales",
           "start": 531,
           "end": 557,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "fibrilación auricular",
           "start": 725,
           "end": 746,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "aneurisma del miocardio ventrículo izquierdo",
           "start": 324,
           "end": 368,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "ruptura septal ventricular",
           "start": 370,
           "end": 396,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "síndrome de Dressler",
           "start": 508,
           "end": 528,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -614,25 +696,29 @@
           "text": "su pequeño tamaño",
           "start": 93,
           "end": 110,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "corto tiempo de generación",
           "start": 112,
           "end": 138,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "alta fecundidad",
           "start": 141,
           "end": 156,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "70% del genoma de la mosca es similar al genoma humano",
           "start": 877,
           "end": 931,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     },
@@ -644,25 +730,29 @@
           "text": "el Reino de Gajapati",
           "start": 1020,
           "end": 1040,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el Reino de Ahom",
           "start": 1094,
           "end": 1110,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el Sultanato Bahmani",
           "start": 496,
           "end": 516,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el Sultanato de Delhi",
           "start": 111,
           "end": 132,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -674,25 +764,29 @@
           "text": "angiosperma",
           "start": 887,
           "end": 898,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "dicotiledóneas",
           "start": 860,
           "end": 874,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "gimnospermas",
           "start": 230,
           "end": 242,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "frutos aceniales",
           "start": 269,
           "end": 285,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -704,31 +798,36 @@
           "text": "melatonina",
           "start": 681,
           "end": 691,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "citotóxicas células asesinas naturales",
           "start": 88,
           "end": 126,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "linfocitos T citotóxicos",
           "start": 139,
           "end": 163,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "cortisol ",
           "start": 322,
           "end": 331,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "catecolaminas",
           "start": 333,
           "end": 346,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -740,19 +839,22 @@
           "text": "uranio-238",
           "start": 496,
           "end": 506,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "uranio-233",
           "start": 374,
           "end": 384,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "uranio-235",
           "start": 604,
           "end": 614,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -764,31 +866,36 @@
           "text": "invasión anfibia muy por detrás de las líneas del frente en Inchon",
           "start": 460,
           "end": 526,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "una serie de ataques sorpresa que enviaron a las fuerzas de la ONU de nuevo",
           "start": 788,
           "end": 863,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "una estrategia de Rollback para unificar Corea",
           "start": 902,
           "end": 948,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "una política de contención para dividir el país",
           "start": 998,
           "end": 1045,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "amenazó a China con armas nucleares",
           "start": 1284,
           "end": 1319,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -800,19 +907,22 @@
           "text": "Alemania",
           "start": 338,
           "end": 346,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Gran Bretaña",
           "start": 617,
           "end": 629,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Francia",
           "start": 632,
           "end": 639,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -824,31 +934,36 @@
           "text": "la Biblioteca Central Estatal",
           "start": 480,
           "end": 509,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la Academia Urdu",
           "start": 269,
           "end": 285,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la Academia Sahitya",
           "start": 248,
           "end": 267,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la Asociación de Literatura Comparada de India",
           "start": 364,
           "end": 410,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la Biblioteca Nacional de Sri Krishna Devaraya",
           "start": 623,
           "end": 669,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -860,31 +975,36 @@
           "text": "7,6%",
           "start": 175,
           "end": 179,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "19,4%",
           "start": 120,
           "end": 125,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "15,2%",
           "start": 137,
           "end": 142,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "13,7%",
           "start": 161,
           "end": 166,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "31,8%",
           "start": 104,
           "end": 109,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -896,25 +1016,29 @@
           "text": "Xbox 360",
           "start": 45,
           "end": 53,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Xbox 360 S",
           "start": 390,
           "end": 400,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Xbox 360 E",
           "start": 415,
           "end": 425,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Xbox One",
           "start": 909,
           "end": 917,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -926,19 +1050,22 @@
           "text": "PS3",
           "start": 89,
           "end": 92,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Xbox 360",
           "start": 142,
           "end": 150,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Wii",
           "start": 153,
           "end": 156,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -950,31 +1077,36 @@
           "text": "campesinos de Ucrania",
           "start": 226,
           "end": 247,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las tropas del zar",
           "start": 985,
           "end": 1003,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "guerreros organizados en comunidades militares, pareciendo piratas y pioneros del Nuevo Mundo",
           "start": 118,
           "end": 211,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "las rutas fluviales siberianas",
           "start": 1301,
           "end": 1331,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "asentamientos rusos en la Siberia oriental",
           "start": 1367,
           "end": 1409,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -986,31 +1118,36 @@
           "text": "26,93%",
           "start": 223,
           "end": 229,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "71%",
           "start": 68,
           "end": 71,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "38,21%",
           "start": 170,
           "end": 176,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "2%",
           "start": 368,
           "end": 370,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "12%",
           "start": 480,
           "end": 483,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1022,31 +1159,36 @@
           "text": "Evanston College for Ladies",
           "start": 715,
           "end": 742,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Old College",
           "start": 243,
           "end": 254,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "University Hall",
           "start": 468,
           "end": 483,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Woman 's Christian Temperance Union",
           "start": 868,
           "end": 903,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Willard Residential College",
           "start": 943,
           "end": 970,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1058,31 +1200,36 @@
           "text": "eslovaco",
           "start": 363,
           "end": 371,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "silesio",
           "start": 490,
           "end": 497,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "polaco",
           "start": 503,
           "end": 509,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "alemán",
           "start": 226,
           "end": 232,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "latín",
           "start": 215,
           "end": 220,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1094,25 +1241,29 @@
           "text": "Nashville",
           "start": 677,
           "end": 686,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Memphis",
           "start": 176,
           "end": 183,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Bristol",
           "start": 549,
           "end": 556,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Rockabilly",
           "start": 991,
           "end": 1001,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1124,19 +1275,22 @@
           "text": "dinastía Xin",
           "start": 591,
           "end": 603,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "dinastía Qin",
           "start": 129,
           "end": 141,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "dinastía Han",
           "start": 3,
           "end": 15,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1148,31 +1302,36 @@
           "text": "el valle del Rin",
           "start": 579,
           "end": 592,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Escandinavia",
           "start": 388,
           "end": 400,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Escocia",
           "start": 423,
           "end": 430,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los países bálticos",
           "start": 402,
           "end": 421,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los Alpes",
           "start": 433,
           "end": 442,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1184,19 +1343,22 @@
           "text": "ADNt",
           "start": 205,
           "end": 209,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "ADNmt",
           "start": 230,
           "end": 235,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "ADN-Y",
           "start": 258,
           "end": 263,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1208,19 +1370,22 @@
           "text": "muestra el linaje masculino sólo a lo largo de su línea estrictamente paterna",
           "start": 347,
           "end": 424,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "muestra el linaje de cualquier persona solo a lo largo",
           "start": 435,
           "end": 489,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "es una mezcla de toda la ascendencia de un individuo",
           "start": 284,
           "end": 336,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1232,19 +1397,22 @@
           "text": "los tribunales de magistrados, situados en la mayoría de las ciudades de todo el país",
           "start": 77,
           "end": 162,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "tribunales de distrito, que sirven tanto como tribunales de apelación y tribunales de primera instancia",
           "start": 188,
           "end": 291,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el Tribunal Supremo, ubicado en Jerusalén",
           "start": 380,
           "end": 421,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1256,25 +1424,29 @@
           "text": "ASCII",
           "start": 25,
           "end": 30,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "CCITT",
           "start": 734,
           "end": 739,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "ITA2",
           "start": 781,
           "end": 785,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "EBCDIC",
           "start": 821,
           "end": 827,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1286,25 +1458,29 @@
           "text": "almacenamiento de disco duro expandido",
           "start": 777,
           "end": 815,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "jugar juegos online",
           "start": 279,
           "end": 298,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "comprar y transmitir música",
           "start": 367,
           "end": 394,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "acceder a servicios de contenido de terceros",
           "start": 487,
           "end": 531,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1316,25 +1492,29 @@
           "text": "aceptar los malos activos como garantía a largo plazo",
           "start": 304,
           "end": 357,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "comprar los activos más débiles",
           "start": 198,
           "end": 229,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "vender activos altamente valorados",
           "start": 140,
           "end": 174,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "mejorar el valor percibido de los activos",
           "start": 599,
           "end": 640,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1346,31 +1526,36 @@
           "text": "una racha de diez juegos ganados",
           "start": 2111,
           "end": 2143,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "perder los dos primeros juegos por marcador de 9-2 y 13-4",
           "start": 738,
           "end": 795,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "una racha perdedora de cuatro juegos",
           "start": 1208,
           "end": 1244,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la racha perdedora de ocho juegos",
           "start": 1981,
           "end": 2014,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "haber perdido 17 ½ juegos notables en la clasificación",
           "start": 2373,
           "end": 2427,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     },
@@ -1382,25 +1567,29 @@
           "text": "encontrar defectos después de haber ocurrido un cambio de código importante",
           "start": 39,
           "end": 114,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "ser desarrollado para probar partes del nuevo diseño",
           "start": 1386,
           "end": 1438,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "ejecutar conjuntos anteriores de casos de prueba",
           "start": 661,
           "end": 709,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "comprobar si las fallas previamente fijas han vuelto a surgir",
           "start": 712,
           "end": 773,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1412,31 +1601,36 @@
           "text": "Gran Logia Premier de Inglaterra",
           "start": 246,
           "end": 278,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Gran Logia en Londres",
           "start": 220,
           "end": 241,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Gran Logia Antigua de Inglaterra",
           "start": 439,
           "end": 471,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Gran Logia de Escocia",
           "start": 476,
           "end": 497,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Gran Logia de Irlanda",
           "start": 503,
           "end": 524,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1448,19 +1642,22 @@
           "text": "la introducción de un sustrato occidental iraní en composiciones posteriores avésticas",
           "start": 669,
           "end": 755,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "redacciones emprendidas en los centros del poder imperial en el oeste de Irán",
           "start": 758,
           "end": 835,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "esa etapa de la lengua puede preceder a la colonización de los pueblos iraníes en grupos occidentales y orientales",
           "start": 165,
           "end": 279,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     },
@@ -1472,25 +1669,29 @@
           "text": "un compromiso soviético",
           "start": 225,
           "end": 248,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "un estudio topográfico",
           "start": 454,
           "end": 476,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "asesores soviéticos y norcoreanos",
           "start": 774,
           "end": 807,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "órdenes a los comandantes del ejército chino",
           "start": 842,
           "end": 886,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1502,25 +1703,29 @@
           "text": "Digimon World",
           "start": 513,
           "end": 526,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Digimon Adventure",
           "start": 470,
           "end": 487,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Tamagotchi",
           "start": 142,
           "end": 152,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Giga Pet",
           "start": 160,
           "end": 168,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1532,31 +1737,36 @@
           "text": "los franciscanos",
           "start": 44,
           "end": 60,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los valdenses",
           "start": 194,
           "end": 207,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los humiliati",
           "start": 210,
           "end": 223,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los dominicos",
           "start": 63,
           "end": 76,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los cátaros",
           "start": 514,
           "end": 525,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     }

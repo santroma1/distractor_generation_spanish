@@ -8,31 +8,36 @@
           "text": "Yasuzo Takemoto",
           "start": 508,
           "end": 523,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Mahito Yokota",
           "start": 382,
           "end": 395,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Koji Kondo",
           "start": 67,
           "end": 77,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Toru Minegishi",
           "start": 34,
           "end": 48,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Asuka Ohta",
           "start": 51,
           "end": 61,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -44,25 +49,29 @@
           "text": "ocurre cuando los anticuerpos se unen a antígenos en las propias células del paciente",
           "start": 582,
           "end": 667,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "es una reacción inmediata o anafiláctica, a menudo asociada con la alergia",
           "start": 249,
           "end": 323,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "es mediada por la IgE, que desencadena la degranulación de las células del mástil y los basófilos cuando son entrecruzados por el antígeno",
           "start": 410,
           "end": 548,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "son mediadas por células T, monocitos y macrófagos",
           "start": 1353,
           "end": 1403,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -74,19 +83,22 @@
           "text": "Eduard Ahrens",
           "start": 79,
           "end": 92,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Bengt Gottfried Forselius",
           "start": 231,
           "end": 256,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Johann Hornung",
           "start": 259,
           "end": 273,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -98,25 +110,29 @@
           "text": "fue el primero en reconocer el gas hidrógeno como una sustancia discreta",
           "start": 187,
           "end": 259,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "le dio al elemento el nombre de hidrógeno",
           "start": 596,
           "end": 637,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "él y Laplace produjeron agua",
           "start": 724,
           "end": 752,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "describió la reacción entre las limaduras de hierro y los ácidos diluidos",
           "start": 34,
           "end": 107,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -128,25 +144,29 @@
           "text": "siete",
           "start": 225,
           "end": 230,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "cinco",
           "start": 103,
           "end": 108,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "veinticinco",
           "start": 119,
           "end": 130,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "treinta",
           "start": 582,
           "end": 589,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -158,31 +178,36 @@
           "text": "Boo Radley",
           "start": 1060,
           "end": 1070,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Scout",
           "start": 782,
           "end": 787,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Dill",
           "start": 461,
           "end": 465,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Tom Robinson",
           "start": 243,
           "end": 255,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Atticus",
           "start": 799,
           "end": 806,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -194,25 +219,29 @@
           "text": "20 enmiendas constitucionales radicales que proporcionarían un marco actualizado en el que se basaría el país",
           "start": 147,
           "end": 256,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "un cuerpo de 22 miembros formado por representantes electos de seis repúblicas y dos provincias autónomas",
           "start": 309,
           "end": 414,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la autoridad sólo sobre asuntos exteriores, defensa, seguridad interna, asuntos monetarios, libre comercio dentro de Yugoslavia y préstamos de desarrollo a regiones más pobres",
           "start": 1016,
           "end": 1192,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "un gabinete más fuerte con un poder considerable para iniciar y perseguir la legislatura independientemente del Partido Comunista",
           "start": 690,
           "end": 820,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -224,31 +253,36 @@
           "text": "el rey estaba aumentando el conflicto",
           "start": 778,
           "end": 815,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "convertirse en un cruzado",
           "start": 846,
           "end": 871,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "protección política adicional bajo la ley de la iglesia",
           "start": 898,
           "end": 953,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "presionar a los barones",
           "start": 510,
           "end": 533,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "controlar a Stephen Langton, el arzobispo de Canterbury",
           "start": 567,
           "end": 621,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -260,31 +294,36 @@
           "text": "2007",
           "start": 60,
           "end": 64,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "2006",
           "start": 488,
           "end": 492,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "1999",
           "start": 254,
           "end": 258,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "2000",
           "start": 440,
           "end": 444,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "2001",
           "start": 219,
           "end": 223,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -296,25 +335,29 @@
           "text": "Irlanda del Norte",
           "start": 393,
           "end": 410,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Gales",
           "start": 257,
           "end": 262,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Escocia",
           "start": 248,
           "end": 255,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Reino Unido",
           "start": 12,
           "end": 23,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -326,31 +369,36 @@
           "text": "alguien que nació de una madre judía",
           "start": 90,
           "end": 126,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "se convierte al judaísmo de acuerdo con la ley y la tradición judía",
           "start": 134,
           "end": 201,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la comprensión histórica de la identidad judía",
           "start": 30,
           "end": 76,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la descendencia patrilineal",
           "start": 224,
           "end": 251,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los matrimonios mixtos",
           "start": 370,
           "end": 392,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     },
@@ -362,31 +410,36 @@
           "text": "M18",
           "start": 616,
           "end": 619,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "M67",
           "start": 591,
           "end": 594,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "M9",
           "start": 361,
           "end": 363,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "M11",
           "start": 403,
           "end": 406,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "M16",
           "start": 193,
           "end": 196,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -398,25 +451,29 @@
           "text": "los problemas culturales y de carrera en la Fuerza Aérea de los Estados Unidos",
           "start": 0,
           "end": 78,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "drones para proporcionar una cobertura de reloj",
           "start": 207,
           "end": 254,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la Guerra de Irak",
           "start": 295,
           "end": 312,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "un nuevo campo de carrera",
           "start": 336,
           "end": 361,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -428,31 +485,36 @@
           "text": "Eagle Eye",
           "start": 989,
           "end": 998,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Bridge of Spies",
           "start": 821,
           "end": 836,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "The Terminal",
           "start": 806,
           "end": 818,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Minority Report",
           "start": 890,
           "end": 905,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Saving Private Ryan",
           "start": 764,
           "end": 783,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -464,19 +526,22 @@
           "text": "la convolución con el filtro [-1 1]",
           "start": 707,
           "end": 742,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la predicción lineal para estimar el espectro de la señal",
           "start": 612,
           "end": 669,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "un duplicado digital exacto de la corriente de audio original",
           "start": 102,
           "end": 163,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -488,31 +553,36 @@
           "text": "fue una de las primeras corporaciones en proporcionar seguro de vida grupal",
           "start": 4,
           "end": 79,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "creó un Departamento de Educación para supervisar la formación de los empleados, que supervisó la finalización de la Escuela IBM en Endicott",
           "start": 164,
           "end": 304,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "celebró su primera clase de formación para profesionales de servicios de sistemas femeninos",
           "start": 386,
           "end": 477,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "lanzó un programa para entrenar y emplear personas discapacitadas",
           "start": 492,
           "end": 557,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la compañía contrató a su primer vendedor negro, 18 años antes de la Ley de Derechos Civiles",
           "start": 750,
           "end": 842,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -524,31 +594,36 @@
           "text": "$70 millones",
           "start": 626,
           "end": 638,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "$1,1 mil millones",
           "start": 702,
           "end": 719,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "$767 millones",
           "start": 751,
           "end": 764,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "$15 millones",
           "start": 604,
           "end": 616,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "$350 millones",
           "start": 425,
           "end": 438,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -560,19 +635,22 @@
           "text": "licenciatura",
           "start": 722,
           "end": 734,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "pregrado",
           "start": 356,
           "end": 364,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "postgrado doctoral",
           "start": 639,
           "end": 657,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -584,31 +662,36 @@
           "text": "Hawái",
           "start": 992,
           "end": 997,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Filipinas",
           "start": 929,
           "end": 938,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Puerto Rico",
           "start": 909,
           "end": 920,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Cuba",
           "start": 423,
           "end": 427,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Panamá",
           "start": 1316,
           "end": 1322,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -620,31 +703,36 @@
           "text": "las auxinas hormonas vegetales",
           "start": 737,
           "end": 767,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "los tejidos vegetales",
           "start": 201,
           "end": 222,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la transpiración",
           "start": 151,
           "end": 167,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las aberturas estomatales",
           "start": 317,
           "end": 342,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la velocidad de la fotosíntesis",
           "start": 346,
           "end": 377,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -656,19 +744,22 @@
           "text": "41%",
           "start": 507,
           "end": 510,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "68%",
           "start": 454,
           "end": 457,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "31%",
           "start": 397,
           "end": 400,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -680,19 +771,22 @@
           "text": "Königsberg pasó a llamarse Kaliningrado",
           "start": 448,
           "end": 487,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Prusia Oriental fue puesto bajo administración polaca",
           "start": 190,
           "end": 243,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la derrota de la Alemania nazi en la Segunda Guerra Mundial",
           "start": 5,
           "end": 64,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -704,25 +798,29 @@
           "text": "el acceso de los rus al mar Negro",
           "start": 847,
           "end": 880,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "las guerras entre los bizantinos y el Imperio búlgaro",
           "start": 372,
           "end": 425,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "más presión militar y económica sobre los jázaros",
           "start": 28,
           "end": 77,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la primera expedición a gran escala en 913",
           "start": 1087,
           "end": 1129,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -734,25 +832,29 @@
           "text": "cuchillos",
           "start": 532,
           "end": 541,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "clavos",
           "start": 467,
           "end": 473,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "herramientas",
           "start": 445,
           "end": 457,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "yunques",
           "start": 586,
           "end": 593,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -764,31 +866,36 @@
           "text": "el contrapeso",
           "start": 318,
           "end": 331,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "las ranuras de tracción",
           "start": 957,
           "end": 980,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la cabina",
           "start": 649,
           "end": 658,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los cables",
           "start": 798,
           "end": 808,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las gavillas",
           "start": 1418,
           "end": 1430,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -800,31 +907,36 @@
           "text": "2004",
           "start": 572,
           "end": 576,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "2007",
           "start": 679,
           "end": 683,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "2003",
           "start": 765,
           "end": 769,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "1977",
           "start": 120,
           "end": 124,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "1994",
           "start": 318,
           "end": 322,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -836,31 +948,36 @@
           "text": "un esperma hace su camino para fertilizar la célula ósea",
           "start": 828,
           "end": 884,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el tubo de polen crece, se abre camino desde el estigma, baja el estilo y entra en el ovario",
           "start": 503,
           "end": 595,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el tubo del polen alcanza la micropila del óvulo y digiere su camino hacia una de las sinérgicas",
           "start": 602,
           "end": 698,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "una célula generativa haploide viaja por el tubo detrás del núcleo del tubo",
           "start": 316,
           "end": 391,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "un grano de polen se adhiere al estigma del pistilo (estructura reproductiva femenina), germina y crece un largo tubo de polen",
           "start": 144,
           "end": 270,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -872,25 +989,29 @@
           "text": "Zipoetes I",
           "start": 278,
           "end": 288,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Seleuco I",
           "start": 341,
           "end": 350,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Nicomedes I",
           "start": 418,
           "end": 429,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Prusias I",
           "start": 638,
           "end": 647,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -902,25 +1023,29 @@
           "text": "las prácticas especulativas de construcción que han llenado la ciudad con edificios pobres",
           "start": 121,
           "end": 211,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la importancia reducida de la agricultura en la economía siciliana",
           "start": 213,
           "end": 279,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la rápida expansión hacia el norte",
           "start": 395,
           "end": 426,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la migración masiva a las ciudades, especialmente Palermo",
           "start": 297,
           "end": 351,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -932,25 +1057,29 @@
           "text": "un proceso por el cual el hombre fue educado en el uso de la razón",
           "start": 502,
           "end": 568,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la liberación del hombre de su tutela incurrida por sí mismo",
           "start": 608,
           "end": 668,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la incapacidad del hombre para hacer uso de su comprensión sin dirección de otro",
           "start": 685,
           "end": 765,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "una parte y una fase especial de todo ese desarrollo intelectual a través del cual el pensamiento filosófico moderno ganó su autoconfianza y autoconciencia característica",
           "start": 989,
           "end": 1159,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -962,25 +1091,29 @@
           "text": "Austin, Texas",
           "start": 119,
           "end": 132,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Lebanon, Tennessee",
           "start": 156,
           "end": 174,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Winston-Salem, Carolina del Norte",
           "start": 273,
           "end": 306,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Miami, Florida",
           "start": 749,
           "end": 763,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -992,25 +1125,29 @@
           "text": "un par de hombres la retuvieron a punta de cuchillo",
           "start": 621,
           "end": 672,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la primera vez que tomaba un avión",
           "start": 308,
           "end": 342,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "trabajó como camarera en Dunkin 'Donuts y con grupos de danza moderna",
           "start": 77,
           "end": 146,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "actuando con el Pear Lang Dance Theater",
           "start": 220,
           "end": 259,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1022,25 +1159,29 @@
           "text": "mayo",
           "start": 144,
           "end": 148,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "julio",
           "start": 459,
           "end": 464,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "agosto",
           "start": 467,
           "end": 473,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "junio",
           "start": 287,
           "end": 292,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1052,31 +1193,36 @@
           "text": "Claude Chevalley",
           "start": 872,
           "end": 888,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Walther von Dyck",
           "start": 166,
           "end": 182,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Camille Jordan",
           "start": 143,
           "end": 157,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Ferdinand Georg Frobenius",
           "start": 476,
           "end": 501,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Hermann Weyl",
           "start": 737,
           "end": 749,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1088,25 +1234,29 @@
           "text": "un guerrero",
           "start": 337,
           "end": 348,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "un ciervo",
           "start": 364,
           "end": 373,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "un toro salvaje",
           "start": 406,
           "end": 421,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "un gladiador",
           "start": 440,
           "end": 452,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1118,19 +1268,22 @@
           "text": "la fuga de capitales de 30 países subsaharianos ascendía a 187bn",
           "start": 88,
           "end": 152,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "los nuevos gobiernos a menudo confiscaron los activos obtenidos corruptamente",
           "start": 445,
           "end": 522,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las administraciones asiáticas como el Nuevo Orden de Suharto a menudo tomaban un recorte en las transacciones comerciales o proporcionaban condiciones para el desarrollo",
           "start": 690,
           "end": 860,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1142,31 +1295,36 @@
           "text": "el mundo",
           "start": 165,
           "end": 173,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el arco",
           "start": 728,
           "end": 735,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el germen",
           "start": 1235,
           "end": 1244,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "una taza",
           "start": 760,
           "end": 768,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la luz",
           "start": 1089,
           "end": 1092,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1178,25 +1336,29 @@
           "text": "las bacterias resistentes a los antibióticos",
           "start": 1236,
           "end": 1280,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las bacterias que son importantes en la función cotidiana de los seres humanos",
           "start": 934,
           "end": 1012,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los virus bacterianos que infectan a las bacterias al interrumpir los ciclos líticos de las bacterias patógenas",
           "start": 334,
           "end": 441,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el tratamiento de cepas de bacterias resistentes",
           "start": 59,
           "end": 107,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1208,31 +1370,36 @@
           "text": "había sido arrastrada a la esfera otoniana",
           "start": 1071,
           "end": 1113,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "estaba más fragmentado, y aunque los reyes permanecían nominalmente a cargo, gran parte del poder político se transfirió a los señores locales",
           "start": 1257,
           "end": 1399,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los sucesores de Alfredo habían conquistado Northumbria y restaurado el control inglés",
           "start": 360,
           "end": 446,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los esfuerzos de los reyes locales para luchar contra los invasores llevaron a la formación de nuevas entidades políticas",
           "start": 0,
           "end": 121,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la coronación en 962 de Otón I (r. 936-973) como emperador",
           "start": 759,
           "end": 817,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1244,31 +1411,36 @@
           "text": "una marca del caballero cultivado",
           "start": 82,
           "end": 115,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "un campo vivo de investigación",
           "start": 267,
           "end": 297,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "comentarios sociales y perspectivas psicológicas",
           "start": 1082,
           "end": 1130,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "antologías de la dinastía Qing",
           "start": 653,
           "end": 683,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las memorias informales",
           "start": 902,
           "end": 925,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1280,31 +1452,36 @@
           "text": "1910",
           "start": 705,
           "end": 709,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "1920",
           "start": 355,
           "end": 359,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "1948",
           "start": 443,
           "end": 447,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "1884",
           "start": 268,
           "end": 272,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "1878",
           "start": 606,
           "end": 610,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1316,31 +1493,36 @@
           "text": "la simplificación de caracteres",
           "start": 189,
           "end": 220,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la educación",
           "start": 427,
           "end": 439,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el Movimiento del Cuatro de Mayo",
           "start": 468,
           "end": 497,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la República Popular de China",
           "start": 134,
           "end": 163,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la alfabetización en China",
           "start": 847,
           "end": 873,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1352,31 +1534,36 @@
           "text": "un sistema de numeración de valor de lugar",
           "start": 660,
           "end": 702,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el ábaco",
           "start": 483,
           "end": 488,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las tablas de multiplicación en tablillas de arcilla",
           "start": 225,
           "end": 273,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el área de un triángulo",
           "start": 865,
           "end": 888,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el volumen de un cubo",
           "start": 891,
           "end": 912,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1388,19 +1575,22 @@
           "text": "la victoria por 3-0 sobre el Real Madrid",
           "start": 150,
           "end": 190,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el Barcelona venció al club inglés Arsenal",
           "start": 533,
           "end": 575,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la segunda victoria de Frank Rijkaard en el Bernabéu",
           "start": 196,
           "end": 248,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1412,25 +1602,29 @@
           "text": "baterías portátiles",
           "start": 98,
           "end": 117,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "computadoras portátiles",
           "start": 123,
           "end": 146,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "teléfonos inteligentes",
           "start": 401,
           "end": 423,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "tabletas",
           "start": 426,
           "end": 434,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1442,25 +1636,29 @@
           "text": "los estadounidenses",
           "start": 642,
           "end": 661,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los \"terroristas\"",
           "start": 499,
           "end": 516,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "los ataques del 11 de septiembre",
           "start": 331,
           "end": 363,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los funcionarios de la administración",
           "start": 438,
           "end": 475,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1472,25 +1670,29 @@
           "text": "un reloj",
           "start": 464,
           "end": 469,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "una obra de arte",
           "start": 250,
           "end": 266,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "una película",
           "start": 947,
           "end": 955,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "una televisión",
           "start": 176,
           "end": 186,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1502,31 +1704,36 @@
           "text": "Turner Classic Movies",
           "start": 218,
           "end": 239,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Metro-Goldwyn-Mayer",
           "start": 168,
           "end": 187,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "20th Century Fox",
           "start": 346,
           "end": 362,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Universal Studios",
           "start": 307,
           "end": 324,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Warner Bros. Entertainment",
           "start": 190,
           "end": 216,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1538,25 +1745,29 @@
           "text": "laterotergite",
           "start": 565,
           "end": 578,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "esternón",
           "start": 423,
           "end": 431,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "tórax",
           "start": 130,
           "end": 135,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "terga",
           "start": 228,
           "end": 233,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1568,19 +1779,22 @@
           "text": "el 1 de noviembre",
           "start": 630,
           "end": 647,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el 19 de octubre",
           "start": 41,
           "end": 57,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el 25 de octubre",
           "start": 128,
           "end": 144,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1592,25 +1806,29 @@
           "text": "Presidente de la Confederación",
           "start": 282,
           "end": 312,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Asamblea Federal",
           "start": 210,
           "end": 226,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Consejo Federal",
           "start": 3,
           "end": 18,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Jefe de Estado",
           "start": 97,
           "end": 111,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1622,25 +1840,29 @@
           "text": "controlador de disco de hardware con capacidades de búsqueda programables",
           "start": 109,
           "end": 182,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "aplicaciones por algunas empresas como Netezza y Oracle",
           "start": 656,
           "end": 711,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "máquinas de base de datos especializadas",
           "start": 259,
           "end": 299,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "sistemas de software que se ejecutan en hardware de propósito general",
           "start": 478,
           "end": 547,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1652,31 +1874,36 @@
           "text": "un puesto de concesión de caridad",
           "start": 1066,
           "end": 1099,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la misa católica",
           "start": 320,
           "end": 336,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "un gran programa de ministerio del campus",
           "start": 392,
           "end": 433,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "clubes religiosos (católicos y no católicos)",
           "start": 779,
           "end": 823,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la Congregación de Santa Cruz",
           "start": 31,
           "end": 60,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1688,25 +1915,29 @@
           "text": "aprende varios puntos de referencia y esta \"cartografía\" es realizada por magnetitas en el sistema trigémino",
           "start": 811,
           "end": 919,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "migran entre las regiones norte y sur",
           "start": 990,
           "end": 1027,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "pueden realmente ser capaces de ver el campo magnético de la tierra",
           "start": 1367,
           "end": 1434,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "vuela en la dirección correcta de acuerdo con el campo magnético de la Tierra, pero no sabe hasta dónde estará el viaje",
           "start": 201,
           "end": 320,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     },
@@ -1718,25 +1949,29 @@
           "text": "el asesinato de todos los animales salvajes",
           "start": 271,
           "end": 314,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "cualquier animal salvaje de una lista específica",
           "start": 397,
           "end": 445,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el cuerpo de cualquier animal salvaje muerto",
           "start": 583,
           "end": 627,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la conservación de especies particulares",
           "start": 144,
           "end": 184,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1748,25 +1983,29 @@
           "text": "griega",
           "start": 350,
           "end": 356,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "albanesa",
           "start": 108,
           "end": 116,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "búlgara",
           "start": 119,
           "end": 126,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "turca",
           "start": 221,
           "end": 226,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1778,31 +2017,36 @@
           "text": "el 5 de enero de 1993",
           "start": 480,
           "end": 501,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el 7 de diciembre de 1982",
           "start": 543,
           "end": 568,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el 17 de enero de 1977",
           "start": 21,
           "end": 43,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el 25 de mayo de 1979",
           "start": 226,
           "end": 247,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el 22 de octubre de 1979",
           "start": 348,
           "end": 372,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1814,25 +2058,29 @@
           "text": "brillan para atraer pequeños insectos voladores en hebras pegajosas de seda",
           "start": 522,
           "end": 597,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "imitan el parpadeo de las especies femeninas de Photinus para atraer a los machos de esa especie, que luego son capturados y devorados",
           "start": 639,
           "end": 773,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "son capaces de controlar esta generación de luz para producir destellos",
           "start": 269,
           "end": 340,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las utilizan para atraer a sus parejas",
           "start": 384,
           "end": 422,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1844,31 +2092,36 @@
           "text": "un crimen",
           "start": 142,
           "end": 151,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "un aspecto general",
           "start": 399,
           "end": 417,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "un asesinato",
           "start": 432,
           "end": 441,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "una intervención humanitaria",
           "start": 886,
           "end": 910,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "una justificación",
           "start": 946,
           "end": 959,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1880,31 +2133,36 @@
           "text": "el 9 de mayo de 2008",
           "start": 515,
           "end": 535,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el 2 de julio de 2008",
           "start": 559,
           "end": 580,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el 4 de julio de 2008",
           "start": 612,
           "end": 633,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el 24 de abril de 2008",
           "start": 474,
           "end": 496,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el 11 de noviembre de 2007",
           "start": 394,
           "end": 420,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1916,31 +2174,36 @@
           "text": "Tribunal Superior Electoral",
           "start": 835,
           "end": 862,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Tribunal Superior del Trabajo",
           "start": 720,
           "end": 749,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Tribunal Superior de Justicia",
           "start": 503,
           "end": 532,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Tribunal Supremo Federal",
           "start": 14,
           "end": 38,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Tribunal Superior Militar",
           "start": 993,
           "end": 1018,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1952,31 +2215,36 @@
           "text": "Ossachite",
           "start": 651,
           "end": 660,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Saturiwa",
           "start": 541,
           "end": 549,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "aldeas Mocama",
           "start": 453,
           "end": 466,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el pueblo timucua",
           "start": 382,
           "end": 396,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Black Hammock Island",
           "start": 93,
           "end": 113,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -1988,25 +2256,29 @@
           "text": "se duerme durante el desfile de Halloween",
           "start": 408,
           "end": 449,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "hace una entrada tardía en el escenario",
           "start": 452,
           "end": 491,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "encierra a un compañero de escuela dominical en el sótano de la iglesia",
           "start": 137,
           "end": 208,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "prefiere ir a casa con su traje de jamón",
           "start": 584,
           "end": 623,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     },
@@ -2018,19 +2290,22 @@
           "text": "afroamericanos",
           "start": 42,
           "end": 56,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "hispanos",
           "start": 129,
           "end": 137,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "latinos",
           "start": 140,
           "end": 147,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2042,25 +2317,29 @@
           "text": "£70 millones",
           "start": 386,
           "end": 398,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "£100 millones",
           "start": 312,
           "end": 325,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "£25 millones",
           "start": 231,
           "end": 243,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "£2 millones",
           "start": 191,
           "end": 202,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2072,25 +2351,29 @@
           "text": "caligrafía decorativa",
           "start": 611,
           "end": 632,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "representación humana y animal",
           "start": 752,
           "end": 782,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "patrones geométricos",
           "start": 504,
           "end": 524,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "estilos seculares",
           "start": 13,
           "end": 30,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2102,19 +2385,22 @@
           "text": "telégrafo eléctrico",
           "start": 867,
           "end": 886,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "buques de transporte",
           "start": 334,
           "end": 354,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "equipo de ingenieros civiles",
           "start": 699,
           "end": 726,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2126,25 +2412,29 @@
           "text": "el 5 de marzo de 2016",
           "start": 373,
           "end": 394,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el 10 de marzo de 2016",
           "start": 407,
           "end": 429,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el 4 de marzo de 2016",
           "start": 337,
           "end": 358,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el 12 de noviembre de 2015",
           "start": 208,
           "end": 234,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2156,31 +2446,36 @@
           "text": "buscaron la libertad de persecución en Suiza y los Países Bajos",
           "start": 47,
           "end": 110,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "establecer una colonia francesa en América del Sur",
           "start": 540,
           "end": 590,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "fue parte de los colonizadores franceses que llegaron a Brasil en 1555 para fundar la Francia Antártica",
           "start": 134,
           "end": 237,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "amenazaron a los prisioneros con la muerte si no se convertían al catolicismo",
           "start": 700,
           "end": 777,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "produjeron una declaración de fe para expresar sus creencias a los portugueses",
           "start": 806,
           "end": 884,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2192,25 +2487,29 @@
           "text": "1920",
           "start": 469,
           "end": 473,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "1915",
           "start": 58,
           "end": 62,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "1918",
           "start": 82,
           "end": 86,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "1914",
           "start": 213,
           "end": 217,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2222,31 +2521,36 @@
           "text": "Midna se revela como el verdadero gobernante del Reino Crepúsculo",
           "start": 998,
           "end": 1063,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Link derrota a Zant, Midna recupera a las Sombras Huecas",
           "start": 1304,
           "end": 1360,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Ganondorf lucha contra Link poseyendo el cuerpo de Zelda y eventualmente transformándose en una bestia",
           "start": 1605,
           "end": 1707,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Link y Midna se enteran de que el golpe de Zant fue posible cuando forjó un pacto con Ganondorf",
           "start": 1139,
           "end": 1234,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Link y Midna se disponen a recuperar los fragmentos desaparecidos del espejo, derrotando a los infectados",
           "start": 849,
           "end": 954,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2258,25 +2562,29 @@
           "text": "partió hacia el Tíbet",
           "start": 75,
           "end": 96,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "envió una carta y regalos",
           "start": 113,
           "end": 138,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "lo invitó a Beijing Khan",
           "start": 902,
           "end": 926,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "rechazó la oferta debido a un compromiso previo",
           "start": 572,
           "end": 619,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     },
@@ -2288,31 +2596,36 @@
           "text": "la construcción de la Santa Sofía en Constantinopla",
           "start": 860,
           "end": 911,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el Código Teodosiano",
           "start": 690,
           "end": 710,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la paz con Persia",
           "start": 292,
           "end": 309,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "relaciones más estrechas entre el estado político y la Iglesia cristiana",
           "start": 415,
           "end": 487,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las conquistas musulmanas",
           "start": 1466,
           "end": 1491,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2324,25 +2637,29 @@
           "text": "Politécnico de Hong Kong",
           "start": 41,
           "end": 65,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Colegio Técnico de Hong Kong",
           "start": 110,
           "end": 138,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "City Polytechnic of Hong Kong",
           "start": 216,
           "end": 245,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Universidad de Ciencia y Tecnología de Hong Kong",
           "start": 575,
           "end": 623,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2354,19 +2671,22 @@
           "text": "Detroit incumplió $2.500 millones de deuda al retener $39.7 millones en pagos de intereses",
           "start": 694,
           "end": 784,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la ciudad de Detroit se declaró en bancarrota",
           "start": 929,
           "end": 974,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el gobernador Rick Snyder declaró una emergencia financiera en la ciudad",
           "start": 18,
           "end": 90,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2378,25 +2698,29 @@
           "text": "Cristo de pie y mostrando un rollo con texto georgiano",
           "start": 1002,
           "end": 1056,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el rey David IV",
           "start": 109,
           "end": 124,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Demetrio I de Georgia",
           "start": 150,
           "end": 171,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Theotokos flanqueado por dos arcángeles",
           "start": 208,
           "end": 247,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         }
       ]
     },
@@ -2408,31 +2732,36 @@
           "text": "62,3%",
           "start": 637,
           "end": 642,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "51,2%",
           "start": 675,
           "end": 680,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "78,29%",
           "start": 249,
           "end": 255,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "7,25%",
           "start": 291,
           "end": 296,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "27,5%",
           "start": 570,
           "end": 575,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2444,19 +2773,22 @@
           "text": "ocho",
           "start": 186,
           "end": 190,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "cinco",
           "start": 626,
           "end": 631,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "tres",
           "start": 408,
           "end": 412,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2468,25 +2800,29 @@
           "text": "los comentarios de Servio y Donato",
           "start": 162,
           "end": 196,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "una biografía perdida de Varius",
           "start": 59,
           "end": 90,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Suetonio",
           "start": 151,
           "end": 159,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las inferencias hechas de su poesía y alegorías",
           "start": 388,
           "end": 431,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2498,25 +2834,29 @@
           "text": "se establecieron para una paz provisional",
           "start": 1057,
           "end": 1098,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "organizaron el bombardeo de Mainila",
           "start": 392,
           "end": 427,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "exigieron territorios en el istmo de Carelia",
           "start": 215,
           "end": 259,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "establecieron un gobierno títere en la República Democrática de Finlandia",
           "start": 568,
           "end": 638,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2528,25 +2868,29 @@
           "text": "la expansión del comercio",
           "start": 104,
           "end": 129,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el gobernante del puerto",
           "start": 852,
           "end": 876,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el Sultanato de Malaca",
           "start": 906,
           "end": 928,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "las poblaciones árabe-indonesia",
           "start": 421,
           "end": 452,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2558,31 +2902,36 @@
           "text": "el chaffinch",
           "start": 608,
           "end": 620,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Falco columbarius",
           "start": 506,
           "end": 523,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Alauda arvensis",
           "start": 526,
           "end": 541,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el jardinero Tichodroma muraria",
           "start": 361,
           "end": 392,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los cinclus",
           "start": 395,
           "end": 406,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2594,25 +2943,29 @@
           "text": "dos bombas alemanas explotaron en un patio del Palacio de Buckingham",
           "start": 559,
           "end": 627,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "los dominios autónomos, pero no Irlanda, declararon la guerra a la Alemania nazi",
           "start": 38,
           "end": 118,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la Primera Dama de los Estados Unidos Eleanor Roosevelt comentó sobre la comida racionada servida y el agua de baño limitada que se permitía durante una estancia en el Palacio sin calefacción",
           "start": 938,
           "end": 1129,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el hermano del rey, el príncipe Jorge, duque de Kent, murió en servicio activo",
           "start": 1150,
           "end": 1228,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2624,25 +2977,29 @@
           "text": "la era arcaica",
           "start": 385,
           "end": 399,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la etapa formativa",
           "start": 323,
           "end": 341,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Neolítico tardío",
           "start": 367,
           "end": 383,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Paleo-Indio",
           "start": 437,
           "end": 448,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2654,25 +3011,29 @@
           "text": "adaptaciones extranjeras de la pronunciación china",
           "start": 822,
           "end": 872,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "palabras nativas independientes de la pronunciación china",
           "start": 660,
           "end": 717,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la misma sílaba hablada",
           "start": 46,
           "end": 69,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los cognados en varias variedades de chino",
           "start": 315,
           "end": 357,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2684,25 +3045,29 @@
           "text": "bombilla eléctrica",
           "start": 498,
           "end": 516,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "lámpara halógena",
           "start": 346,
           "end": 362,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "bombilla incandescente",
           "start": 4,
           "end": 26,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "globo ligero incandescente",
           "start": 52,
           "end": 78,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2714,31 +3079,36 @@
           "text": "la variación clinal, que reconoce la existencia de variación hereditaria adaptativa humana",
           "start": 1144,
           "end": 1234,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "el uso de la cladística para apoyar los conceptos de raza",
           "start": 124,
           "end": 181,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los defensores moleculares y bioquímicos de este modelo",
           "start": 196,
           "end": 251,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la diversidad genómica",
           "start": 686,
           "end": 708,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "relaciones de linaje",
           "start": 591,
           "end": 611,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2750,25 +3120,29 @@
           "text": "Rumania",
           "start": 376,
           "end": 383,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Bulgaria",
           "start": 292,
           "end": 300,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Bosnia-Herzegovina",
           "start": 592,
           "end": 610,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Serbia y Montenegro",
           "start": 414,
           "end": 433,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2780,31 +3154,36 @@
           "text": "la Liga de Campeones de la UEFA",
           "start": 925,
           "end": 956,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la Copa Libertadores",
           "start": 969,
           "end": 989,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la Copa Confederaciones",
           "start": 565,
           "end": 588,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la Copa de Oro de la Concacaf",
           "start": 347,
           "end": 376,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "el Campeonato Europeo",
           "start": 229,
           "end": 250,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2816,25 +3195,29 @@
           "text": "U.S. Open of Surfing",
           "start": 695,
           "end": 715,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "Copa América",
           "start": 985,
           "end": 997,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "Transpacific Yacht Race",
           "start": 838,
           "end": 861,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "X Games",
           "start": 663,
           "end": 670,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2846,25 +3229,29 @@
           "text": "Normandía experimentó una edad de oro de manuscritos ilustrados",
           "start": 886,
           "end": 949,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "los duques comenzaron un programa de reforma eclesiástica, fomentando la reforma cluniaca de monasterios y patrocinando actividades intelectuales",
           "start": 156,
           "end": 301,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la proliferación de scriptoria y la reconstitución de una compilación de manuscritos iluminados perdidos",
           "start": 317,
           "end": 421,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "una tradición artística carolingia a Normandía",
           "start": 783,
           "end": 829,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2876,19 +3263,22 @@
           "text": "franceses",
           "start": 276,
           "end": 285,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "canadienses franceses",
           "start": 604,
           "end": 625,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "angloamericanos",
           "start": 429,
           "end": 444,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2900,31 +3290,36 @@
           "text": "$84.7 millones",
           "start": 746,
           "end": 760,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "$100 millones",
           "start": 849,
           "end": 862,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "$12.1 millones",
           "start": 556,
           "end": 570,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "$15 millones",
           "start": 47,
           "end": 59,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "$48.1 millones",
           "start": 207,
           "end": 221,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2936,25 +3331,29 @@
           "text": "que sus vastos recursos dañaran a las escuelas más pequeñas, alejando a los buenos estudiantes",
           "start": 61,
           "end": 155,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "trabajo adicional por su parte, y creían que abarataba la reputación académica de la universidad",
           "start": 1607,
           "end": 1703,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "la Universidad de Chicago acordó otorgar un título a cualquier graduado senior de una escuela afiliada que hiciera un grado de A durante los cuatro años",
           "start": 576,
           "end": 728,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "la Universidad de Chicago también acordó proporcionar a las escuelas afiliadas libros y aparatos científicos y suministros a costa",
           "start": 1101,
           "end": 1231,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     },
@@ -2966,19 +3365,22 @@
           "text": "casi todos los monasterios del Tíbet fueron saqueados y destruidos por los Guardias Rojos",
           "start": 622,
           "end": 711,
-          "type": "correct answer"
+          "type": "correct answer",
+          "extra": null
         },
         {
           "text": "se ha concedido una mayor libertad religiosa, aunque todavía es limitada",
           "start": 830,
           "end": 902,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         },
         {
           "text": "los monjes regresaron a monasterios a través del Tíbet y la educación monástica se reanudó",
           "start": 904,
           "end": 994,
-          "type": "distractor"
+          "type": "distractor",
+          "extra": null
         }
       ]
     }
