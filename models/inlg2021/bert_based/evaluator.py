@@ -6,6 +6,7 @@ from pprint import pprint
 from collections import defaultdict
 import numpy as np
 import pandas as pd
+import sys
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -98,6 +99,7 @@ if __name__ == '__main__':
     parser.add_argument('-t', '--training-data', type=str, default="", help="Training data file")
     parser.add_argument('-pr', '--pretrained', type=str, default="KB/bert-base-swedish-cased", help="pre-trained from HIggingFace")
     parser.add_argument('-lg', '--language', type=str, default="sv", help="Language for the dependency trees")
+    parser.add_argument('-sp', '--stanza-package', type=str, default="default", help="Package for stanze")
     args = parser.parse_args()
 
     model_name = args.file[7:12]
@@ -111,7 +113,7 @@ if __name__ == '__main__':
 
     SPECIAL_TOKENS_REGEX = r"(\[SEP\]|\[[A-Z]\]|')"
 
-    sv = stanza.Pipeline(lang=args.language, processors='tokenize,lemma,pos,depparse')
+    sv = stanza.Pipeline(lang=args.language, processors='tokenize,lemma,pos,depparse', package=args.stanza_package)
     so_kernel = ConvPartialTreeKernel("GRCT", includeForm=False)
     so_feats_kernel = ConvPartialTreeKernel("GRCT", includeForm=False, includeFeats=True)
 
@@ -182,17 +184,16 @@ if __name__ == '__main__':
 
                 if gen and gold:
                     set_gen, set_gold = set(gen), set(gold)
-
-                    ca = udon2.Importer.from_stanza(sv(correct).to_dict())[0]
-                    ca_norm = np.sqrt(so_kernel(ca, ca))
-                    ca_feats_norm = np.sqrt(so_feats_kernel(ca, ca))
+                    # ca = udon2.Importer.from_stanza(sv(correct).to_dict())[0]
+                    # ca_norm = np.sqrt(so_kernel(ca, ca))
+                    # ca_feats_norm = np.sqrt(so_feats_kernel(ca, ca))
                     for g in set_gen:
                         if g:
-                            gd = udon2.Importer.from_stanza(sv(g).to_dict())[0]
-                            report["ca_norm_tree_kernel"].append(
-                                so_kernel(ca, gd) / (ca_norm * np.sqrt(so_kernel(gd, gd))))
-                            report["ca_feats_norm_tree_kernel"].append(
-                                so_feats_kernel(ca, gd) / (ca_feats_norm * np.sqrt(so_feats_kernel(gd, gd))))
+                            # gd = udon2.Importer.from_stanza(sv(g).to_dict())[0]
+                            # report["ca_norm_tree_kernel"].append(
+                            #     so_kernel(ca, gd) / (ca_norm * np.sqrt(so_kernel(gd, gd))))
+                            # report["ca_feats_norm_tree_kernel"].append(
+                            #     so_feats_kernel(ca, gd) / (ca_feats_norm * np.sqrt(so_feats_kernel(gd, gd))))
                             report["tp"] += g in set_gold
                     report["p"] += len(set_gold)
 
@@ -338,20 +339,20 @@ if __name__ == '__main__':
             round(len(report["all_exist_in_context_and_training_ctx"]) * 100 / report["total"], 2))],
         ["(A1) and (C1)", "{}%".format(
             round(len(report["all_exist_in_context_and_training_dis"]) * 100 / report["total"], 2))],
-        ["Normalized conv. kernel (SO)", "{} +/- {}".format(
-            round(np.mean(report["ca_norm_tree_kernel"]), 2),
-            round(np.std(report["ca_norm_tree_kernel"]), 2))],
-        ["Median normalized conv. kernel (SO)", "{}".format(
-            round(np.median(report["ca_norm_tree_kernel"]), 2))],
-        ["Mode normalized conv. kernel (SO)", "{} ({}%)".format(
-            round(mode[0][0], 2), round(mode[1][0] * 100 / len(report["ca_norm_tree_kernel"]), 2))],
-        ["Normalized conv. kernel (SO, feats)", "{} +/- {}".format(
-            round(np.mean(report["ca_feats_norm_tree_kernel"]), 2),
-            round(np.std(report["ca_feats_norm_tree_kernel"]), 2))],
-        ["Median normalized conv. kernel (SO, feats)", "{}".format(
-            round(np.median(report["ca_feats_norm_tree_kernel"]), 2))],
-        ["Mode normalized conv. kernel (SO, feats)", "{} ({}%)".format(
-            round(feats_mode[0][0], 2), round(feats_mode[1][0] * 100 / len(report["ca_feats_norm_tree_kernel"]), 2))],
+        # ["Normalized conv. kernel (SO)", "{} +/- {}".format(
+        #     round(np.mean(report["ca_norm_tree_kernel"]), 2),
+        #     round(np.std(report["ca_norm_tree_kernel"]), 2))],
+        # ["Median normalized conv. kernel (SO)", "{}".format(
+        #     round(np.median(report["ca_norm_tree_kernel"]), 2))],
+        # ["Mode normalized conv. kernel (SO)", "{} ({}%)".format(
+        #     round(mode[0][0], 2), round(mode[1][0] * 100 / len(report["ca_norm_tree_kernel"]), 2))],
+        # ["Normalized conv. kernel (SO, feats)", "{} +/- {}".format(
+        #     round(np.mean(report["ca_feats_norm_tree_kernel"]), 2),
+        #     round(np.std(report["ca_feats_norm_tree_kernel"]), 2))],
+        # ["Median normalized conv. kernel (SO, feats)", "{}".format(
+        #     round(np.median(report["ca_feats_norm_tree_kernel"]), 2))],
+        # ["Mode normalized conv. kernel (SO, feats)", "{} ({}%)".format(
+        #     round(feats_mode[0][0], 2), round(feats_mode[1][0] * 100 / len(report["ca_feats_norm_tree_kernel"]), 2))],
         ["Distractor recall", "{}%".format(round(report["tp"] * 100 / report["p"], 2))]
         # ["A context exists in training data", "{}%".format(
         #     round(len(report["is_context_in_training_data"]) * 100 / report["total"], 2))]

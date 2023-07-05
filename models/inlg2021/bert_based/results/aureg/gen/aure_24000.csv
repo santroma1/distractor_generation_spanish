@@ -1,0 +1,21 @@
+,/aure_24000
+Metric,Value
+Total,95
+Any of the generated distractors matches with a gold one,56.84%
+The correct answer is among generated distractors,4.21%
+Any (but not all) generated distractors are the same,5.26%
+All generated distractors are the same,1.05%
+Any distractor is capitalized differently from the correct answer,9.47%
+Any distractor contains repetitive words,0.0%
+Any distractor is an empty string,0.0%
+(A) Any distractor is in its own context,97.89%
+(B) Any distractor is in any context from training data,36.84%
+(C) Any distractor is a distractor from training data,0.0%
+(A) and (B),36.84%
+(A) and (C),0.0%
+(A1) All distractors are in their own context,61.05%
+(B1) All distractors are in any context from training data,10.53%
+(C1) All distractors are distractors from training data,0.0%
+(A1) and (B1),8.42%
+(A1) and (C1),0.0%
+Distractor recall,27.54%

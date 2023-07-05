@@ -1,0 +1,21 @@
+,/upml_18000
+Metric,Value
+Total,95
+Any of the generated distractors matches with a gold one,61.05%
+The correct answer is among generated distractors,5.26%
+Any (but not all) generated distractors are the same,7.37%
+All generated distractors are the same,3.16%
+Any distractor is capitalized differently from the correct answer,9.47%
+Any distractor contains repetitive words,1.05%
+Any distractor is an empty string,0.0%
+(A) Any distractor is in its own context,90.53%
+(B) Any distractor is in any context from training data,34.74%
+(C) Any distractor is a distractor from training data,0.0%
+(A) and (B),32.63%
+(A) and (C),0.0%
+(A1) All distractors are in their own context,52.63%
+(B1) All distractors are in any context from training data,14.74%
+(C1) All distractors are distractors from training data,0.0%
+(A1) and (B1),11.58%
+(A1) and (C1),0.0%
+Distractor recall,31.15%
