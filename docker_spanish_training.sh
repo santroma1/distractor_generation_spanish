@@ -14,3 +14,9 @@ python3 generator.py -f output/upmlm/checkpoint-22000 -dg output/upmlm/dg_args.b
 
 python3 evaluator.py -f results/upmlm/gen/res_dev_nlo_min_first-22000.txt -t ../../../data/training.json --output-dir results/upmlm/gen/ --pretrained dccuchile/bert-base-spanish-wwm-cased --language es --stanza-package gsd
 # python trainer.py -h
+
+
+# Best Model
+python3 generator.py -f best_model/best_checkpoint -dg best_model/dg_args.bin -o best_model/gen/res_dev_nlo_min_first -d ../../../data/test.json -nlo -ls min_first
+
+python3 evaluator.py -f best_model_results/gen/res_dev_nlo_min_first-point.txt -t ../../../data/training.json --output-dir best_model_results/gen/ --pretrained dccuchile/bert-base-spanish-wwm-cased --language es --stanza-package gsd

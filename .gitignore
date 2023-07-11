@@ -1,6 +1,7 @@
 # Custom
 .githubkey
 models/inlg2021/bert_based/output/*
+models/inlg2021/bert_based/best_model/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
